@@ -1,14 +1,38 @@
 {
-  "updated": "2026-08-26T12:26:19Z",
+  "updated": "2026-08-26T16:25:47Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_94958",
+      "titulo": "ANEEL deve incorporar ‘posteiro’ obrigatório em resolução conjunta com telecom",
+      "lead": "ANEEL deve incorporar ‘posteiro’ obrigatório em resolução conjunta com telecom",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnM1VDhubUFUaXotRllwQWFTRXNwbzN4My16U0RWSmVJYnNJMWR0WEEzNl9IcnRMeVhZdUVXTWlXZzZ0QmtVUmZCazZ6V21URnF1S0dUVHRyeU5Ram9YZXBESy01NVY1Ql9DQ3k4YkxXdGw1TzJESWZrd25CWVZzYk9vcmk5MF9SS3kzZFRfamk4Z25KQ21qZUtvNHEzN0R5SjR4YUQ2OXlILTA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1762246433096-1814033d4679?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-26T15:15:42Z",
+      "dominio": "agenciainfra.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_86948",
+      "titulo": "Usina Novo Tempo Barcarena, com 629 MW, entra em operação comercial",
+      "lead": "Usina Novo Tempo Barcarena, com 629 MW, entra em operação comercial — Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmdMdGlOSGF4NGNhdUFteElYQUpmNWEyQktrcXd6cWZlZTV5b19OZUViZFhlSVBibWRMV016UHcwdmNVOXVYeGxpeFlWVVZURXQ0UmRKZ09BN0VYdjc5Y0FES2d3NnZOblZ4cFpLSVdJNVFOR1NtSGFreFZWMF9PMldrVjZXcjRRQUtVd21hVFVGRnlxY19TbWpSM05wT0Jxb09fRW51bGhWQ1FzTGs4dDlOb3plc25QOG1YQVVxb3pTM3pCTk42UGUwRlRHTFlueFE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1768213022263-0414dc145dfd?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-26T12:10:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_90790",
       "titulo": "TCU vê governo fazer anúncio de políticas energéticas não instituídas",
       "lead": "TCU vê governo fazer anúncio de políticas energéticas não instituídas",
       "fonte": "Poder360",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNandHTW1PeV9kN2NJYnFENmVyUXdVekdZa3NUWklnT0tja0lEVnJhOXZvSEdyTWF3dW8wVjFVczRuSEpCSEtjSkh6MDVSand3Xzd6ckFUcnVwdHdtN3pxNjJLUkNIZ2k1NGxmbnBBanRfWVFoeVdjQlhsYmJRaWdWTFI4M1F3d0tDMV9XYmtIWEFlMzM5U25JUFNmX090ckRnOFZoSUlhZFRfcUtEVmt1Tjdn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-25T23:02:33Z",
       "dominio": "www.poder360.com.br",
@@ -20,7 +44,7 @@
       "lead": "Conta de luz no Ceará terá redução de 6,65% a partir desta quarta (25)",
       "fonte": "CN7",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYk8ydUIzTWFqMjdpb05IZXIxdnBUWTZLeHU4QWF6a2g1NmJKXzZ5WE9rMGp3WjhsVFhtSUhTZVBfMVlrUU5NaG5uYzdiUmFsZzBSUGdzSlZJcFZPbndkOVdHdEc0b3RhY2dvcE1XWDFSQXdCLXMxMHUxZVlvUzlaaVJESEo4N0hNSlpTSXdNUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-08-25T20:40:00Z",
       "dominio": "cn7.com.br",
@@ -32,7 +56,7 @@
       "lead": "Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26) www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbzFRVjJiSTRTSXJMOVlfdHdVY21DSElEbWRsLVpybF9EUV91aFgwd1h2eEYtVFI5eUd2TzNqQVN5RUZfNGpicDUtUkU4NmJjeUtIRTVjZ1QtdnF3STdMUVE0ZlRrRDFrOWltLW5XSEowX0Q1ZGRvQUc1OVh3TFFGVFVGN3Z5N3Q0YUtPYmRxckc0NmhVbGJTLVdOcndqdGFrQ1VuODM2eTBNLU1odHEyTUdxMjM1TlJfR1VLT0Q1WWRsU1NLeDVMQmxYcnNrdTVyeTBDTEJRZVMxSnhlR2c2OF94SGJoM0dYY3dLNzZxNkw5WmdlUmxIcGdyU0o?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1768213022263-0414dc145dfd?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-25T18:02:28Z",
       "tema": "regulacao-institucional"
@@ -110,15 +134,18 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "transicao_47255",
+      "id": "transicao_39879",
       "titulo": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
       "lead": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
-      "fonte": "Portal Revista Kdea 360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWdFOWtXX3UxNHpmdmhrYnZtQmNLZEpOajNHbUV3aFRSdUk2Yl9XMzh1RnBXM3ZYTTYwRXpDSmlmaXREelpkU0ZMYmZBUnVZY3p5bDlLX2VDR0lnLXQ2ZlhUTVgtb0s5YjJvYXZjZC11c2ktNmxJSzJtdlhlam1zaEtwcU5rNXV3dy1JZWVaVlBxYmhNX3ltZGJXWjU3SENzRTdaQWR1N2swRlo5dThINUpn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "fonte": "Gazeta da Semana",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajFEMDlEZjVlQVd5QV90ckYxaTVqMFNyVWVvU3N3NmtVa0RCWlBOV2pQRlFaRENlWUJNYnl2bHlEbDdWQko0Ym1lYnNkTjhwUjRKTTV3Wm0yclJrZGJHU0hVZDVZUGJPcklYMUlIZy1QLVBkSnFoeElDVEhJY2x5dzRXd1l1bENRbW54WTNXVGFrdFNha1JpZnpmMHFZZVdmSnJhUGs2X0tCTVVsODJ3M0tvOA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-08-25T01:00:03Z",
-      "dominio": "revistakdea360.com.br",
+      "dominio": "gazetadasemana.com.br",
+      "tambem_em": [
+        "Portal Revista Kdea 360"
+      ],
       "tema": "baterias-armazenamento"
     },
     {
@@ -152,7 +179,10 @@
       "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-24T19:08:40Z",
-      "tema": "precos-mercado"
+      "tema": "precos-mercado",
+      "tambem_em": [
+        "TAGD Advogados"
+      ]
     },
     {
       "id": "mercado-livre_8029",
@@ -669,31 +699,6 @@
       "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-18T16:55:31Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_85834",
-      "titulo": "Tradener consegue desbloquear créditos posteriores a maio na CCEE - megawhat.uol.com.br",
-      "lead": "Tradener consegue desbloquear créditos posteriores a maio na CCEE",
-      "fonte": "megawhat.uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHRfVlNCTWN6NS1mcTlDanVVNFdTNXhFTHgxaWJpbmpndzE1bDAyOE1wMm95Y3JLMVpHVHA0ZWpRTkZ5dDRzMURhWjM0NktDdDlCOS1ZUkN6TDlVazNaWlFvODdSODNPZDBQaW8zWGNPYjA3dWc1WHpfdE1GMXNuRDFCdEhYVTR5SlpWcW9rNlZtNlhYdENmbnlDekhXcHBSWFBxNkFnUFVZdzJXVGc2eWlTMA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-18T16:52:00Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_27632",
-      "titulo": "Dia do Estagiário: CCEE investe na formação de novos profissionais",
-      "lead": "Dia do Estagiário: CCEE investe na formação de novos profissionais",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUxRNnZYdXNnV1ZYZzRGZXhmazBqM0R1czRFWXFGQ1pkWHF2NlAzLS1qY0JtVU03dnVyMFpOdFJhSjNfZ3dzSEhXVDlVcURMTXlHOTdWTlY0cDlVR3pXRnQ2OWJHX1VKMHlRaVdfbmZrcUx4ZzdCcDlxMnhfNVZueTJNemNSODhRWXI0T3pMY1RJV2JxYXc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-18T13:17:00Z",
-      "tambem_em": [
-        "CCEE"
-      ],
       "tema": "regulacao-institucional"
     }
   ]

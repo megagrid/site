@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://megagrid.com.br/sitemap.xml

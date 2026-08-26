@@ -1,0 +1,4 @@
+# Arquivos Python — usados apenas pelo GitHub Actions, não pelo Vercel
+requirements.txt
+scripts/
+Megagrid_Brief_*.md

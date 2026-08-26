@@ -1,0 +1,34 @@
+{
+  "updated": "2026-08-25T18:43:36Z",
+  "score": 26,
+  "nivel": "normal",
+  "nivel_desc": "Mercado em equilíbrio",
+  "componentes": {
+    "ear": {
+      "peso": 35,
+      "valor": 76.7,
+      "score": 23
+    },
+    "ena": {
+      "peso": 25,
+      "valor": "via EAR",
+      "score": 29
+    },
+    "pld_momentum": {
+      "peso": 20,
+      "valor": 147.63,
+      "score": 11
+    },
+    "carga": {
+      "peso": 10,
+      "valor": 69959,
+      "score": 50
+    },
+    "bandeira": {
+      "peso": 10,
+      "valor": "amarela",
+      "score": 33
+    }
+  },
+  "metodologia": "EAR 35% · ENA 25% · Momentum PLD/CMO 20% · Carga 10% · Bandeira 10%"
+}

@@ -1,0 +1,14 @@
+screencapture-*.pdf
+__pycache__/
+*.pyc
+.env
+.DS_Store
+newsletter_preview.html
+
+# temporários da escrita atômica do robô (save/_write_atomic)
+*.tmp
+
+# Briefs e specs de discovery: documentos internos de decisão, mantidos
+# fora do repositório desde a migração para a org (24/08/2026). Ficam no
+# disco de quem trabalha no projeto e no repo antigo arquivado.
+Megagrid_*.md

@@ -1,0 +1,88 @@
+name: Megagrid — Robô de Dados
+
+on:
+  schedule:
+    # 2 execuções/dia (P2.2, decisão de 24/08/2026) — BRT = UTC-3.
+    # As duas edições acompanham os ciclos reais de publicação do setor:
+    # manhã (8h-12h) e tarde (14h-18h). A rodada de madrugada das 3x/dia
+    # anteriores foi descartada — não há o que capturar à noite.
+    - cron: "0 12 * * *"    # edição da manhã       — 09:00 BRT
+    - cron: "30 19 * * *"   # edição do fim da tarde — 16:30 BRT
+  workflow_dispatch:
+    inputs:
+      debug:
+        description: "Modo debug (verbose)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write   # necessário para commit + push dos JSONs
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  fetch:
+    name: Buscar e gravar dados
+    runs-on: ubuntu-latest
+    # 25 e não 10: em 24/08/2026 uma execução local levou 30min porque o
+    # Google News passou a responder ~76s por feed (são 14). O caso normal
+    # é ~30s; a folga existe para o dia ruim não matar o job pela metade.
+    # Com `if: always()` no commit, o que já foi coletado é gravado mesmo
+    # se o passo do robô estourar.
+    timeout-minutes: 25
+
+    steps:
+      # 1. Checkout com token para poder fazer push
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Python 3.11
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # 3. Dependências
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      # 4. Executar robô
+      - name: Executar fetch_data.py
+        env:
+          GOATCOUNTER_API:  ${{ secrets.GOATCOUNTER_API }}
+          GOATCOUNTER_SITE: ${{ secrets.GOATCOUNTER_SITE }}
+        run: python scripts/fetch_data.py
+
+      # 5. Commit e push dos JSONs + do HTML pré-renderizado
+      #    O index.html tem DOIS autores desde P2.1: o robô reescreve só o
+      #    miolo dos blocos <!-- PRERENDER:* -->, o resto é humano.
+      #    `if: always()`: decidido em 18/08 e nunca aplicado. Com a escrita
+      #    atômica do P2.1 é seguro — um crash parcial preserva os JSONs bons
+      #    já gravados, e o que não foi gravado continua com o valor anterior.
+      #    Este passo não lê nenhum output do passo 4: só olha o disco.
+      - name: Commit & push dados
+        if: always()
+        run: |
+          git config user.name  "megagrid-bot"
+          git config user.email "bot@megagrid.com.br"
+          git add site/data/ site/index.html site/sitemap.xml
+          if git diff --staged --quiet; then
+            echo "Nenhuma mudança nos dados — sem commit"
+          else
+            git commit -m "chore(data): atualização automática $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      # 6. Sentinela: falha VISÍVEL (run vermelho) se alguma fonte estiver parada.
+      #    Roda depois do commit para nunca bloquear os dados que atualizaram.
+      #    `if: always()` porque em 18/08/2026 o fetch_data.py quebrou e o
+      #    sentinela foi PULADO — justamente na hora em que ele mais importava.
+      #    Um passo de diagnóstico condicionado ao sucesso do passo que ele
+      #    diagnostica é inútil. O run continua vermelho pela falha do passo 4.
+      - name: Verificar frescor das fontes
+        if: always()
+        run: python scripts/check_freshness.py

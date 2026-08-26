@@ -1,0 +1,1219 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Título e og:* são reescritos pelo robô (fetch_data.py) a cada run com a
+     manchete do dia. Só o miolo entre os marcadores; o resto do <head> é humano. -->
+<!-- PRERENDER:HEAD -->
+<title>Estados localizados no norte e nordeste terão as tarifas reduzidas… | MEGAGRID</title>
+<meta property="og:title" content="Estados localizados no norte e nordeste terão as tarifas reduzidas… | MEGAGRID">
+<meta property="og:description" content="Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26) www.gov.br">
+<meta name="twitter:title" content="Estados localizados no norte e nordeste terão as tarifas reduzidas… | MEGAGRID">
+<meta name="twitter:description" content="Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26) www.gov.br">
+<!-- /PRERENDER:HEAD -->
+<script>document.documentElement.className+=" js"</script>
+<meta name="description" content="Notícias do mercado livre de energia, PLD em tempo real, termômetro de tendência do MWh e simuladores gratuitos. Dados abertos CCEE, ONS e ANEEL.">
+<link rel="canonical" href="https://megagrid.com.br/">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://megagrid.com.br/">
+<meta property="og:site_name" content="Megagrid">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:image" content="https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1200&h=630&q=70">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0A1426">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='0'%3E%3Cstop offset='0' stop-color='%2300E0FF'/%3E%3Cstop offset='.5' stop-color='%23B43DFF'/%3E%3Cstop offset='1' stop-color='%23FF7A00'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100' height='100' rx='20' fill='%230A1426'/%3E%3Cpath d='M15 55 H32 L42 28 L58 72 L70 38 L80 55 H85' stroke='url(%23g)' stroke-width='9' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" defer></script>
+<style>
+  :root{
+    --ink:#15212F;--mut:#5B6B7E;--dim:#8595A8;
+    --bg:#FFFFFF;--alt:#F4F6F9;--line:#E3E8EF;
+    --navy:#0A1426;--navy2:#101F3C;
+    --blue:#1456D6;--blue-d:#0E3FA0;--blue-t:#EDF3FF;
+    --ribbon:linear-gradient(90deg,#00E0FF 0%,#2E6BFF 28%,#B43DFF 52%,#FF2E92 76%,#FF7A00 100%);
+    --up:#D63B3B;--down:#1F9D61;
+    --shadow:0 1px 3px rgba(16,24,40,.07),0 1px 2px rgba(16,24,40,.05);
+    --shadow-h:0 8px 24px rgba(16,24,40,.10);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.55;overflow-x:hidden}
+  a{color:inherit;text-decoration:none}
+  img{display:block;max-width:100%}
+  button{font-family:inherit}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+  .grad-txt{background:var(--ribbon);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .kicker{display:inline-block;font-size:.7rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--blue);margin-bottom:10px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)}
+  section{padding:46px 0;position:relative}
+  .alt{background:var(--alt)}
+  h2{font-size:clamp(1.3rem,2.6vw,1.7rem);font-weight:800;letter-spacing:-.02em}
+  .rule{width:46px;height:4px;border-radius:4px;background:var(--blue);margin:8px 0 4px}
+  .sub{color:var(--mut);max-width:660px;font-size:.96rem}
+
+  /* header */
+  header{position:sticky;top:0;z-index:60;background:#fff;border-bottom:1px solid var(--line)}
+  .nav{display:flex;align-items:center;gap:20px;height:64px}
+  .burger{width:40px;height:40px;border:1px solid var(--line);background:#fff;border-radius:10px;cursor:pointer;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:4px}
+  .burger span{display:block;width:18px;height:2px;background:var(--ink);border-radius:2px}
+  .burger:hover{border-color:var(--blue)}
+  .logo{display:flex;align-items:center;gap:9px;font-size:1.3rem;font-weight:900;letter-spacing:.01em;color:var(--navy)}
+  .logo svg{width:38px;height:22px}
+  .logo .mega{background:var(--ribbon);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .logo .grid{color:var(--navy);font-weight:800}
+  .logo .beta{font-size:.56rem;vertical-align:super;color:var(--dim);font-weight:700;letter-spacing:.12em}
+  .nav nav{display:flex;gap:22px;font-size:.88rem;color:var(--mut);margin-left:auto;font-weight:600}
+  .nav nav a:hover{color:var(--blue)}
+  .cta{background:var(--blue);color:#fff;font-weight:700;font-size:.82rem;padding:9px 16px;border-radius:9px;white-space:nowrap}
+  .cta:hover{background:var(--blue-d)}
+  @media(max-width:980px){.nav nav{display:none}}
+
+  /* ticker */
+  .ticker{background:var(--navy2);color:#DFE6F0;font-size:.8rem;overflow:hidden;position:relative}
+  .tape{display:flex;width:max-content;animation:roll 110s linear infinite}
+  .ticker:hover .tape{animation-play-state:paused}
+  @keyframes roll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  @media(prefers-reduced-motion:reduce){.tape{animation:none}}
+  /* padding-left igual nas duas metades: o loop de -50% continua sem emenda
+     e o primeiro rótulo nasce afastado da borda esquerda (não corta) */
+  .tape-half{display:flex;align-items:center;padding:9px 0 9px 14px;white-space:nowrap;flex:0 0 auto}
+  .tk{display:inline-flex;align-items:center;gap:6px;padding:0 26px;border-right:1px solid rgba(255,255,255,.1);flex:0 0 auto;white-space:nowrap}
+  .tk b{font-weight:800;color:#fff}
+  .tk .lbl{color:#7C8CA4}
+  .t-up{color:#FF8585}.t-down{color:#5BE3A4}.t-na{color:#7C8CA4}
+  .tk.src{color:#7C8CA4;font-size:.72rem}
+  /* dado parado há mais de 12h: âmbar em vez de passar despercebido */
+  .tk.src.stale{color:#F0B03C;font-weight:700}
+
+  /* menu lateral */
+  .backdrop{position:fixed;inset:0;background:rgba(10,20,38,.45);z-index:70;opacity:0;pointer-events:none;transition:opacity .25s}
+  .backdrop.on{opacity:1;pointer-events:auto}
+  .menu{position:fixed;top:0;left:0;bottom:0;width:312px;max-width:86vw;background:#fff;z-index:80;transform:translateX(-100%);transition:transform .28s ease;box-shadow:var(--shadow-h);display:flex;flex-direction:column}
+  .menu.on{transform:translateX(0)}
+  .menu-head{display:flex;align-items:center;justify-content:space-between;padding:16px 18px;border-bottom:1px solid var(--line)}
+  .menu-head .logo{font-size:1.05rem}
+  .menu-head .logo svg{width:30px;height:18px}
+  .x{width:34px;height:34px;border:none;background:transparent;font-size:1.25rem;color:var(--mut);cursor:pointer;border-radius:8px}
+  .x:hover{background:var(--alt);color:var(--ink)}
+  .menu-cta{margin:16px 18px 6px}
+  .menu-cta a{display:block;text-align:center;background:var(--blue);color:#fff;font-weight:700;font-size:.85rem;padding:11px;border-radius:10px}
+  .menu-body{overflow-y:auto;padding:10px 0 24px;flex:1}
+  .mi{display:flex;align-items:center;justify-content:space-between;width:100%;padding:12px 22px;font-size:.92rem;color:#33415A;font-weight:600;background:none;border:none;cursor:pointer;text-align:left}
+  .mi:hover{background:var(--alt);color:var(--blue)}
+  .mi .chev{color:var(--dim);font-size:.8rem;transition:transform .2s}
+  .grp.open .chev{transform:rotate(90deg)}
+  .subs{display:none;background:#FAFBFD;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .grp.open .subs{display:block}
+  .subs a{display:block;padding:10px 22px 10px 36px;font-size:.86rem;color:var(--mut)}
+  .subs a:hover{color:var(--blue);background:var(--blue-t)}
+  .menu-sec{padding:14px 22px 6px;font-size:.66rem;font-weight:800;letter-spacing:.12em;color:var(--dim);text-transform:uppercase}
+  .menu-foot{padding:14px 22px;border-top:1px solid var(--line);font-size:.78rem;color:var(--dim)}
+
+  /* manchetes */
+  .manchetes{padding:30px 0 38px;border-bottom:1px solid var(--line)}
+  .man-grid{display:grid;grid-template-columns:1.05fr 1.25fr;gap:28px;align-items:start}
+  @media(max-width:1020px){.man-grid{grid-template-columns:1fr 1fr}}
+  @media(max-width:760px){.man-grid{grid-template-columns:1fr}}
+  .man-main .cat{font-size:.7rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--blue)}
+  .man-main h1{font-size:clamp(1.5rem,2.6vw,1.95rem);font-weight:900;letter-spacing:-.02em;line-height:1.2;margin:8px 0 10px}
+  .man-main h1 a:hover{color:var(--blue)}
+  .man-main .deck{color:var(--mut);font-size:.95rem}
+  .rel{margin-top:18px}
+  .rel a{display:block;padding:13px 0;border-top:1px solid var(--line);font-size:.95rem;font-weight:700;line-height:1.4}
+  .rel a:hover{color:var(--blue)}
+  .rel a small{display:block;font-weight:600;font-size:.7rem;color:var(--dim);letter-spacing:.08em;text-transform:uppercase;margin-bottom:3px}
+  .man-visual{position:relative;border-radius:16px;overflow:hidden;box-shadow:var(--shadow-h);display:block}
+  .man-visual img{aspect-ratio:16/11;object-fit:cover;width:100%;background:var(--line)}
+  .man-visual .ov{position:absolute;inset:auto 0 0 0;padding:46px 20px 18px;background:linear-gradient(180deg,transparent,rgba(10,20,38,.92));color:#fff}
+  .man-visual .ov .cat{font-size:.66rem;font-weight:800;letter-spacing:.14em;color:#9CC1FF;text-transform:uppercase}
+  .man-visual .ov h3{font-size:1.25rem;font-weight:800;line-height:1.3;margin-top:6px}
+  .man-visual:hover .ov h3{text-decoration:underline}
+
+  /* faixa mercado */
+  .band{background:var(--alt);border-bottom:1px solid var(--line);padding:34px 0}
+  .band-head{display:flex;align-items:baseline;gap:14px;margin-bottom:18px;flex-wrap:wrap}
+  /* Pré-render do robô: os mesmos números dos cards em texto simples, para o
+     crawler que não roda JS. Quem tem JS nunca vê — a classe .js entra no
+     <html> antes do primeiro pixel, então não há flash nem salto de layout. */
+  .prerender-fallback{color:var(--mut);font-size:.9rem;margin-bottom:18px}
+  .prerender-fallback ul{margin:6px 0 0 18px}
+  .js .prerender-fallback{display:none}
+  .band-head h2{font-size:1.15rem}
+  .band-head span{font-size:.76rem;color:var(--dim)}
+  .band-grid{display:grid;grid-template-columns:1.35fr 1fr 1fr;gap:18px;align-items:start}
+  @media(max-width:980px){.band-grid{grid-template-columns:1fr 1fr}}
+  @media(max-width:680px){.band-grid{grid-template-columns:1fr}}
+  .w-chart{padding:20px 22px}
+  .w-chart .wt{font-size:.72rem;font-weight:800;letter-spacing:.1em;color:var(--dim);text-transform:uppercase}
+  .w-chart .big{font-size:1.7rem;font-weight:900;margin:2px 0}
+  .w-chart .big small{font-size:.8rem;color:var(--dim);font-weight:600}
+  .w-chart .var{font-size:.8rem;font-weight:700}
+  .w-chart .ft{font-size:.7rem;color:var(--dim);margin-top:8px}
+  .w-quotes{padding:14px 22px}
+  .q{display:flex;align-items:center;justify-content:space-between;padding:10px 0;border-top:1px solid var(--line);font-size:.86rem}
+  .q:first-child{border-top:none}
+  .q .ql{color:var(--mut);font-weight:700}
+  .q b{font-weight:800}
+  .q .qv{display:flex;gap:10px;align-items:baseline}
+  .q .pct{font-size:.76rem;font-weight:800}
+  .w-thermo{padding:18px 22px;text-align:center}
+  .w-thermo .wt{font-size:.72rem;font-weight:800;letter-spacing:.1em;color:var(--dim);text-transform:uppercase}
+  .w-thermo svg{width:100%;max-width:170px;margin:4px auto 0}
+  .w-thermo .tv{font-size:1.7rem;font-weight:900;margin-top:-52px}
+  .w-thermo .tv span{font-size:.85rem;color:var(--dim)}
+  .w-thermo .tl2{font-weight:800;font-size:.85rem;color:#E06A00}
+  /* A escala é invertida (0 = melhor). Sem esta linha o leitor lê "24/100"
+     como nota ruim, e só a página de metodologia desfazia o engano. */
+  .w-thermo .esc{font-size:.68rem;color:var(--dim);font-weight:600;margin-top:3px}
+  .w-thermo .dr{text-align:left;font-size:.76rem;color:var(--mut);margin-top:10px;border-top:1px solid var(--line);padding-top:8px}
+  .w-thermo .dr div{padding:3px 0}
+  .w-thermo a{font-size:.76rem;color:var(--blue);font-weight:700}
+
+  /* editorias */
+  .edrow{padding:36px 0 8px}
+  .ed-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px}
+  .ed-head .ver{font-size:.82rem;font-weight:700;color:var(--blue)}
+  .ed-head .ver:hover{text-decoration:underline}
+  .news{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:16px}
+  @media(max-width:980px){.news{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:560px){.news{grid-template-columns:1fr}}
+  .ncard{overflow:hidden;display:flex;flex-direction:column;transition:box-shadow .2s,transform .2s}
+  .ncard:hover{box-shadow:var(--shadow-h);transform:translateY(-2px)}
+  /* Fundo sólido atrás da foto: as imagens são loading="lazy", então entre o
+     card pintar e a foto chegar havia um retângulo branco que lia como site
+     quebrado. Agora o espaço nasce colorido e só é coberto pela foto. */
+  .ncard img{aspect-ratio:16/9;object-fit:cover;width:100%;background:var(--line)}
+  .ncard .body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:7px;flex:1}
+  .ncard .fonte{font-size:.66rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+  .f-mme{color:#1456D6}.f-aneel{color:#0E8FA8}.f-ons{color:#C75B00}.f-ccee{color:#7A2FBF}.f-epe{color:#C71E63}
+  .ncard h3{font-size:.94rem;font-weight:700;line-height:1.4}
+  .ncard time{font-size:.72rem;color:var(--dim);margin-top:auto}
+
+  /* ═══════════ CALCULADORAS ═══════════ */
+  .calc-tabs{display:flex;gap:10px;margin-top:28px;flex-wrap:wrap}
+  .ctab{display:flex;align-items:center;gap:8px;padding:12px 20px;border-radius:12px;border:2px solid var(--line);background:#fff;color:var(--mut);font-weight:700;font-size:.88rem;cursor:pointer;transition:all .18s;text-align:left}
+  .ctab .ico{font-size:1.1rem}
+  .ctab .tl{display:flex;flex-direction:column;gap:1px}
+  .ctab .tl b{font-size:.88rem;line-height:1.2}
+  .ctab .tl span{font-size:.72rem;font-weight:600;opacity:.7}
+  .ctab:hover{border-color:var(--blue);color:var(--blue)}
+  .ctab.active{background:var(--blue);border-color:var(--blue);color:#fff;box-shadow:0 4px 14px rgba(20,86,214,.25)}
+  .ctab.active .tl span{opacity:.8}
+  .cpanel{display:none;margin-top:22px}
+  .cpanel.active{display:block}
+  .calc-body{display:grid;grid-template-columns:1.1fr 1fr;gap:24px;align-items:start;padding:26px}
+  @media(max-width:820px){.calc-body{grid-template-columns:1fr}}
+  .fgroup{display:flex;flex-direction:column;gap:5px;margin-bottom:14px}
+  .fgroup label{font-size:.79rem;font-weight:700;color:var(--mut)}
+  .fgroup input,.fgroup select{background:#fff;border:1.5px solid var(--line);border-radius:10px;padding:10px 14px;font-size:.94rem;color:var(--ink);font-family:inherit;width:100%}
+  .fgroup input:focus,.fgroup select:focus{outline:none;border-color:var(--blue);box-shadow:0 0 0 3px rgba(20,86,214,.1)}
+  .fgroup .hint{font-size:.72rem;color:var(--dim)}
+  .calc-btn{background:var(--blue);color:#fff;border:none;border-radius:10px;padding:13px 22px;font-size:.92rem;font-weight:800;cursor:pointer;width:100%;margin-top:4px;transition:background .18s}
+  .calc-btn:hover{background:var(--blue-d)}
+  .res-box{background:var(--blue-t);border:1.5px solid #C8D9FA;border-radius:14px;padding:22px;text-align:center;margin-bottom:16px}
+  .res-box .rb-lbl{font-size:.78rem;font-weight:700;color:var(--mut)}
+  .res-box .rb-big{font-size:2.4rem;font-weight:900;color:var(--blue);margin:4px 0;line-height:1.1}
+  .res-box .rb-sub{font-size:.85rem;color:var(--mut);margin-top:4px}
+  .res-table{width:100%;border-collapse:collapse;font-size:.84rem;margin-top:4px}
+  .res-table th{text-align:left;padding:7px 10px;background:rgba(20,86,214,.07);font-size:.72rem;font-weight:800;color:var(--blue);text-transform:uppercase;letter-spacing:.06em}
+  .res-table td{padding:8px 10px;border-top:1px solid var(--line)}
+  .res-table .tot td{font-weight:900;background:rgba(20,86,214,.05);border-top:2px solid var(--line)}
+  .brow{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-top:1px solid var(--line);font-size:.85rem}
+  .brow .bl{color:var(--mut);font-weight:600;display:flex;align-items:center;gap:7px}
+  .brow .br{display:flex;gap:12px;align-items:baseline}
+  .brow .bv{font-weight:800}
+  .brow .bp{font-size:.74rem;color:var(--dim);min-width:36px;text-align:right}
+  .brow.btot{border-top:2px solid var(--blue);margin-top:4px}
+  .brow.btot .bl,.brow.btot .bv{color:var(--blue);font-weight:900}
+  .dot{width:9px;height:9px;border-radius:3px;display:inline-block;flex-shrink:0}
+  .range-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:16px}
+  .rbox{padding:14px;border-radius:12px;text-align:center}
+  .rbox .rv{font-size:1.25rem;font-weight:900}
+  .rbox .rl{font-size:.72rem;font-weight:700;color:var(--mut);margin-top:3px}
+  .rb-lo{background:#EDF7F2}.rb-lo .rv{color:#1F9D61}
+  .rb-mi{background:var(--blue-t)}.rb-mi .rv{color:var(--blue)}
+  .rb-hi{background:#FEF3E2}.rb-hi .rv{color:#E06A00}
+  .chart-wrap{height:180px;position:relative}
+  .meto{font-size:.73rem;color:var(--dim);margin-top:22px;padding-top:14px;border-top:1px solid var(--line);line-height:1.5}
+
+  /* timeline */
+  .tl{display:grid;grid-template-columns:repeat(auto-fit,minmax(185px,1fr));gap:14px;margin-top:24px}
+  .tcard{padding:20px}
+  .tcard .yr{font-weight:900;font-size:1.15rem}
+  .tcard .yr.now{color:var(--blue)}
+  .tcard p{font-size:.8rem;color:var(--mut);margin-top:8px}
+  .tcard .pin{font-size:.64rem;font-weight:800;letter-spacing:.1em;color:#E06A00}
+  .tcard.here{border-color:var(--blue);box-shadow:0 0 0 1px var(--blue),var(--shadow)}
+
+  /* newsletter + footer */
+  .nl{padding:38px;display:grid;grid-template-columns:1.2fr 1fr;gap:30px;align-items:center;background:var(--blue-t);border:1px solid #D6E3FA;border-radius:18px}
+  @media(max-width:820px){.nl{grid-template-columns:1fr}}
+  .nl h2{margin-bottom:6px}
+  .nl form{display:flex;gap:10px}
+  .nl input[type=email]{flex:1;background:#fff;border:1px solid #CBD5E1;border-radius:10px;padding:13px 15px;color:var(--ink);font-size:.95rem;font-family:inherit}
+  .nl input[type=email]:focus{outline:2px solid rgba(20,86,214,.35);border-color:var(--blue)}
+  .btn{padding:13px 22px;border-radius:10px;font-weight:700;font-size:.92rem;display:inline-block;border:none;cursor:pointer}
+  .btn-p{background:var(--blue);color:#fff;box-shadow:0 4px 14px rgba(20,86,214,.25)}
+  .btn-p:hover{background:var(--blue-d)}
+  .nl-msg{margin-top:10px;font-size:.82rem;font-weight:700}
+  .nl-msg.ok{color:var(--down)}
+  .nl-msg.err{color:var(--up)}
+  .ad-cta{display:flex;align-items:center;justify-content:center;gap:8px;margin-top:34px;background:var(--alt);border:1px solid var(--line);border-radius:12px;padding:16px 22px;text-align:center;color:var(--mut);font-size:.88rem;font-weight:600;transition:background .15s,color .15s}
+  .ad-cta:hover{background:var(--blue-t);color:var(--blue)}
+  .ad-cta .arw{font-weight:800;color:var(--blue)}
+  footer{background:var(--navy);color:#B9C4D4;padding:0 0 60px;margin-top:40px;font-size:.85rem}
+  footer .rb{height:3px;background:var(--ribbon)}
+  footer .wrap{padding-top:48px}
+  .fgrid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:34px}
+  @media(max-width:820px){.fgrid{grid-template-columns:1fr}}
+  footer h4{color:#fff;font-size:.9rem;margin-bottom:12px}
+  footer li{list-style:none;margin:7px 0}
+  footer a:hover{color:#fff}
+  footer .logo .grid{color:#fff}
+  .legal{margin-top:34px;font-size:.74rem;color:#7C8CA4;border-top:1px solid rgba(255,255,255,.12);padding-top:22px}
+</style>
+</head>
+<body>
+
+<!-- ===== MENU LATERAL ===== -->
+<div class="backdrop" id="backdrop" onclick="menu(false)"></div>
+<aside class="menu" id="menu" aria-label="Menu principal">
+  <div class="menu-head">
+    <span class="logo"><svg viewBox="0 0 40 24"><defs><linearGradient id="lgm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E0FF"/><stop offset=".3" stop-color="#2E6BFF"/><stop offset=".55" stop-color="#B43DFF"/><stop offset=".78" stop-color="#FF2E92"/><stop offset="1" stop-color="#FF7A00"/></linearGradient></defs><path d="M2 13 H9 L13 5 L19 19 L25 8 L29 13 H38" stroke="url(#lgm)" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg><span><span class="mega">MEGA</span><span class="grid">GRID</span></span></span>
+    <button class="x" onclick="menu(false)" aria-label="Fechar">✕</button>
+  </div>
+  <div class="menu-cta"><a href="#newsletter" onclick="menu(false)">Receber o resumo do mercado</a></div>
+  <div class="menu-body">
+    <a class="mi" href="#" onclick="menu(false)">Início</a>
+    <a class="mi" href="#manchetes" onclick="menu(false)">Manchetes</a>
+    <a class="mi" href="#mercado" onclick="menu(false)">Preços &amp; PLD</a>
+    <a class="mi" href="#mercado" onclick="menu(false)">Termômetro do MWh</a>
+    <div class="menu-sec">Editorias</div>
+    <div class="grp" id="g-edit">
+      <button class="mi" onclick="toggle('g-edit')">Todas as editorias <span class="chev">›</span></button>
+      <div class="subs">
+        <a href="#ed-ml" onclick="menu(false)">Mercado Livre</a>
+        <a href="#ed-reg" onclick="menu(false)">Regulação &amp; Política</a>
+        <a href="#ed-trans" onclick="menu(false)">Transição &amp; Novos Mercados</a>
+        <a href="#ed-ml" onclick="menu(false)">Empresas</a>
+        <a href="#ed-reg" onclick="menu(false)">Tarifas &amp; Bandeiras</a>
+      </div>
+    </div>
+    <div class="menu-sec">Ferramentas</div>
+    <div class="grp" id="g-calc">
+      <button class="mi" onclick="toggle('g-calc')">Calculadoras <span class="chev">›</span></button>
+      <div class="subs">
+        <a href="#calculadoras" onclick="menu(false);switchCalcTab('migracao')">Migração cativo → livre</a>
+        <a href="#calculadoras" onclick="menu(false);switchCalcTab('precificacao')">Precificação de contrato</a>
+        <a href="#calculadoras" onclick="menu(false);switchCalcTab('custo')">Custo total do MWh</a>
+        <a href="#calculadoras" onclick="menu(false);switchCalcTab('reversa')">Conta de luz reversa</a>
+      </div>
+    </div>
+    <div class="menu-sec">Aprenda</div>
+    <a class="mi" href="#entenda" onclick="menu(false)">Entenda o mercado</a>
+    <a class="mi" href="#entenda" onclick="menu(false)">Metodologia</a>
+    <div class="menu-sec">Megagrid</div>
+    <a class="mi" href="#entenda" onclick="menu(false)">Fontes oficiais</a>
+    <a class="mi" href="/anuncie" onclick="menu(false)">Anuncie aqui</a>
+  </div>
+  <div class="menu-foot">Dados: CCEE · ONS · ANEEL<br>© 2026 Megagrid</div>
+</aside>
+
+<!-- ===== CABEÇALHO ===== -->
+<header>
+  <div class="wrap nav">
+    <button class="burger" onclick="menu(true)" aria-label="Abrir menu"><span></span><span></span><span></span></button>
+    <a class="logo" href="#" aria-label="Megagrid — início">
+      <svg viewBox="0 0 40 24"><defs><linearGradient id="lgh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E0FF"/><stop offset=".3" stop-color="#2E6BFF"/><stop offset=".55" stop-color="#B43DFF"/><stop offset=".78" stop-color="#FF2E92"/><stop offset="1" stop-color="#FF7A00"/></linearGradient></defs><path d="M2 13 H9 L13 5 L19 19 L25 8 L29 13 H38" stroke="url(#lgh)" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span><span class="mega">MEGA</span><span class="grid">GRID</span><span class="beta">BETA</span></span>
+    </a>
+    <nav>
+      <a href="#manchetes">Últimas</a>
+      <a href="#mercado">Preços</a>
+      <a href="#ed-ml">Editorias</a>
+      <a href="#calculadoras">Calculadoras</a>
+      <a href="#entenda">Entenda</a>
+    </nav>
+    <a class="cta" href="#newsletter">Receber o resumo</a>
+  </div>
+</header>
+
+<!-- ===== TICKER ===== -->
+<div class="ticker" aria-label="Cotações do mercado de energia">
+  <div class="tape" id="tape">
+    <div class="tape-half" id="tape-inner">
+      <span class="tk"><span class="lbl">PLD SE/CO</span><b>R$ —</b><span class="t-na">—</span></span>
+      <span class="tk"><span class="lbl">PLD SUL</span><b>R$ —</b><span class="t-na">—</span></span>
+      <span class="tk"><span class="lbl">PLD NE</span><b>R$ —</b><span class="t-na">—</span></span>
+      <span class="tk"><span class="lbl">PLD NORTE</span><b>R$ —</b><span class="t-na">—</span></span>
+      <span class="tk"><span class="lbl">BANDEIRA</span><b>Carregando…</b></span>
+      <span class="tk"><span class="lbl">RESERVATÓRIOS</span><b>—%</b></span>
+      <span class="tk"><span class="lbl">TERMÔMETRO MWh</span><b>—/100</b></span>
+      <span class="tk src">dados abertos CCEE · ONS · ANEEL</span>
+    </div>
+  </div>
+</div>
+
+<!-- ===== MANCHETES ===== -->
+<section class="manchetes" id="manchetes">
+  <div class="wrap man-grid">
+    <!-- PRERENDER:MANCHETES -->
+    <div class="man-main">
+      <span class="cat" id="man-cat">Regulação · ANEEL</span>
+      <h1><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbzFRVjJiSTRTSXJMOVlfdHdVY21DSElEbWRsLVpybF9EUV91aFgwd1h2eEYtVFI5eUd2TzNqQVN5RUZfNGpicDUtUkU4NmJjeUtIRTVjZ1QtdnF3STdMUVE0ZlRrRDFrOWltLW5XSEowX0Q1ZGRvQUc1OVh3TFFGVFVGN3Z5N3Q0YUtPYmRxckc0NmhVbGJTLVdOcndqdGFrQ1VuODM2eTBNLU1odHEyTUdxMjM1TlJfR1VLT0Q1WWRsU1NLeDVMQmxYcnNrdTVyeTBDTEJRZVMxSnhlR2c2OF94SGJoM0dYY3dLNzZxNkw5WmdlUmxIcGdyU0o?oc=5" id="man-link" target="_blank" rel="noopener noreferrer">Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26)</a></h1>
+      <p class="deck" id="man-deck">Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26) www.gov.br</p>
+      <div class="rel" id="man-rels"><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUklYZTQtdjdpcXJHR1MxdVBJQXN6TC1pdmN6MVN3TXFJMzdOOWkwRUd5R1o1NmNLa1kzaG1NQ0YzbDJqLVcxa2Z3ckk1ZjlNR0l5a1BOT2h6dWhfMWIzdUdpN1F6Tjk5YUZHN0paeUg0UEtScFF5YnM1cnN4SjZfTXZVMkZkQ1BQa1BpeU9sOXNyWUNzMml5aEd1WV9YSTZjN1FUcHo5YzRqNkFKVWh4NzdGa25URXJja25pZ0RXRmRIVi15SzY2VGhFZVB1VnVLOGFITnYyb3hkUzNx?oc=5" target="_blank" rel="noopener"><small>Regulação</small>Autorizada transferência de controle societário da Transnorte para a Axia</a><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPWF82Rkw3QnlKblRLRFh0OC1iekhKbU4xMVpaSWlodnZyOFRhQV94UEF6cEpnUnROSXhFY3JJSFJJcWRDbGdMVUpQSmdrNU1taWZ2b2tpMlVubWNkei16bUc4aTNwTmpjdTJJQ0puaFBYMWRpeHVnVWtCdF91V1Qwak41a183RGlnN2tZSm1UcGtJQWQtZ2JGVXJaWTRqdw?oc=5" target="_blank" rel="noopener"><small>Regulação</small>Aneel abre consulta sobre &quot;teto&quot; para subsídios na conta de luz</a><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUFOeTIzSGw1SVlHbXYxUkg5dC1mZFdjNUlPOTBiWUduN25lWXE4MTN1RFh5LXZyRUVyOXdGcFR3dlJvWm9jLWFSX2ZTWGxEclpucVhnMDBWYWJiNUdYeGlfMGl1R1RnY3YzR0NsY1RIdVR1LVRqaUtublRSal93eDNlMV80TGdiVG5SeDVOemY4cFdGdXIyMkgwNA?oc=5" target="_blank" rel="noopener"><small>Transição</small>A EVNNPC integra o sistema de armazenamento de energia em baterias (BESS) à rede elétrica, adicionando uma &quot;válvula reguladora&quot; para a carga no Norte. - Vietnam.vn</a><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVm9tYmFBR0w3b3pyOUxoUVNLeVZ0ZGRwdllLdjdldFFWVjU0T0JkaXVuTWI0UW9MRDQwNEhlWFZ5eHB1bmw2aFFCMWJkVVJkTUw1S1NFSVlhdHNiOTE4eHBVYl8xX1pFaDAyMU0yV0tibTZJbnVSTXRDUXNRR1p0UUlZZ3Z5LUpoVTJoU3RIQ3d2VlJWV2N4RXNwZ1l1MTVIQVBacGZFRElnUTVLSUFNd1VuNVZ5bDhLV3l6elZESHRqeGU1eVN3M29wdDJWZWthbDh4QjJJVHNhY1dUQVB3TzQ0WGxFN2tQME1mNWxmWTA2UHZj?oc=5" target="_blank" rel="noopener"><small>Regulação</small>Aneel nega perícia pedida por Enel SP e fala em &quot;desrespeito&quot; da empresa à regulação</a></div>
+    </div>
+    <a class="man-visual" href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEVJZzJ6bVVlbDBjd0lwTDJ6ODBoaU9Ld192TTVFb2c2X2JYTi1nSkZidDRqcnN4WGoxd3otUGhwTml4d1NXMVlRMUVOZ01xYkpsNlpOZ0sxay1jcFpVZnI4NEhyZnJSU1N1QzRzREo0WGhTTXJGbUh6YUUyZmNmTXRuSWNRbTVlc2dMUjdWTGFqbGxIcVYzUGdtMW9Na3JIUTMwYkItclB4Y2xsT3c?oc=5" id="man-vis-link" target="_blank" rel="noopener noreferrer">
+      <img src="https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=600&amp;q=70" alt="Absolar cria agenda para próximo governo com foco em solar e nas baterias" id="man-vis-img">
+      <span class="ov">
+        <span class="cat" id="man-vis-cat">Agência iNFRA</span>
+        <h3 id="man-vis-h3">Absolar cria agenda para próximo governo com foco em solar e nas baterias</h3>
+      </span>
+    </a>
+    <!-- /PRERENDER:MANCHETES -->
+  </div>
+</section>
+
+<!-- ===== FAIXA DE MERCADO ===== -->
+<div class="band" id="mercado">
+  <div class="wrap">
+    <div class="band-head">
+      <h2>Mercado agora</h2>
+      <span id="data-updated">dados abertos CCEE · ONS · ANEEL — atualização automática 2x ao dia, edições da manhã e do fim da tarde</span>
+    </div>
+    <!-- PRERENDER:MERCADO -->
+    <div class="prerender-fallback" id="prerender-mercado">
+      <p>Mercado agora — dados abertos CCEE · ONS · ANEEL (atualizado em 2026-08-25):</p>
+      <ul><li>PLD Sudeste/Centro-Oeste: R$ 147,63/MWh</li><li>PLD Sul: R$ 147,63/MWh</li><li>PLD Nordeste: R$ 147,63/MWh</li><li>PLD Norte: R$ 581,48/MWh</li><li>Bandeira tarifária: Amarela (agosto/2026)</li><li>Reservatórios (EAR): 76,7%</li><li>Carga do SIN: 70,0 GWmed</li><li>Termômetro do MWh: 26/100 — Pressão moderada · mercado em equilíbrio</li></ul>
+    </div>
+    <!-- /PRERENDER:MERCADO -->
+    <div class="band-grid">
+      <div class="card w-chart">
+        <span class="wt">PLD Semanal · Sudeste/Centro-Oeste</span>
+        <div class="big" id="pld-val">R$ —</div>
+        <span class="var" id="pld-var">vs. semana anterior</span>
+        <div style="position:relative;height:90px;margin-top:10px"><canvas id="pld-chart"></canvas></div>
+        <div class="ft">Últimas 12 semanas · fonte <a href="https://dadosabertos.ccee.org.br" target="_blank" rel="noopener" style="color:var(--blue)">CCEE Dados Abertos</a></div>
+      </div>
+      <div class="card w-quotes">
+        <div class="q"><span class="ql">PLD Sudeste/C.-Oeste</span><span class="qv"><b id="q-seco-val">—</b><span class="pct" id="q-seco-var"></span></span></div>
+        <div class="q"><span class="ql">PLD Sul</span><span class="qv"><b id="q-sul-val">—</b><span class="pct" id="q-sul-var"></span></span></div>
+        <div class="q"><span class="ql">PLD Nordeste</span><span class="qv"><b id="q-ne-val">—</b><span class="pct" id="q-ne-var"></span></span></div>
+        <div class="q"><span class="ql">PLD Norte</span><span class="qv"><b id="q-n-val">—</b><span class="pct" id="q-n-var"></span></span></div>
+        <div class="q"><span class="ql">Bandeira tarifária</span><span class="qv"><b id="q-band-val">—</b></span></div>
+        <div class="q"><span class="ql">Reservatórios (EAR)</span><span class="qv"><b id="q-ear-val">—</b></span></div>
+        <div class="q"><span class="ql">Carga do SIN</span><span class="qv"><b id="q-carga-val">—</b></span></div>
+      </div>
+      <div class="card w-thermo">
+        <span class="wt">Termômetro do MWh</span>
+        <svg viewBox="0 0 220 130" aria-hidden="true">
+          <defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1F9D61"/><stop offset=".45" stop-color="#E8B931"/><stop offset=".75" stop-color="#E06A00"/><stop offset="1" stop-color="#D63B3B"/></linearGradient></defs>
+          <path d="M20 120 A90 90 0 0 1 200 120" fill="none" stroke="#EDF1F6" stroke-width="14" stroke-linecap="round"/>
+          <path id="thermo-fill" d="M20 120 A90 90 0 0 1 200 120" fill="none" stroke="url(#g1)" stroke-width="14" stroke-linecap="round" stroke-dasharray="283" stroke-dashoffset="130"/>
+          <line id="thermo-needle" x1="110" y1="120" x2="110" y2="30" stroke="#15212F" stroke-width="3" stroke-linecap="round"/>
+          <circle cx="110" cy="120" r="7" fill="#15212F"/>
+        </svg>
+        <div class="tv" id="thermo-score">—<span>/100</span></div>
+        <div class="tl2" id="thermo-nivel">Calculando…</div>
+        <div class="esc">0 = pressão baixa · 100 = pressão alta</div>
+        <div class="dr" id="thermo-detalhe"><div>Aguardando dados CCEE · ONS…</div></div>
+        <a href="#entenda">Como calculamos →</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== EDITORIA: MERCADO LIVRE ===== -->
+<section class="edrow" id="ed-ml">
+  <div class="wrap">
+    <div class="ed-head"><div><span class="kicker">Editoria</span><h2>Mercado Livre</h2><div class="rule"></div></div><a class="ver" href="#ed-ml">Ver tudo →</a></div>
+    <div class="news" id="news-ml"></div>
+  </div>
+</section>
+
+<!-- ===== EDITORIA: REGULAÇÃO ===== -->
+<section class="edrow" id="ed-reg">
+  <div class="wrap">
+    <div class="ed-head"><div><span class="kicker">Editoria</span><h2>Regulação &amp; Política Energética</h2><div class="rule"></div></div><a class="ver" href="#ed-reg">Ver tudo →</a></div>
+    <div class="news" id="news-reg"></div>
+  </div>
+</section>
+
+<!-- ===== EDITORIA: TRANSIÇÃO ===== -->
+<section class="edrow" id="ed-trans">
+  <div class="wrap">
+    <div class="ed-head"><div><span class="kicker">Editoria</span><h2>Transição &amp; Novos Mercados</h2><div class="rule"></div></div><a class="ver" href="#ed-trans">Ver tudo →</a></div>
+    <div class="news" id="news-trans"></div>
+  </div>
+</section>
+
+<!-- ===== CALCULADORAS ===== -->
+<section id="calculadoras" class="alt" style="margin-top:36px">
+  <div class="wrap">
+    <span class="kicker">Ferramentas gratuitas</span>
+    <h2>Calculadoras que respondem à sua dúvida real</h2>
+    <div class="rule"></div>
+    <p class="sub">Cálculo no navegador, metodologia declarada, nenhum dado gravado. Clique na ferramenta que responde a sua pergunta.</p>
+
+    <!-- Tabs -->
+    <div class="calc-tabs">
+      <button class="ctab active" data-tab="migracao"><span class="ico">⚡</span><span class="tl"><b>Migração</b><span>cativo → livre</span></span></button>
+      <button class="ctab" data-tab="precificacao"><span class="ico">📋</span><span class="tl"><b>Precificação</b><span>faixa de mercado</span></span></button>
+      <button class="ctab" data-tab="custo"><span class="ico">🧮</span><span class="tl"><b>Custo total</b><span>composição do MWh</span></span></button>
+      <button class="ctab" data-tab="reversa"><span class="ico">🔍</span><span class="tl"><b>Conta reversa</b><span>o que está na fatura</span></span></button>
+    </div>
+
+    <!-- ── Panel 1: Migração ─────────────────────────────────── -->
+    <div class="cpanel active" id="tab-migracao">
+      <div class="card calc-body">
+        <div>
+          <p style="font-size:.85rem;color:var(--mut);margin-bottom:18px">Compare o custo total no cativo (TE + TUSD) com o custo estimado no mercado livre (contrato PLD-indexado + TUSD + encargos CCEE/ONS).</p>
+          <div class="fgroup">
+            <label>Consumo médio mensal (MWh)</label>
+            <input id="m-consumo" type="number" value="100" min="1">
+          </div>
+          <div class="fgroup">
+            <label>Tarifa de energia cativo — TE (R$/MWh, sem tributos)</label>
+            <input id="m-te" type="number" value="420" min="1">
+            <span class="hint">Componente TE da tarifa regulada pela ANEEL, sem TUSD e sem ICMS/PIS/COFINS</span>
+          </div>
+          <div class="fgroup">
+            <label>TUSD pago no cativo (R$/MWh)</label>
+            <input id="m-tusd" type="number" value="150" min="0">
+            <span class="hint">Componente de transporte — mantido no livre, mas sem o "embutido de energia"</span>
+          </div>
+          <div class="fgroup">
+            <label>Horizonte de análise</label>
+            <select id="m-horizon">
+              <option value="1">1 ano</option>
+              <option value="3" selected>3 anos</option>
+              <option value="5">5 anos</option>
+            </select>
+          </div>
+          <div class="fgroup">
+            <label>Perfil de contratação no livre</label>
+            <select id="m-perfil">
+              <option value="1.35">Conservador — contrato fixo longo prazo (+35% sobre PLD atual)</option>
+              <option value="1.20" selected>Típico — mix fixo + exposição spot (+20% sobre PLD)</option>
+              <option value="1.10">Arrojado — mais exposição ao PLD (+10% sobre PLD)</option>
+            </select>
+          </div>
+          <button class="calc-btn" onclick="calcMigracao()">Calcular economia →</button>
+        </div>
+        <div>
+          <div class="res-box">
+            <div class="rb-lbl">Economia estimada no período</div>
+            <div class="rb-big" id="m-out">R$ —</div>
+            <div class="rb-sub" id="m-pct">Clique em calcular</div>
+          </div>
+          <div id="m-table"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Panel 2: Precificação ─────────────────────────────── -->
+    <div class="cpanel" id="tab-precificacao">
+      <div class="card calc-body">
+        <div>
+          <p style="font-size:.85rem;color:var(--mut);margin-bottom:18px">Estime a faixa de preço justa para um contrato de energia no ACL. Baseado no PLD atual e prêmios comerciais típicos por prazo.</p>
+          <div class="fgroup">
+            <label>Submercado</label>
+            <select id="p-sub">
+              <option value="SE/CO" selected>Sudeste / Centro-Oeste</option>
+              <option value="S">Sul</option>
+              <option value="NE">Nordeste</option>
+              <option value="N">Norte</option>
+            </select>
+          </div>
+          <div class="fgroup">
+            <label>Tipo de energia</label>
+            <select id="p-tipo">
+              <option value="conv" selected>Convencional</option>
+              <option value="i5">Incentivada I5 — 5% desconto TUSD</option>
+              <option value="i50">Incentivada I50 — 50% desconto TUSD</option>
+              <option value="i1">Incentivada I1 — 100% desconto TUSD</option>
+            </select>
+          </div>
+          <div class="fgroup">
+            <label>Prazo do contrato</label>
+            <select id="p-prazo">
+              <option value="0.18">12 meses</option>
+              <option value="0.25" selected>24 meses</option>
+              <option value="0.32">36 meses</option>
+              <option value="0.40">48 meses</option>
+            </select>
+          </div>
+          <div class="fgroup">
+            <label>Volume mensal (MWh)</label>
+            <input id="p-vol" type="number" value="100" min="1">
+          </div>
+          <button class="calc-btn" onclick="calcPrecificacao()">Ver faixa de preço →</button>
+        </div>
+        <div>
+          <div class="range-row">
+            <div class="rbox rb-lo"><div class="rv" id="p-piso">—</div><div class="rl">Piso</div></div>
+            <div class="rbox rb-mi"><div class="rv" id="p-mid">—</div><div class="rl">Valor típico</div></div>
+            <div class="rbox rb-hi"><div class="rv" id="p-teto">—</div><div class="rl">Teto</div></div>
+          </div>
+          <div id="p-detail"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Panel 3: Custo Total ─────────────────────────────── -->
+    <div class="cpanel" id="tab-custo">
+      <div class="card calc-body">
+        <div>
+          <p style="font-size:.85rem;color:var(--mut);margin-bottom:18px">Decomponha o custo real do MWh no mercado livre: energia + transporte + perdas + encargos + tributos, por regime fiscal.</p>
+          <div class="fgroup">
+            <label>Consumo mensal (MWh)</label>
+            <input id="c-consumo" type="number" value="100" min="1">
+          </div>
+          <div class="fgroup">
+            <label>Preço do contrato de energia (R$/MWh)</label>
+            <input id="c-preco" type="number" value="280" min="1">
+          </div>
+          <div class="fgroup">
+            <label>Região (para TUSD de referência)</label>
+            <select id="c-regiao">
+              <option value="sul">Sul</option>
+              <option value="se" selected>Sudeste</option>
+              <option value="co">Centro-Oeste</option>
+              <option value="ne">Nordeste</option>
+              <option value="n">Norte</option>
+            </select>
+          </div>
+          <div class="fgroup">
+            <label>Estado (alíquota ICMS)</label>
+            <select id="c-estado">
+              <option value="0.12">SP — 12%</option>
+              <option value="0.17">MG / PR / SC / RS — 17%</option>
+              <option value="0.18">RJ / GO / DF / MS / MT — 18%</option>
+              <option value="0.20">BA / CE / PE / MA — 20%</option>
+              <option value="0.17" selected>Outros — 17%</option>
+            </select>
+          </div>
+          <div class="fgroup">
+            <label>Regime tributário</label>
+            <select id="c-regime">
+              <option value="lr" selected>Lucro Real (PIS 1,65% · COFINS 7,6%)</option>
+              <option value="lp">Lucro Presumido (PIS 0,65% · COFINS 3%)</option>
+              <option value="sn">Simples Nacional (PIS+COFINS ≈ 0,75%)</option>
+            </select>
+          </div>
+          <button class="calc-btn" onclick="calcCusto()">Calcular custo total →</button>
+        </div>
+        <div>
+          <div class="res-box">
+            <div class="rb-lbl">Custo total estimado / mês</div>
+            <div class="rb-big" id="c-total">R$ —</div>
+            <div class="rb-sub" id="c-por-mwh">R$ — /MWh efetivo</div>
+          </div>
+          <div id="c-breakdown"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Panel 4: Conta Reversa ────────────────────────────── -->
+    <div class="cpanel" id="tab-reversa">
+      <div class="card calc-body">
+        <div>
+          <p style="font-size:.85rem;color:var(--mut);margin-bottom:18px">Informe o valor total da sua fatura de energia e veja a decomposição estimada de cada componente — energia, fio, encargos e tributos.</p>
+          <div class="fgroup">
+            <label>Valor total da conta de energia (R$)</label>
+            <input id="r-valor" type="number" value="50000" min="1">
+          </div>
+          <div class="fgroup">
+            <label>Segmento / tensão</label>
+            <select id="r-seg">
+              <option value="ind" selected>Indústria — AT/MT (mercado livre ou cativo Grupo A)</option>
+              <option value="com">Comércio — MT (mercado livre ou cativo Grupo A)</option>
+              <option value="bt">Baixa Tensão (cativo Grupo B)</option>
+            </select>
+          </div>
+          <div class="fgroup">
+            <label>Estado (ICMS)</label>
+            <select id="r-estado">
+              <option value="0.12">SP — 12%</option>
+              <option value="0.17">MG / PR / SC / RS — 17%</option>
+              <option value="0.18">RJ / GO / DF / MS / MT — 18%</option>
+              <option value="0.20">BA / CE / PE / MA — 20%</option>
+              <option value="0.17" selected>Outros — 17%</option>
+            </select>
+          </div>
+          <div class="fgroup">
+            <label>Regime tributário</label>
+            <select id="r-regime">
+              <option value="lr" selected>Lucro Real</option>
+              <option value="lp">Lucro Presumido</option>
+              <option value="sn">Simples Nacional</option>
+            </select>
+          </div>
+          <button class="calc-btn" onclick="calcReversa()">Decompor conta →</button>
+        </div>
+        <div>
+          <div class="res-box" style="text-align:left">
+            <div class="rb-lbl" style="text-align:center;margin-bottom:12px">Decomposição estimada da conta</div>
+            <div class="chart-wrap"><canvas id="reversa-chart"></canvas></div>
+          </div>
+          <div id="r-breakdown"></div>
+        </div>
+      </div>
+    </div>
+
+    <p class="meto"><b>Metodologia:</b> Os cálculos usam o PLD publicado pela CCEE, TUSD de referência por região, spread comercial típico por prazo e alíquotas tributárias vigentes. São estimativas para orientação estratégica e <b>não constituem oferta, cotação ou recomendação comercial</b>. Decisões de contratação devem ser validadas com seu comercializador ou consultor de energia.</p>
+  </div>
+</section>
+
+<!-- ===== ENTENDA ===== -->
+<section id="entenda">
+  <div class="wrap">
+    <span class="kicker">Entenda o mercado</span>
+    <h2>De onde viemos, onde estamos, para onde vamos</h2>
+    <div class="rule"></div>
+    <p class="sub">A linha do tempo da abertura do mercado de energia no Brasil — sem juridiquês.</p>
+    <div class="tl">
+      <div class="card tcard"><div class="yr">1995</div><p>Lei 9.074 cria a figura do consumidor livre — restrito aos gigantes (acima de 10 MW).</p></div>
+      <div class="card tcard"><div class="yr">2004</div><p>Novo marco do setor consolida os dois ambientes: cativo (ACR) e livre (ACL).</p></div>
+      <div class="card tcard"><div class="yr">2024</div><p>Todo o Grupo A (alta e média tensão) pode migrar. Mercado livre passa a responder por mais de 1/3 do consumo do país.</p></div>
+      <div class="card tcard here"><div class="pin">VOCÊ ESTÁ AQUI</div><div class="yr now">2026</div><p>Lei 15.269/2025 sancionada: cria o SUI e define o calendário da abertura total. Regulamentação em andamento.</p></div>
+      <div class="card tcard"><div class="yr">2027</div><p>Abertura para comércios e indústrias de baixa tensão (até dez/2027).</p></div>
+      <div class="card tcard"><div class="yr">2028</div><p>Abertura para todos, incluindo residenciais (até dez/2028). Dezenas de milhões de novos consumidores poderão escolher.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== NEWSLETTER ===== -->
+<section id="newsletter" style="padding-top:8px">
+  <div class="wrap">
+    <div class="nl">
+      <div>
+        <h2>O essencial do mercado, sem ruído.</h2>
+        <p class="sub">Preços, regras novas e prazos da abertura quando algo relevante acontecer. Sem spam, descadastro em 1 clique.</p>
+      </div>
+      <div>
+        <form id="nl-form" onsubmit="subscribeNewsletter(event)">
+          <input type="email" id="nl-email" placeholder="seu@email.com" required>
+          <button class="btn btn-p" type="submit">Quero receber</button>
+        </form>
+        <div id="nl-msg" class="nl-msg"></div>
+      </div>
+    </div>
+    <a class="ad-cta" href="/anuncie">Anuncie no Megagrid — sua marca diante de quem decide energia <span class="arw">→</span></a>
+  </div>
+</section>
+
+<footer>
+  <div class="rb"></div>
+  <div class="wrap">
+    <div class="fgrid">
+      <div>
+        <span class="logo" style="margin-bottom:12px;color:#fff"><svg viewBox="0 0 40 24"><defs><linearGradient id="lgf" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E0FF"/><stop offset=".3" stop-color="#2E6BFF"/><stop offset=".55" stop-color="#B43DFF"/><stop offset=".78" stop-color="#FF2E92"/><stop offset="1" stop-color="#FF7A00"/></linearGradient></defs><path d="M2 13 H9 L13 5 L19 19 L25 8 L29 13 H38" stroke="url(#lgf)" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg><span><span class="mega">MEGA</span><span class="grid">GRID</span></span></span>
+        <p style="margin-top:12px">O mercado livre de energia, traduzido em dados. Compilamos dados públicos oficiais do setor elétrico para que qualquer interessado se atualize e decida melhor.</p>
+      </div>
+      <div>
+        <h4>Fontes oficiais</h4>
+        <ul>
+          <li><a href="https://dadosabertos.ccee.org.br" target="_blank" rel="noopener">CCEE — Dados Abertos</a></li>
+          <li><a href="https://dados.ons.org.br" target="_blank" rel="noopener">ONS — Dados Abertos</a></li>
+          <li><a href="https://dadosabertos.aneel.gov.br" target="_blank" rel="noopener">ANEEL — Dados Abertos</a></li>
+          <li><a href="https://www.gov.br/mme" target="_blank" rel="noopener">Ministério de Minas e Energia</a></li>
+          <li><a href="https://www.epe.gov.br" target="_blank" rel="noopener">EPE</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Megagrid</h4>
+        <ul>
+          <li><a href="#mercado">Termômetro do MWh</a></li>
+          <li><a href="#calculadoras">Calculadoras</a></li>
+          <li><a href="#entenda">Metodologia</a></li>
+          <li><a href="/anuncie">Anuncie aqui</a></li>
+          <li><a href="#privacidade">Privacidade</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="legal" id="privacidade"><b>Aviso importante:</b> todo o conteúdo tem caráter exclusivamente informativo e educacional, baseado em dados públicos oficiais (CCEE, ONS, ANEEL, MME, EPE). As simulações usam metodologia simplificada e declarada e <b>não constituem recomendação comercial, financeira ou jurídica</b>. Decisões de contratação de energia devem ser avaliadas com profissionais habilitados. Fotos: Unsplash (licença livre). © 2026 Megagrid</p>
+  </div>
+</footer>
+
+<script>
+/* ══════════════════════════════════════════════════════════════════
+   MEGAGRID v0.7 — Dados dinâmicos + 4 Calculadoras
+   ══════════════════════════════════════════════════════════════════ */
+
+/* ── Dados globais ──────────────────────────────────────────────── */
+var _pldData = null; // populado por loadData → usado nas calculadoras
+
+/* ── Helpers ────────────────────────────────────────────────────── */
+var FONTE_CSS = {CCEE:'f-ccee',ANEEL:'f-aneel',ONS:'f-ons',MME:'f-mme',EPE:'f-epe'};
+
+function pldFmt(v){
+  if(v==null) return 'R$ —';
+  var p=Number(v).toFixed(2).split('.');
+  return 'R$ '+Number(p[0]).toLocaleString('pt-BR')+','+p[1];
+}
+function numFmt(v,dec){
+  dec=dec||0;
+  return Number(v).toLocaleString('pt-BR',{minimumFractionDigits:dec,maximumFractionDigits:dec});
+}
+function moedaFmt(v){ return 'R$ '+numFmt(v,2); }
+function moedaK(v){
+  if(v>=1e6) return 'R$ '+numFmt(v/1e6,2).replace(',00','')+' mi';
+  if(v>=1e3) return 'R$ '+numFmt(v/1e3,1)+' mil';
+  return moedaFmt(v);
+}
+function varFmt(v,id){
+  var el=document.getElementById(id); if(!el) return;
+  if(v==null){el.textContent='';return;}
+  var s=v>=0?'▲':'▼',c=v>=0?'var(--up)':'var(--down)';
+  el.textContent=s+' '+Math.abs(v).toFixed(1).replace('.',',')+'%';
+  el.style.color=c;
+}
+function bandInfo(cor){
+  return ({verde:{label:'🟢 Verde',color:'#1F9D61'},amarela:{label:'🟡 Amarela',color:'#B98A00'},vermelha1:{label:'🔴 Verm. P1',color:'#D63B3B'},vermelha2:{label:'🔴 Verm. P2',color:'#8B0000'},escassez:{label:'⚫ Escassez',color:'#1a1a1a'}})[cor]||{label:cor,color:'#555'};
+}
+function fmtDate(iso){
+  var d=new Date(iso),now=new Date(),dh=Math.round((now-d)/3600000);
+  if(dh<1) return 'agora';
+  if(dh<24) return 'há '+dh+'h';
+  if(dh<48) return 'ontem';
+  var days=Math.round(dh/24);
+  if(days<7) return 'há '+days+' dias';
+  return d.toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit'});
+}
+/* Carimbo de atualização dos dados. Fonte única: o campo `updated` do JSON,
+   nunca o relógio do visitante — dado parado precisa aparecer como parado.
+   Sempre em America/Sao_Paulo, independente do fuso de quem acessa. */
+var TZ_BR='America/Sao_Paulo';
+var STALE_MS=12*3600*1000;
+function dataStamp(fontes){
+  var iso=null;
+  for(var i=0;i<fontes.length&&!iso;i++) if(fontes[i]&&fontes[i].updated) iso=fontes[i].updated;
+  if(!iso) return null;
+  var d=new Date(iso);
+  if(isNaN(d.getTime())) return null;
+  var hora=d.toLocaleTimeString('pt-BR',{timeZone:TZ_BR,hour:'2-digit',minute:'2-digit'});
+  return {
+    hora:hora,
+    data:d.toLocaleDateString('pt-BR',{timeZone:TZ_BR}),
+    dataCurta:d.toLocaleDateString('pt-BR',{timeZone:TZ_BR,day:'2-digit',month:'2-digit'}),
+    stale:(Date.now()-d.getTime())>STALE_MS
+  };
+}
+function setEl(id,txt,color){
+  var el=document.getElementById(id);
+  if(el){el.textContent=txt;if(color)el.style.color=color;}
+}
+
+/* ── Ticker ──────────────────────────────────────────────────────── */
+function renderTicker(pld,ear,band,carga,termo,stamp){
+  var subs=(pld&&pld.submercados)||{};
+  var bi=bandInfo((band&&band.cor)||'amarela');
+  var earPct=(ear&&ear.ear_percentual!=null)?ear.ear_percentual.toFixed(1)+'%':'—';
+  var cargaVal=(carga&&carga.carga_mwmed)?(carga.carga_mwmed/1000).toFixed(1)+' GWmed':'—';
+  var score=(termo&&termo.score!=null)?termo.score+'/100':'—';
+  var fonte=stamp
+    ? (stamp.stale?'dado de '+stamp.dataCurta+' às '+stamp.hora:'CCEE · ONS · ANEEL · '+stamp.hora)
+    : 'CCEE · ONS · ANEEL';
+
+  // Cada submercado ocupa sempre a sua própria entrada — nunca agrupamos por
+  // coincidência de valor. Três preços iguais podem ser convergência real (a
+  // notícia) ou dado ausente (o defeito), e fundi-los numa linha só apaga
+  // justamente o contraste com quem divergiu. A estrutura é fixa: quatro
+  // entradas, na mesma ordem, com rótulo/valor/variação próprios, mesmo que os
+  // quatro valores sejam idênticos ao centavo ou que falte dado.
+  var SUBS_TICKER=[{sub:'SE/CO',lbl:'PLD SE/CO'},{sub:'S',lbl:'PLD SUL'},
+                   {sub:'NE',lbl:'PLD NE'},{sub:'N',lbl:'PLD NORTE'}];
+  function tkSubs(){
+    return SUBS_TICKER.map(function(d){
+      var v=subs[d.sub]||{};
+      var preco=(v.preco!=null)?pldFmt(v.preco)+'/MWh':'R$ —';
+      var cls='t-na',txt='—';
+      if(v.variacao!=null){
+        cls=v.variacao>=0?'t-up':'t-down';
+        txt=(v.variacao>=0?'▲':'▼')+' '+Math.abs(v.variacao).toFixed(1).replace('.',',')+'%';
+      }
+      return '<span class="tk"><span class="lbl">'+d.lbl+'</span><b>'+preco+'</b><span class="'+cls+'">'+txt+'</span></span>';
+    }).join('');
+  }
+  var html=[
+    tkSubs(),
+    '<span class="tk"><span class="lbl">BANDEIRA</span><b style="color:'+bi.color+'">'+bi.label+'</b></span>',
+    '<span class="tk"><span class="lbl">RESERVATÓRIOS</span><b>'+earPct+'</b></span>',
+    carga?'<span class="tk"><span class="lbl">CARGA SIN</span><b>'+cargaVal+'</b></span>':'',
+    '<span class="tk"><span class="lbl">TERMÔMETRO MWh</span><b>'+score+'</b></span>',
+    '<span class="tk src'+(stamp&&stamp.stale?' stale':'')+'"'+(stamp?' title="Atualizado em '+stamp.data+' às '+stamp.hora+' (BRT)"':'')+'>'+fonte+'</span>',
+  ].filter(Boolean).join('');
+  var tape=document.getElementById('tape');
+  tape.innerHTML='<div class="tape-half">'+html+'</div>';
+  tape.innerHTML+=tape.innerHTML;
+}
+
+/* ── Gráfico PLD ─────────────────────────────────────────────────── */
+var _chart=null;
+function renderChart(pld){
+  var canvas=document.getElementById('pld-chart');
+  if(!canvas||!pld||!pld.historico||typeof Chart==='undefined') return;
+  var hist=pld.historico.slice(-12);
+  var labels=hist.map(function(w){var d=new Date(w.semana+'T12:00:00');return (d.getMonth()+1).toString().padStart(2,'0')+'/'+d.getDate().toString().padStart(2,'0');});
+  var data=hist.map(function(w){return w.SE_CO||0;});
+  if(_chart) _chart.destroy();
+  _chart=new Chart(canvas,{type:'line',data:{labels:labels,datasets:[{data:data,borderColor:'#1456D6',borderWidth:2.5,fill:true,backgroundColor:'rgba(20,86,214,.11)',pointRadius:0,tension:0.35}]},options:{animation:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:function(ctx){return 'R$ '+ctx.parsed.y.toFixed(2).replace('.',',')+'/MWh';}}}},scales:{x:{display:false},y:{display:false,beginAtZero:false}},responsive:true,maintainAspectRatio:false}});
+}
+
+/* ── Cotações ────────────────────────────────────────────────────── */
+function renderQuotes(pld,ear,band,carga){
+  var subs=(pld&&pld.submercados)||{};
+  if(subs['SE/CO']){setEl('q-seco-val',pldFmt(subs['SE/CO'].preco)+'/MWh');varFmt(subs['SE/CO'].variacao,'q-seco-var');}
+  if(subs['S']){setEl('q-sul-val',pldFmt(subs['S'].preco)+'/MWh');varFmt(subs['S'].variacao,'q-sul-var');}
+  if(subs['NE']){setEl('q-ne-val',pldFmt(subs['NE'].preco)+'/MWh');varFmt(subs['NE'].variacao,'q-ne-var');}
+  if(subs['N']){setEl('q-n-val',pldFmt(subs['N'].preco)+'/MWh');varFmt(subs['N'].variacao,'q-n-var');}
+  if(band){var bi=bandInfo(band.cor);setEl('q-band-val',bi.label,bi.color);}
+  if(ear&&ear.ear_percentual!=null) setEl('q-ear-val',ear.ear_percentual.toFixed(1).replace('.',',')+'%');
+  if(carga&&carga.carga_mwmed) setEl('q-carga-val',(carga.carga_mwmed/1000).toFixed(1).replace('.',',')+' GWmed');
+  var se=subs['SE/CO'];
+  if(se){
+    var p=Number(se.preco).toFixed(2).split('.');
+    var bigEl=document.getElementById('pld-val');
+    if(bigEl) bigEl.innerHTML='R$ '+Number(p[0]).toLocaleString('pt-BR')+'<small>,'+p[1]+'/MWh</small>';
+    var varEl=document.getElementById('pld-var');
+    if(varEl){varEl.innerHTML=(se.variacao>=0?'▲':'▼')+' '+Math.abs(se.variacao).toFixed(1).replace('.',',')+'% vs. semana anterior';varEl.style.color=se.variacao>=0?'var(--up)':'var(--down)';}
+  }
+}
+
+/* ── Termômetro ──────────────────────────────────────────────────── */
+function renderTermometro(termo){
+  var score=(termo&&termo.score!=null)?termo.score:50;
+  var scoreEl=document.getElementById('thermo-score');
+  if(scoreEl) scoreEl.innerHTML=score+'<span>/100</span>';
+  // O rótulo nomeia o que está sendo medido (pressão), porque o substantivo
+  // carrega a direção da escala — "24/100" sozinho sugere nota ruim.
+  var nivelLabels={ótimo:'Pressão baixa · condições favoráveis',normal:'Pressão moderada · mercado em equilíbrio',atenção:'Pressão em alta sobre o preço',alerta:'Pressão forte · risco elevado de alta',crítico:'Pressão crítica sobre o preço'};
+  var nivelEl=document.getElementById('thermo-nivel');
+  if(nivelEl) nivelEl.textContent=nivelLabels[termo&&termo.nivel]||(termo&&termo.nivel_desc)||'—';
+  // Mesma faixa que o gradiente do medidor (stops em .45/.75): a palavra tem
+  // de concordar com onde o ponteiro parou, senão desfaz o rótulo do P1.10.
+  if(nivelEl) nivelEl.style.color=score<45?'#1F9D61':score<75?'#E8B931':score<90?'#E06A00':'#D63B3B';
+  var fill=document.getElementById('thermo-fill');
+  if(fill) fill.setAttribute('stroke-dashoffset',Math.round(283*(1-score/100)));
+  var needle=document.getElementById('thermo-needle');
+  if(needle){var theta=Math.PI*(1-score/100),r=82;needle.setAttribute('x2',(110+r*Math.cos(theta)).toFixed(1));needle.setAttribute('y2',(120-r*Math.sin(theta)).toFixed(1));}
+  var det=document.getElementById('thermo-detalhe');
+  if(det&&termo&&termo.componentes){
+    var c=termo.componentes;
+    var bm={verde:'Verde 🟢',amarela:'Amarela 🟡',vermelha1:'Verm. P1 🔴',vermelha2:'Verm. P2 🔴',escassez:'Escassez ⚫'};
+    det.innerHTML='<div>🌊 Reservatórios: '+(c.ear&&c.ear.valor!=null?c.ear.valor.toFixed(1).replace('.',',')+'% EAR':'—')+'</div><div>💰 PLD SE/CO: '+(c.pld_momentum&&c.pld_momentum.valor?'R$ '+Number(c.pld_momentum.valor).toFixed(2).replace('.',',')+'/MWh':'—')+'</div><div>🚦 Bandeira: '+(c.bandeira&&bm[c.bandeira.valor]||'—')+'</div>';
+  }
+}
+
+/* ── Notícias ────────────────────────────────────────────────────── */
+var ED_LABELS={'mercado-livre':'Mercado Livre','regulacao':'Regulação','politica-energetica':'Política Energética','empresas':'Empresas','transicao':'Transição','tarifas':'Tarifas'};
+function edLabel(id){
+  if(!id) return '';
+  return ED_LABELS[id]||id.replace(/-/g,' ').replace(/\b\w/g,function(c){return c.toUpperCase();});
+}
+function newsCard(n){
+  var fc=FONTE_CSS[n.fonte]||'';
+  return '<a class="card ncard" href="'+n.url+'" target="_blank" rel="noopener nofollow">'
+    +'<img src="'+n.imagem+'" alt="'+n.titulo.substring(0,60).replace(/"/g,'&quot;')+'" loading="lazy" onerror="this.src=\'https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=60\'">'
+    +'<div class="body"><span class="fonte '+fc+'">'+n.fonte+'</span><h3>'+n.titulo+'</h3><time>'+fmtDate(n.data)+'</time></div></a>';
+}
+/* Regra de exclusão entre módulos: nenhum título aparece duas vezes na mesma
+   tela. Prioridade: manchete > card visual > secundárias > grids de editoria. */
+var _usados=null;
+function _normTit(s){
+  var t=(s||'').toLowerCase();
+  if(t.normalize) t=t.normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+  return t.replace(/[^a-z0-9]+/g,' ').trim();
+}
+function _chaves(n){return [n.url,'t:'+_normTit(n.titulo)];}
+function usado(n){
+  if(!_usados||!n) return false;
+  return _chaves(n).some(function(k){return _usados.has(k);});
+}
+function marcarUsado(n){
+  if(!_usados||!n) return;
+  _chaves(n).forEach(function(k){_usados.add(k);});
+}
+function renderNoticias(news){
+  var items=((news&&news.itens)||[]).filter(function(n){return n&&n.url&&n.titulo;});
+  if(!items.length) return;
+  _usados=new Set();
+  /* (1) manchete principal */
+  var lead=items.find(function(n){return n.imagem;})||items[0];
+  if(lead){
+    marcarUsado(lead);
+    var ed=edLabel(lead.editoria);
+    setEl('man-cat',ed+' · '+lead.fonte);
+    var ll=document.getElementById('man-link');if(ll){ll.textContent=lead.titulo;ll.href=lead.url;ll.target='_blank';ll.rel='noopener noreferrer';}
+    setEl('man-deck',lead.lead||'');
+  }
+  /* (2) card visual de destaque */
+  var visual=items.find(function(n){return !usado(n)&&n.imagem;})||items.find(function(n){return !usado(n);});
+  if(visual){
+    marcarUsado(visual);
+    var vl=document.getElementById('man-vis-link');var vi=document.getElementById('man-vis-img');
+    if(vl){vl.href=visual.url;vl.target='_blank';vl.rel='noopener noreferrer';}
+    if(vi){vi.src=visual.imagem;vi.alt=visual.titulo.substring(0,80);}
+    setEl('man-vis-cat',visual.fonte);setEl('man-vis-h3',visual.titulo);
+  }
+  /* (3) secundárias da coluna esquerda */
+  var rels=[];
+  items.forEach(function(n){if(rels.length<4&&!usado(n)){rels.push(n);marcarUsado(n);}});
+  var relsEl=document.getElementById('man-rels');
+  if(relsEl) relsEl.innerHTML=rels.map(function(n){var e=edLabel(n.editoria);return '<a href="'+n.url+'" target="_blank" rel="noopener"><small>'+e+'</small>'+n.titulo+'</a>';}).join('');
+  /* (4) grids de editoria */
+  var EDMAP={'news-ml':['mercado-livre','empresas'],'news-reg':['regulacao','politica-energetica','tarifas'],'news-trans':['transicao']};
+  Object.keys(EDMAP).forEach(function(elId){
+    var el=document.getElementById(elId);if(!el) return;
+    var eds=EDMAP[elId];
+    var pool=items.filter(function(n){return !usado(n);});
+    var filtered=pool.filter(function(n){return eds.indexOf(n.editoria)!==-1;}).slice(0,4);
+    if(filtered.length<4) filtered=filtered.concat(pool.filter(function(n){return filtered.indexOf(n)===-1;})).slice(0,4);
+    filtered.forEach(marcarUsado);
+    if(filtered.length) el.innerHTML=filtered.map(newsCard).join('');
+    else{var sec=el.closest('section');if(sec) sec.style.display='none';}
+  });
+}
+
+/* ── loadData ────────────────────────────────────────────────────── */
+async function loadData(){
+  var base='./data/';
+  function safe(url){return fetch(url).then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});}
+  var results=await Promise.all([safe(base+'pld.json'),safe(base+'reservatorios.json'),safe(base+'bandeira.json'),safe(base+'carga.json'),safe(base+'termometro.json'),safe(base+'noticias.json')]);
+  var pld=results[0],ear=results[1],band=results[2],carga=results[3],termo=results[4],news=results[5];
+  if(pld) _pldData=pld; // compartilha com calculadoras
+  // Um único carimbo para a barra do topo e para o bloco "Mercado agora":
+  // se os dois divergirem, um deles está mentindo.
+  var stamp=dataStamp([pld,news,band,carga,termo,ear]);
+  if(pld||ear||band||carga||termo) renderTicker(pld,ear,band,carga,termo,stamp);
+  else{var t=document.getElementById('tape');t.innerHTML+=t.innerHTML;}
+  if(typeof Chart!=='undefined'&&pld) renderChart(pld);
+  if(pld||ear||band||carga) renderQuotes(pld||{},ear||{},band||{},carga||{});
+  if(termo) renderTermometro(termo);
+  if(news) renderNoticias(news);
+  var tsEl=document.getElementById('data-updated');
+  if(tsEl&&stamp) tsEl.textContent='CCEE · ONS · ANEEL — atualizado '+stamp.data+' às '+stamp.hora;
+  // Inicializa calculadoras com PLD real carregado
+  calcMigracao();calcPrecificacao();calcCusto();
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   CALCULADORAS
+   ══════════════════════════════════════════════════════════════════ */
+
+/* ── Helpers internos ────────────────────────────────────────────── */
+var TUSD_REF={sul:82,se:95,co:90,ne:108,n:118}; // R$/MWh referência por região
+var PC_RATES={lr:{pis:0.0165,cofins:0.076},lp:{pis:0.0065,cofins:0.03},sn:{pis:0.0035,cofins:0.004}};
+
+function getPLD(sub){
+  if(_pldData&&_pldData.submercados&&_pldData.submercados[sub]) return _pldData.submercados[sub].preco;
+  return {SE_CO:194.45,S:200.44,NE:192.94,N:194.10}[sub.replace('/','_')]||194.45;
+}
+function getPLDMedia(){
+  if(_pldData&&_pldData.historico&&_pldData.historico.length>=12){
+    var h=_pldData.historico.slice(-24);
+    return h.reduce(function(a,b){return a+(b.SE_CO||0);},0)/h.length;
+  }
+  return 290;
+}
+function brow(lbl,val,pct,cor,cls){
+  return '<div class="brow'+(cls?' '+cls:'')+'"><span class="bl">'+(cor?'<span class="dot" style="background:'+cor+'"></span>':'')+lbl+'</span><span class="br"><span class="bv">'+val+'</span><span class="bp">'+pct+'</span></span></div>';
+}
+
+/* ── Tabs ────────────────────────────────────────────────────────── */
+function switchCalcTab(id){
+  document.querySelectorAll('.ctab').forEach(function(b){b.classList.remove('active');});
+  document.querySelectorAll('.cpanel').forEach(function(p){p.classList.remove('active');});
+  var btn=document.querySelector('.ctab[data-tab="'+id+'"]');
+  var panel=document.getElementById('tab-'+id);
+  if(btn) btn.classList.add('active');
+  if(panel) panel.classList.add('active');
+  // Re-renderiza gráficos que foram criados com painel oculto
+  if(id==='reversa') calcReversa();
+  if(id==='custo') calcCusto();
+}
+
+/* ── Calc 1: Migração ───────────────────────────────────────────── */
+function calcMigracao(){
+  var consumo=+(document.getElementById('m-consumo')||{}).value||100;
+  var te=+(document.getElementById('m-te')||{}).value||420;
+  var tusd=+(document.getElementById('m-tusd')||{}).value||150;
+  var horizon=+(document.getElementById('m-horizon')||{}).value||3;
+  var fator=+(document.getElementById('m-perfil')||{}).value||1.20;
+  var pld=getPLD('SE/CO');
+  var precoLivre=pld*fator;
+  // No livre, TUSD é a mesma + encargos CCEE/ONS não estavam embutidos na TE
+  var encargosExtra=15; // R$/MWh extras no livre (CCEE, ONS, etc.)
+  // A economia vem da diferença entre TE regulada e preço contrato
+  var ecoPorMWh=te-precoLivre-encargosExtra;
+  var economiaPeriodo=ecoPorMWh*consumo*12*horizon;
+  var pctAnual=te>0?ecoPorMWh/te*100:0;
+  var outEl=document.getElementById('m-out');
+  var pctEl=document.getElementById('m-pct');
+  if(outEl){outEl.textContent=moedaK(economiaPeriodo);outEl.style.color=economiaPeriodo>=0?'var(--blue)':'var(--up)';}
+  if(pctEl) pctEl.textContent=(economiaPeriodo>=0?'':'não compensa — ')+(pctAnual>=0?'':'custo livre maior · ')+'~'+Math.abs(pctAnual).toFixed(1).replace('.',',')+'% da parcela TE ao ano · horizonte '+horizon+(horizon===1?' ano':' anos');
+  // Tabela ano a ano
+  var rows='';
+  for(var y=1;y<=horizon;y++){
+    var teY=te*Math.pow(1.07,y-1); // TE no cativo cresce ~7%/ano
+    var precoY=precoLivre*Math.pow(1.04,y-1); // preço livre cresce menos
+    var ecoY=(teY-precoY-encargosExtra)*consumo*12;
+    var pctY=teY>0?(teY-precoY-encargosExtra)/teY*100:0;
+    rows+='<tr><td>Ano '+y+'</td><td>'+moedaFmt(teY).replace('R$ ','')+'</td><td>'+moedaFmt(precoY).replace('R$ ','')+'</td><td style="color:'+(ecoY>=0?'var(--down)':'var(--up)')+';font-weight:800">'+moedaK(ecoY)+'</td><td>'+(pctY>=0?'+':'')+pctY.toFixed(1).replace('.',',')+'%</td></tr>';
+  }
+  var tbl=document.getElementById('m-table');
+  if(tbl) tbl.innerHTML='<table class="res-table" style="margin-top:16px"><thead><tr><th></th><th>TE cativo</th><th>Contrato livre</th><th>Economia/ano</th><th>%</th></tr></thead><tbody>'+rows+'</tbody></table>'
+    +'<p style="font-size:.72rem;color:var(--dim);margin-top:10px">PLD base CCEE: R$ '+pld.toFixed(2).replace('.',',')+'/MWh · Contrato: PLD × '+fator.toFixed(2)+' = R$ '+precoLivre.toFixed(2).replace('.',',')+'/MWh · TUSD inalterada · encargos extras R$ '+encargosExtra+'/MWh · TE cativo +7%/ano estimado, livre +4%/ano</p>';
+}
+
+/* ── Calc 2: Precificação ───────────────────────────────────────── */
+function calcPrecificacao(){
+  var sub=(document.getElementById('p-sub')||{}).value||'SE/CO';
+  var tipo=(document.getElementById('p-tipo')||{}).value||'conv';
+  var spread=+(document.getElementById('p-prazo')||{}).value||0.25;
+  var vol=+(document.getElementById('p-vol')||{}).value||100;
+  var pldAtual=getPLD(sub);
+  var pldMed=getPLDMedia();
+  var incPremio={conv:0,i5:0.02,i50:0.08,i1:0.12}[tipo]||0;
+  var piso=(pldMed*0.82)*(1+incPremio);
+  var mid=pldAtual*(1+spread)*(1+incPremio);
+  var teto=(pldMed*1.42*(1+spread))*(1+incPremio);
+  function fmt(v){return 'R$ '+numFmt(v,0);}
+  setEl('p-piso',fmt(piso));setEl('p-mid',fmt(mid));setEl('p-teto',fmt(teto));
+  var tipoLabel={conv:'Convencional',i5:'Incentivada I5',i50:'Incentivada I50',i1:'Incentivada I1'}[tipo];
+  var prazoMeses={0.18:'12 meses',0.25:'24 meses',0.32:'36 meses',0.40:'48 meses'}[String(spread)]||'—';
+  var custoMid=vol*mid;
+  var det=document.getElementById('p-detail');
+  if(det) det.innerHTML='<div style="margin-top:14px;font-size:.85rem">'
+    +brow('PLD atual ('+sub+')',pldFmt(pldAtual),'','#1456D6')
+    +brow('PLD médio 24 semanas',pldFmt(pldMed),'','#7A2FBF')
+    +brow('Prazo contrato',prazoMeses,'','')
+    +brow('Tipo de energia',tipoLabel,'','')
+    +(incPremio>0?brow('Prêmio de incentivada','+'+(incPremio*100).toFixed(0)+'% sobre conv.','','#1F9D61'):'')
+    +brow('Custo mensal ao valor típico','R$ '+numFmt(custoMid,0),''+numFmt(vol,0)+' MWh × R$ '+numFmt(mid,0)+'/MWh','','btot')
+    +'</div><p style="font-size:.72rem;color:var(--dim);margin-top:8px">Piso = PLD médio × 0,82 · Valor típico = PLD atual × (1+spread) · Teto = PLD médio × 1,42 × (1+spread). Não constitui oferta ou cotação oficial.</p>';
+}
+
+/* ── Calc 3: Custo Total ─────────────────────────────────────────── */
+function calcCusto(){
+  var consumo=+(document.getElementById('c-consumo')||{}).value||100;
+  var preco=+(document.getElementById('c-preco')||{}).value||280;
+  var regiao=(document.getElementById('c-regiao')||{}).value||'se';
+  var icmsRate=+(document.getElementById('c-estado')||{}).value||0.17;
+  var regime=(document.getElementById('c-regime')||{}).value||'lr';
+  var pc=PC_RATES[regime]||PC_RATES.lr;
+  var tusd=TUSD_REF[regiao]||95;
+  var perdas=preco*0.082;
+  var tust=10.50,ccee=7.20,encargos=24.80,ons=2.80;
+  var subtrib=preco+perdas+tusd+tust+ccee+encargos+ons;
+  // ICMS por dentro: valor_com_icms × alíquota = icms
+  var icms=subtrib*(icmsRate/(1-icmsRate));
+  var pis=subtrib*pc.pis,cofins=subtrib*pc.cofins;
+  var totalMWh=subtrib+icms+pis+cofins;
+  var totalMes=totalMWh*consumo;
+  setEl('c-total','R$ '+numFmt(totalMes,0)+'/mês');
+  setEl('c-por-mwh','R$ '+numFmt(totalMWh,2).replace('.',',')+'/MWh efetivo');
+  var cores={'Energia (contrato)':'#1456D6','Perdas rede básica (8,2%)':'#5B8DEF','TUSD transporte (fio)':'#00C4B0','TUST transmissão':'#00A896','Taxa CCEE':'#7A2FBF','Encargos setoriais':'#B43DFF','ONS + P&D':'#C71E63',['ICMS ('+(icmsRate*100).toFixed(0)+'%)']:'#D63B3B','PIS + COFINS':'#FF7A00'};
+  var vals=[preco,perdas,tusd,tust,ccee,encargos,ons,icms,pis+cofins];
+  var labels=Object.keys(cores),cs=Object.values(cores);
+  var html='';
+  for(var i=0;i<labels.length;i++){
+    html+=brow(labels[i],moedaFmt(vals[i])+'<span style="color:var(--dim);font-size:.76rem"> /MWh</span>',(vals[i]/totalMWh*100).toFixed(1).replace('.',',')+'%',cs[i]);
+  }
+  html+=brow('CUSTO TOTAL / MWh','R$ '+numFmt(totalMWh,2).replace('.',','),'100%','','btot');
+  var bd=document.getElementById('c-breakdown');
+  if(bd) bd.innerHTML='<div style="margin-top:4px">'+html+'</div><p style="font-size:.72rem;color:var(--dim);margin-top:10px">TUSD de referência para a região selecionada. Perdas básicas ~8,2%. TUST R$ 10,50/MWh. CCEE R$ 7,20/MWh. Encargos setoriais (CDE, PROINFA, RGR, P&D) R$ 24,80/MWh. Tributos pelo regime selecionado.</p>';
+}
+
+/* ── Calc 4: Conta Reversa ──────────────────────────────────────── */
+var _reversaChart=null;
+var BREAKDOWN_SEG={
+  ind:[0.46,0.28,0.26], // energia, fio, encargos (fração da base pós-tributos)
+  com:[0.40,0.32,0.28],
+  bt: [0.34,0.34,0.32],
+};
+function calcReversa(){
+  var valor=+(document.getElementById('r-valor')||{}).value||50000;
+  var seg=(document.getElementById('r-seg')||{}).value||'ind';
+  var icmsRate=+(document.getElementById('r-estado')||{}).value||0.17;
+  var regime=(document.getElementById('r-regime')||{}).value||'lr';
+  // Tributos por dentro: ICMS é calculado sobre o total
+  var icms=valor*icmsRate;
+  var pc=PC_RATES[regime]||PC_RATES.lr;
+  var pisCofins=valor*(pc.pis+pc.cofins);
+  var tribTotal=icms+pisCofins;
+  var base=valor-tribTotal;
+  // Divide base em energia/fio/encargos
+  var prop=BREAKDOWN_SEG[seg]||BREAKDOWN_SEG.ind;
+  var energia=base*prop[0],fio=base*prop[1],encargos=base*prop[2];
+  // Renormaliza para garantir soma = valor
+  var soma=energia+fio+encargos+tribTotal;
+  var scale=valor/soma;
+  energia*=scale;fio*=scale;encargos*=scale;tribTotal*=scale;
+  icms=valor*icmsRate;pisCofins=tribTotal-icms; // re-proporciona
+
+  var labels=['Energia','Fio (TUSD/TUST)','Encargos Setoriais','Tributos (ICMS+PIS/COFINS)'];
+  var vals=[energia,fio,encargos,tribTotal];
+  var cores=['#1456D6','#00C4B0','#B43DFF','#D63B3B'];
+
+  var canvas=document.getElementById('reversa-chart');
+  if(canvas&&typeof Chart!=='undefined'){
+    if(_reversaChart) _reversaChart.destroy();
+    _reversaChart=new Chart(canvas,{type:'doughnut',data:{labels:labels,datasets:[{data:vals,backgroundColor:cores,borderWidth:3,borderColor:'#fff'}]},options:{animation:false,plugins:{legend:{position:'bottom',labels:{font:{size:11},padding:10}},tooltip:{callbacks:{label:function(ctx){return ctx.label+': R$ '+numFmt(ctx.parsed,0)+' ('+( ctx.parsed/valor*100).toFixed(1)+'%)';}}}},cutout:'58%',responsive:true,maintainAspectRatio:false}});
+  }
+  var html='';
+  for(var i=0;i<labels.length;i++){
+    html+=brow(labels[i],'R$ '+numFmt(vals[i],0),(vals[i]/valor*100).toFixed(1).replace('.',',')+'%',cores[i]);
+  }
+  html+=brow('Detalhamento tributos','ICMS: R$ '+numFmt(icms,0)+' · PIS/COFINS: R$ '+numFmt(pisCofins,0),'','','');
+  html+=brow('TOTAL DA CONTA','R$ '+numFmt(valor,0),'100%','','btot');
+  var bd=document.getElementById('r-breakdown');
+  if(bd) bd.innerHTML='<div style="margin-top:14px">'+html+'</div><p style="font-size:.72rem;color:var(--dim);margin-top:10px">Decomposição estimada por proporções típicas do segmento (AT/MT industrial). Valores reais dependem da distribuidora, subgrupo tarifário e regime de contratação.</p>';
+}
+
+/* ── Newsletter Brevo ────────────────────────────────────────────── */
+async function subscribeNewsletter(e){
+  e.preventDefault();
+  var email=document.getElementById('nl-email').value;
+  var msgEl=document.getElementById('nl-msg');
+  var btn=e.target.querySelector('button');
+  btn.disabled=true;btn.textContent='Enviando…';
+  try{
+    var res=await fetch('/api/subscribe',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})});
+    var data=await res.json();
+    if(res.ok){
+      msgEl.textContent='✅ Confirmação enviada para '+email+'. Confira sua caixa de entrada!';
+      msgEl.className='nl-msg ok';
+      document.getElementById('nl-form').reset();
+    } else {
+      msgEl.textContent='⚠️ '+(data.message||'Erro ao cadastrar. Tente novamente.');
+      msgEl.className='nl-msg err';
+    }
+  }catch(err){
+    msgEl.textContent='⚠️ Erro de conexão. Tente novamente.';
+    msgEl.className='nl-msg err';
+  }
+  btn.disabled=false;btn.textContent='Quero receber';
+}
+
+/* ── Menu + Tabs init ────────────────────────────────────────────── */
+function menu(on){document.getElementById('menu').classList.toggle('on',on);document.getElementById('backdrop').classList.toggle('on',on);document.body.style.overflow=on?'hidden':'';}
+function toggle(id){document.getElementById(id).classList.toggle('open');}
+
+document.addEventListener('DOMContentLoaded',function(){
+  // Calc tabs
+  document.querySelectorAll('.ctab').forEach(function(b){
+    b.addEventListener('click',function(){switchCalcTab(this.dataset.tab);});
+  });
+  // Carrega dados + inicializa calculadoras
+  loadData();
+});
+</script>
+<script data-goatcounter="https://megagrid.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script defer src="/_vercel/insights/script.js"></script>
+</body>
+</html>

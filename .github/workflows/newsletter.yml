@@ -1,0 +1,37 @@
+name: Megagrid — Newsletter Semanal
+
+on:
+  schedule:
+    # Segunda-feira 11:00 UTC = 08:00 BRT (UTC-3)
+    - cron: "0 11 * * 1"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Modo teste (monta o e-mail mas NÃO envia)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    name: Montar e enviar newsletter
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Enviar newsletter via Brevo
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ secrets.BREVO_LIST_ID }}
+          DRY_RUN:       ${{ github.event.inputs.dry_run }}
+        run: python scripts/send_newsletter.py

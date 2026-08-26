@@ -1,16 +1,41 @@
 {
-  "updated": "2026-08-25T18:43:43Z",
+  "updated": "2026-08-26T12:26:19Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_90790",
+      "titulo": "TCU vê governo fazer anúncio de políticas energéticas não instituídas",
+      "lead": "TCU vê governo fazer anúncio de políticas energéticas não instituídas",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNandHTW1PeV9kN2NJYnFENmVyUXdVekdZa3NUWklnT0tja0lEVnJhOXZvSEdyTWF3dW8wVjFVczRuSEpCSEtjSkh6MDVSand3Xzd6ckFUcnVwdHdtN3pxNjJLUkNIZ2k1NGxmbnBBanRfWVFoeVdjQlhsYmJRaWdWTFI4M1F3d0tDMV9XYmtIWEFlMzM5U25JUFNmX090ckRnOFZoSUlhZFRfcUtEVmt1Tjdn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-25T23:02:33Z",
+      "dominio": "www.poder360.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "tarifas_48640",
+      "titulo": "Conta de luz no Ceará terá redução de 6,65% a partir desta quarta (25)",
+      "lead": "Conta de luz no Ceará terá redução de 6,65% a partir desta quarta (25)",
+      "fonte": "CN7",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYk8ydUIzTWFqMjdpb05IZXIxdnBUWTZLeHU4QWF6a2g1NmJKXzZ5WE9rMGp3WjhsVFhtSUhTZVBfMVlrUU5NaG5uYzdiUmFsZzBSUGdzSlZJcFZPbndkOVdHdEc0b3RhY2dvcE1XWDFSQXdCLXMxMHUxZVlvUzlaaVJESEo4N0hNSlpTSXdNUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-25T20:40:00Z",
+      "dominio": "cn7.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "regulacao_68404",
       "titulo": "Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26)",
       "lead": "Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26) www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbzFRVjJiSTRTSXJMOVlfdHdVY21DSElEbWRsLVpybF9EUV91aFgwd1h2eEYtVFI5eUd2TzNqQVN5RUZfNGpicDUtUkU4NmJjeUtIRTVjZ1QtdnF3STdMUVE0ZlRrRDFrOWltLW5XSEowX0Q1ZGRvQUc1OVh3TFFGVFVGN3Z5N3Q0YUtPYmRxckc0NmhVbGJTLVdOcndqdGFrQ1VuODM2eTBNLU1odHEyTUdxMjM1TlJfR1VLT0Q1WWRsU1NLeDVMQmxYcnNrdTVyeTBDTEJRZVMxSnhlR2c2OF94SGJoM0dYY3dLNzZxNkw5WmdlUmxIcGdyU0o?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1768213022263-0414dc145dfd?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-25T18:02:28Z"
+      "data": "2026-08-25T18:02:28Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_56009",
@@ -18,9 +43,22 @@
       "lead": "Absolar cria agenda para próximo governo com foco em solar e nas baterias",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEVJZzJ6bVVlbDBjd0lwTDJ6ODBoaU9Ld192TTVFb2c2X2JYTi1nSkZidDRqcnN4WGoxd3otUGhwTml4d1NXMVlRMUVOZ01xYkpsNlpOZ0sxay1jcFpVZnI4NEhyZnJSU1N1QzRzREo0WGhTTXJGbUh6YUUyZmNmTXRuSWNRbTVlc2dMUjdWTGFqbGxIcVYzUGdtMW9Na3JIUTMwYkItclB4Y2xsT3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-08-25T17:48:45Z"
+      "data": "2026-08-25T17:48:45Z",
+      "tema": "solar"
+    },
+    {
+      "id": "regulacao_82636",
+      "titulo": "Aneel avalia incluir hidrelétricas e térmicas no rateio das baterias do LRCap",
+      "lead": "Aneel avalia incluir hidrelétricas e térmicas no rateio das baterias do LRCap",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcXZaQ3cyeFoyTGtsVHJfWUpxcFhSdy1pSFRLODgxeTRNcnM5SEZ0NDdjdldqbXBSQkpOZUtlOS1JN1V2dXZrY3pJanBhajRuMmN6WlZnaUJHWlBvUzhxdFVoSUdMTmkwQUJXT2lIbGFkZ2p1WGxCR0NOWTd1Q2FUcnhGaGN5X09HSXhxRU1qRWF5Rk1WN21hNnAwRnp2YmIzTFVwR2tvMVZXVFNZY3V2UTNlbVc1UjBHSEtWSw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-25T17:42:03Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "regulacao_94638",
@@ -28,9 +66,10 @@
       "lead": "Autorizada transferência de controle societário da Transnorte para a Axia — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUklYZTQtdjdpcXJHR1MxdVBJQXN6TC1pdmN6MVN3TXFJMzdOOWkwRUd5R1o1NmNLa1kzaG1NQ0YzbDJqLVcxa2Z3ckk1ZjlNR0l5a1BOT2h6dWhfMWIzdUdpN1F6Tjk5YUZHN0paeUg0UEtScFF5YnM1cnN4SjZfTXZVMkZkQ1BQa1BpeU9sOXNyWUNzMml5aEd1WV9YSTZjN1FUcHo5YzRqNkFKVWh4NzdGa25URXJja25pZ0RXRmRIVi15SzY2VGhFZVB1VnVLOGFITnYyb3hkUzNx?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1435527173128-983b87201f4d?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-25T17:24:47Z"
+      "data": "2026-08-25T17:24:47Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_82053",
@@ -38,23 +77,14 @@
       "lead": "Aneel abre consulta sobre \"teto\" para subsídios na conta de luz",
       "fonte": "CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWF82Rkw3QnlKblRLRFh0OC1iekhKbU4xMVpaSWlodnZyOFRhQV94UEF6cEpnUnROSXhFY3JJSFJJcWRDbGdMVUpQSmdrNU1taWZ2b2tpMlVubWNkei16bUc4aTNwTmpjdTJJQ0puaFBYMWRpeHVnVWtCdF91V1Qwak41a183RGlnN2tZSm1UcGtJQWQtZ2JGVXJaWTRqdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-25T07:30:49Z",
       "tambem_em": [
         "Valor Econômico",
         "Brasília Alta Frequência"
-      ]
-    },
-    {
-      "id": "transicao_906",
-      "titulo": "A EVNNPC integra o sistema de armazenamento de energia em baterias (BESS) à rede elétrica, adicionando uma \"válvula reguladora\" para a carga no Norte. - Vietnam.vn",
-      "lead": "A EVNNPC integra o sistema de armazenamento de energia em baterias (BESS) à rede elétrica, adicionando uma \"válvula reguladora\" para a carga no Norte.",
-      "fonte": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUFOeTIzSGw1SVlHbXYxUkg5dC1mZFdjNUlPOTBiWUduN25lWXE4MTN1RFh5LXZyRUVyOXdGcFR3dlJvWm9jLWFSX2ZTWGxEclpucVhnMDBWYWJiNUdYeGlfMGl1R1RnY3YzR0NsY1RIdVR1LVRqaUtublRSal93eDNlMV80TGdiVG5SeDVOemY4cFdGdXIyMkgwNA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-25T06:35:21Z"
+      ],
+      "tema": "consumidor-residencial"
     },
     {
       "id": "regulacao_31839",
@@ -62,9 +92,34 @@
       "lead": "Aneel nega perícia pedida por Enel SP e fala em \"desrespeito\" da empresa à regulação",
       "fonte": "Terra",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVm9tYmFBR0w3b3pyOUxoUVNLeVZ0ZGRwdllLdjdldFFWVjU0T0JkaXVuTWI0UW9MRDQwNEhlWFZ5eHB1bmw2aFFCMWJkVVJkTUw1S1NFSVlhdHNiOTE4eHBVYl8xX1pFaDAyMU0yV0tibTZJbnVSTXRDUXNRR1p0UUlZZ3Z5LUpoVTJoU3RIQ3d2VlJWV2N4RXNwZ1l1MTVIQVBacGZFRElnUTVLSUFNd1VuNVZ5bDhLV3l6elZESHRqeGU1eVN3M29wdDJWZWthbDh4QjJJVHNhY1dUQVB3TzQ0WGxFN2tQME1mNWxmWTA2UHZj?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-25T04:17:00Z"
+      "data": "2026-08-25T04:17:00Z",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_33439",
+      "titulo": "6º Energy Storage Brasil coloca investimentos e regulação em debate em São Paulo",
+      "lead": "6º Energy Storage Brasil coloca investimentos e regulação em debate em São Paulo",
+      "fonte": "Gazeta da Semana",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdGx1M3l5cjFUNmdnUTlQM3NwZTEyUnhyY0lWSzdNcnp2ZUpoYkg4YnE3dk9kVW01UW1NVmlIRzhKVzl1MkVQcHFPRURtNDc2aVNRMjVhdnZhNlpsUWpFSk9XTi1JNUtwbjFaeVZ5UmZ6TDFwRkNabmhabnF2VHFOc1RMQW9WZHBobTVHVk41bnF1Nzk0OGk0bU1nczBKeTdBV3VISzc2ejFVT1BGWE96T0w1aF9reW1OQi16aHZJbHdFZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-25T01:01:58Z",
+      "dominio": "gazetadasemana.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_47255",
+      "titulo": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
+      "lead": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
+      "fonte": "Portal Revista Kdea 360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWdFOWtXX3UxNHpmdmhrYnZtQmNLZEpOajNHbUV3aFRSdUk2Yl9XMzh1RnBXM3ZYTTYwRXpDSmlmaXREelpkU0ZMYmZBUnVZY3p5bDlLX2VDR0lnLXQ2ZlhUTVgtb0s5YjJvYXZjZC11c2ktNmxJSzJtdlhlam1zaEtwcU5rNXV3dy1JZWVaVlBxYmhNX3ltZGJXWjU3SENzRTdaQWR1N2swRlo5dThINUpn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-08-25T01:00:03Z",
+      "dominio": "revistakdea360.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_80786",
@@ -72,9 +127,10 @@
       "lead": "Flávio diz que leilão de energia de Lula penaliza mais pobres",
       "fonte": "Poder360",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTYyb0ZpS0lGVWVoVzZxSHVqQzluSTZFU1dhZ3JLeGFkZ25RUzB2WERnZ3BLUFlHUGVpY0Q5ZWMtSE05YlpSNjZmd1lLMTd5Nk9zSHpNZkt6ZnVYRzVkcmhkdlQzN0FMOEgxdlp3bTFqSjdnZmMtcGNLcnVQNm9lMHVfZzVuOVN4VFM2amFEcUxuWVhjTmNNd1p3MGh4MDY5c3R4S2g1Qm84V2tKTVRz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1762246433096-1814033d4679?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-25T00:07:13Z"
+      "data": "2026-08-25T00:07:13Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_22294",
@@ -82,9 +138,10 @@
       "lead": "ANEEL nega pedido de prova pericial feito pela Enel Distribuição São Paulo — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSi1WclNDYjZTYzU0UkdwZ0VsVXZGeEc0V3FZLUhzaWJEZFVaZWlVMjFMUk4tU1B6NC1mLURpOEdFMHZVRkVIYXA1UzU2a0k1c0h2Z1MzOUJlc1pyUmVoeTR2UGQyRWJQcTlGT012SDk3ZHFEbHFVU0hCOHFUcV9hOTRzeXo1V1RkVWQzZW93NlhVOTlJQm9kX2JjOXZIQUZNVWs3cHBBcHdIc256WTZqcjhUNXcycDJkVjIzQU1LYmZmbDBQcnZxa0toeHVOa1cyZ2dkRHVFTHRNNkU5c3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-24T20:01:00Z"
+      "data": "2026-08-24T20:01:00Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_62698",
@@ -92,9 +149,10 @@
       "lead": "CCEE e ONS consultam setor sobre novo software para despacho e formação do PLD",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUk5YmtkY0M5ZDl4X2VEVzNqMVlCUGM5Q2dSTEt2LWs5c1cweElXM2o2SFNicVRmUTJhbVIyRnhsWVZmaldFZjNka1JLUkRxVmo1SXFmZDRYblN0c3VqQW5RQU1xYXh0M0NOaFlhYUtZa2xpa2lDbEZtTVAxZzQ3bHpOdmVsV3E0blQ2amNrdk9vbzRpdTZUbFBBNE13OFBIUER2WU02bHh3LWNpUkRpTGhzVl9vM09PMTk0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-24T19:08:40Z"
+      "data": "2026-08-24T19:08:40Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_8029",
@@ -102,12 +160,13 @@
       "lead": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXA5ME91Yl9YUVY3OVRsalNsYWk3VzIxaWxzc1NhZzh3OXVFOUJxcE9pbm8wMVFaOWJkNWh1RDJNTXdsR3A0SlE5S0pxbVBDN2J3SWFwNk9jMW5zZm9CQW95SThUU00wTFp2b0ZOM0NZSzFhcmJ3bGlUTUZFMm1GZ3N3RG81VjBiWVBHZnlGZ05OY2doVWo2anpWVnhKVzVlcFZqODRxcjB4OW8wTF8ySzByM2Voc3IyWDh1MGlDZldSR0JscW5qcGRPVHBUdDdKaEVuUw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-24T19:07:00Z",
       "tambem_em": [
         "VEJA"
-      ]
+      ],
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_24627",
@@ -115,9 +174,10 @@
       "lead": "MME abre consulta sobre regras de comercialização, armazenamento e mercado livre de energia www.gov.br",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWtiOV85YWhsTDFyZFFua0xhZmoyUkxicUNqNmZZaWZXcU02LTUycFZHNzYwM25GODdRSDgwTXZGN2xtQUtJM0p6TjFDLS1uRjYxdEs0RjZEY1VNR2Q3dWw1eW51NzQyMmVYWEdRZm0temlxMmZSRlBrenQ1SkNlTDRmZGRvMHUxWWd3NmgwSlM3WTR2SktCMU4zcHU2a3AwMm41ZWExMFlMZFY5YmJjRU5VT0toaUtMY29JMllTMmdXRElGa3IwaTUybmxqXy1xdGdZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1494961104209-3c223057bd26?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-24T18:53:00Z"
+      "data": "2026-08-24T18:53:00Z",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "regulacao_27937",
@@ -125,9 +185,10 @@
       "lead": "Teto da CDE: Simulação da ANEEL indica corte de 44% no subsídio à MMGD e de 11,6% em fontes incentivadas",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2QzUkNBaWJxXzBzWlNhTHZpWW12S3RLMm9DZzFqRlRpWE9XRlplanZDbU9oeC1xMmJ2QjAxYWlTUGJlc2tnUWF2Mzc3d2VWVGl1WWg3VzVVZ1RZN3VtZF9xWTZYem1FS0wxOWpQRHVEc3ppY25wWEN3SWg5aTJYUXVGbzRyMUlnTVJzWmttcTF5SzEzeGdiQlExMENFSVdaekZWV0g2dUdiTFpRM3lNUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-24T17:41:44Z"
+      "data": "2026-08-24T17:41:44Z",
+      "tema": "solar"
     },
     {
       "id": "transicao_34241",
@@ -135,9 +196,10 @@
       "lead": "Aneel mantém tarifa provisória da Pacto enquanto decide sobre bateria",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM19COXItcThyekZXX2txbldjazRxVGprSURzUnB1MjcxSE41R2xDWWdvNklfVlZVMHdQQ1RsT0pCNDZ1VzhpVE9JU3ROYTZfSTdfVHgwTXlHTVo0NFlCZTNZSldOYUItYzlMRkZnaXNLN3JEeWN2MVhiSGZkUlV1WHUtNXVjdk1TcTAxeE1zQzJhckx6YjZ0Q09iOWJOODBFWjY0Z0lOUlo3Y2RJbmRqWFM3bjVWSldpelBXd2ZnYU1nYS1CX0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1548337138-e87d889cc369?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-08-24T17:04:42Z"
+      "data": "2026-08-24T17:04:42Z",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_16899",
@@ -145,9 +207,10 @@
       "lead": "CCEE e ONS abrem consulta pública para estruturar modelo energético que substituirá NEWAVE e DECOMP",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzIzWTZXV2ZUTzAtcW5kMVpkY1ZJenlVUDZvNGhodDJGWGcxQ1pzYnY1b0MyWHNTWkgtRF9panR1TERPeTZmRVlZZmdJT1FfRHliRVFtZ2cyX2dnLUk4VTJYM1NOaHhSLUxrUk4zcDNub3E3RnFmcGpLbEt5TmNGT3ZiU09vVWlZWF9RQ04yUkFPQ2NvV2xxc0tIOVd2ZWxRQkpONnRGYw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-24T17:01:38Z"
+      "data": "2026-08-24T17:01:38Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_26193",
@@ -155,9 +218,10 @@
       "lead": "Teto da CDE reduziria subsídio à MMGD em 44% se já estivesse vigente em 2026",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeC1JMTRTOUJYT25WbTdlbVdBR2Zxd1dzU203cjc3dTJsN3pjRVUxeWE1Ukk0YzBnUE9ZcURLclNfdXRpRzloMDlZS2VCa2dKSUM5VEZEVEIwWmM4MVR1R0pWek1xTk95dUlCcWdNRHE1VEtzUy1iSW1uWHprTUdaVkktWnBEYVFYa25aS3ZZSVV5b1NoWGx3eGNoSXlEYmh4QW9EV0lRMVJpU19Ea2F0Y1loOUotUUFyYXNxZ3NTeTlZZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611365892117-00ac5ef43c90?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-08-24T17:00:25Z"
+      "data": "2026-08-24T17:00:25Z",
+      "tema": "solar"
     },
     {
       "id": "mercado-livre_26957",
@@ -165,9 +229,10 @@
       "lead": "Ceará avança no mercado livre de energia e ocupa 7º lugar em migrações no Brasil",
       "fonte": "Mais FM Iguatu",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVhkUjhTRlNQbjNhS001LWNUNTBvYUw2N21qVU5lZU9hX0tiMW1GQUlpa2I3bUlveWp3bjFnRzlxOTJTMVZzVUlRdUtlb2NWanh5TVhBS2tXT0dSSDZiclJSWl9vMFJ2NWRaRWUyeXF2WFlwM2tlMFloWEtlTm1ZRmpURnhZdXZHVmYtbXpKZHg3RkVkWnhORTdWbU13U3hyZXc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-24T16:48:17Z"
+      "data": "2026-08-24T16:48:17Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "regulacao_86761",
@@ -175,9 +240,10 @@
       "lead": "Pacto Energia tem novas tarifas de energia elétrica aprovadas pela ANEEL www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeUgyMVAxSnBKOEZvTzBVLWhpRTYza0w1UzhrMHBIYUYybXlMNWFJTDlOcWdLaWNuMlZ3ZXlTVlN5OEthQ0NybGo1akl2dVdMVE84Wkh4TlVTLVc3bjJub1c0XzV0N2hkX19kMUJRdkVxUF9hWGhNZE5mX28tRHpYTkJOM3E4emxrS2M5QzB2YzlqMnZhMV9UY1dqTHdtOHpJUnEwdmNzXzhoMTBMTnh1RnFyZXlNeFFwdmNaMjZ3b3I0S3cxS3VIVVMzZm9zVkhzU3ROcnNtaHA0TWM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-24T15:56:32Z"
+      "data": "2026-08-24T15:56:32Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_55684",
@@ -185,9 +251,22 @@
       "lead": "Lula e Flávio citam renováveis e baterias; setor cobra propostas realistas",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTFUQUdfdENOWUc5OTdEOEFGbmJ3NFFRV2FVNkxRZWdJelNtUXFvbm9ZQ29BN2dmWTRiU0NCSzQ5Z0VTV2J1R3JVZWJSSWlyd1J5WGF5c2hoREhMeWxLa3ZuUUwyU3I3NWJNbmdaMEZRZ21SdWtxX1dEa2VlYy1YMEVxYlZHcy1uREFrcTJyR2owSFpGMGtQb0JvR1hBTzdKMmtXd2lWcw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-08-24T15:00:00Z"
+      "data": "2026-08-24T15:00:00Z",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "empresas_6274",
+      "titulo": "Taxa de fiscalização das comercializadoras poderá ter cobrança retroativa",
+      "lead": "Taxa de fiscalização das comercializadoras poderá ter cobrança retroativa",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPazhaZ3loVG9fVVdYQTFmVzVuZ2RjSktFMmFFMHNydUpFV2xqcU9wVXUxSlRQcUdhVjVaRE1wcF9hSHp1eHhEVXdfNnlqTHNIUHR2UTFwUXZwVEtRalNHOTdoOFZqWFNuUGNfU1NRS19rY1d2U1ZCandveGlMOWJjSmswN0pObUNXemlUT1hSRkJhbG11ZVV2cFZFRG5SY1VKMUplUmh1eW9qb3JxbzhCS3JOdl9yQVh1dy0tVGFGWQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1543304376-1ae7c2be5e59?w=600&q=70",
+      "editoria": "empresas",
+      "data": "2026-08-24T14:54:36Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "industria-generica"
     },
     {
       "id": "regulacao_97987",
@@ -195,12 +274,13 @@
       "lead": "ANEEL aprova Reajuste Tarifário Anual da Equatorial Maranhão — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVHZoZF9XVlFVbjlDU0FuVzkzWWNObG5jR1RnSDFpQ19mdk05emZkYjBraVNZRzQ4MF9EcVpvdWRTczVVaG9nYndnanpkYUNycDB6R3VkOVJDZzRLLWp1VWd6Z0NBRlZKdzdlRm1wSFpfT210aVVmWHBWb0N1dUhvOTczSWsySE5aMjY1NGc0dDVrb0VleF9xX3dZTUt4c09abk9jaVhsRXd2NU9NZHNaWGU1b1AyNVZjclU0MjZuenRZUlhWQ0lxQnlYUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-24T14:36:00Z",
       "tambem_em": [
         "ANEEL"
-      ]
+      ],
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_81094",
@@ -208,9 +288,10 @@
       "lead": "Regulação do setor elétrico: Aneel dá aval a mudanças acionárias em transmissoras",
       "fonte": "VEJA",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX240TjBkZ3pIZ0IzTWJvMGQwblNZalBzQXFEUGtHeC1PaGRIOG9tMnljSmtod0hWV2JNUHVwUFhUMDZFMUtIejF6cFk0MGxfZHpuZWRZY2pvVjdjamJSczUyRENPQjlWOHRqYkZnVjlEZ2hmMUNuN1JFWEZNdTQ0U3RCY2tsVElLNjYxd1Fhb3U2ZGhyaU12clhuYXFhaWpJMjkyN2xiYjlIc0Q0N3N4OGwtWVA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1768213022263-0414dc145dfd?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-24T14:02:53Z"
+      "data": "2026-08-24T14:02:53Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "politica-energetica_18843",
@@ -218,9 +299,10 @@
       "lead": "MME abre consulta sobre PLD, liquidação semanal e flexibilização da contratação",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDh1RWJTanktUDJpekN0SXB0dVVBemFiUUVLekNORmNXQkpubExNNVFXcHlBcWxKNXRCS0pFTUVmeEgyaFpNZEMza0JnRC11dUxIbW5iNG5nZV9JNGdINGtyZVR1TlNVSTNHUEtlWk01SktFZHJqd05PZy1qR01qYi1NeW1YN1hva1RXdlRhd2hFcTZuOGhNZXFvUFBwbTZ4U1RaQ0ZHQWhzRHA5RU5wTzI4aFl0YTRndk1fbzJmMnZoMl9oUXc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "politica-energetica",
-      "data": "2026-08-24T13:36:24Z"
+      "data": "2026-08-24T13:36:24Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "regulacao_39933",
@@ -228,9 +310,10 @@
       "lead": "Fazenda libera R$ 268 mil para Aneel em meio a impasse orçamentário",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSER2RHgxQlhYaFkzSHZsNkZSRDZUdk1wbm5NVUpwNUd1M08yQm5oVGlzcS0wbXZCZk5zM3NGdWlpRVVJNi0zcnZIQjFVN19wQnA4dGJ1MTJtYzN4WU5RLVRVN3c4ZzAyd1VCWmJhanFBSjR0NHRsWEpzLVVEZ21ianRtNUNvc1NIckdaWUZoRGVkbWZHUXNhS2pvV0FhRTMzLTIxcnNab0w?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-24T12:13:41Z"
+      "data": "2026-08-24T12:13:41Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_2356",
@@ -238,9 +321,10 @@
       "lead": "ANEEL anui transferência de Controle Societário Direto e Indireto de concessionárias de serviço público de transmissão www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNU28tbDYwVGx2QjQtcFRndjU1UGxfSE5hNVBnZXV0V05tdDZIdE9oaW9la3ducTlXcnRFb2YyblQ1SG43Y1BjWGlVcWwtTmVOekZkeHRaQm5vaUJxMXlZRk13TXdGVmd5MG1vQldoWDBXUlVTZUtEMnEta0V5MXZsQ3ROaXY2bE9LeFhTUjc1YlRFNHo4Mzh4cExnNElmUnd0M09mdlY0czhLSldNbFk0QXFfUFZCeDF5ZmNWNS11LUU0RDVldHRseVF1Q0JzUU9VdVlDQ1U1eFp2M1hmTWZURWFqazVYdUk5QWZwOEZEdnVOMEtMSXVDYTdtamlMc1FZLVRsYk1XbHJtRTlGNG5TZ01RRFdqMXQ4?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509389807183-f0fbe962761a?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-24T11:57:22Z"
+      "data": "2026-08-24T11:57:22Z",
+      "tema": "transmissao-rede"
     },
     {
       "id": "mercado-livre_81064",
@@ -248,9 +332,10 @@
       "lead": "O ônus do consumidor mato-grossense",
       "fonte": "MidiaNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckpwdHdta2ZBajItUVdnc0hfUjZMOFF2THpnbDJZdEt0S1lVYzhpLTAwVlJwQ2hwR00waEVUMTg5NkhYM3ZNb3lpQVlHYlNUTGJ4NkxjMFZGb2RkV0RycWZXNW5lVVYwM01rUGJMVTZNUVU2Ri1rUUMzbV9OYlVXcmRwaklZZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1544001950-ecd922e40a69?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-24T09:30:00Z"
+      "data": "2026-08-24T09:30:00Z",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_52654",
@@ -258,9 +343,10 @@
       "lead": "Ceará é o 7º em migrações ao mercado livre de energia; setor prevê alta com abertura a residências",
       "fonte": "Diário do Nordeste",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOTh2YjE5WnFUX2dVOFgwUWVFUGpKeDVaYzVYWHpuQWZhQjJDTHo1MjBnRXBaRVliNjdQdEVkOVFvNkN1c25XQlJ4WXByMkpzdElNb1JHdVB6azhUdVUxQ1NQN0c0SkRKckp5M2RIcHg3emdNbVprZGxBdUlPVFBnLXhQc3hWNng3bVVCaDNDaFN1cTVMQVRQZWpHbkJnRGx4b3BEUE9xUE9VY2VCSTRZaHlqaUhRUG9yMHg4U3IxM2NuT2c5NllBeE00QnVlS3NUOVRIeER0Q29iZDV5ZmktcmJXUEFvbGZScFoxb3F1czR3VUJfV2FxZkQyTmNOWGZhSTVGZGgwTTNBdXRnRzRXZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-24T09:00:00Z"
+      "data": "2026-08-24T09:00:00Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_53467",
@@ -268,22 +354,13 @@
       "lead": "Entenda o que muda na conta de luz com a chegada do Mercado Livre de Energia a partir de 2027",
       "fonte": "AJN1",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnF0VDZfd1ZRLVRCZXFuZ2lGTjZZRjhtM3BtZERKMVg5RzB4ZTBvTjEyR2J1OUpNaUhPLVA2Q1h0MUh0QWNzV0xvRkVYY1dqVWplREFIVzlQN1NnY19SR1RrYk1xdEdoakloY0hyZTh0Ykx3eFpkby1ZRGNBRDZFVlJTM0RPM3oyU1NjWjlBS0FzMDVmbEZNVDBkSi1CbExwNllfMFpGM2tFMHh1Tm04WGlMSnY?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-23T18:04:15Z",
       "tambem_em": [
         "Fala Você Notícias"
-      ]
-    },
-    {
-      "id": "transicao_791",
-      "titulo": "O que é necessário para ativar o mercado de baterias para armazenamento de energia? - Vietnam.vn",
-      "lead": "O que é necessário para ativar o mercado de baterias para armazenamento de energia?",
-      "fonte": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEpHeWhybnl1NHBNV3NLZHRYX2xjQUFiWnI1b0tyU1dGNGRYVGtrcUY1MTUtMms1cTFvNjdUWlB3ZnRyTzdoNzRCYWhNT1hNNy16cWtrY2Nralg1N1RlMmd5RktfeVhvTzRZNUoyRnZpWjJFRGlaZmlNMy1CZGlZTGpud3R5Zw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1487875961445-47a00398c267?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-23T02:01:55Z"
+      ],
+      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_7222",
@@ -291,9 +368,10 @@
       "lead": "Mercado livre de energia será ampliado e chegará aos consumidores residenciais",
       "fonte": "Gazeta do Paraná",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTZZQnlaSmlYdUtIYmF4ZFJOeFBsbW9mc3BBa2Q3U1FkSS16ZzNlb2p2N0xRU250Tms1dTQtMl9RcjFBT1ctS0Z5R3FndHh5ZTBWemFKaTY5RGpEOHpWZl9pSzQzZHliakJJMUxWaHB2ajBUTGJYNUFJemloeHU0UFhZVEdRSEFEYVBYOE1JclRKWl9qVUtxQVk2WUYwaTdGMHRVcGgybWxUaGpoNHZDQzFjd2hqQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-22T16:00:00Z"
+      "data": "2026-08-22T16:00:00Z",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "transicao_78479",
@@ -301,9 +379,10 @@
       "lead": "ANEEL sorteia na segunda (24) relator de custos do leilão de baterias",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEVkN0hPclhCZVFyRGVqaWNZX1hHTW1vNm5iM2Y3di14WUkyUzctdEZDSkNuRVQ1UlRFZ1VOeEl1cEJOU1lBNmU2czBuNGlPTkpyT1FtYlVBcGo0U09XdUFFNGZ2LXBuZVozNTVYeGFPeW9XN2kzMjRZYktKUWRiNnl4U2ZZRnl3b2cydjEyUlNqUVRLM21yQ3BVS0Y1MTQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497440001374-f26997328c1b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-08-21T21:14:28Z"
+      "data": "2026-08-21T21:14:28Z",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "transicao_38323",
@@ -311,9 +390,10 @@
       "lead": "Leilão de armazenamento: setor defende baterias, reversíveis e outras soluções em disputa",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnZuWm1kZ3hIQ3hWU0lpVmdWNmttRURHTU5CWkNVT2w1WEhBRlZNdGM1UXVJSW5paVZMQVg3RDdObGhEcEJCT1VkN0hFS04yZkozQVdKYm1icjlDVFdMRDBRTFF5T3RMNGVQenhzcGV4QncwYU5uOWhiS0o0Rll6VEN5Yl9QdUlOQ1hrMF9CVC0yVV9LRU1OQkpwVHZiaGM5TmhaUWwtcDRhOHQ2YnNfY3RRSnZTbWNVVkVJMFJ6aWxCUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-08-21T19:44:47Z"
+      "data": "2026-08-21T19:44:47Z",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_27644",
@@ -321,9 +401,10 @@
       "lead": "O efeito das decisões judiciais no mercado livre de energia",
       "fonte": "Migalhas",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzlDWVZoWnlKNTM0ZU8ybXlSbE1ITllYZkd0c2lyVk9CcWZlMlUxZlVEck1fanJ1V0tKTnhMdmFLMmNkc054Q0hoTjlNcW1pdUtZYnVGTWRYd0JzdUlNUVRZc3daQmVSNzMyTWlVTTRiQndSM2dLcUdrR29SSGYzTnF4RGl1cVh2bkNST05xaFU3OWxxYWh6UkFJRjl6OUdCOTA0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1649003515353-c58a239cf662?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-21T19:30:44Z"
+      "data": "2026-08-21T19:30:44Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_81330",
@@ -331,9 +412,10 @@
       "lead": "Trocar de fornecedor de energia não significa trocar de distribuidora; entenda a mudança",
       "fonte": "Âncora 1",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3gzSURjNEhZd1hjLVhjU0xmTEN6MWozSC1zU1Q5X2s5bm1fdmhPT0JTNS1Qc3U1b1V5REZYY3dqSUhrVXpGU1RYelpnZzNFSjYyd3JpaEE1V2RhSjVQWi1aVERwT3prQ09XcXhWcnV3RE5qelMtOS1MWXVfOGw2cjVWbTJZTnRURzJSNXNpcm9vWmpxdmw4eVI1THQ1WnE3X2NYNUVnRUhWc1ZIeDRpNld4U0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1494961104209-3c223057bd26?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-21T18:33:15Z"
+      "data": "2026-08-21T18:33:15Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "transicao_22826",
@@ -341,9 +423,10 @@
       "lead": "Armazenamento de energia ganha espaço na expansão renovável do Brasil",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyS1lrN1UwUU5mZEZPU2FXc3RPeUNsSzJvVjU5NmR4WXI2TkZva1JLb196Z1JOUWZVQVFGZ2Vkczc3dTk2dEZnYzJRb2dHcW05R01pVEZuUy1adW9YZElZQk44YjZYX0I0dndTeGNYSkdXNTRLQmQ1YTFGdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1595437193398-f24279553f4f?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-08-21T18:22:58Z"
+      "data": "2026-08-21T18:22:58Z",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_1483",
@@ -351,9 +434,10 @@
       "lead": "Mercado livre de energia avança entre empresas de comércio e serviços",
       "fonte": "ND Mais",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNclV2aUNFamVHZlpBTnN6a2FTNkNjbjZQcUN1MzVhUGdKZUtYeWpPY3dISTZDbEo3d0I3TzQ2VDlsbW1LV1NlbkJMTF92QTNVbktTdTkwdjRoMzQwTWJFZHJpOXlXdHVqMVlIU0ttZzg0RTFHQVRMbTBOa0x4ckl2Q2NUb1kzSU9DR19LUW5LQ2pVYnNGREZ4UnhoSEtNSDA5MWYzLS1n?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-21T18:20:49Z"
+      "data": "2026-08-21T18:20:49Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_61563",
@@ -361,9 +445,10 @@
       "lead": "Especialistas destacam vantagens para pequenas e médias empresas com o mercado livre de energia de baixa tensão",
       "fonte": "Diário do Comércio",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mNm1zMjM3RjdWUHYta05tNUVVcmE1Y1FiakNXYTlQNHR1TEZzYVIyOS13dDFFbVRLRzdxRjM0TFU1MFdKZ3czWUh3LWZiZWJ4NEhDYVNiaDlFOXhRZV8tNnp3Qk9VMTVHYzl6UEJ3QzhZd3FiSjNr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1649003515353-c58a239cf662?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-21T08:01:00Z"
+      "data": "2026-08-21T08:01:00Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_88034",
@@ -371,9 +456,10 @@
       "lead": "Setor de energia crescerá com chegada do mercado livre para todos os brasileiros",
       "fonte": "UOL Economia",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1Zzc0J0dWkzZXJHb05JcFF2cUFlRDdPdU9JTTF6anJFLVZHdHBpMl9fLWttWlA0alJJLVpDU3RpZTFjV3hZYVB4QzZhYmhhZExLNGVLeVFCMzZsLWswbi1YZ0ZCLWk0WVM1ajRpSW8yUkQwXzJLUEF6b2dNbWcwekp0OEdLa3ZRdWhxZ3ZCamxjalp4VTM0RWt5QzNNRDVjMWNYS0t1SXNUQVdVR2otMHRYVEVQUVlwYnFla09lNzdPNDJlSzlJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-21T02:30:23Z"
+      "data": "2026-08-21T02:30:23Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "regulacao_97659",
@@ -381,9 +467,10 @@
       "lead": "ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPelRHSlNyVEtEX0Qya2hUQW9zN1YyNnlQTExCUTBFMVprd3dUcDZGaW1SR2Q5a0JyV0J4MWFsZTdhYXE2a0lhQU5GbklFZk44ZFo0TzJiYVlydU1uSWxSTl80WDVZRU80Mks1cWJxdUdjZmtiNHhxUlpBeWctaGRDZllDRUNFMHlOWmV4OGEwWUp6aXJWdmN0TkI5R0hkYVZkUV8zUHMwdmpIZlVmUVE1endmVzQ2UVlzMktYU2hoOWVOakpTYmc3anVrb1Jnd2xvdmFDdTYtbjNaN3ZGRm12aXlBUXNMVV9TYzh4V0R1YncxNTdNZ1RfYTJYZk5IeS1fZXlVZDZuUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-20T21:05:00Z"
+      "data": "2026-08-20T21:05:00Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_23178",
@@ -391,9 +478,10 @@
       "lead": "Vantagens do mercado livre para o consumidor vão além do preço, avaliam agentes",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWtYNXFzMHlnbUZJNzJ3UGNqWUMycHVLdEdnSDJDWUVnbUFaR0xORXVQYk1ObGwxcFd4eG5lM2p4TFl5ZUFTYkRLNHgtQ3lPcTdVc0h5ekg0bVg2WVRUMU02TkNQNWdlcGNHTHJWQXljNno2bTVoQldTLVVXN19VVlR6U3FDbkZfc3ZMMjdCMWt2MXlmSkdiTXBmRlFHbE54bkptSUw4eHRBTlhpd0hFMmtFd3FTME0tOE5YNHlKbDR0VmVvY3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-20T20:02:34Z"
+      "data": "2026-08-20T20:02:34Z",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "regulacao_23187",
@@ -401,9 +489,10 @@
       "lead": "Reguladora define prioridades para abertura do mercado de energia",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczJKN2ZWSmxWcGJoSzVnRGtaRFJxZmdDZ2hSWG5LT09FWmsySkR5MmgwakRRbUt0cG9MNDlqdGpvOU5pN3V5eW9xTzBxU293cHpQemlZMTJkYmxHNU1SWjRjX1o5VUtwSWR5ZWRVR1l3bnlaWmtieE93dndOQTExMGdSa21US01tRVREQ0ZXTmtDenNaa0tSVnJSZDV3aUNVeDhTeUptWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-20T18:11:15Z"
+      "data": "2026-08-20T18:11:15Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_25446",
@@ -411,9 +500,10 @@
       "lead": "Colômbia planeja leilão de energia firme para mitigar impacto do El Niño",
       "fonte": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1lmNVJWMkRKWC1Nak90LXRjV2M3eHUzUGJ0XzViUUNOaEdySmcySS1LY1A1QmJmSGZ2OV81N3BNd2RnQ3gxRVo2dDRSRW1GZU5UUF9XUktqclJRN1BvT1BnWGJ6VlNzRXhNR2FmcEpaM0JwZWZWeXI2eHFlSWdRNERzY1N1LWhBZkFxeDlTM3hJc20xZW56SlBXMzg5ZzJBbUtCMFdpbEs2LWdNeVhJaA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-20T17:43:41Z"
+      "data": "2026-08-20T17:43:41Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_32999",
@@ -421,9 +511,10 @@
       "lead": "Primeiro BESS colocalizado com usina solar inaugura nova etapa do armazenamento no Brasil",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85WFFCZmtwLWJCcFFxTHZKWjJ5MXQzc25xU0RLbmxFaTdwcEpOLVJPdWpUR29WUldwQjB3ZGNCS2Mtd3gwQ2VrS2hsTXNuendqVW9ETVVLejJ5WmdQTU5SVTh4TWItbGp0Tkt4WklsZjVLTDA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-08-20T14:50:21Z"
+      "data": "2026-08-20T14:50:21Z",
+      "tema": "solar"
     },
     {
       "id": "politica-energetica_3511",
@@ -431,9 +522,10 @@
       "lead": "MME vê necessidade 'imediata' de interligação Brasil–Bolívia",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTENGXzFaZnpKeGkwQVNremxzSE5yQllHU0R0QmVSbDg4QmloS1c2WHFyYk9tUmFNRmtNUHZvUW5VX0xIZVd1OElXcEJFNzlLUFVBZ1BpWXREZEVacWFLdXZPeWVOemROczFzRnM3ZVBLY2luYW1uR0FKZDE4ajRMcEJHZVFqQ2VjZE1LcEw5SUV5LXBqWjJXNUt4MDZ4R1hzZkpkOHdfNm93OGM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1587691592099-24045742c181?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
       "editoria": "politica-energetica",
-      "data": "2026-08-20T13:03:00Z"
+      "data": "2026-08-20T13:03:00Z",
+      "tema": "transmissao-rede"
     },
     {
       "id": "mercado-livre_99666",
@@ -441,12 +533,13 @@
       "lead": "Decreto regulamenta abertura do mercado de energia elétrica a partir de 2027",
       "fonte": "Migalhas",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd1B6SDlZdEhobkNqVF81a05lbGoyUzNkdVd2NVdVY2p5eC12TXAtOEMtN2ZJQ25IUUJ3dzJpMk9xbnBHTHVwd21jR0pTOEN6VERIRGpxWHlGSDdXbmRXbGttVE5hVm5oVmh1VUd4d1A2aHM0Z1ZRdXJnQXFDbS1nQThrb2dMWk1mNVJ3Slp6aDFvamt1bmJwOGpacVNPdmRrcm05Zg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1494961104209-3c223057bd26?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-20T12:08:00Z",
       "tambem_em": [
         "mattosfilho.com.br"
-      ]
+      ],
+      "tema": "regulacao-institucional"
     },
     {
       "id": "tarifas_29030",
@@ -454,9 +547,10 @@
       "lead": "TCU destrava R$ 5 bi em subsídios à conta de luz do Norte e Nordeste",
       "fonte": "Poder360",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1h0a0hnME9BMlNnSTViLXllME0xRzRMVlVqdWIycnJoclpkVnA3eVZCTHRKNGpDT0lrWWFWNDhKcnRiMmhUVzk0T1hOT0t6ZkYwR19ud05XN1B6STU5T0VpUW1jQTFzcWVudVNJa0tLME9kSEhsNDRjQ1NDMXVZUms0SjhzOHk3aWxrenBlS3NxR0ZIUTZkbVlqb3V5N3YxeFdiSmJ5T1pWenNuWHJF?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1458007683879-47560d7e33c3?w=600&q=70",
       "editoria": "tarifas",
-      "data": "2026-08-19T22:28:19Z"
+      "data": "2026-08-19T22:28:19Z",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_9800",
@@ -464,9 +558,10 @@
       "lead": "CCEE projeta PLD médio em R$ 156 por MWh em setembro",
       "fonte": "CanalEnergia",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOckp0bFFXTHFEaHI5MnBlOUJaWm9mQVNvNl9pbUQ4RXNpWjBoQ3RFYU52WW9jYVoybWItdWczUmM1VUhkcXhZODRlc3lSQlFMaFhJYkFYRjlVeFRjcFRENmh5cEVTT2l6d2NmbE80VmdkeWUyanJLcnRLRlBoQUFvMHFZVWF0RGx5RTk2RDdMX0VEWUVwTUNkSWw2M2RVbUVZR3Fr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1648275913341-7973ae7bc9b3?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-19T22:03:59Z"
+      "data": "2026-08-19T22:03:59Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_15516",
@@ -474,12 +569,13 @@
       "lead": "Mercado Livre de Energia: o que muda na conta de luz a partir de 2027",
       "fonte": "vtvnews.com.br",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWlRcDNKZmxhUF9feFotZjN3eE5mYUh2cWFKcXMxZlh1RFZoSjIwOFpNSzRlOXlDTkdmeDMxbS1ZNXBDdDZjcV9xQUxPcDd5MDRTQlJZdnRIbHFDRDVzcUNsNlNJR3VpRnV5c01nLTZUektyTnhHUHJvaU1pUko5eGE1cVJKYXI0SzlHRWZB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-19T22:00:00Z",
       "tambem_em": [
         "band.com.br"
-      ]
+      ],
+      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_81463",
@@ -487,12 +583,13 @@
       "lead": "Após publicação de decreto, CCEE participa de debate sobre abertura de mercado",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1NXMDhtOXFzZUJKZFNlUFV3d29GZ2lWdnpnbFpiZjBKZ1VscDNtZ3ZBb3V4bmtwV0RMTTlyN0ZIa1lSRi1vWnJaX0dBRi1DNlRQano3Q085UDloeHMxc2hHbGRYRUx2bjcwLXRVcFVsU0xsR191b2hPMzQ1VWYyY3RRQ1RHRVJoV3JIbnFtWjdFZnZsZE5UOTI1dk5ob2xXaGpkb3JB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1494961104209-3c223057bd26?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-19T19:52:00Z",
       "tambem_em": [
         "CCEE"
-      ]
+      ],
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_84270",
@@ -500,9 +597,10 @@
       "lead": "Reversíveis de ciclo fechado precisarão de outorga para captar água, diz ANA",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcl9paXFoaU1tM3FsWWpZWm1TekFvNy1yOGRUMGNSbVEtTnVTdjdaaGVjU3BXRm45Q1BhZFBNWk42WGM0OE9FT0ptczNobDNOcm5idHR2QUNYZDdLWUVuM2pfOGRvYmhqNHpxNTQyVU9MX1BuajN3a09qd0xxRWJ0RE1GYm1FYU9OTVR6bThablU4WFBCcHJuaWFqbkVNMGZuTmw5WHlzNW5oRHFkZnM2THM5VzIxSXNEY0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-19T19:48:04Z"
+      "data": "2026-08-19T19:48:04Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_74020",
@@ -510,9 +608,10 @@
       "lead": "Cooperativas gaúchas realizam leilão conjunto para compra de energia de curto prazo",
       "fonte": "MundoCoop",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWFYRFdaNXB1dWhJTUI0Y3cxZ2duVzFHc0xQcnlvVGdEMnZ6b0gzYnQ1aDZLcnZqMi1wUVMxU0U4cFhXSGkyOTIySWhkekd6a3dBeFBHS3k3cWhVWENmMDZuNm9tTnVyY1hhRHJQYlZDU3lTdWd6QV9ITUgzd29uOGRLOUZJaTFrV2s2XzhNMHgwdy1XWGxhWmNua0dfSzluVnBDS3B1ZGlmZkVkSk9US1BQZzNTVHlhZ01VTWNZQTVKLU9CblE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-19T14:50:12Z"
+      "data": "2026-08-19T14:50:12Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "regulacao_53756",
@@ -520,9 +619,10 @@
       "lead": "Aprovadas novas tarifas para consumidores atendidos pela Celesc-DIS — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzdUWHl4UVZIaHJZQ3Vya2V3d0hHRlkwZmpBX2lEVEtXX1RuRzdDZ1hXTzRsY2dPaWE1UXRDSVQxZGpjTzZWekhUUWYyRS0xcjV6QWdvMTdtUmU5NkdoT1NtUnRRRTh5LWN4cmc3WFkwRXRBenRKSm1NZURGejdMb1JuMHpiN1drem1nemM5MWZRNHpJLUlsZXRTZm5pNVpuRHBPVHFEWDhSdkVFbXhDb0pNel8tcHlEUWNlZlJfMDNYRWdFMll3N01pdnVWdUNaUXBKSw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-18T21:59:19Z"
+      "data": "2026-08-18T21:59:19Z",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "tarifas_826",
@@ -530,9 +630,10 @@
       "lead": "Bandeira tarifária fica verde em fevereiro, e conta de luz continua sem cobrança extra",
       "fonte": "Jornal O Sul",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzhvOHhpRmU4UDZBQkRMVk1XMXppUi1hRC1ZLW9LaVBSZ2JaclhRaWgtU1hiMnZjZ0V5QnNDV0NJczdncVN3ZUxNamdybTRlYjc4ZDZIYm5pMm9DZ3RvZUx6Y1YzZktXblVVZnBlWWllOG5FZGxlY3RTVzROeVFPZlRZMjZaM2k0V0h4OGNwS1J2M2U0ZkJqM3lhbmFsQnJTOC1palQ0SV9GYkZ3M082cUdpZzVhVHFXRnFzSlhhdWXSAbQBQVVfeXFMTlBOcTNZTVZNR2JJZy1HYlBTaGF0cW1sT2g3U1BfVmZEZGNiMzdhNFZNZ0dxVU5DX1JtN2NXeTFwMHdvYThtQmVUd1lSVThQVV93aHNpYU5EOEQ5RF9ROTBYUDUtNFdXQWZRbHhFdzNXeGR6b3pScGlnTVpNR1lnRkFsTkNSS2h1bFdjSUZkMTZjbDVHVHRRNDFSVGdTUGVKUWdLOTN3bzZwV2ZDNzZMa20zaDhT?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1544001950-ecd922e40a69?w=600&q=70",
       "editoria": "tarifas",
-      "data": "2026-08-18T17:56:09Z"
+      "data": "2026-08-18T17:56:09Z",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_92253",
@@ -540,9 +641,10 @@
       "lead": "Decreto Regulamenta Abertura Do Mercado Livre E Define Novas Atribuições Da CCEE",
       "fonte": "cenarioenergia.com.br",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGN6a3lhZVJfc3oyRzM3V1pvX3hRaDVoR0xPVlFMU3BWa1NIOFVDQVRTbFBJYlZ0bjkxcUM2bDdOdzZIR2doajFYNHBFMkxCM2hSLU5DZVVnV3dmMUl3bVY4ME01eDJlWk9YYUZGbzliUmVYcVNyZDZmYk5vOG1IYThuZVRqZm9VeTJjZ2lRaGs1bXBlZ0JKSA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1494961104209-3c223057bd26?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-18T17:25:44Z"
+      "data": "2026-08-18T17:25:44Z",
+      "tema": "precos-mercado"
     },
     {
       "id": "regulacao_60852",
@@ -550,12 +652,13 @@
       "lead": "Decreto confirma abertura do mercado livre para consumidores de baixa tensão, mas regulamentação da Aneel...",
       "fonte": "SEGS Portal Nacional",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxON0ltNkdDOUtUMjNpOFF1d3hSdGtLaWprVzhlNzBEVXdyc0FqMU85eXZqWWpZSHg3NDBmbVRGaVZ6TDJiLWtRclhFZ3Z3VFBSZ2p0eVVnOFBXc2V5UldaWjhKbGlMN29SMFRzUm1nN2stSENHR3pTSTROaWxIeXlINDV5S0RsV1ZlSXFSNGlxOEpDUzVlOEwtX29xR25qa1A0d3cyck5KRURId2pZNTB3SDY4M3VwUVBqcDFrdTJvRktCSEUyeXpPZUFvRWRiUDdaUF9rVHlfQ1VlQVdFV1JaSG4zY0JTVG9PcFpmOU81SUpIWjBIYjVCR2NVLTfSAYICQVVfeXFMT2hXSTgwVThSWTFRYUJoTU53RlFxbXVxVlNKSTY5dWNsUGlWMnNPSmdudmIyaWlyM0duTDdnS0VESXBmbkFsT1B5Nl9xdnFqVEdYVTJaZXRDOFZMRTBUV0FCU1llcHJNeHl2TnlnSk1WMG52ZWJYMzBjZmwyN1RTdEhiQjItSmlPTWY2cWcyOW1kdGhQWlFQTEZYYnpXR2VHbWVEcjhWRDlPQzNINXFjdFJfQkNkM21YRHVHVmwxSlBneW5zaklhdHdjZXVLUEdOeExwQWVmeXc5bkdkd25seWR4OTY0Wmh3Z3lSUm1wbjBrZ1dkVkJWSkR5cWs4MkVVLVVn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-18T17:20:47Z",
       "tambem_em": [
         "SEGS Portal Nacional"
-      ]
+      ],
+      "tema": "consumidor-residencial"
     },
     {
       "id": "regulacao_66548",
@@ -563,9 +666,10 @@
       "lead": "Reunião Pública da Diretoria da ANEEL será realizada excepcionalmente na segunda-feira (24) www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamF6cnpoeFBLb3lyOGc1OVZLQUpPUHdQU2w2VjdYOGhBTVN6bDk5NjRNM2lyVzJvVUIyREU2US1aSXVianBJdC1mR2NmSmtfeXlrdVJzOTRCWDhZcE5KZ3Q1b2FKV2NFa3hUcllxSExnZHJQdmVHYkVWSzNIejg0VUduNnBLV0I1aFV1aDhrWEotSVBTdHRvbUpWY2JvdHNnR0dtNGVsYUdTMHZQNjh5eHBhMnRfLUlSLUlrcDV3d0tlWVRVLVdZZGhwMXBoUGxnN1FRaA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-18T16:55:31Z"
+      "data": "2026-08-18T16:55:31Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_85834",
@@ -573,9 +677,10 @@
       "lead": "Tradener consegue desbloquear créditos posteriores a maio na CCEE",
       "fonte": "megawhat.uol.com.br",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHRfVlNCTWN6NS1mcTlDanVVNFdTNXhFTHgxaWJpbmpndzE1bDAyOE1wMm95Y3JLMVpHVHA0ZWpRTkZ5dDRzMURhWjM0NktDdDlCOS1ZUkN6TDlVazNaWlFvODdSODNPZDBQaW8zWGNPYjA3dWc1WHpfdE1GMXNuRDFCdEhYVTR5SlpWcW9rNlZtNlhYdENmbnlDekhXcHBSWFBxNkFnUFVZdzJXVGc2eWlTMA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-18T16:52:00Z"
+      "data": "2026-08-18T16:52:00Z",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_27632",
@@ -583,55 +688,13 @@
       "lead": "Dia do Estagiário: CCEE investe na formação de novos profissionais",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUxRNnZYdXNnV1ZYZzRGZXhmazBqM0R1czRFWXFGQ1pkWHF2NlAzLS1qY0JtVU03dnVyMFpOdFJhSjNfZ3dzSEhXVDlVcURMTXlHOTdWTlY0cDlVR3pXRnQ2OWJHX1VKMHlRaVdfbmZrcUx4ZzdCcDlxMnhfNVZueTJNemNSODhRWXI0T3pMY1RJV2JxYXc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-18T13:17:00Z",
       "tambem_em": [
         "CCEE"
-      ]
-    },
-    {
-      "id": "mercado-livre_53357",
-      "titulo": "Mercado Livre de Energia amplia escolha de fornecedor e terá abertura para baixa tensão a partir de 2027",
-      "lead": "Mercado Livre de Energia amplia escolha de fornecedor e terá abertura para baixa tensão a partir de 2027",
-      "fonte": "Acre Agora",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMWM1c2JRb3ktM1VHRFpyVmJBMkF1Q0o1a21rVGIzTUZWdGIyUHl1aGt0eGNzV01PTnBNZUdidXB2cUNYM094RjVIUmg4VEdkRFZMemNsMnU4Zm1nSlpVa2hldFctdDFhNWo4NFVhYWVjSDZzRnpsbUNvaTZEWmVLSDVtbFAzN2JocFlNTzRRbkZMTFdCX21WWkw2Z0NEMjBseE1KU2s2c0tYb3hGcEZkM0ZxVWFLcTlKNHgtLWJXZ0xtTFh2UG5oTVozUzNyUUFSTklGcnQ1REdfSmVT0gHcAUFVX3lxTE4xYzVzYlFveS0zVUdEWnJWYkEyQXVDSjVrbWtUYjNNRlZ0YjJQeXVoa3R4Y3NXTU9OcE1lR2J1cHZxQ1gzT3hGNUhSaDhUR2REVkx6Y2wydThmbWdKWlVraGV0Vy10MWE1ajg0VWFhZWNINnNGemxtQ29pNkRaZUtINW1sUDM3YmhwWU1PNFFuRkxMV0JfbVZaTDZnQ0QyMGx4TUpTazZzS1hveEZwRmQzRnFVYUtxOUo0eC0tYldnTG1MWHZQbmhNWjNTM3JRQVJOSUZydDVER19KZVM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-18T05:50:44Z",
-      "tambem_em": [
-        "acreagora.com"
-      ]
-    },
-    {
-      "id": "transicao_99547",
-      "titulo": "Fórum Brasil-China reunirá especialistas sobre futuro da energia solar e de armazenamento",
-      "lead": "Fórum Brasil-China reunirá especialistas sobre futuro da energia solar e de armazenamento",
-      "fonte": "TAGD Advogados",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMEh0TDA5Nm9TUE5GbXVvOU5yOXRKa2J5NGszbkc5TVRtdE05LUZVb05CQ0p0aC11cngySW9vRlZlQXZYR0pvNzJVRkI5S1NNNjNHYWNjQ0g3SWQ2cklOMTVDNi0tQXY3dGlteWNIaUlYMUQ3MFl1WnduTDg4Q0lFRnZlR3B5c1RweHBVdkpsSm8yZzRoSEVvTnpVMGp0NHFxZEozT0tPZHFNd3pLY0dNU1dvbw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1487875961445-47a00398c267?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-18T04:09:46Z"
-    },
-    {
-      "id": "regulacao_82276",
-      "titulo": "Ludimila Silva assume interinamente vaga de Mosna na diretoria da ANEEL",
-      "lead": "Ludimila Silva assume interinamente vaga de Mosna na diretoria da ANEEL",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jWnZ1LXNueWZmMVpVeGQ2NFlYS2NNVWhnWGh1b0xWTEtqOHVrX3lzdVE3TTRKcl9aSkZOMWNBSE9hTlRlWVhXYkhFOFczNEdqcHd4dmU0eVJXTWx1MmxCRHpYZmxxd2dRV0lGbjVTTVpOTWNxTlJR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-17T20:36:30Z"
-    },
-    {
-      "id": "transicao_20778",
-      "titulo": "Estados Unidos preveem instalar 54 GW em baterias até o fim de 2028",
-      "lead": "Estados Unidos preveem instalar 54 GW em baterias até o fim de 2028",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zSl9jbC1sSUctUkljamp3RUh1RE9OUlc4N0ItZ0RZdFlKX0p4RW1uMlVFRjFiSkU4alp3Mkhwd1VOU2szbHpJN2FqeW9BTEFzdWFabEdRM2NvS1hHX2IyMEV0QjdCb3UxMWNpb2VwelJua1V4WFRMSw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1548337138-e87d889cc369?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-17T19:46:07Z"
+      ],
+      "tema": "regulacao-institucional"
     }
   ]
 }

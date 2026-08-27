@@ -86,3 +86,45 @@ jobs:
       - name: Verificar frescor das fontes
         if: always()
         run: python scripts/check_freshness.py
+
+      # 7. Post no X (@megagridbr). Vem DEPOIS da sentinela de propósito: sem
+      #    `always()`, um run vermelho por dado parado pula este passo. É a
+      #    segunda camada — o próprio post_x.py também consulta a sentinela,
+      #    porque o módulo precisa ser seguro quando rodado fora do workflow.
+      #
+      #    Só em run AGENDADO: workflow_dispatch manual não posta. Teste de
+      #    workflow não pode virar post público, e o disparo manual carrega o
+      #    actor no log — problema já conhecido.
+      #
+      #    `continue-on-error` fecha a regra de precedência: o site é o
+      #    produto, o post é acessório. O módulo já sai 0 em qualquer falha;
+      #    isto cobre até o caso de o interpretador morrer.
+      - name: Post no X
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        timeout-minutes: 3
+        env:
+          X_API_KEY:        ${{ secrets.X_API_KEY }}
+          X_API_SECRET:     ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN:   ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET:  ${{ secrets.X_ACCESS_SECRET }}
+          X_POST_ENABLED:   ${{ vars.X_POST_ENABLED }}
+        run: python scripts/post_x.py
+
+      # 8. Estado da anti-duplicata. Precisa de commit próprio porque o passo 5
+      #    já rodou: sem isto o last_post_x.json morreria com o runner e a
+      #    anti-duplicata nunca teria memória entre execuções. Só commita
+      #    quando houve post — se o passo 7 pulou, não há o que gravar.
+      - name: Persistir estado do post
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        run: |
+          git config user.name  "megagrid-bot"
+          git config user.email "bot@megagrid.com.br"
+          git add site/data/last_post_x.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "Sem post nesta execução — nada a persistir"
+          else
+            git commit -m "chore(x): estado do post $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash origin main && git push
+          fi

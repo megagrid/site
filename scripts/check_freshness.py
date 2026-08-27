@@ -79,8 +79,11 @@ def atraso_competencia_dias(ano: int, mes: int) -> int:
     return (date(hoje.year, hoje.month, 1) - date(ano, mes, 1)).days
 
 
-def main() -> int:
-    falhas, avisos = [], []
+def verificar() -> tuple:
+    """(falhas, avisos, linhas). Separado do main() para que o post_x.py
+    consulte o MESMO julgamento que deixa o run vermelho, em vez de manter
+    uma segunda tabela de limites que um dia divergiria desta."""
+    falhas, avisos, linhas = [], [], []
     for nome, limite in LIMITES_DIAS.items():
         p = DATA_DIR / nome
         try:
@@ -94,7 +97,7 @@ def main() -> int:
             falhas.append(status)
         elif idade > limite * 0.7:
             avisos.append(status)
-        print(("STALE  " if idade > limite else "ok     ") + status)
+        linhas.append(("STALE  " if idade > limite else "ok     ") + status)
 
         lim_comp = LIMITES_COMPETENCIA.get(nome)
         if lim_comp is None:
@@ -103,7 +106,7 @@ def main() -> int:
             ano, mes = extrai_competencia(doc)
         except ValueError as exc:
             falhas.append(f"{nome}: {exc}")
-            print(f"STALE  {nome}: competência ilegível")
+            linhas.append(f"STALE  {nome}: competência ilegível")
             continue
         atraso = atraso_competencia_dias(ano, mes)
         rotulo = f"{_MESES_PT[mes-1]}/{ano}"
@@ -113,8 +116,15 @@ def main() -> int:
             falhas.append(st)
         elif atraso > lim_comp * 0.7:
             avisos.append(st)
-        print(("STALE  " if atraso > lim_comp else "ok     ") + st)
+        linhas.append(("STALE  " if atraso > lim_comp else "ok     ") + st)
 
+    return falhas, avisos, linhas
+
+
+def main() -> int:
+    falhas, avisos, linhas = verificar()
+    for l in linhas:
+        print(l)
     for a in avisos:
         print(f"::warning title=Fonte perto do limite::{a}")
     if falhas:

@@ -269,6 +269,19 @@ EDITORIA_RULES = {
 # técnica", Bitcoin no de preços, pilha AA de consumo, torre de resfriamento
 # nuclear em térmica a gás.
 #
+# AUDITORIA GEOGRÁFICA (P2.3, 27/08/2026) — critério: instituição genérica
+# ou brasileira, NUNCA identificável como outro país. Saíram 7 fotos:
+#   regulação  photo-1768213022263  plenário do Parlamento Europeu, bandeiras
+#                                   da UE visíveis — o caso que abriu o P2.3
+#   regulação  photo-1762246433096  plenário nacional estrangeiro (Westminster)
+#   preços     photo-1649003515353  tela com SPX/NDQ/DJI/VIX/DXY (bolsa dos EUA)
+#   preços     photo-1648275913341  ticker "SPY 452,65" (ETF do S&P 500)
+#   hidrelét.  photo-1415732288923  Hoover Dam / Lake Mead
+#   consumidor photo-1458007683879  voltímetro com "MADE IN U.S.A." legível
+#   consumidor photo-1544001950     parede com sinalização em chinês
+# A régua vale para texto legível também, não só bandeira: uma interface em
+# alemão ("HEUTE/WOCHE/MONAT") foi recusada na reposição pelo mesmo motivo.
+#
 # hero: as 2-3 mais limpas do tema — sem pessoa em close, sem ruído, boas
 # em 1100px de largura. Só a manchete principal e o card de destaque
 # sorteiam dessa sub-lista; o resto da home usa o banco inteiro.
@@ -321,8 +334,7 @@ IMAGENS_TEMAS = {
         "hero": ("photo-1606050309588-741702cceb9b",  # barragem em vale verde
                  "photo-1705747894609-6a7d17a8cfb7",  # vertedouro aberto
                  "photo-1569918190173-6a5792908184"), # barragem em vista aérea
-        "extras": ("photo-1415732288923-5d71ace1e9c3",  # reservatório com marca de rebaixamento
-                   "photo-1509390874189-d75fd22f19f7",  # barragem vertendo
+        "extras": ("photo-1509390874189-d75fd22f19f7",  # barragem vertendo
                    "photo-1766899211612-8786d7c83e12",  # barragem refletida na água
                    "photo-1772411650728-7c0ec207afb2",  # parede curva da barragem
                    "photo-1778856920435-d66361bcbdb9"), # régua de nível do reservatório
@@ -338,32 +350,34 @@ IMAGENS_TEMAS = {
                    "photo-1516937941344-00b4e0337589"), # complexo industrial fumegante
     },
     "regulacao-institucional": {
-        "hero": ("photo-1775492783108-5714035b298b",  # plenário oval de conselho
-                 "photo-1762246433096-1814033d4679",  # plenário parlamentar
-                 "photo-1768213022263-0414dc145dfd"), # hemiciclo em arquibancada
+        "hero": ("photo-1777125990655-95b602173140",  # microfone em mesa de plenário
+                 "photo-1775492783108-5714035b298b",  # plenário oval de conselho
+                 "photo-1564846824194-346b7871b855"), # assinatura em mesa de reunião
         "extras": ("photo-1450101499163-c8848c66ca85",  # assinatura de documento
                    "photo-1603796846097-bee99e4a601f",  # assinatura, mãos
                    "photo-1431540015161-0bf868a2d407",  # mesa oval de reunião
                    "photo-1462826303086-329426d1aef5",  # sala de reunião vazia
+                   "photo-1583521214690-73421a1829a9",  # pilhas de processos
                    "photo-1486406146926-c627a92ad1ab"), # prédios institucionais
     },
     "precos-mercado": {
         "hero": ("photo-1591696205602-2f950c417cb9",  # curva de preço em tela
                  "photo-1560221328-12fe60f83ab8",     # monitor com gráfico
                  "photo-1638481826540-7710b13f7d53"), # curva em queda, tela
-        "extras": ("photo-1649003515353-c58a239cf662",  # candlestick em tela escura
-                   "photo-1454165804606-c3d57bc86b40",  # mesa de trabalho e planilha
+        "extras": ("photo-1454165804606-c3d57bc86b40",  # mesa de trabalho e planilha
                    "photo-1707762890671-52ef6d6f51e7",  # monitor e anotações
                    "photo-1767424196045-030bbde122a4",  # tablet com gráfico
-                   "photo-1648275913341-7973ae7bc9b3"), # painel de cotações
+                   "photo-1611974789855-9c2a0a7236a3",  # candlestick em tela escura
+                   "photo-1669399213378-2853e748f217"), # barras 3D sobre fundo claro
     },
     "consumidor-residencial": {
         "hero": ("photo-1604177420682-0c840feb01de",  # painel de medidores, grade limpa
                  "photo-1684684383508-261dd0e8f467",  # banco de medidores
-                 "photo-1458007683879-47560d7e33c3"), # voltímetro analógico
+                 "photo-1604176857763-71877b24864e"), # banco de medidores, azulado
         "extras": ("photo-1555009784-ae7e7d1b97aa",     # medidores em parede de tijolo
                    "photo-1621905251189-08b45d6a269e",  # técnico no quadro elétrico
-                   "photo-1544001950-ecd922e40a69",     # quadro antigo de medição
+                   "photo-1762115106003-30a83b29f609",  # medidores em fachada colorida
+                   "photo-1652715648725-c84d5035e9a2",  # relé/temporizador de quadro
                    "photo-1757146578941-37e7acc595a1",  # caixa de disjuntores
                    "photo-1604380880002-8aa86df679b5"), # tomada e interruptor
     },
@@ -413,19 +427,30 @@ def _fotos(tema: str, so_hero: bool = False) -> list:
 # Palavra-chave terminada em espaço exige o espaço: "lei " casa "lei 14.300"
 # e não "leilão"; "ear " casa a sigla e não "linear".
 TEMA_POR_PALAVRA = (
-    ("solar", ("solar", "fotovoltaic", "mmgd", "geracao distribuida")),
+    ("solar", ("solar", "fotovolta", "ufv", "mmgd", "geracao distribuida")),
     ("eolica", ("eolic", "vento", "offshore")),
     ("baterias-armazenamento", ("bateria", "armazenament", "bess")),
     ("transmissao-rede", ("transmissao", "linhao", "interligacao", "subestacao",
                           "apagao", "curtailment", "constrained-off")),
-    ("hidreletrica-reservatorio", ("hidrelet", "reservatorio", "afluenc", "vazao",
-                                   "usina hidr", "ear ", "ena ")),
-    ("termica-gas", ("termica", "termelet", "gas natural", "carvao", "combustivel",
-                     "gnl", "nuclear")),
+    ("hidreletrica-reservatorio", ("hidrelet", "uhe", "reservatorio", "afluenc",
+                                   "vazao", "usina hidr", "ear ", "ena ")),
+    ("termica-gas", ("termica", "termelet", "ute", "gas natural", "carvao",
+                     "combustivel", "gnl", "nuclear")),
     ("consumidor-residencial", ("conta de luz", "consumidor", "residencial",
                                 "bandeira", "medidor", "fatura")),
     ("precos-mercado", ("pld", "preco", "cmo", "spot", "curto prazo", "liquidacao",
                         "contrato", "hedge", "mercado livre", "migracao")),
+    # GERAÇÃO SEM QUALIFICADOR (P2.3) — precisa vir antes de regulação.
+    # "Usina Novo Tempo Barcarena, com 629 MW, entra em operação comercial"
+    # (fonte ANEEL) não casava palavra nenhuma, caía no padrão da editoria
+    # "regulacao" e saiu na home com o plenário do Parlamento Europeu.
+    # Usina é ativo físico, não plenário: na falta de qualificador a foto
+    # tem de ser industrial. Com qualificador, os temas acima já resolvem —
+    # "usina solar" casa "solar", "UHE" casa hidrelétrica, "UTE" casa
+    # térmica —, e é por isso que este bloco vem depois deles e antes daqui.
+    ("industria-generica", ("usina", "mw", "operacao comercial",
+                            "entra em operacao", "geracao", "parque gerador",
+                            "capacidade instalada")),
     ("regulacao-institucional", ("aneel", "ccee", "ons", "mme", "cnpe", "epe",
                                  "consulta", "decreto", "portaria", "tarifa",
                                  "subsidio", "regulament", "lei ", "leilao",

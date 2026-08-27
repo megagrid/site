@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-26T22:22:34Z",
+  "updated": "2026-08-27T21:23:42Z",
   "total": 60,
   "itens": [
+    {
+      "id": "dado-2026-08-27",
+      "titulo": "PLD sobe 7,2% na semana e fecha a R$ 147,63 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 147,63/MWh · reservatórios em 75,8% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "fonte": "Megagrid Dados",
+      "url": "https://megagrid.com.br/#precos",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-27T21:23:42Z",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_69810",
+      "titulo": "Mercado livre de energia avança no Brasil e amplia oportunidades de redução de custos para empresas",
+      "lead": "Mercado livre de energia avança no Brasil e amplia oportunidades de redução de custos para empresas",
+      "fonte": "Jornal Impresso Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRl8tWkNMbGh4ZmFubG1tc09CVDI3TGt3eThSdVRCZGZLYWl1Q3RoS3BqZW5LR1BDazJxel9rOHJDV045ODVUUmR1R0dGcnA3eG5pVndMX1Q5eFNWaEdtcnhNT0YtRlpRMUh3eHdweXJ6X2diNVpBV1FCR2FVQTY0TzZfaUVvX2U2NDlUNlQyc1JwQUoxVHRuMGlCeHN2Y3B1UHMxTXh0b0t1eHZHaVk0R190bFJhNUh5QkhmaHpIbHFhLTlaeTFpU2taVTBUV29DQ1dySUZxLUxIU0NEaE1jbWZsMzA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-26T21:19:00Z",
+      "dominio": "jornalimpressobrasil.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "mercado-livre_59055",
       "titulo": "Conselhos de Consumidores de mais de 20 estados vão discutir o futuro do mercado de energia",
@@ -156,6 +179,7 @@
       "editoria": "regulacao",
       "data": "2026-08-25T07:30:49Z",
       "tambem_em": [
+        "Tribuna do Sertão",
         "Valor Econômico",
         "Brasília Alta Frequência"
       ],
@@ -386,6 +410,18 @@
       "tema": "precos-mercado"
     },
     {
+      "id": "regulacao_91313",
+      "titulo": "Aprovadas as novas tarifas da Neoenergia Elektro (SP/MS)",
+      "lead": "Aprovadas as novas tarifas da Neoenergia Elektro (SP/MS) — Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFRyOElOTlBXU1dBYjE3ZWlRTkZMNUZ4STZiUURBem5pOU5wdzQwSmg1ZEpwTWlqUGdwbHFNWk14TndwU0ppMUUyYkE4QkI5amFoekI3dnk1OEU2SDBCakpydGxvclQwaGxsdUN1VU1QdmpQNmk2X3p0ME1aTlMtYUs1YkNPc2NqM0hJa295ZFhEbWV2WHFHa3RPanFjajlPV0hCUm5tbEdlUHNXYlJtYzZqNXZ1cUdMbjU5dXVKTjk1MW8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-24T13:15:35Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "regulacao_39933",
       "titulo": "Fazenda libera R$ 268 mil para Aneel em meio a impasse orçamentário",
       "lead": "Fazenda libera R$ 268 mil para Aneel em meio a impasse orçamentário",
@@ -441,6 +477,18 @@
       "tambem_em": [
         "Fala Você Notícias"
       ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_8394",
+      "titulo": "Por que a conta de luz sobe mesmo com consumo igual — e o que fazer quando a bandeira muda de cor",
+      "lead": "Por que a conta de luz sobe mesmo com consumo igual — e o que fazer quando a bandeira muda de cor",
+      "fonte": "Revista Oeste",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT3pqTVQ2SC1pVFQ3WnlENFB5ODZQRHVWTHBreDlsdS1CZEhTbG44eU5ycWxXNnRFbWk1ekZ5akctbDlOdWhmd0txVXJ5bnlYeDlXQWFGUDQ1aGd2Z0stVGwtbklYRl9SN3NPQXZZWENRMEpteDdsbWZ3eDA5RGdoR0ZmbGRLcDZteUlCRzdRLTRlLXFiRWxMcnZZYXFqVl83NkhrTUlxSFlTRWk3eXJ3b0J2dWpicjg4ejREQktrQ3FSa0tWSVVVS2l1eng?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-23T15:40:26Z",
+      "dominio": "revistaoeste.com",
       "tema": "consumidor-residencial"
     },
     {
@@ -521,6 +569,18 @@
       "tema": "precos-mercado"
     },
     {
+      "id": "politica-energetica_94452",
+      "titulo": "Portaria_GM/MME_nº_85/2026",
+      "lead": "Portaria_GM/MME_nº_85/2026",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREQzMkxsaGZrU0ZqZlVHQTR1dEpaZlR5UFFYZ3FEYzZBZ0M1cDE2QTc1Tl9CemtzbDJNWHlMdjN1bGtkMlJIVEJvd2ZWVHozUXNfbm42Ymp0WWNEWE9manRCMmFXNVVQcmEyZ1RBUXFLV3JhOHZGTHVIRVBPa21qU3ppM2o0X1Nma0k2YXlnR05ySlU3OS0xeGdwWDIyYlFuVGs2bW5yWk9ibnNKUmc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-08-21T09:36:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_61563",
       "titulo": "Especialistas destacam vantagens para pequenas e médias empresas com o mercado livre de energia de baixa tensão",
       "lead": "Especialistas destacam vantagens para pequenas e médias empresas com o mercado livre de energia de baixa tensão",
@@ -548,7 +608,7 @@
       "lead": "ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPelRHSlNyVEtEX0Qya2hUQW9zN1YyNnlQTExCUTBFMVprd3dUcDZGaW1SR2Q5a0JyV0J4MWFsZTdhYXE2a0lhQU5GbklFZk44ZFo0TzJiYVlydU1uSWxSTl80WDVZRU80Mks1cWJxdUdjZmtiNHhxUlpBeWctaGRDZllDRUNFMHlOWmV4OGEwWUp6aXJWdmN0TkI5R0hkYVZkUV8zUHMwdmpIZlVmUVE1endmVzQ2UVlzMktYU2hoOWVOakpTYmc3anVrb1Jnd2xvdmFDdTYtbjNaN3ZGRm12aXlBUXNMVV9TYzh4V0R1YncxNTdNZ1RfYTJYZk5IeS1fZXlVZDZuUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-20T21:05:00Z",
       "tema": "regulacao-institucional"
@@ -643,67 +703,6 @@
       "editoria": "mercado-livre",
       "data": "2026-08-19T22:03:59Z",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_15516",
-      "titulo": "Mercado Livre de Energia: o que muda na conta de luz a partir de 2027 - vtvnews.com.br",
-      "lead": "Mercado Livre de Energia: o que muda na conta de luz a partir de 2027",
-      "fonte": "vtvnews.com.br",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWlRcDNKZmxhUF9feFotZjN3eE5mYUh2cWFKcXMxZlh1RFZoSjIwOFpNSzRlOXlDTkdmeDMxbS1ZNXBDdDZjcV9xQUxPcDd5MDRTQlJZdnRIbHFDRDVzcUNsNlNJR3VpRnV5c01nLTZUektyTnhHUHJvaU1pUko5eGE1cVJKYXI0SzlHRWZB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-19T22:00:00Z",
-      "tambem_em": [
-        "band.com.br"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_81463",
-      "titulo": "Após publicação de decreto, CCEE participa de debate sobre abertura de mercado",
-      "lead": "Após publicação de decreto, CCEE participa de debate sobre abertura de mercado",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1NXMDhtOXFzZUJKZFNlUFV3d29GZ2lWdnpnbFpiZjBKZ1VscDNtZ3ZBb3V4bmtwV0RMTTlyN0ZIa1lSRi1vWnJaX0dBRi1DNlRQano3Q085UDloeHMxc2hHbGRYRUx2bjcwLXRVcFVsU0xsR191b2hPMzQ1VWYyY3RRQ1RHRVJoV3JIbnFtWjdFZnZsZE5UOTI1dk5ob2xXaGpkb3JB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-19T19:52:00Z",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_84270",
-      "titulo": "Reversíveis de ciclo fechado precisarão de outorga para captar água, diz ANA",
-      "lead": "Reversíveis de ciclo fechado precisarão de outorga para captar água, diz ANA",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcl9paXFoaU1tM3FsWWpZWm1TekFvNy1yOGRUMGNSbVEtTnVTdjdaaGVjU3BXRm45Q1BhZFBNWk42WGM0OE9FT0ptczNobDNOcm5idHR2QUNYZDdLWUVuM2pfOGRvYmhqNHpxNTQyVU9MX1BuajN3a09qd0xxRWJ0RE1GYm1FYU9OTVR6bThablU4WFBCcHJuaWFqbkVNMGZuTmw5WHlzNW5oRHFkZnM2THM5VzIxSXNEY0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-19T19:48:04Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_74020",
-      "titulo": "Cooperativas gaúchas realizam leilão conjunto para compra de energia de curto prazo",
-      "lead": "Cooperativas gaúchas realizam leilão conjunto para compra de energia de curto prazo",
-      "fonte": "MundoCoop",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWFYRFdaNXB1dWhJTUI0Y3cxZ2duVzFHc0xQcnlvVGdEMnZ6b0gzYnQ1aDZLcnZqMi1wUVMxU0U4cFhXSGkyOTIySWhkekd6a3dBeFBHS3k3cWhVWENmMDZuNm9tTnVyY1hhRHJQYlZDU3lTdWd6QV9ITUgzd29uOGRLOUZJaTFrV2s2XzhNMHgwdy1XWGxhWmNua0dfSzluVnBDS3B1ZGlmZkVkSk9US1BQZzNTVHlhZ01VTWNZQTVKLU9CblE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-19T14:50:12Z",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_53756",
-      "titulo": "Aprovadas novas tarifas para consumidores atendidos pela Celesc-DIS",
-      "lead": "Aprovadas novas tarifas para consumidores atendidos pela Celesc-DIS — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzdUWHl4UVZIaHJZQ3Vya2V3d0hHRlkwZmpBX2lEVEtXX1RuRzdDZ1hXTzRsY2dPaWE1UXRDSVQxZGpjTzZWekhUUWYyRS0xcjV6QWdvMTdtUmU5NkdoT1NtUnRRRTh5LWN4cmc3WFkwRXRBenRKSm1NZURGejdMb1JuMHpiN1drem1nemM5MWZRNHpJLUlsZXRTZm5pNVpuRHBPVHFEWDhSdkVFbXhDb0pNel8tcHlEUWNlZlJfMDNYRWdFMll3N01pdnVWdUNaUXBKSw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-18T21:59:19Z",
-      "tema": "consumidor-residencial"
     }
   ]
 }

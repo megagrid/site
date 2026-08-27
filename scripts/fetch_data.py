@@ -1008,6 +1008,43 @@ def _bandeira_mais_recente(records: list) -> dict:
     return max(validos, key=_competencia) if validos else None
 
 
+def _bandeira_historico(records: list, meses: int = 24) -> list:
+    """Série de acionamentos, do mês mais recente para trás.
+
+    A base da ANEEL tem uma linha por competência desde 2015 — o robô já a
+    baixava inteira no caminho de contingência do fetch_bandeira e a jogava
+    fora depois de pegar o topo. Aqui ela vira dado publicável.
+
+    Uma competência pode aparecer repetida (revisão do órgão); vence a última
+    ocorrência lida, não a primeira, porque a base não garante ordem."""
+    por_comp = {}
+    for rc in records or []:
+        comp = _competencia(rc)[:7]
+        if not comp:
+            continue
+        raw = str(rc.get("NomBandeiraAcionada", "")).lower()
+        if "escassez" in raw:
+            cor = "escassez"
+        elif "vermelha" in raw:
+            cor = "vermelha2" if "2" in raw else "vermelha1"
+        elif "verde" in raw:
+            cor = "verde"
+        elif "amarela" in raw:
+            cor = "amarela"
+        else:
+            continue  # linha sem cor legível não entra na série
+        por_comp[comp] = cor
+    saida = []
+    for comp in sorted(por_comp, reverse=True)[:meses]:
+        try:
+            ano, mes = comp.split("-")
+            rotulo = f"{_MESES_PT[int(mes)-1]}/{ano}"
+        except Exception:
+            rotulo = comp
+        saida.append({"competencia": comp, "mes": rotulo, "cor": por_comp[comp]})
+    return saida
+
+
 def fetch_bandeira() -> dict:
     log.info("ANEEL bandeira tarifária…")
     existing = load_existing("bandeira.json")
@@ -1015,13 +1052,20 @@ def fetch_bandeira() -> dict:
     hoje_br = agora_br()
     mes_corrente = f"{hoje_br.year:04d}-{hoje_br.month:02d}"
 
+    # Guarda a última leitura crua da base para a série histórica (P3), sem
+    # gastar uma segunda chamada: quem já baixou as linhas, aproveita.
+    ultimos_records = []
+
     def _buscar(params):
         resp = get(f"{ANEEL_API}/datastore_search",
                    dict(params, resource_id=ANEEL_BANDEIRA_RES))
         if not resp:
             return None
         try:
-            return _bandeira_mais_recente(resp.json()["result"]["records"])
+            registros = resp.json()["result"]["records"]
+            if len(registros) > len(ultimos_records):
+                ultimos_records[:] = registros
+            return _bandeira_mais_recente(registros)
         except Exception as exc:
             log.warning("  Bandeira resposta ilegível: %s", exc)
             return None
@@ -1029,7 +1073,7 @@ def fetch_bandeira() -> dict:
     # Caminho normal: o datastore ordena por competência e devolve o topo.
     # Pedimos 12 linhas em vez de 1 para que o max() local ainda tenha o que
     # comparar — a ordenação do servidor é conveniência, não fonte da verdade.
-    rec = _buscar({"limit": 12, "sort": "DatCompetencia desc"})
+    rec = _buscar({"limit": 30, "sort": "DatCompetencia desc"})
 
     # Se o topo veio atrás do mês corrente, não dá para concluir atraso da
     # fonte sem descartar a hipótese de o `sort` ter sido ignorado (campo
@@ -1095,6 +1139,16 @@ def fetch_bandeira() -> dict:
                                  else round(adicional * 1000, 2),
                 "descricao": BANDEIRA_META[cor_key]["descricao"],
             }
+
+            # Série de 24 meses para a página /bandeira-tarifaria/. Histórico
+            # é acessório: se sair curto ou vazio, preserva o anterior em vez
+            # de publicar uma tabela menor do que já estava no ar.
+            historico = _bandeira_historico(ultimos_records)
+            anterior = existing.get("historico") or []
+            data["historico"] = historico if len(historico) >= len(anterior) else anterior
+            if historico:
+                log.info("  Histórico: %d competências (%s → %s)", len(historico),
+                         historico[-1]["mes"], historico[0]["mes"])
 
             # Defasagem: o registro é REAL e fresco pelo sentinela, mas pode
             # estar apontando para o mês passado enquanto a manchete da home já
@@ -2144,19 +2198,27 @@ def _substituir_bloco(doc: str, nome: str, conteudo: str) -> str:
     return doc[:i + len(abre)] + "\n" + conteudo + "\n" + recuo + doc[j:]
 
 
+# URLs cujo conteúdo o robô reescreve — só o <lastmod> destas muda. /anuncie
+# fica de fora de propósito: é página estática, e carimbá-la todo dia seria
+# dizer ao Google que ela mudou quando não mudou.
+SITEMAP_DINAMICAS = ("/", "/pld/", "/bandeira-tarifaria/", "/reservatorios/")
+
+
 def _atualiza_sitemap(hoje: str):
-    """<lastmod> da home. Só a data da home muda; o resto do sitemap é
-    humano e fica fora do alcance do robô."""
+    """<lastmod> das URLs com dado vivo. O resto do sitemap é humano e fica
+    fora do alcance do robô."""
     if not SITEMAP.exists():
         return
-    xml = SITEMAP.read_text("utf-8")
-    novo = re.sub(
-        r"(<loc>https://megagrid\.com\.br/</loc>\s*<lastmod>)[^<]*(</lastmod>)",
-        lambda m: m.group(1) + hoje + m.group(2),
-        xml, count=1)
+    xml = novo = SITEMAP.read_text("utf-8")
+    for caminho in SITEMAP_DINAMICAS:
+        novo = re.sub(
+            r"(<loc>https://megagrid\.com\.br" + re.escape(caminho)
+            + r"</loc>\s*<lastmod>)[^<]*(</lastmod>)",
+            lambda m: m.group(1) + hoje + m.group(2),
+            novo, count=1)
     if novo != xml:
         _write_atomic(SITEMAP, novo)
-        log.info("  → sitemap.xml lastmod = %s", hoje)
+        log.info("  → sitemap.xml lastmod = %s (%d URLs)", hoje, len(SITEMAP_DINAMICAS))
 
 
 def prerender_site(pld: dict, ear: dict, carga: dict, bandeira: dict,
@@ -2198,6 +2260,344 @@ def prerender_site(pld: dict, ear: dict, carga: dict, bandeira: dict,
                     type(exc).__name__, exc)
 
 
+# ── Páginas perenes de dados (P3) ───────────────────────────────────
+#
+# /pld/, /bandeira-tarifaria/ e /reservatorios/ existem para responder a busca
+# recorrente ("pld hoje", "bandeira tarifária atual", "reservatórios
+# percentual") com dado vivo. Mesma maquinaria do P2.1 e nada mais: HTML
+# estático versionado, blocos entre marcadores PRERENDER, escrita atômica,
+# escape em tudo que entra. Sem build step e sem framework.
+#
+# A POLÍTICA DE AUTORIA e a de CONFLITO do prerender_site() valem igual aqui:
+# o robô só toca o miolo entre marcadores; em rebase, o que está entre eles é
+# descartável porque a rodada seguinte regenera.
+
+PAGINAS_HTML = {
+    "PLD":           SITE_DIR / "pld" / "index.html",
+    "BANDEIRA":      SITE_DIR / "bandeira-tarifaria" / "index.html",
+    "RESERVATORIOS": SITE_DIR / "reservatorios" / "index.html",
+}
+
+SUBMERCADOS = (("SE/CO", "Sudeste / Centro-Oeste"), ("S", "Sul"),
+               ("NE", "Nordeste"), ("N", "Norte"))
+
+
+def _brl_mwh(v) -> str:
+    return "R$ " + _brl(float(v)) if v is not None else "—"
+
+
+def _pct_br(v, casas=1) -> str:
+    return f"{float(v):.{casas}f}".replace(".", ",") + "%" if v is not None else "—"
+
+
+def _seta(v) -> str:
+    """Variação com sinal, cor e símbolo — mesma convenção da home."""
+    if v is None:
+        return '<span class="carimbo">—</span>'
+    cls = "var-up" if v >= 0 else "var-down"
+    return f'<span class="{cls}">{"▲" if v >= 0 else "▼"} {_pct_br(abs(v))}</span>'
+
+
+def _dia_br(iso: str) -> str:
+    """AAAA-MM-DD → dd/mm. Entrada inesperada devolve o próprio texto."""
+    try:
+        a, m, d = iso[:10].split("-")
+        return f"{d}/{m}"
+    except Exception:
+        return iso[:10]
+
+
+def _tabela(cabecalho: list, linhas: list, legenda: str = "") -> str:
+    cab = "".join(f"<th>{_esc(c)}</th>" for c in cabecalho)
+    corpo = "".join("<tr>" + "".join(celulas) + "</tr>" for celulas in linhas)
+    cap = f"<caption>{_esc(legenda)}</caption>" if legenda else ""
+    return ('<div class="tab-wrap"><table>' + cap +
+            f"<thead><tr>{cab}</tr></thead><tbody>{corpo}</tbody></table></div>")
+
+
+def _faq(perguntas: list) -> str:
+    """FAQ visível + JSON-LD FAQPage, dos MESMOS pares pergunta/resposta.
+
+    Google penaliza dado estruturado que promete resposta ausente da página.
+    Gerar os dois de uma lista só torna a divergência impossível por
+    construção — não é disciplina, é ausência de segunda fonte.
+
+    O JSON sai de json.dumps, então aspas e acento saem válidos sem escape
+    manual; o HTML visível passa pelo _esc() do P2.1."""
+    visivel = "".join(
+        f"<details><summary>{_esc(p)}</summary>"
+        f'<div class="resp">{_esc(r)}</div></details>'
+        for p, r in perguntas
+    )
+    ld = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": p,
+             "acceptedAnswer": {"@type": "Answer", "text": r}}
+            for p, r in perguntas
+        ],
+    }
+    # Todo "<" vira \u003c — escape que o JSON entende e o parser de HTML não
+    # lê como marcação. Só trocar "</" bastaria para não fechar o <script>
+    # antes da hora, mas deixaria "<script>" literal dentro do bloco; com
+    # \u003c não sobra nenhum caractere de marcação para inspecionar.
+    bruto = json.dumps(ld, ensure_ascii=False, indent=1).replace("<", "\\u003c")
+    return visivel + f'\n<script type="application/ld+json">\n{bruto}\n</script>'
+
+
+def _blocos_pld(pld: dict) -> dict:
+    subs = (pld or {}).get("submercados") or {}
+    if not subs:
+        # Regra do P2.1: sem o dado que dá razão à página, o bloco anterior
+        # fica intacto. Página com o preço de ontem é melhor que página com
+        # travessão — para o leitor e para o crawler.
+        log.warning("  /pld/: sem submercados no pld.json — blocos mantidos")
+        return {}
+    se = subs.get("SE/CO") or {}
+    preco, var = se.get("preco"), se.get("variacao")
+    semana = (pld or {}).get("semana_ref", "")
+    dia = _dia_br(semana)
+
+    destaque = (
+        f'<div class="numerao">{_esc(_brl_mwh(preco))}<small>/MWh</small></div>\n'
+        f'  <div class="carimbo">Sudeste/Centro-Oeste · semana de {_esc(dia)} · '
+        f'{_seta(var)} vs. semana anterior</div>'
+    )
+    linhas = []
+    for chave, rotulo in SUBMERCADOS:
+        d = subs.get(chave) or {}
+        linhas.append([f"<td>{_esc(rotulo)}</td>",
+                       f'<td class="num">{_esc(_brl_mwh(d.get("preco")))}</td>',
+                       f'<td class="num">{_seta(d.get("variacao"))}</td>'])
+    tabela = _tabela(["Submercado", "PLD (R$/MWh)", "vs. semana anterior"], linhas,
+                     f"Semana de referência {_dia_br(semana)}. Fonte: ONS/CCEE.")
+
+    hist = (pld or {}).get("historico") or []
+    lh = []
+    for w in hist[-12:][::-1]:
+        lh.append([f'<td>{_esc(_dia_br(w.get("semana","")))}</td>',
+                   f'<td class="num">{_esc(_brl_mwh(w.get("SE_CO")))}</td>',
+                   f'<td class="num">{_esc(_brl_mwh(w.get("S")))}</td>',
+                   f'<td class="num">{_esc(_brl_mwh(w.get("NE")))}</td>',
+                   f'<td class="num">{_esc(_brl_mwh(w.get("N")))}</td>'])
+    historico = _tabela(["Semana", "SE/CO", "Sul", "Nordeste", "Norte"], lh,
+                        "Valores em R$/MWh, da semana mais recente para a mais antiga.")
+
+    faq = _faq([
+        ("O que é PLD?",
+         "PLD é o Preço de Liquidação das Diferenças: o preço da energia no "
+         "mercado de curto prazo brasileiro. Ele liquida a diferença entre o que "
+         "cada agente contratou e o que de fato gerou ou consumiu."),
+        ("Qual o PLD hoje?",
+         f"Na semana de referência {dia}, o PLD do Sudeste/Centro-Oeste está em "
+         f"{_brl_mwh(preco)}/MWh. Os quatro submercados aparecem na tabela desta página, "
+         "atualizada automaticamente duas vezes por dia."),
+        ("Por que o PLD do Norte é diferente dos outros submercados?",
+         "Porque a transmissão entre regiões tem limite físico. Quando cabe "
+         "transferir energia da região mais barata para a mais cara, os preços "
+         "se igualam; quando a linha satura, os submercados descolam e cada um "
+         "passa a refletir seu próprio custo de geração."),
+        ("Qual o teto do PLD em 2026?",
+         f"O teto é de {_brl_mwh(PLD_TETO)}/MWh e o piso é de {_brl_mwh(PLD_PISO)}/MWh. "
+         "Os dois limites são homologados pela ANEEL anualmente e contêm oscilação "
+         "extrema: se o cálculo do custo passar do limite, o preço publicado é o limite."),
+        ("Com que frequência o PLD muda?",
+         "Desde 2021 o PLD é horário — 24 preços por dia, por submercado. O valor "
+         "desta página é a referência semanal, que é o dado aberto e auditável "
+         "publicado por CCEE e ONS e a base de comparação usual do mercado."),
+    ])
+
+    titulo = f"PLD hoje: {_brl_mwh(preco)} (SE/CO) · {dia}"
+    desc = (f"PLD do Sudeste/Centro-Oeste em {_brl_mwh(preco)}/MWh na semana de {dia}. "
+            "Preço por submercado, últimas 12 semanas, piso e teto vigentes.")
+    return {"PLD_HEAD": _bloco_head_pagina(titulo, desc),
+            "PLD_DESTAQUE": destaque, "PLD_TABELA": tabela,
+            "PLD_HISTORICO": historico, "PLD_FAQ": faq}
+
+
+def _blocos_bandeira(band: dict) -> dict:
+    cor = (band or {}).get("cor") or ""
+    if not cor:
+        log.warning("  /bandeira-tarifaria/: sem cor no bandeira.json — blocos mantidos")
+        return {}
+    mes = (band or {}).get("mes") or ""
+    nome = BAND_LABEL.get(cor, cor or "—").split(" ", 1)[-1]
+    # A ANEEL publica o adicional com 3 casas (R$ 1,885 por 100 kWh) e é assim
+    # que ele aparece na tabela estática desta página. Formatar com as 2 casas
+    # de _brl() daria "R$ 1,88" no destaque e "R$ 1,885" na tabela logo abaixo
+    # — dois números para a mesma coisa na mesma página. Mantém 3 casas quando
+    # a terceira diz algo, 2 quando não diz (verde vira "R$ 0,00", não "0,000").
+    por_100 = (band or {}).get("adicional_kwh")
+    if por_100 is None:
+        custo = "—"
+    else:
+        v = por_100 * 100
+        txt = f"{v:.3f}".rstrip("0")
+        if txt.endswith("."):
+            txt += "00"
+        elif len(txt.split(".")[1]) < 2:
+            txt += "0"
+        custo = "R$ " + txt.replace(".", ",")
+
+    destaque = (
+        f'<div class="numerao"><span class="pill b-{_esc(cor or "verde")}" '
+        f'style="font-size:.44em;vertical-align:middle">{_esc(nome)}</span></div>\n'
+        f'  <div class="carimbo">{_esc(mes)} · acréscimo de {_esc(custo)} '
+        f'a cada 100 kWh consumidos</div>'
+    )
+
+    hist = (band or {}).get("historico") or []
+    lh = []
+    for h in hist:
+        c = h.get("cor", "")
+        n = BAND_LABEL.get(c, c).split(" ", 1)[-1]
+        lh.append([f'<td>{_esc(h.get("mes",""))}</td>',
+                   f'<td><span class="pill b-{_esc(c or "verde")}">{_esc(n)}</span></td>'])
+    historico = (_tabela(["Competência", "Bandeira acionada"], lh,
+                         f"Últimos {len(lh)} meses publicados pela ANEEL.")
+                 if lh else "")
+
+    faq = _faq([
+        ("Qual a bandeira tarifária deste mês?",
+         f"A bandeira em vigor na competência {mes} é a {nome.lower()}, com acréscimo "
+         f"de {custo} a cada 100 kWh consumidos." if mes else
+         "A bandeira em vigor aparece no topo desta página, conforme a última "
+         "competência publicada pela ANEEL nos dados abertos."),
+        ("Quanto custa cada bandeira?",
+         "Por 100 kWh: verde não tem acréscimo; amarela custa R$ 1,885; vermelha "
+         "patamar 1, R$ 4,463; vermelha patamar 2, R$ 7,877; e a bandeira de "
+         "escassez hídrica, R$ 14,20. O valor incide sobre o consumo, então dobra "
+         "para quem gasta 200 kWh e cai pela metade para quem gasta 50 kWh."),
+        ("Por que a bandeira muda de um mês para o outro?",
+         "Porque o custo de gerar energia muda o tempo todo, enquanto a tarifa é "
+         "reajustada só uma vez por ano. A ANEEL olha o custo de operação do "
+         "sistema e o nível dos reservatórios: reservatório cheio puxa a cor para "
+         "o verde; reservatório baixo obriga a ligar térmicas caras e a cor sobe."),
+        ("Como a bandeira aparece na conta de luz?",
+         "Como uma linha à parte, somada ao valor da energia consumida no mês. Ela "
+         "não altera a tarifa em si — é um acréscimo aplicado sobre os quilowatt-hora "
+         "do período."),
+        ("Quem paga bandeira no mercado livre?",
+         "Consumidores do mercado livre não pagam bandeira sobre a energia que "
+         "compram por contrato, mas continuam pagando a parcela de distribuição "
+         "cobrada pela concessionária local."),
+    ])
+
+    titulo = f"Bandeira tarifária em {mes}: {nome.lower()}" if mes else "Bandeira tarifária"
+    desc = (f"Bandeira {nome.lower()} em {mes}, com acréscimo de {custo} a cada 100 kWh. "
+            "Tabela de custo por cor e histórico de acionamentos.") if mes else \
+           "Bandeira tarifária em vigor, custo por cor e histórico de acionamentos."
+    blocos = {"BANDEIRA_HEAD": _bloco_head_pagina(titulo, desc),
+              "BANDEIRA_DESTAQUE": destaque, "BANDEIRA_FAQ": faq}
+    if historico:
+        blocos["BANDEIRA_HISTORICO"] = historico
+    return blocos
+
+
+def _blocos_reservatorios(ear: dict, carga: dict) -> dict:
+    pct = (ear or {}).get("ear_percentual")
+    if pct is None:
+        log.warning("  /reservatorios/: sem ear_percentual — blocos mantidos")
+        return {}
+    ref = _dia_br((ear or {}).get("data_ref", ""))
+    destaque = (f'<div class="numerao">{_esc(_pct_br(pct).rstrip("%"))}<small>%</small></div>\n'
+                f'  <div class="carimbo">Sistema Interligado Nacional · dado de {_esc(ref)}</div>')
+
+    subs = (ear or {}).get("subsistemas") or {}
+    if subs:
+        linhas = [[f"<td>{_esc(rotulo)}</td>", f'<td class="num">{_esc(_pct_br(subs.get(chave)))}</td>']
+                  for chave, rotulo in SUBMERCADOS if subs.get(chave) is not None]
+        tabela = _tabela(["Subsistema", "Energia armazenada"], linhas,
+                         f"Percentual da capacidade máxima em {ref}. Fonte: ONS.")
+    else:
+        # Sem abertura no extrator, mostra só o agregado — nunca inventa
+        # número por subsistema (regra do P1.14: dado ausente é dito, não suposto).
+        tabela = ('<p>O extrator não trouxe a abertura por subsistema nesta rodada. '
+                  'O valor agregado do SIN, acima, é o dado disponível.</p>')
+
+    mwmed = (carga or {}).get("carga_mwmed")
+    var = (carga or {}).get("variacao")
+    if mwmed:
+        gw = f"{float(mwmed)/1000:.1f}".replace(".", ",")
+        lc = [[f"<td>Carga verificada do SIN</td>",
+               f'<td class="num">{_esc(gw)} GWmed</td>',
+               f'<td class="num">{_seta(var)}</td>']]
+        carga_html = _tabela(["Indicador", "Valor", "Variação"], lc,
+                             f"Dado de {_dia_br((carga or {}).get('data_ref',''))}. Fonte: ONS.")
+    else:
+        carga_html = None  # mantém o bloco anterior em vez de anunciar ausência
+
+    faq = _faq([
+        ("Qual o nível dos reservatórios hoje?",
+         f"A energia armazenada do Sistema Interligado Nacional está em {_pct_br(pct)} "
+         f"da capacidade máxima, com dado de {ref}." if pct is not None else
+         "O percentual em vigor aparece no topo desta página, com a data do dado."),
+        ("O que é EAR?",
+         "EAR é a Energia Armazenada: quanta energia sairia dos reservatórios das "
+         "hidrelétricas se eles fossem esvaziados. O percentual compara esse estoque "
+         "com o máximo que o sistema consegue guardar. Repare que a medida é de "
+         "energia, não de volume de água."),
+        ("Por que os reservatórios afetam o preço da energia?",
+         "Porque água guardada é combustível barato. Com EAR alta, o sistema atende "
+         "a demanda com as usinas mais baratas e o PLD cai. Com EAR baixa, o operador "
+         "precisa poupar água e liga térmicas a gás, carvão ou óleo, que custam "
+         "várias vezes mais — o preço sobe e a bandeira tarifária costuma acompanhar."),
+        ("Qual a diferença entre EAR e ENA?",
+         "EAR é estoque: o que já está guardado. ENA, a Energia Natural Afluente, é "
+         "fluxo: quanta energia está chegando aos reservatórios pelas chuvas e pelos "
+         "rios. Estoque alto com afluência ruim é a combinação que costuma anteceder "
+         "alta de preço."),
+    ])
+
+    titulo = f"Reservatórios hoje: {_pct_br(pct)} (SIN) · {ref}"
+    desc = (f"Energia armazenada do SIN em {_pct_br(pct)} da capacidade em {ref}. "
+            "Abertura por subsistema e carga do sistema, de dados abertos do ONS.")
+    blocos = {"RESERVATORIOS_HEAD": _bloco_head_pagina(titulo, desc),
+              "RESERVATORIOS_DESTAQUE": destaque, "RESERVATORIOS_TABELA": tabela,
+              "RESERVATORIOS_FAQ": faq}
+    if carga_html:
+        blocos["RESERVATORIOS_CARGA"] = carga_html
+    return blocos
+
+
+def _bloco_head_pagina(titulo: str, descricao: str) -> str:
+    t = _corta(titulo, 66)
+    d = _corta(descricao, 158)
+    return "\n".join([
+        f"<title>{_esc(t)} | MEGAGRID</title>",
+        f'<meta property="og:title" content="{_esc(t)} | MEGAGRID">',
+        f'<meta property="og:description" content="{_esc(d)}">',
+    ])
+
+
+def prerender_paginas(pld: dict, ear: dict, carga: dict, bandeira: dict):
+    """Reescreve os blocos das 3 páginas perenes. Falha aqui NUNCA derruba o
+    robô (P1.14): o dado já está gravado e a página anterior continua servida,
+    que é melhor que página crua."""
+    log.info("Pré-render das páginas perenes…")
+    try:
+        blocos = {}
+        blocos.update(_blocos_pld(pld or {}))
+        blocos.update(_blocos_bandeira(bandeira or {}))
+        blocos.update(_blocos_reservatorios(ear or {}, carga or {}))
+        for marca, caminho in PAGINAS_HTML.items():
+            if not caminho.exists():
+                log.warning("  %s não encontrada — pulada", caminho.name)
+                continue
+            doc = original = caminho.read_text("utf-8")
+            for nome, conteudo in blocos.items():
+                if nome.startswith(marca + "_"):
+                    doc = _substituir_bloco(doc, nome, conteudo)
+            if doc != original:
+                _write_atomic(caminho, doc)
+                log.info("  → %s regravada", caminho.parent.name + "/index.html")
+            else:
+                log.info("  %s já estava atualizada", caminho.parent.name)
+    except Exception as exc:
+        log.warning("  pré-render das páginas falhou (%s: %s) — HTML anterior mantido",
+                    type(exc).__name__, exc)
+
 # ── Main ─────────────────────────────────────────────────────────────
 
 def main():
@@ -2212,6 +2612,7 @@ def main():
     noticias  = fetch_noticias(pld, ear, bandeira)
     fetch_mais_lidas(noticias)
     prerender_site(pld, ear, carga, bandeira, termo, noticias)
+    prerender_paginas(pld, ear, carga, bandeira)
 
     elapsed = round(time.time() - t0, 1)
     log.info("═══ Concluído em %.1fs ═══", elapsed)

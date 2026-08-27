@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Título e og:* são reescritos pelo robô (fetch_data.py → prerender_paginas)
+     a cada rodada, com o dado do dia. Só o miolo entre os marcadores; o resto
+     desta página é humano. Ver a POLÍTICA DE AUTORIA no fetch_data.py. -->
+<!-- PRERENDER:PLD_HEAD -->
+<title>PLD hoje: R$ 147,63 (SE/CO) · 28/08 | MEGAGRID</title>
+<meta property="og:title" content="PLD hoje: R$ 147,63 (SE/CO) · 28/08 | MEGAGRID">
+<meta property="og:description" content="PLD do Sudeste/Centro-Oeste em R$ 147,63/MWh na semana de 28/08. Preço por submercado, últimas 12 semanas, piso e teto vigentes.">
+<!-- /PRERENDER:PLD_HEAD -->
+<meta name="description" content="Preço de Liquidação das Diferenças por submercado, últimas 12 semanas, piso e teto vigentes. Dados abertos CCEE e ONS.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://megagrid.com.br/pld/">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://megagrid.com.br/pld/">
+<meta property="og:site_name" content="Megagrid">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0A1426">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='0'%3E%3Cstop offset='0' stop-color='%2300E0FF'/%3E%3Cstop offset='.5' stop-color='%23B43DFF'/%3E%3Cstop offset='1' stop-color='%23FF7A00'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100' height='100' rx='20' fill='%230A1426'/%3E%3Cpath d='M15 55 H32 L42 28 L58 72 L70 38 L80 55 H85' stroke='url(%23g)' stroke-width='9' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+  :root{
+    --ink:#15212F;--mut:#5B6B7E;--dim:#8595A8;
+    --bg:#FFFFFF;--alt:#F4F6F9;--line:#E3E8EF;
+    --navy:#0A1426;--blue:#1456D6;--blue-d:#0E3FA0;--blue-t:#EDF3FF;
+    --ribbon:linear-gradient(90deg,#00E0FF 0%,#2E6BFF 28%,#B43DFF 52%,#FF2E92 76%,#FF7A00 100%);
+    --up:#D63B3B;--down:#1F9D61;
+    --shadow:0 1px 3px rgba(16,24,40,.07),0 1px 2px rgba(16,24,40,.05);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;overflow-x:hidden}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:920px;margin:0 auto;padding:0 22px}
+  .ribbon{height:4px;background:var(--ribbon)}
+  /* header */
+  header{position:sticky;top:0;z-index:60;background:#fff;border-bottom:1px solid var(--line)}
+  .nav{display:flex;align-items:center;gap:20px;height:62px}
+  .logo{display:flex;align-items:center;gap:9px;font-size:1.22rem;font-weight:900;color:var(--navy)}
+  .logo svg{width:36px;height:21px}
+  .logo .mega{background:var(--ribbon);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .nav nav{display:flex;gap:18px;font-size:.86rem;color:var(--mut);margin-left:auto;font-weight:600;flex-wrap:wrap}
+  .nav nav a:hover,.nav nav a[aria-current]{color:var(--blue)}
+  @media(max-width:760px){.nav{height:auto;padding:10px 0;flex-wrap:wrap;gap:10px}.nav nav{margin-left:0;width:100%;gap:14px;font-size:.8rem}}
+  /* trilha */
+  .trilha{font-size:.78rem;color:var(--dim);padding:16px 0 0;font-weight:600}
+  .trilha a:hover{color:var(--blue)}
+  /* hero do dado */
+  .destaque{padding:20px 0 30px;border-bottom:1px solid var(--line)}
+  h1{font-size:clamp(1.5rem,4vw,2.1rem);font-weight:800;letter-spacing:-.02em;line-height:1.22;margin-bottom:8px}
+  .sub{color:var(--mut);font-size:1rem;max-width:640px}
+  .numerao{font-size:clamp(2.4rem,8vw,3.6rem);font-weight:800;letter-spacing:-.03em;line-height:1;margin:18px 0 6px}
+  .numerao small{font-size:.36em;font-weight:700;color:var(--mut);letter-spacing:0}
+  .carimbo{font-size:.8rem;color:var(--dim);font-weight:600}
+  .var-up{color:var(--up)}.var-down{color:var(--down)}
+  /* seções */
+  section{padding:34px 0;border-bottom:1px solid var(--line)}
+  section:last-of-type{border-bottom:0}
+  h2{font-size:1.28rem;font-weight:800;letter-spacing:-.015em;margin-bottom:6px}
+  .rule{width:42px;height:4px;border-radius:4px;background:var(--blue);margin:0 0 14px}
+  h3{font-size:1rem;font-weight:800;margin:18px 0 6px}
+  p{margin-bottom:12px;color:#2B3A4B}
+  p.lead{font-size:1.02rem}
+  ul.bullets{margin:0 0 12px 20px;color:#2B3A4B}
+  ul.bullets li{margin-bottom:6px}
+  /* tabelas */
+  .tab-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:6px 0 4px}
+  table{border-collapse:collapse;width:100%;min-width:420px;font-size:.92rem}
+  caption{text-align:left;font-size:.8rem;color:var(--dim);padding-bottom:8px;font-weight:600}
+  th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line)}
+  thead th{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--dim);font-weight:800;border-bottom:2px solid var(--line)}
+  tbody tr:hover{background:var(--alt)}
+  td.num{text-align:right;font-variant-numeric:tabular-nums;font-weight:700}
+  .pill{display:inline-block;padding:2px 9px;border-radius:99px;font-size:.76rem;font-weight:800}
+  .b-verde{background:#E6F6EE;color:#12724A}
+  .b-amarela{background:#FDF3D7;color:#8A6400}
+  .b-vermelha1{background:#FDE7E7;color:#B02525}
+  .b-vermelha2{background:#F9D7D7;color:#7A1010}
+  .b-escassez{background:#E4E4E7;color:#27272A}
+  /* caixa de nota */
+  .nota{background:var(--blue-t);border-left:3px solid var(--blue);border-radius:0 10px 10px 0;padding:14px 16px;font-size:.9rem;color:#22364F;margin:14px 0}
+  .nota b{color:var(--navy)}
+  /* FAQ */
+  details{border:1px solid var(--line);border-radius:10px;padding:0;margin-bottom:8px;background:#fff}
+  details[open]{box-shadow:var(--shadow)}
+  summary{cursor:pointer;padding:13px 16px;font-weight:700;font-size:.95rem;list-style:none;display:flex;justify-content:space-between;gap:12px;align-items:center}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";color:var(--blue);font-weight:800;font-size:1.15rem;flex:0 0 auto}
+  details[open] summary::after{content:"−"}
+  details .resp{padding:0 16px 14px;color:#2B3A4B;font-size:.93rem}
+  /* irmãs */
+  .irmas{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;margin-top:6px}
+  .irma{border:1px solid var(--line);border-radius:12px;padding:15px 16px;background:#fff;box-shadow:var(--shadow)}
+  .irma:hover{border-color:var(--blue)}
+  .irma b{display:block;font-size:.96rem;margin-bottom:3px}
+  .irma span{font-size:.84rem;color:var(--mut)}
+  /* rodapé */
+  footer{background:var(--navy);color:#C7D2E0;padding:30px 0 24px;font-size:.87rem;margin-top:8px}
+  footer a{color:#C7D2E0}
+  footer a:hover{color:#fff}
+  .fnav{display:flex;gap:18px;flex-wrap:wrap;margin-bottom:14px;font-weight:600}
+  .legal{font-size:.78rem;color:#8595A8;line-height:1.55;border-top:1px solid rgba(255,255,255,.1);padding-top:14px;margin-top:6px}
+</style>
+</head>
+<body>
+<div class="ribbon"></div>
+
+<header>
+  <div class="wrap nav">
+    <a class="logo" href="/" aria-label="Megagrid — início">
+      <svg viewBox="0 0 40 24" aria-hidden="true"><defs><linearGradient id="lgh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E0FF"/><stop offset=".3" stop-color="#2E6BFF"/><stop offset=".55" stop-color="#B43DFF"/><stop offset=".78" stop-color="#FF2E92"/><stop offset="1" stop-color="#FF7A00"/></linearGradient></defs><path d="M2 13 H9 L13 5 L19 19 L25 8 L29 13 H38" stroke="url(#lgh)" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span><span class="mega">MEGA</span><span>GRID</span></span>
+    </a>
+    <nav>
+      <a href="/pld/" aria-current="page">Preços &amp; PLD</a>
+      <a href="/bandeira-tarifaria/">Bandeira tarifária</a>
+      <a href="/reservatorios/">Reservatórios</a>
+      <a href="/#calculadoras">Calculadoras</a>
+      <a href="/#manchetes">Notícias</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="trilha"><a href="/">Início</a> › Preço da energia</div>
+</div>
+
+<div class="wrap destaque">
+  <h1>PLD hoje</h1>
+  <p class="sub">O preço da energia no mercado de curto prazo, semana a semana,
+  nos quatro submercados. Fonte: CCEE e ONS, dados abertos.</p>
+  <!-- PRERENDER:PLD_DESTAQUE -->
+<div class="numerao">R$ 147,63<small>/MWh</small></div>
+  <div class="carimbo">Sudeste/Centro-Oeste · semana de 28/08 · <span class="var-up">▲ 7,2%</span> vs. semana anterior</div>
+  <!-- /PRERENDER:PLD_DESTAQUE -->
+</div>
+
+<section class="wrap">
+  <h2>PLD por submercado</h2>
+  <div class="rule"></div>
+  <!-- PRERENDER:PLD_TABELA -->
+<div class="tab-wrap"><table><caption>Semana de referência 28/08. Fonte: ONS/CCEE.</caption><thead><tr><th>Submercado</th><th>PLD (R$/MWh)</th><th>vs. semana anterior</th></tr></thead><tbody><tr><td>Sudeste / Centro-Oeste</td><td class="num">R$ 147,63</td><td class="num"><span class="var-up">▲ 7,2%</span></td></tr><tr><td>Sul</td><td class="num">R$ 147,63</td><td class="num"><span class="var-up">▲ 7,2%</span></td></tr><tr><td>Nordeste</td><td class="num">R$ 147,63</td><td class="num"><span class="var-up">▲ 7,2%</span></td></tr><tr><td>Norte</td><td class="num">R$ 581,48</td><td class="num"><span class="var-up">▲ 0,0%</span></td></tr></tbody></table></div>
+  <!-- /PRERENDER:PLD_TABELA -->
+  <div class="nota">
+    <b>Piso e teto de 2026:</b> o PLD não pode cair abaixo de R$ 63,60/MWh nem
+    passar de R$ 726,00/MWh. Os dois limites são homologados pela ANEEL todo ano
+    e existem para conter oscilação extrema — quando o cálculo do custo dá um
+    valor fora dessa faixa, o preço publicado é o limite, não o cálculo.
+  </div>
+</section>
+
+<section class="wrap">
+  <h2>Últimas 12 semanas</h2>
+  <div class="rule"></div>
+  <!-- Tabela, não gráfico: o crawler não executa canvas, e esta página existe
+       para ser lida por ele. A série visual fica na home. -->
+  <!-- PRERENDER:PLD_HISTORICO -->
+<div class="tab-wrap"><table><caption>Valores em R$/MWh, da semana mais recente para a mais antiga.</caption><thead><tr><th>Semana</th><th>SE/CO</th><th>Sul</th><th>Nordeste</th><th>Norte</th></tr></thead><tbody><tr><td>28/08</td><td class="num">R$ 147,63</td><td class="num">R$ 147,63</td><td class="num">R$ 147,63</td><td class="num">R$ 581,48</td></tr><tr><td>21/08</td><td class="num">R$ 137,71</td><td class="num">R$ 137,71</td><td class="num">R$ 137,71</td><td class="num">R$ 581,48</td></tr><tr><td>14/08</td><td class="num">R$ 120,45</td><td class="num">R$ 120,45</td><td class="num">R$ 120,45</td><td class="num">R$ 581,48</td></tr><tr><td>07/08</td><td class="num">R$ 114,58</td><td class="num">R$ 114,58</td><td class="num">R$ 114,58</td><td class="num">R$ 581,48</td></tr><tr><td>31/07</td><td class="num">R$ 166,61</td><td class="num">R$ 166,61</td><td class="num">R$ 166,61</td><td class="num">R$ 313,04</td></tr><tr><td>24/07</td><td class="num">R$ 182,63</td><td class="num">R$ 182,63</td><td class="num">R$ 182,63</td><td class="num">R$ 289,25</td></tr><tr><td>17/07</td><td class="num">R$ 176,11</td><td class="num">R$ 176,11</td><td class="num">R$ 176,11</td><td class="num">R$ 289,25</td></tr><tr><td>10/07</td><td class="num">R$ 63,60</td><td class="num">R$ 63,60</td><td class="num">R$ 63,60</td><td class="num">R$ 289,25</td></tr><tr><td>03/07</td><td class="num">R$ 145,64</td><td class="num">R$ 145,64</td><td class="num">R$ 145,64</td><td class="num">R$ 313,04</td></tr><tr><td>26/06</td><td class="num">R$ 240,20</td><td class="num">R$ 240,20</td><td class="num">R$ 240,20</td><td class="num">R$ 289,25</td></tr><tr><td>19/06</td><td class="num">R$ 197,56</td><td class="num">R$ 197,56</td><td class="num">R$ 197,56</td><td class="num">R$ 289,25</td></tr><tr><td>12/06</td><td class="num">R$ 226,70</td><td class="num">R$ 226,70</td><td class="num">R$ 226,70</td><td class="num">R$ 289,25</td></tr></tbody></table></div>
+  <!-- /PRERENDER:PLD_HISTORICO -->
+</section>
+
+<section class="wrap">
+  <h2>O que é o PLD</h2>
+  <div class="rule"></div>
+  <p class="lead">PLD é a sigla de Preço de Liquidação das Diferenças. É o preço
+  da energia elétrica no mercado de curto prazo brasileiro — o valor usado para
+  acertar as contas de quem gerou ou consumiu diferente do que havia contratado.</p>
+
+  <p>Quase toda a energia do país é vendida antes, em contratos de meses ou anos.
+  Mas ninguém acerta a previsão na mosca: uma indústria para a linha de produção,
+  uma hidrelétrica gera menos que o esperado, o calor empurra o consumo para cima.
+  Essas diferenças entre o contratado e o realizado são liquidadas na CCEE, e o
+  preço dessa liquidação é o PLD.</p>
+
+  <h3>Como o preço se forma</h3>
+  <p>O PLD não é negociado entre comprador e vendedor. Ele sai de um cálculo. O
+  Operador Nacional do Sistema roda modelos computacionais que decidem quais
+  usinas devem gerar a cada momento, buscando o menor custo total para o sistema.
+  Desse cálculo sai o CMO — Custo Marginal de Operação —, que responde a uma
+  pergunta só: quanto custaria produzir mais um megawatt-hora agora?</p>
+
+  <p>O PLD é esse CMO depois de aplicados o piso e o teto da ANEEL. Por isso ele
+  sobe quando os reservatórios estão baixos e o sistema precisa ligar térmicas
+  caras, e desaba quando chove bem ou sobra sol e vento — nesses momentos o
+  próximo megawatt-hora custa quase nada.</p>
+
+  <h3>Por que varia entre submercados</h3>
+  <p>O Brasil é dividido em quatro submercados: Sudeste/Centro-Oeste, Sul,
+  Nordeste e Norte. Cada um tem seu preço porque a rede de transmissão tem limite
+  físico. Quando cabe transferir energia da região barata para a cara, os preços
+  se igualam. Quando a linha satura, as regiões descolam — e é isso que se vê
+  quando o Norte aparece em um patamar e o resto do país em outro.</p>
+
+  <h3>De quanto em quanto tempo muda</h3>
+  <p>Desde 2021 o PLD é horário: são 24 preços por dia, por submercado. O valor
+  desta página é o de referência semanal, que é como o mercado costuma comparar
+  semana contra semana e é o dado que a CCEE e o ONS publicam de forma aberta e
+  auditável.</p>
+</section>
+
+<section class="wrap">
+  <h2>Perguntas frequentes sobre o PLD</h2>
+  <div class="rule"></div>
+  <!-- O FAQ visível e o JSON-LD saem os DOIS do mesmo bloco, gerados pela
+       mesma lista no robô: se divergissem, o dado estruturado prometeria ao
+       Google uma resposta que a página não mostra. -->
+  <!-- PRERENDER:PLD_FAQ -->
+<details><summary>O que é PLD?</summary><div class="resp">PLD é o Preço de Liquidação das Diferenças: o preço da energia no mercado de curto prazo brasileiro. Ele liquida a diferença entre o que cada agente contratou e o que de fato gerou ou consumiu.</div></details><details><summary>Qual o PLD hoje?</summary><div class="resp">Na semana de referência 28/08, o PLD do Sudeste/Centro-Oeste está em R$ 147,63/MWh. Os quatro submercados aparecem na tabela desta página, atualizada automaticamente duas vezes por dia.</div></details><details><summary>Por que o PLD do Norte é diferente dos outros submercados?</summary><div class="resp">Porque a transmissão entre regiões tem limite físico. Quando cabe transferir energia da região mais barata para a mais cara, os preços se igualam; quando a linha satura, os submercados descolam e cada um passa a refletir seu próprio custo de geração.</div></details><details><summary>Qual o teto do PLD em 2026?</summary><div class="resp">O teto é de R$ 726,00/MWh e o piso é de R$ 63,60/MWh. Os dois limites são homologados pela ANEEL anualmente e contêm oscilação extrema: se o cálculo do custo passar do limite, o preço publicado é o limite.</div></details><details><summary>Com que frequência o PLD muda?</summary><div class="resp">Desde 2021 o PLD é horário — 24 preços por dia, por submercado. O valor desta página é a referência semanal, que é o dado aberto e auditável publicado por CCEE e ONS e a base de comparação usual do mercado.</div></details>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "O que é PLD?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "PLD é o Preço de Liquidação das Diferenças: o preço da energia no mercado de curto prazo brasileiro. Ele liquida a diferença entre o que cada agente contratou e o que de fato gerou ou consumiu."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Qual o PLD hoje?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Na semana de referência 28/08, o PLD do Sudeste/Centro-Oeste está em R$ 147,63/MWh. Os quatro submercados aparecem na tabela desta página, atualizada automaticamente duas vezes por dia."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Por que o PLD do Norte é diferente dos outros submercados?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Porque a transmissão entre regiões tem limite físico. Quando cabe transferir energia da região mais barata para a mais cara, os preços se igualam; quando a linha satura, os submercados descolam e cada um passa a refletir seu próprio custo de geração."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Qual o teto do PLD em 2026?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "O teto é de R$ 726,00/MWh e o piso é de R$ 63,60/MWh. Os dois limites são homologados pela ANEEL anualmente e contêm oscilação extrema: se o cálculo do custo passar do limite, o preço publicado é o limite."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Com que frequência o PLD muda?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Desde 2021 o PLD é horário — 24 preços por dia, por submercado. O valor desta página é a referência semanal, que é o dado aberto e auditável publicado por CCEE e ONS e a base de comparação usual do mercado."
+   }
+  }
+ ]
+}
+</script>
+  <!-- /PRERENDER:PLD_FAQ -->
+</section>
+
+<section class="wrap">
+  <h2>Continue por aqui</h2>
+  <div class="rule"></div>
+  <div class="irmas">
+      <a class="irma" href="/bandeira-tarifaria/"><b>Bandeira tarifária →</b><span>A cor do mês e quanto ela custa na sua conta.</span></a>
+      <a class="irma" href="/reservatorios/"><b>Reservatórios →</b><span>Energia armazenada nas hidrelétricas do SIN.</span></a>
+      <a class="irma" href="/"><b>Página inicial →</b><span>Manchetes do setor, termômetro do MWh e calculadoras.</span></a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="fnav">
+      <a href="/">Início</a>
+      <a href="/pld/">PLD</a>
+      <a href="/bandeira-tarifaria/">Bandeira tarifária</a>
+      <a href="/reservatorios/">Reservatórios</a>
+      <a href="/#calculadoras">Calculadoras</a>
+      <a href="/anuncie">Anuncie aqui</a>
+    </div>
+    <p class="legal"><b>Aviso:</b> conteúdo informativo e educacional, compilado de dados
+    públicos oficiais de CCEE, ONS e ANEEL. Não é recomendação de compra, venda ou
+    contratação de energia. Em caso de divergência, valem os dados publicados pelos
+    órgãos oficiais.<br>© 2026 Megagrid · dados abertos CCEE · ONS · ANEEL</p>
+  </div>
+</footer>
+<script data-goatcounter="https://megagrid.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

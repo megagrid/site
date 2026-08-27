@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Título e og:* são reescritos pelo robô (fetch_data.py → prerender_paginas)
+     a cada rodada, com o dado do dia. Só o miolo entre os marcadores; o resto
+     desta página é humano. Ver a POLÍTICA DE AUTORIA no fetch_data.py. -->
+<!-- PRERENDER:RESERVATORIOS_HEAD -->
+<title>Reservatórios hoje: 76,4% (SIN) · 25/08 | MEGAGRID</title>
+<meta property="og:title" content="Reservatórios hoje: 76,4% (SIN) · 25/08 | MEGAGRID">
+<meta property="og:description" content="Energia armazenada do SIN em 76,4% da capacidade em 25/08. Abertura por subsistema e carga do sistema, de dados abertos do ONS.">
+<!-- /PRERENDER:RESERVATORIOS_HEAD -->
+<meta name="description" content="Energia armazenada nas hidrelétricas do SIN, abertura por subsistema e carga do sistema. Dados abertos ONS.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://megagrid.com.br/reservatorios/">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://megagrid.com.br/reservatorios/">
+<meta property="og:site_name" content="Megagrid">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0A1426">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='0'%3E%3Cstop offset='0' stop-color='%2300E0FF'/%3E%3Cstop offset='.5' stop-color='%23B43DFF'/%3E%3Cstop offset='1' stop-color='%23FF7A00'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100' height='100' rx='20' fill='%230A1426'/%3E%3Cpath d='M15 55 H32 L42 28 L58 72 L70 38 L80 55 H85' stroke='url(%23g)' stroke-width='9' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+  :root{
+    --ink:#15212F;--mut:#5B6B7E;--dim:#8595A8;
+    --bg:#FFFFFF;--alt:#F4F6F9;--line:#E3E8EF;
+    --navy:#0A1426;--blue:#1456D6;--blue-d:#0E3FA0;--blue-t:#EDF3FF;
+    --ribbon:linear-gradient(90deg,#00E0FF 0%,#2E6BFF 28%,#B43DFF 52%,#FF2E92 76%,#FF7A00 100%);
+    --up:#D63B3B;--down:#1F9D61;
+    --shadow:0 1px 3px rgba(16,24,40,.07),0 1px 2px rgba(16,24,40,.05);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;overflow-x:hidden}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:920px;margin:0 auto;padding:0 22px}
+  .ribbon{height:4px;background:var(--ribbon)}
+  /* header */
+  header{position:sticky;top:0;z-index:60;background:#fff;border-bottom:1px solid var(--line)}
+  .nav{display:flex;align-items:center;gap:20px;height:62px}
+  .logo{display:flex;align-items:center;gap:9px;font-size:1.22rem;font-weight:900;color:var(--navy)}
+  .logo svg{width:36px;height:21px}
+  .logo .mega{background:var(--ribbon);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .nav nav{display:flex;gap:18px;font-size:.86rem;color:var(--mut);margin-left:auto;font-weight:600;flex-wrap:wrap}
+  .nav nav a:hover,.nav nav a[aria-current]{color:var(--blue)}
+  @media(max-width:760px){.nav{height:auto;padding:10px 0;flex-wrap:wrap;gap:10px}.nav nav{margin-left:0;width:100%;gap:14px;font-size:.8rem}}
+  /* trilha */
+  .trilha{font-size:.78rem;color:var(--dim);padding:16px 0 0;font-weight:600}
+  .trilha a:hover{color:var(--blue)}
+  /* hero do dado */
+  .destaque{padding:20px 0 30px;border-bottom:1px solid var(--line)}
+  h1{font-size:clamp(1.5rem,4vw,2.1rem);font-weight:800;letter-spacing:-.02em;line-height:1.22;margin-bottom:8px}
+  .sub{color:var(--mut);font-size:1rem;max-width:640px}
+  .numerao{font-size:clamp(2.4rem,8vw,3.6rem);font-weight:800;letter-spacing:-.03em;line-height:1;margin:18px 0 6px}
+  .numerao small{font-size:.36em;font-weight:700;color:var(--mut);letter-spacing:0}
+  .carimbo{font-size:.8rem;color:var(--dim);font-weight:600}
+  .var-up{color:var(--up)}.var-down{color:var(--down)}
+  /* seções */
+  section{padding:34px 0;border-bottom:1px solid var(--line)}
+  section:last-of-type{border-bottom:0}
+  h2{font-size:1.28rem;font-weight:800;letter-spacing:-.015em;margin-bottom:6px}
+  .rule{width:42px;height:4px;border-radius:4px;background:var(--blue);margin:0 0 14px}
+  h3{font-size:1rem;font-weight:800;margin:18px 0 6px}
+  p{margin-bottom:12px;color:#2B3A4B}
+  p.lead{font-size:1.02rem}
+  ul.bullets{margin:0 0 12px 20px;color:#2B3A4B}
+  ul.bullets li{margin-bottom:6px}
+  /* tabelas */
+  .tab-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:6px 0 4px}
+  table{border-collapse:collapse;width:100%;min-width:420px;font-size:.92rem}
+  caption{text-align:left;font-size:.8rem;color:var(--dim);padding-bottom:8px;font-weight:600}
+  th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line)}
+  thead th{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--dim);font-weight:800;border-bottom:2px solid var(--line)}
+  tbody tr:hover{background:var(--alt)}
+  td.num{text-align:right;font-variant-numeric:tabular-nums;font-weight:700}
+  .pill{display:inline-block;padding:2px 9px;border-radius:99px;font-size:.76rem;font-weight:800}
+  .b-verde{background:#E6F6EE;color:#12724A}
+  .b-amarela{background:#FDF3D7;color:#8A6400}
+  .b-vermelha1{background:#FDE7E7;color:#B02525}
+  .b-vermelha2{background:#F9D7D7;color:#7A1010}
+  .b-escassez{background:#E4E4E7;color:#27272A}
+  /* caixa de nota */
+  .nota{background:var(--blue-t);border-left:3px solid var(--blue);border-radius:0 10px 10px 0;padding:14px 16px;font-size:.9rem;color:#22364F;margin:14px 0}
+  .nota b{color:var(--navy)}
+  /* FAQ */
+  details{border:1px solid var(--line);border-radius:10px;padding:0;margin-bottom:8px;background:#fff}
+  details[open]{box-shadow:var(--shadow)}
+  summary{cursor:pointer;padding:13px 16px;font-weight:700;font-size:.95rem;list-style:none;display:flex;justify-content:space-between;gap:12px;align-items:center}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";color:var(--blue);font-weight:800;font-size:1.15rem;flex:0 0 auto}
+  details[open] summary::after{content:"−"}
+  details .resp{padding:0 16px 14px;color:#2B3A4B;font-size:.93rem}
+  /* irmãs */
+  .irmas{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;margin-top:6px}
+  .irma{border:1px solid var(--line);border-radius:12px;padding:15px 16px;background:#fff;box-shadow:var(--shadow)}
+  .irma:hover{border-color:var(--blue)}
+  .irma b{display:block;font-size:.96rem;margin-bottom:3px}
+  .irma span{font-size:.84rem;color:var(--mut)}
+  /* rodapé */
+  footer{background:var(--navy);color:#C7D2E0;padding:30px 0 24px;font-size:.87rem;margin-top:8px}
+  footer a{color:#C7D2E0}
+  footer a:hover{color:#fff}
+  .fnav{display:flex;gap:18px;flex-wrap:wrap;margin-bottom:14px;font-weight:600}
+  .legal{font-size:.78rem;color:#8595A8;line-height:1.55;border-top:1px solid rgba(255,255,255,.1);padding-top:14px;margin-top:6px}
+</style>
+</head>
+<body>
+<div class="ribbon"></div>
+
+<header>
+  <div class="wrap nav">
+    <a class="logo" href="/" aria-label="Megagrid — início">
+      <svg viewBox="0 0 40 24" aria-hidden="true"><defs><linearGradient id="lgh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E0FF"/><stop offset=".3" stop-color="#2E6BFF"/><stop offset=".55" stop-color="#B43DFF"/><stop offset=".78" stop-color="#FF2E92"/><stop offset="1" stop-color="#FF7A00"/></linearGradient></defs><path d="M2 13 H9 L13 5 L19 19 L25 8 L29 13 H38" stroke="url(#lgh)" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span><span class="mega">MEGA</span><span>GRID</span></span>
+    </a>
+    <nav>
+      <a href="/pld/">Preços &amp; PLD</a>
+      <a href="/bandeira-tarifaria/">Bandeira tarifária</a>
+      <a href="/reservatorios/" aria-current="page">Reservatórios</a>
+      <a href="/#calculadoras">Calculadoras</a>
+      <a href="/#manchetes">Notícias</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="trilha"><a href="/">Início</a> › Reservatórios</div>
+</div>
+
+<div class="wrap destaque">
+  <h1>Reservatórios hoje</h1>
+  <p class="sub">Energia armazenada nas hidrelétricas do Sistema Interligado
+  Nacional, em percentual da capacidade máxima. Fonte: ONS, dados abertos.</p>
+  <!-- PRERENDER:RESERVATORIOS_DESTAQUE -->
+<div class="numerao">76,4<small>%</small></div>
+  <div class="carimbo">Sistema Interligado Nacional · dado de 25/08</div>
+  <!-- /PRERENDER:RESERVATORIOS_DESTAQUE -->
+</div>
+
+<section class="wrap">
+  <h2>Por subsistema</h2>
+  <div class="rule"></div>
+  <!-- PRERENDER:RESERVATORIOS_TABELA -->
+<div class="tab-wrap"><table><caption>Percentual da capacidade máxima em 25/08. Fonte: ONS.</caption><thead><tr><th>Subsistema</th><th>Energia armazenada</th></tr></thead><tbody><tr><td>Sudeste / Centro-Oeste</td><td class="num">59,4%</td></tr><tr><td>Sul</td><td class="num">84,8%</td></tr><tr><td>Nordeste</td><td class="num">77,3%</td></tr><tr><td>Norte</td><td class="num">84,1%</td></tr></tbody></table></div>
+  <!-- /PRERENDER:RESERVATORIOS_TABELA -->
+</section>
+
+<section class="wrap">
+  <h2>Carga do sistema</h2>
+  <div class="rule"></div>
+  <!-- PRERENDER:RESERVATORIOS_CARGA -->
+<div class="tab-wrap"><table><caption>Dado de 25/08. Fonte: ONS.</caption><thead><tr><th>Indicador</th><th>Valor</th><th>Variação</th></tr></thead><tbody><tr><td>Carga verificada do SIN</td><td class="num">83,8 GWmed</td><td class="num"><span class="var-up">▲ 3,0%</span></td></tr></tbody></table></div>
+  <!-- /PRERENDER:RESERVATORIOS_CARGA -->
+</section>
+
+<section class="wrap">
+  <h2>O que é EAR e por que ela importa</h2>
+  <div class="rule"></div>
+  <p class="lead">EAR é a Energia Armazenada. Ela responde a uma pergunta
+  simples: se todas as hidrelétricas do país esvaziassem seus reservatórios
+  agora, quanta energia sairia dali? O número em percentual compara esse
+  estoque com o máximo que o sistema consegue guardar.</p>
+
+  <p>É importante entender que a EAR não mede volume de água, e sim energia.
+  Um reservatório pequeno numa usina de queda alta pode guardar mais energia
+  que um lago enorme numa usina de queda baixa. Por isso 70% de EAR não quer
+  dizer que os lagos estão 70% cheios de água — quer dizer que o sistema tem
+  70% da energia que caberia estocar.</p>
+
+  <h3>A relação com o preço</h3>
+  <p>O Brasil ainda depende bastante de hidrelétrica, e água guardada é
+  combustível barato. Quando a EAR está alta, o sistema atende a demanda com
+  as usinas mais baratas e o
+  <a href="/pld/" style="color:var(--blue);font-weight:600">PLD</a> cai. Quando
+  a EAR cai, o operador precisa poupar água para os meses seguintes e liga
+  térmicas a gás, carvão ou óleo — que custam várias vezes mais. O preço sobe,
+  e pouco depois a
+  <a href="/bandeira-tarifaria/" style="color:var(--blue);font-weight:600">bandeira tarifária</a>
+  acompanha.</p>
+
+  <h3>Por que olhar por subsistema</h3>
+  <p>O reservatório do Sudeste/Centro-Oeste é o maior do país e o que mais pesa
+  no número agregado. Mas cada região tem seu próprio regime de chuva e seu
+  próprio estoque: o Nordeste pode estar confortável enquanto o Sudeste aperta,
+  e a transmissão nem sempre consegue compensar a diferença. Acompanhar a
+  abertura evita concluir do número único o que ele não diz.</p>
+
+  <h3>EAR e ENA não são a mesma coisa</h3>
+  <p>EAR é estoque: o que já está guardado. ENA — Energia Natural Afluente — é
+  fluxo: quanta energia está chegando aos reservatórios pelas chuvas e pelos
+  rios agora. Dá para ter estoque alto com afluência ruim, e é exatamente essa
+  combinação que costuma antecipar aumento de preço.</p>
+</section>
+
+<section class="wrap">
+  <h2>Perguntas frequentes sobre reservatórios</h2>
+  <div class="rule"></div>
+  <!-- O FAQ visível e o JSON-LD saem os DOIS do mesmo bloco, gerados pela
+       mesma lista no robô: se divergissem, o dado estruturado prometeria ao
+       Google uma resposta que a página não mostra. -->
+  <!-- PRERENDER:RESERVATORIOS_FAQ -->
+<details><summary>Qual o nível dos reservatórios hoje?</summary><div class="resp">A energia armazenada do Sistema Interligado Nacional está em 76,4% da capacidade máxima, com dado de 25/08.</div></details><details><summary>O que é EAR?</summary><div class="resp">EAR é a Energia Armazenada: quanta energia sairia dos reservatórios das hidrelétricas se eles fossem esvaziados. O percentual compara esse estoque com o máximo que o sistema consegue guardar. Repare que a medida é de energia, não de volume de água.</div></details><details><summary>Por que os reservatórios afetam o preço da energia?</summary><div class="resp">Porque água guardada é combustível barato. Com EAR alta, o sistema atende a demanda com as usinas mais baratas e o PLD cai. Com EAR baixa, o operador precisa poupar água e liga térmicas a gás, carvão ou óleo, que custam várias vezes mais — o preço sobe e a bandeira tarifária costuma acompanhar.</div></details><details><summary>Qual a diferença entre EAR e ENA?</summary><div class="resp">EAR é estoque: o que já está guardado. ENA, a Energia Natural Afluente, é fluxo: quanta energia está chegando aos reservatórios pelas chuvas e pelos rios. Estoque alto com afluência ruim é a combinação que costuma anteceder alta de preço.</div></details>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "Qual o nível dos reservatórios hoje?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "A energia armazenada do Sistema Interligado Nacional está em 76,4% da capacidade máxima, com dado de 25/08."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "O que é EAR?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "EAR é a Energia Armazenada: quanta energia sairia dos reservatórios das hidrelétricas se eles fossem esvaziados. O percentual compara esse estoque com o máximo que o sistema consegue guardar. Repare que a medida é de energia, não de volume de água."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Por que os reservatórios afetam o preço da energia?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Porque água guardada é combustível barato. Com EAR alta, o sistema atende a demanda com as usinas mais baratas e o PLD cai. Com EAR baixa, o operador precisa poupar água e liga térmicas a gás, carvão ou óleo, que custam várias vezes mais — o preço sobe e a bandeira tarifária costuma acompanhar."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Qual a diferença entre EAR e ENA?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "EAR é estoque: o que já está guardado. ENA, a Energia Natural Afluente, é fluxo: quanta energia está chegando aos reservatórios pelas chuvas e pelos rios. Estoque alto com afluência ruim é a combinação que costuma anteceder alta de preço."
+   }
+  }
+ ]
+}
+</script>
+  <!-- /PRERENDER:RESERVATORIOS_FAQ -->
+</section>
+
+<section class="wrap">
+  <h2>Continue por aqui</h2>
+  <div class="rule"></div>
+  <div class="irmas">
+      <a class="irma" href="/pld/"><b>PLD hoje →</b><span>Preço da energia no mercado de curto prazo, por submercado.</span></a>
+      <a class="irma" href="/bandeira-tarifaria/"><b>Bandeira tarifária →</b><span>A cor do mês e quanto ela custa na sua conta.</span></a>
+      <a class="irma" href="/"><b>Página inicial →</b><span>Manchetes do setor, termômetro do MWh e calculadoras.</span></a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="fnav">
+      <a href="/">Início</a>
+      <a href="/pld/">PLD</a>
+      <a href="/bandeira-tarifaria/">Bandeira tarifária</a>
+      <a href="/reservatorios/">Reservatórios</a>
+      <a href="/#calculadoras">Calculadoras</a>
+      <a href="/anuncie">Anuncie aqui</a>
+    </div>
+    <p class="legal"><b>Aviso:</b> conteúdo informativo e educacional, compilado de dados
+    públicos oficiais de CCEE, ONS e ANEEL. Não é recomendação de compra, venda ou
+    contratação de energia. Em caso de divergência, valem os dados publicados pelos
+    órgãos oficiais.<br>© 2026 Megagrid · dados abertos CCEE · ONS · ANEEL</p>
+  </div>
+</footer>
+<script data-goatcounter="https://megagrid.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

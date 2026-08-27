@@ -1,10 +1,132 @@
 {
-  "updated": "2026-08-26T22:22:26Z",
+  "updated": "2026-08-27T12:35:47Z",
   "mes": "agosto/2026",
   "competencia": "2026-08",
   "fonte": "ANEEL — Dados Abertos",
   "cor": "amarela",
   "adicional_kwh": 0.01885,
   "adicional_mwh": 18.85,
-  "descricao": "Condições de atenção"
+  "descricao": "Condições de atenção",
+  "historico": [
+    {
+      "competencia": "2026-08",
+      "mes": "agosto/2026",
+      "cor": "amarela"
+    },
+    {
+      "competencia": "2026-07",
+      "mes": "julho/2026",
+      "cor": "amarela"
+    },
+    {
+      "competencia": "2026-06",
+      "mes": "junho/2026",
+      "cor": "amarela"
+    },
+    {
+      "competencia": "2026-05",
+      "mes": "maio/2026",
+      "cor": "amarela"
+    },
+    {
+      "competencia": "2026-04",
+      "mes": "abril/2026",
+      "cor": "verde"
+    },
+    {
+      "competencia": "2026-03",
+      "mes": "março/2026",
+      "cor": "verde"
+    },
+    {
+      "competencia": "2026-02",
+      "mes": "fevereiro/2026",
+      "cor": "verde"
+    },
+    {
+      "competencia": "2026-01",
+      "mes": "janeiro/2026",
+      "cor": "verde"
+    },
+    {
+      "competencia": "2025-12",
+      "mes": "dezembro/2025",
+      "cor": "amarela"
+    },
+    {
+      "competencia": "2025-11",
+      "mes": "novembro/2025",
+      "cor": "vermelha1"
+    },
+    {
+      "competencia": "2025-10",
+      "mes": "outubro/2025",
+      "cor": "vermelha1"
+    },
+    {
+      "competencia": "2025-09",
+      "mes": "setembro/2025",
+      "cor": "vermelha2"
+    },
+    {
+      "competencia": "2025-08",
+      "mes": "agosto/2025",
+      "cor": "vermelha2"
+    },
+    {
+      "competencia": "2025-07",
+      "mes": "julho/2025",
+      "cor": "vermelha1"
+    },
+    {
+      "competencia": "2025-06",
+      "mes": "junho/2025",
+      "cor": "vermelha1"
+    },
+    {
+      "competencia": "2025-05",
+      "mes": "maio/2025",
+      "cor": "amarela"
+    },
+    {
+      "competencia": "2025-04",
+      "mes": "abril/2025",
+      "cor": "verde"
+    },
+    {
+      "competencia": "2025-03",
+      "mes": "março/2025",
+      "cor": "verde"
+    },
+    {
+      "competencia": "2025-02",
+      "mes": "fevereiro/2025",
+      "cor": "verde"
+    },
+    {
+      "competencia": "2025-01",
+      "mes": "janeiro/2025",
+      "cor": "verde"
+    },
+    {
+      "competencia": "2024-12",
+      "mes": "dezembro/2024",
+      "cor": "verde"
+    },
+    {
+      "competencia": "2024-11",
+      "mes": "novembro/2024",
+      "cor": "amarela"
+    },
+    {
+      "competencia": "2024-10",
+      "mes": "outubro/2024",
+      "cor": "vermelha2"
+    },
+    {
+      "competencia": "2024-09",
+      "mes": "setembro/2024",
+      "cor": "vermelha1"
+    }
+  ]
 }

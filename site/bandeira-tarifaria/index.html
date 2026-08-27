@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Título e og:* são reescritos pelo robô (fetch_data.py → prerender_paginas)
+     a cada rodada, com o dado do dia. Só o miolo entre os marcadores; o resto
+     desta página é humano. Ver a POLÍTICA DE AUTORIA no fetch_data.py. -->
+<!-- PRERENDER:BANDEIRA_HEAD -->
+<title>Bandeira tarifária em agosto/2026: amarela | MEGAGRID</title>
+<meta property="og:title" content="Bandeira tarifária em agosto/2026: amarela | MEGAGRID">
+<meta property="og:description" content="Bandeira amarela em agosto/2026, com acréscimo de R$ 1,885 a cada 100 kWh. Tabela de custo por cor e histórico de acionamentos.">
+<!-- /PRERENDER:BANDEIRA_HEAD -->
+<meta name="description" content="Bandeira tarifária em vigor, quanto cada cor custa por 100 kWh e o histórico de acionamentos. Dados abertos ANEEL.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://megagrid.com.br/bandeira-tarifaria/">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://megagrid.com.br/bandeira-tarifaria/">
+<meta property="og:site_name" content="Megagrid">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0A1426">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='0'%3E%3Cstop offset='0' stop-color='%2300E0FF'/%3E%3Cstop offset='.5' stop-color='%23B43DFF'/%3E%3Cstop offset='1' stop-color='%23FF7A00'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100' height='100' rx='20' fill='%230A1426'/%3E%3Cpath d='M15 55 H32 L42 28 L58 72 L70 38 L80 55 H85' stroke='url(%23g)' stroke-width='9' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+  :root{
+    --ink:#15212F;--mut:#5B6B7E;--dim:#8595A8;
+    --bg:#FFFFFF;--alt:#F4F6F9;--line:#E3E8EF;
+    --navy:#0A1426;--blue:#1456D6;--blue-d:#0E3FA0;--blue-t:#EDF3FF;
+    --ribbon:linear-gradient(90deg,#00E0FF 0%,#2E6BFF 28%,#B43DFF 52%,#FF2E92 76%,#FF7A00 100%);
+    --up:#D63B3B;--down:#1F9D61;
+    --shadow:0 1px 3px rgba(16,24,40,.07),0 1px 2px rgba(16,24,40,.05);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;overflow-x:hidden}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:920px;margin:0 auto;padding:0 22px}
+  .ribbon{height:4px;background:var(--ribbon)}
+  /* header */
+  header{position:sticky;top:0;z-index:60;background:#fff;border-bottom:1px solid var(--line)}
+  .nav{display:flex;align-items:center;gap:20px;height:62px}
+  .logo{display:flex;align-items:center;gap:9px;font-size:1.22rem;font-weight:900;color:var(--navy)}
+  .logo svg{width:36px;height:21px}
+  .logo .mega{background:var(--ribbon);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .nav nav{display:flex;gap:18px;font-size:.86rem;color:var(--mut);margin-left:auto;font-weight:600;flex-wrap:wrap}
+  .nav nav a:hover,.nav nav a[aria-current]{color:var(--blue)}
+  @media(max-width:760px){.nav{height:auto;padding:10px 0;flex-wrap:wrap;gap:10px}.nav nav{margin-left:0;width:100%;gap:14px;font-size:.8rem}}
+  /* trilha */
+  .trilha{font-size:.78rem;color:var(--dim);padding:16px 0 0;font-weight:600}
+  .trilha a:hover{color:var(--blue)}
+  /* hero do dado */
+  .destaque{padding:20px 0 30px;border-bottom:1px solid var(--line)}
+  h1{font-size:clamp(1.5rem,4vw,2.1rem);font-weight:800;letter-spacing:-.02em;line-height:1.22;margin-bottom:8px}
+  .sub{color:var(--mut);font-size:1rem;max-width:640px}
+  .numerao{font-size:clamp(2.4rem,8vw,3.6rem);font-weight:800;letter-spacing:-.03em;line-height:1;margin:18px 0 6px}
+  .numerao small{font-size:.36em;font-weight:700;color:var(--mut);letter-spacing:0}
+  .carimbo{font-size:.8rem;color:var(--dim);font-weight:600}
+  .var-up{color:var(--up)}.var-down{color:var(--down)}
+  /* seções */
+  section{padding:34px 0;border-bottom:1px solid var(--line)}
+  section:last-of-type{border-bottom:0}
+  h2{font-size:1.28rem;font-weight:800;letter-spacing:-.015em;margin-bottom:6px}
+  .rule{width:42px;height:4px;border-radius:4px;background:var(--blue);margin:0 0 14px}
+  h3{font-size:1rem;font-weight:800;margin:18px 0 6px}
+  p{margin-bottom:12px;color:#2B3A4B}
+  p.lead{font-size:1.02rem}
+  ul.bullets{margin:0 0 12px 20px;color:#2B3A4B}
+  ul.bullets li{margin-bottom:6px}
+  /* tabelas */
+  .tab-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:6px 0 4px}
+  table{border-collapse:collapse;width:100%;min-width:420px;font-size:.92rem}
+  caption{text-align:left;font-size:.8rem;color:var(--dim);padding-bottom:8px;font-weight:600}
+  th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line)}
+  thead th{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--dim);font-weight:800;border-bottom:2px solid var(--line)}
+  tbody tr:hover{background:var(--alt)}
+  td.num{text-align:right;font-variant-numeric:tabular-nums;font-weight:700}
+  .pill{display:inline-block;padding:2px 9px;border-radius:99px;font-size:.76rem;font-weight:800}
+  .b-verde{background:#E6F6EE;color:#12724A}
+  .b-amarela{background:#FDF3D7;color:#8A6400}
+  .b-vermelha1{background:#FDE7E7;color:#B02525}
+  .b-vermelha2{background:#F9D7D7;color:#7A1010}
+  .b-escassez{background:#E4E4E7;color:#27272A}
+  /* caixa de nota */
+  .nota{background:var(--blue-t);border-left:3px solid var(--blue);border-radius:0 10px 10px 0;padding:14px 16px;font-size:.9rem;color:#22364F;margin:14px 0}
+  .nota b{color:var(--navy)}
+  /* FAQ */
+  details{border:1px solid var(--line);border-radius:10px;padding:0;margin-bottom:8px;background:#fff}
+  details[open]{box-shadow:var(--shadow)}
+  summary{cursor:pointer;padding:13px 16px;font-weight:700;font-size:.95rem;list-style:none;display:flex;justify-content:space-between;gap:12px;align-items:center}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";color:var(--blue);font-weight:800;font-size:1.15rem;flex:0 0 auto}
+  details[open] summary::after{content:"−"}
+  details .resp{padding:0 16px 14px;color:#2B3A4B;font-size:.93rem}
+  /* irmãs */
+  .irmas{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;margin-top:6px}
+  .irma{border:1px solid var(--line);border-radius:12px;padding:15px 16px;background:#fff;box-shadow:var(--shadow)}
+  .irma:hover{border-color:var(--blue)}
+  .irma b{display:block;font-size:.96rem;margin-bottom:3px}
+  .irma span{font-size:.84rem;color:var(--mut)}
+  /* rodapé */
+  footer{background:var(--navy);color:#C7D2E0;padding:30px 0 24px;font-size:.87rem;margin-top:8px}
+  footer a{color:#C7D2E0}
+  footer a:hover{color:#fff}
+  .fnav{display:flex;gap:18px;flex-wrap:wrap;margin-bottom:14px;font-weight:600}
+  .legal{font-size:.78rem;color:#8595A8;line-height:1.55;border-top:1px solid rgba(255,255,255,.1);padding-top:14px;margin-top:6px}
+</style>
+</head>
+<body>
+<div class="ribbon"></div>
+
+<header>
+  <div class="wrap nav">
+    <a class="logo" href="/" aria-label="Megagrid — início">
+      <svg viewBox="0 0 40 24" aria-hidden="true"><defs><linearGradient id="lgh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E0FF"/><stop offset=".3" stop-color="#2E6BFF"/><stop offset=".55" stop-color="#B43DFF"/><stop offset=".78" stop-color="#FF2E92"/><stop offset="1" stop-color="#FF7A00"/></linearGradient></defs><path d="M2 13 H9 L13 5 L19 19 L25 8 L29 13 H38" stroke="url(#lgh)" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span><span class="mega">MEGA</span><span>GRID</span></span>
+    </a>
+    <nav>
+      <a href="/pld/">Preços &amp; PLD</a>
+      <a href="/bandeira-tarifaria/" aria-current="page">Bandeira tarifária</a>
+      <a href="/reservatorios/">Reservatórios</a>
+      <a href="/#calculadoras">Calculadoras</a>
+      <a href="/#manchetes">Notícias</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="trilha"><a href="/">Início</a> › Bandeira tarifária</div>
+</div>
+
+<div class="wrap destaque">
+  <h1>Bandeira tarifária</h1>
+  <p class="sub">A cor em vigor, quanto ela acrescenta na conta de luz e o
+  histórico dos acionamentos. Fonte: ANEEL, dados abertos.</p>
+  <!-- PRERENDER:BANDEIRA_DESTAQUE -->
+<div class="numerao"><span class="pill b-amarela" style="font-size:.44em;vertical-align:middle">Amarela</span></div>
+  <div class="carimbo">agosto/2026 · acréscimo de R$ 1,885 a cada 100 kWh consumidos</div>
+  <!-- /PRERENDER:BANDEIRA_DESTAQUE -->
+</div>
+
+<section class="wrap">
+  <h2>O que cada cor custa</h2>
+  <div class="rule"></div>
+  <div class="tab-wrap">
+    <table>
+      <caption>Valores por 100 kWh consumidos. Tabela vigente da ANEEL.</caption>
+      <thead><tr><th>Bandeira</th><th>Acréscimo por 100 kWh</th><th>O que significa</th></tr></thead>
+      <tbody>
+        <tr><td><span class="pill b-verde">Verde</span></td><td class="num">R$ 0,00</td>
+            <td>Geração barata e reservatórios confortáveis. Sem acréscimo.</td></tr>
+        <tr><td><span class="pill b-amarela">Amarela</span></td><td class="num">R$ 1,885</td>
+            <td>Condições de atenção. O sistema começa a ficar mais caro.</td></tr>
+        <tr><td><span class="pill b-vermelha1">Vermelha P1</span></td><td class="num">R$ 4,463</td>
+            <td>Térmicas caras ligadas para dar conta da demanda.</td></tr>
+        <tr><td><span class="pill b-vermelha2">Vermelha P2</span></td><td class="num">R$ 7,877</td>
+            <td>Custo de geração alto e persistente.</td></tr>
+        <tr><td><span class="pill b-escassez">Escassez</span></td><td class="num">R$ 14,20</td>
+            <td>Patamar excepcional, usado na crise hídrica de 2021.</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="nota">Os valores são por 100 kWh. Uma casa que gasta 200 kWh no mês
+  paga o dobro do que está na tabela; uma que gasta 50 kWh, metade. O acréscimo
+  incide sobre o consumo, não é uma taxa fixa.</div>
+</section>
+
+<section class="wrap">
+  <h2>Histórico de acionamentos</h2>
+  <div class="rule"></div>
+  <!-- PRERENDER:BANDEIRA_HISTORICO -->
+<div class="tab-wrap"><table><caption>Últimos 24 meses publicados pela ANEEL.</caption><thead><tr><th>Competência</th><th>Bandeira acionada</th></tr></thead><tbody><tr><td>agosto/2026</td><td><span class="pill b-amarela">Amarela</span></td></tr><tr><td>julho/2026</td><td><span class="pill b-amarela">Amarela</span></td></tr><tr><td>junho/2026</td><td><span class="pill b-amarela">Amarela</span></td></tr><tr><td>maio/2026</td><td><span class="pill b-amarela">Amarela</span></td></tr><tr><td>abril/2026</td><td><span class="pill b-verde">Verde</span></td></tr><tr><td>março/2026</td><td><span class="pill b-verde">Verde</span></td></tr><tr><td>fevereiro/2026</td><td><span class="pill b-verde">Verde</span></td></tr><tr><td>janeiro/2026</td><td><span class="pill b-verde">Verde</span></td></tr><tr><td>dezembro/2025</td><td><span class="pill b-amarela">Amarela</span></td></tr><tr><td>novembro/2025</td><td><span class="pill b-vermelha1">Verm. P1</span></td></tr><tr><td>outubro/2025</td><td><span class="pill b-vermelha1">Verm. P1</span></td></tr><tr><td>setembro/2025</td><td><span class="pill b-vermelha2">Verm. P2</span></td></tr><tr><td>agosto/2025</td><td><span class="pill b-vermelha2">Verm. P2</span></td></tr><tr><td>julho/2025</td><td><span class="pill b-vermelha1">Verm. P1</span></td></tr><tr><td>junho/2025</td><td><span class="pill b-vermelha1">Verm. P1</span></td></tr><tr><td>maio/2025</td><td><span class="pill b-amarela">Amarela</span></td></tr><tr><td>abril/2025</td><td><span class="pill b-verde">Verde</span></td></tr><tr><td>março/2025</td><td><span class="pill b-verde">Verde</span></td></tr><tr><td>fevereiro/2025</td><td><span class="pill b-verde">Verde</span></td></tr><tr><td>janeiro/2025</td><td><span class="pill b-verde">Verde</span></td></tr><tr><td>dezembro/2024</td><td><span class="pill b-verde">Verde</span></td></tr><tr><td>novembro/2024</td><td><span class="pill b-amarela">Amarela</span></td></tr><tr><td>outubro/2024</td><td><span class="pill b-vermelha2">Verm. P2</span></td></tr><tr><td>setembro/2024</td><td><span class="pill b-vermelha1">Verm. P1</span></td></tr></tbody></table></div>
+  <!-- /PRERENDER:BANDEIRA_HISTORICO -->
+</section>
+
+<section class="wrap">
+  <h2>Como a bandeira funciona</h2>
+  <div class="rule"></div>
+  <p class="lead">A bandeira tarifária é um aviso de custo. Todo mês a ANEEL
+  olha para quanto está custando gerar a energia do país e traduz isso em uma
+  cor, que vale para todos os consumidores atendidos pelas distribuidoras.</p>
+
+  <p>A conta de luz é reajustada uma vez por ano, mas o custo de gerar energia
+  muda o tempo todo. Sem a bandeira, a diferença ficaria acumulada e cairia de
+  uma vez no reajuste seguinte. A bandeira antecipa esse ajuste em parcelas
+  mensais — e, de quebra, dá ao consumidor um sinal de quando vale a pena
+  economizar.</p>
+
+  <h3>Quem decide a cor</h3>
+  <p>A ANEEL, com base em dois fatores principais: o custo de operar o sistema
+  (o mesmo CMO que forma o <a href="/pld/" style="color:var(--blue);font-weight:600">PLD</a>)
+  e o risco hidrológico, medido pelo nível dos
+  <a href="/reservatorios/" style="color:var(--blue);font-weight:600">reservatórios</a>.
+  Reservatório cheio e chuva regular puxam a bandeira para o verde. Reservatório
+  baixo obriga a ligar usinas térmicas, que custam muito mais caro, e a cor sobe.</p>
+
+  <h3>Onde ela aparece na conta</h3>
+  <p>Como uma linha à parte, somada ao valor da energia consumida. Ela não muda
+  a tarifa; é um acréscimo aplicado sobre os quilowatt-hora do mês. Consumidores
+  do mercado livre não pagam bandeira sobre a energia que compram por contrato,
+  mas seguem pagando pela parcela de distribuição.</p>
+
+  <h3>Por que a cor pode demorar a mudar aqui</h3>
+  <p>Esta página lê a competência publicada pela ANEEL nos dados abertos. Quando
+  o órgão anuncia a bandeira do mês novo antes de atualizar a base, a página
+  segue mostrando a competência anterior e avisa a data do dado. Preferimos
+  assumir o atraso a deduzir a cor a partir de notícia.</p>
+</section>
+
+<section class="wrap">
+  <h2>Perguntas frequentes sobre bandeira tarifária</h2>
+  <div class="rule"></div>
+  <!-- O FAQ visível e o JSON-LD saem os DOIS do mesmo bloco, gerados pela
+       mesma lista no robô: se divergissem, o dado estruturado prometeria ao
+       Google uma resposta que a página não mostra. -->
+  <!-- PRERENDER:BANDEIRA_FAQ -->
+<details><summary>Qual a bandeira tarifária deste mês?</summary><div class="resp">A bandeira em vigor na competência agosto/2026 é a amarela, com acréscimo de R$ 1,885 a cada 100 kWh consumidos.</div></details><details><summary>Quanto custa cada bandeira?</summary><div class="resp">Por 100 kWh: verde não tem acréscimo; amarela custa R$ 1,885; vermelha patamar 1, R$ 4,463; vermelha patamar 2, R$ 7,877; e a bandeira de escassez hídrica, R$ 14,20. O valor incide sobre o consumo, então dobra para quem gasta 200 kWh e cai pela metade para quem gasta 50 kWh.</div></details><details><summary>Por que a bandeira muda de um mês para o outro?</summary><div class="resp">Porque o custo de gerar energia muda o tempo todo, enquanto a tarifa é reajustada só uma vez por ano. A ANEEL olha o custo de operação do sistema e o nível dos reservatórios: reservatório cheio puxa a cor para o verde; reservatório baixo obriga a ligar térmicas caras e a cor sobe.</div></details><details><summary>Como a bandeira aparece na conta de luz?</summary><div class="resp">Como uma linha à parte, somada ao valor da energia consumida no mês. Ela não altera a tarifa em si — é um acréscimo aplicado sobre os quilowatt-hora do período.</div></details><details><summary>Quem paga bandeira no mercado livre?</summary><div class="resp">Consumidores do mercado livre não pagam bandeira sobre a energia que compram por contrato, mas continuam pagando a parcela de distribuição cobrada pela concessionária local.</div></details>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "Qual a bandeira tarifária deste mês?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "A bandeira em vigor na competência agosto/2026 é a amarela, com acréscimo de R$ 1,885 a cada 100 kWh consumidos."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Quanto custa cada bandeira?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Por 100 kWh: verde não tem acréscimo; amarela custa R$ 1,885; vermelha patamar 1, R$ 4,463; vermelha patamar 2, R$ 7,877; e a bandeira de escassez hídrica, R$ 14,20. O valor incide sobre o consumo, então dobra para quem gasta 200 kWh e cai pela metade para quem gasta 50 kWh."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Por que a bandeira muda de um mês para o outro?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Porque o custo de gerar energia muda o tempo todo, enquanto a tarifa é reajustada só uma vez por ano. A ANEEL olha o custo de operação do sistema e o nível dos reservatórios: reservatório cheio puxa a cor para o verde; reservatório baixo obriga a ligar térmicas caras e a cor sobe."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Como a bandeira aparece na conta de luz?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Como uma linha à parte, somada ao valor da energia consumida no mês. Ela não altera a tarifa em si — é um acréscimo aplicado sobre os quilowatt-hora do período."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Quem paga bandeira no mercado livre?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Consumidores do mercado livre não pagam bandeira sobre a energia que compram por contrato, mas continuam pagando a parcela de distribuição cobrada pela concessionária local."
+   }
+  }
+ ]
+}
+</script>
+  <!-- /PRERENDER:BANDEIRA_FAQ -->
+</section>
+
+<section class="wrap">
+  <h2>Continue por aqui</h2>
+  <div class="rule"></div>
+  <div class="irmas">
+      <a class="irma" href="/pld/"><b>PLD hoje →</b><span>Preço da energia no mercado de curto prazo, por submercado.</span></a>
+      <a class="irma" href="/reservatorios/"><b>Reservatórios →</b><span>Energia armazenada nas hidrelétricas do SIN.</span></a>
+      <a class="irma" href="/"><b>Página inicial →</b><span>Manchetes do setor, termômetro do MWh e calculadoras.</span></a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="fnav">
+      <a href="/">Início</a>
+      <a href="/pld/">PLD</a>
+      <a href="/bandeira-tarifaria/">Bandeira tarifária</a>
+      <a href="/reservatorios/">Reservatórios</a>
+      <a href="/#calculadoras">Calculadoras</a>
+      <a href="/anuncie">Anuncie aqui</a>
+    </div>
+    <p class="legal"><b>Aviso:</b> conteúdo informativo e educacional, compilado de dados
+    públicos oficiais de CCEE, ONS e ANEEL. Não é recomendação de compra, venda ou
+    contratação de energia. Em caso de divergência, valem os dados publicados pelos
+    órgãos oficiais.<br>© 2026 Megagrid · dados abertos CCEE · ONS · ANEEL</p>
+  </div>
+</footer>
+<script data-goatcounter="https://megagrid.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

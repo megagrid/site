@@ -1,17 +1,42 @@
 {
-  "updated": "2026-08-27T21:23:42Z",
+  "updated": "2026-08-28T03:38:11Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-08-27",
-      "titulo": "PLD sobe 7,2% na semana e fecha a R$ 147,63 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 147,63/MWh · reservatórios em 75,8% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
-      "fonte": "Megagrid Dados",
-      "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "id": "mercado-livre_90548",
+      "titulo": "Integridade na prática: CCEE lança Cartilha Anticorrupção e Antissuborno",
+      "lead": "Integridade na prática: CCEE lança Cartilha Anticorrupção e Antissuborno",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUZhQ21LcVFRLXhtMTJhQzlYQ2IxZTdWRFNVWjBTem1BX29KU3prV3JyUHdiMnRubUVCUnpvb3J5b1ZFMEZNekFReElwaEVOZWdDcm5sT0hQV0ZaR1RNZkZRcGt4LUs0aUFXSEtZMFdFUDJGRnZuWUQxR2VFWWk5RUVVTTBHUk1OcHN2b3RzbGRlWE5hUjQxdHdmTmZqSlpNVEU4dDJpemw2M3M?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-08-27T21:23:42Z",
-      "tema": "precos-mercado"
+      "data": "2026-08-27T19:36:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_75564",
+      "titulo": "IPCA-15 cai 0,40% e conta de luz lidera queda de preços em agosto",
+      "lead": "IPCA-15 cai 0,40% e conta de luz lidera queda de preços em agosto",
+      "fonte": "Economic News Brasil",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1MwQU5Mc0w1MWZXamNqZzB6Rk9IRUtSRllFVFdQcEdSTEN5ZjZGdlo3SWxhQ3lhZXNvaHRIMTB6UUl6WWRydGNhQ2xqbW1sYWNZMzZrc2ltSXA4UjVNM1dCS1d0TEZCMVQwSG1fdG9HcG5haWk4bXdiUEV2Q2hrTldOWDdTUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-27T16:24:00Z",
+      "dominio": "economicnewsbrasil.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_69480",
+      "titulo": "Encargo das baterias deve gerar pedidos de reequilíbrio no mercado livre",
+      "lead": "Encargo das baterias deve gerar pedidos de reequilíbrio no mercado livre",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOckN3Qml2QVhNOU1BUXgzMHBnQ2VfMWtUcjRwQnA3SVdGQzUzc2xudzJaeVFWTjN2Nm02R2ZEQlFOU0ZFSV85LXludEtoNnZaR2dJVDA4Q2xpTDdGdGRCTGs1dmdtY1NqRHRmbm5DM1hWLUFMRG9ycEpOM3dzYV9ZOGVtVzMwZ0FyNEpzNWFBQ0lxZ1FFSGN5alNqN2V4M3dhWjUyWi1OdHNTRnpsek9heEhHRHpidw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-26T22:36:40Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_69810",
@@ -152,7 +177,7 @@
       "lead": "Aneel avalia incluir hidrelétricas e térmicas no rateio das baterias do LRCap",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcXZaQ3cyeFoyTGtsVHJfWUpxcFhSdy1pSFRLODgxeTRNcnM5SEZ0NDdjdldqbXBSQkpOZUtlOS1JN1V2dXZrY3pJanBhajRuMmN6WlZnaUJHWlBvUzhxdFVoSUdMTmkwQUJXT2lIbGFkZ2p1WGxCR0NOWTd1Q2FUcnhGaGN5X09HSXhxRU1qRWF5Rk1WN21hNnAwRnp2YmIzTFVwR2tvMVZXVFNZY3V2UTNlbVc1UjBHSEtWSw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-25T17:42:03Z",
       "dominio": "megawhat.uol.com.br",
@@ -179,7 +204,6 @@
       "editoria": "regulacao",
       "data": "2026-08-25T07:30:49Z",
       "tambem_em": [
-        "Tribuna do Sertão",
         "Valor Econômico",
         "Brasília Alta Frequência"
       ],
@@ -214,7 +238,7 @@
       "lead": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
       "fonte": "Sala da Notícia",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYThzQ0ZtelIzY0NFbS1zZGRhbGNHX2xoWTI0bV9tM1l1Q2hQTUVpU19weDJGSjZ5TVZQYjQxaUl0UW96OVM0cXdJaE1XcmJNUEJnbWZmU1p2V0pNa2sxQ2JCSzYwZnVGdDRYdnlUd1JCYTdlZTFITWlSU0hUcFVhVmE4d0ZpRlhUNnh3TEF4VURPR0ptcWx0V0hCbTNPWWdzZFF3Zk1Ec0U0MmZkUkQ3R2dQT0g?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-08-25T01:00:03Z",
       "dominio": "portal.saladanoticia.com.br",
@@ -279,7 +303,7 @@
       "lead": "MME abre consulta sobre regras de comercialização, armazenamento e mercado livre de energia www.gov.br",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWtiOV85YWhsTDFyZFFua0xhZmoyUkxicUNqNmZZaWZXcU02LTUycFZHNzYwM25GODdRSDgwTXZGN2xtQUtJM0p6TjFDLS1uRjYxdEs0RjZEY1VNR2Q3dWw1eW51NzQyMmVYWEdRZm0temlxMmZSRlBrenQ1SkNlTDRmZGRvMHUxWWd3NmgwSlM3WTR2SktCMU4zcHU2a3AwMm41ZWExMFlMZFY5YmJjRU5VT0toaUtMY29JMllTMmdXRElGa3IwaTUybmxqXy1xdGdZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-24T18:53:00Z",
       "tema": "baterias-armazenamento"
@@ -301,7 +325,7 @@
       "lead": "Aneel mantém tarifa provisória da Pacto enquanto decide sobre bateria",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM19COXItcThyekZXX2txbldjazRxVGprSURzUnB1MjcxSE41R2xDWWdvNklfVlZVMHdQQ1RsT0pCNDZ1VzhpVE9JU3ROYTZfSTdfVHgwTXlHTVo0NFlCZTNZSldOYUItYzlMRkZnaXNLN3JEeWN2MVhiSGZkUlV1WHUtNXVjdk1TcTAxeE1zQzJhckx6YjZ0Q09iOWJOODBFWjY0Z0lOUlo3Y2RJbmRqWFM3bjVWSldpelBXd2ZnYU1nYS1CX0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-08-24T17:04:42Z",
       "tema": "baterias-armazenamento"
@@ -569,12 +593,12 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "politica-energetica_94452",
+      "id": "politica-energetica_60047",
       "titulo": "Portaria_GM/MME_nº_85/2026",
       "lead": "Portaria_GM/MME_nº_85/2026",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREQzMkxsaGZrU0ZqZlVHQTR1dEpaZlR5UFFYZ3FEYzZBZ0M1cDE2QTc1Tl9CemtzbDJNWHlMdjN1bGtkMlJIVEJvd2ZWVHozUXNfbm42Ymp0WWNEWE9manRCMmFXNVVQcmEyZ1RBUXFLV3JhOHZGTHVIRVBPa21qU3ppM2o0X1Nma0k2YXlnR05ySlU3OS0xeGdwWDIyYlFuVGs2bW5yWk9ibnNKUmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-08-21T09:36:00Z",
       "dominio": "www.gov.br",
@@ -681,28 +705,6 @@
         "mattosfilho.com.br"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_29030",
-      "titulo": "TCU destrava R$ 5 bi em subsídios à conta de luz do Norte e Nordeste",
-      "lead": "TCU destrava R$ 5 bi em subsídios à conta de luz do Norte e Nordeste",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1h0a0hnME9BMlNnSTViLXllME0xRzRMVlVqdWIycnJoclpkVnA3eVZCTHRKNGpDT0lrWWFWNDhKcnRiMmhUVzk0T1hOT0t6ZkYwR19ud05XN1B6STU5T0VpUW1jQTFzcWVudVNJa0tLME9kSEhsNDRjQ1NDMXVZUms0SjhzOHk3aWxrenBlS3NxR0ZIUTZkbVlqb3V5N3YxeFdiSmJ5T1pWenNuWHJF?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-19T22:28:19Z",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_9800",
-      "titulo": "CCEE projeta PLD médio em R$ 156 por MWh em setembro",
-      "lead": "CCEE projeta PLD médio em R$ 156 por MWh em setembro",
-      "fonte": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOckp0bFFXTHFEaHI5MnBlOUJaWm9mQVNvNl9pbUQ4RXNpWjBoQ3RFYU52WW9jYVoybWItdWczUmM1VUhkcXhZODRlc3lSQlFMaFhJYkFYRjlVeFRjcFRENmh5cEVTT2l6d2NmbE80VmdkeWUyanJLcnRLRlBoQUFvMHFZVWF0RGx5RTk2RDdMX0VEWUVwTUNkSWw2M2RVbUVZR3Fr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-19T22:03:59Z",
-      "tema": "precos-mercado"
     }
   ]
 }

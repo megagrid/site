@@ -1,14 +1,50 @@
 {
-  "updated": "2026-08-28T03:38:11Z",
+  "updated": "2026-08-28T21:34:38Z",
   "total": 60,
   "itens": [
+    {
+      "id": "politica-energetica_72856",
+      "titulo": "MME prepara consulta sobre renovação das concessões de geração",
+      "lead": "MME prepara consulta sobre renovação das concessões de geração",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2ZjYnNCV1Y0UE1oVTFVU2poNmtfcTZXRWpHN3YwbFFvbmFoeHNzOEdxTG1zRmJrNXV3SnZSQVluNnNEbUswN3RaWWhZektGTGRVZGxHd0tOMnhLTHNGbkpsWkVKdlBZS1g5OEVaS1Awdk1KOXU2d3ZFby1MRW1tZnJoam1kOXVrVy1LcFhhUkE4SHIyZmFveUxEY2dFcy1UMVZHVXdpR3QxbHNyQ0h2NA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1543304376-1ae7c2be5e59?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-08-28T15:15:31Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "industria-generica"
+    },
+    {
+      "id": "regulacao_57290",
+      "titulo": "Regulação atual não impulsiona enterramento de redes de energia, diz Abradee",
+      "lead": "Regulação atual não impulsiona enterramento de redes de energia, diz Abradee",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajd2dmllNGdVaDc1alNfTktlY2FHUjFScGx5bTl6WjlBaUQtQlE5Tmh4QzlxdW52NjhES1pPendRZkRVLTdIVDFqVHVobUJvc3pqa2U5bnZDd2dFZ3dkQkdsbDBlMEpmUGR6SEVPMGVUOFhWYVRKZm5vT2xiT25QRnNVLXBYalVZMENfU1g2Y0NEYmkwSHRvSXE1eXduNTF3TUU5UWZ5MVI4dw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-28T14:57:17Z",
+      "dominio": "agenciainfra.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_18855",
+      "titulo": "Mercado de baterias para armazenar energia é dominado pela China e vive era da euforia - Folha de S.Paulo",
+      "lead": "Mercado de baterias para armazenar energia é dominado pela China e vive era da euforia",
+      "fonte": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONmN4LVJ2RjRuNGJqdERRdGtsV0ljOGlRakFnck53Qm5GQjJ0em04YVdZUkNtZ2t1czI0LVk5Xzg4ZDJfXzMwbFRwcmRMc0lzX2FudFNGR3BCMkpkbXB1R25QZG5sTEZIZlR2MkY2Ui1fbUV3RXpJblhRREFjV2hTX0dDbUd5RXJ6OTdHbmRtLTRfSERVV0xrUi1YYktHMC1RTGs5OTFYZzgxNjJoMGdPM1gzWF9ZVWNVZ3d1aTN0Y0tNNXB2Q0ZNTWRYY0pKelhUNHNzZA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-08-28T07:00:00Z",
+      "dominio": "www1.folha.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "mercado-livre_90548",
       "titulo": "Integridade na prática: CCEE lança Cartilha Anticorrupção e Antissuborno",
       "lead": "Integridade na prática: CCEE lança Cartilha Anticorrupção e Antissuborno",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUZhQ21LcVFRLXhtMTJhQzlYQ2IxZTdWRFNVWjBTem1BX29KU3prV3JyUHdiMnRubUVCUnpvb3J5b1ZFMEZNekFReElwaEVOZWdDcm5sT0hQV0ZaR1RNZkZRcGt4LUs0aUFXSEtZMFdFUDJGRnZuWUQxR2VFWWk5RUVVTTBHUk1OcHN2b3RzbGRlWE5hUjQxdHdmTmZqSlpNVEU4dDJpemw2M3M?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-27T19:36:00Z",
       "dominio": "www.ccee.org.br",
@@ -20,7 +56,7 @@
       "lead": "IPCA-15 cai 0,40% e conta de luz lidera queda de preços em agosto",
       "fonte": "Economic News Brasil",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1MwQU5Mc0w1MWZXamNqZzB6Rk9IRUtSRllFVFdQcEdSTEN5ZjZGdlo3SWxhQ3lhZXNvaHRIMTB6UUl6WWRydGNhQ2xqbW1sYWNZMzZrc2ltSXA4UjVNM1dCS1d0TEZCMVQwSG1fdG9HcG5haWk4bXdiUEV2Q2hrTldOWDdTUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-27T16:24:00Z",
       "dominio": "economicnewsbrasil.com.br",
@@ -195,6 +231,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_59015",
+      "titulo": "Mecanismo de Compensação de...",
+      "lead": "Mecanismo de Compensação de...",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUUpIWnc1SzVvTFFQWnpJWndYc1FhZWNSeHNZV2puc2plSmVZb3BEZUtwekxuZHN5QmlMaGdLeFlPMm03eFRWOHpiN0ZCT1JkY3JhLXdiTnM4cjRNZERxbFNMVkhsQU5FMUM0dFJfR0JSTDNCZWV5cnhEcWZRbTM1OVhueUFNWmNoQmFNSDM2OEpYeUpzRmRGU0NVY2U5UjZfUnlMeElBbUVFTkJvSFlqd0JfOGtiZFhNWmQ1Tm8wSDYtdkJReEJ2bDdHNC1faXdadEtpWmljbUJBTFlyUmh3MFRnallVS0NzS2N3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-25T14:24:38Z",
+      "dominio": "dadosabertos.ccee.org.br",
+      "tema": "precos-mercado"
+    },
+    {
       "id": "regulacao_82053",
       "titulo": "Aneel abre consulta sobre \"teto\" para subsídios na conta de luz",
       "lead": "Aneel abre consulta sobre \"teto\" para subsídios na conta de luz",
@@ -275,7 +323,7 @@
       "lead": "CCEE e ONS consultam setor sobre novo software para despacho e formação do PLD",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUk5YmtkY0M5ZDl4X2VEVzNqMVlCUGM5Q2dSTEt2LWs5c1cweElXM2o2SFNicVRmUTJhbVIyRnhsWVZmaldFZjNka1JLUkRxVmo1SXFmZDRYblN0c3VqQW5RQU1xYXh0M0NOaFlhYUtZa2xpa2lDbEZtTVAxZzQ3bHpOdmVsV3E0blQ2amNrdk9vbzRpdTZUbFBBNE13OFBIUER2WU02bHh3LWNpUkRpTGhzVl9vM09PMTk0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-24T19:08:40Z",
       "tema": "precos-mercado",
@@ -593,12 +641,12 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "politica-energetica_60047",
+      "id": "politica-energetica_87644",
       "titulo": "Portaria_GM/MME_nº_85/2026",
       "lead": "Portaria_GM/MME_nº_85/2026",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREQzMkxsaGZrU0ZqZlVHQTR1dEpaZlR5UFFYZ3FEYzZBZ0M1cDE2QTc1Tl9CemtzbDJNWHlMdjN1bGtkMlJIVEJvd2ZWVHozUXNfbm42Ymp0WWNEWE9manRCMmFXNVVQcmEyZ1RBUXFLV3JhOHZGTHVIRVBPa21qU3ppM2o0X1Nma0k2YXlnR05ySlU3OS0xeGdwWDIyYlFuVGs2bW5yWk9ibnNKUmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-08-21T09:36:00Z",
       "dominio": "www.gov.br",
@@ -657,53 +705,6 @@
       "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-20T18:11:15Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_25446",
-      "titulo": "Colômbia planeja leilão de energia firme para mitigar impacto do El Niño",
-      "lead": "Colômbia planeja leilão de energia firme para mitigar impacto do El Niño",
-      "fonte": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1lmNVJWMkRKWC1Nak90LXRjV2M3eHUzUGJ0XzViUUNOaEdySmcySS1LY1A1QmJmSGZ2OV81N3BNd2RnQ3gxRVo2dDRSRW1GZU5UUF9XUktqclJRN1BvT1BnWGJ6VlNzRXhNR2FmcEpaM0JwZWZWeXI2eHFlSWdRNERzY1N1LWhBZkFxeDlTM3hJc20xZW56SlBXMzg5ZzJBbUtCMFdpbEs2LWdNeVhJaA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-20T17:43:41Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_32999",
-      "titulo": "Primeiro BESS colocalizado com usina solar inaugura nova etapa do armazenamento no Brasil",
-      "lead": "Primeiro BESS colocalizado com usina solar inaugura nova etapa do armazenamento no Brasil",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85WFFCZmtwLWJCcFFxTHZKWjJ5MXQzc25xU0RLbmxFaTdwcEpOLVJPdWpUR29WUldwQjB3ZGNCS2Mtd3gwQ2VrS2hsTXNuendqVW9ETVVLejJ5WmdQTU5SVTh4TWItbGp0Tkt4WklsZjVLTDA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-20T14:50:21Z",
-      "tema": "solar"
-    },
-    {
-      "id": "politica-energetica_3511",
-      "titulo": "MME vê necessidade 'imediata' de interligação Brasil–Bolívia",
-      "lead": "MME vê necessidade 'imediata' de interligação Brasil–Bolívia",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTENGXzFaZnpKeGkwQVNremxzSE5yQllHU0R0QmVSbDg4QmloS1c2WHFyYk9tUmFNRmtNUHZvUW5VX0xIZVd1OElXcEJFNzlLUFVBZ1BpWXREZEVacWFLdXZPeWVOemROczFzRnM3ZVBLY2luYW1uR0FKZDE4ajRMcEJHZVFqQ2VjZE1LcEw5SUV5LXBqWjJXNUt4MDZ4R1hzZkpkOHdfNm93OGM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-08-20T13:03:00Z",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_99666",
-      "titulo": "Decreto regulamenta abertura do mercado de energia elétrica a partir de 2027",
-      "lead": "Decreto regulamenta abertura do mercado de energia elétrica a partir de 2027",
-      "fonte": "Migalhas",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd1B6SDlZdEhobkNqVF81a05lbGoyUzNkdVd2NVdVY2p5eC12TXAtOEMtN2ZJQ25IUUJ3dzJpMk9xbnBHTHVwd21jR0pTOEN6VERIRGpxWHlGSDdXbmRXbGttVE5hVm5oVmh1VUd4d1A2aHM0Z1ZRdXJnQXFDbS1nQThrb2dMWk1mNVJ3Slp6aDFvamt1bmJwOGpacVNPdmRrcm05Zg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-20T12:08:00Z",
-      "tambem_em": [
-        "mattosfilho.com.br"
-      ],
       "tema": "regulacao-institucional"
     }
   ]

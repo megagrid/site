@@ -64,12 +64,20 @@ jobs:
       #    atômica do P2.1 é seguro — um crash parcial preserva os JSONs bons
       #    já gravados, e o que não foi gravado continua com o valor anterior.
       #    Este passo não lê nenhum output do passo 4: só olha o disco.
+      #    As 3 páginas perenes do P3 entram aqui explicitamente. Ficaram de
+      #    fora do `git add` original e o robô as regravava no runner a cada
+      #    execução para o disco ser jogado fora no fim do job — /pld/ e
+      #    /bandeira-tarifaria/ disfarçaram (dado semanal e mensal, que muda
+      #    pouco), /reservatorios/ é diário e congelou à vista.
       - name: Commit & push dados
         if: always()
         run: |
           git config user.name  "megagrid-bot"
           git config user.email "bot@megagrid.com.br"
-          git add site/data/ site/index.html site/sitemap.xml
+          git add site/data/ site/index.html site/sitemap.xml \
+                  site/pld/index.html \
+                  site/bandeira-tarifaria/index.html \
+                  site/reservatorios/index.html
           if git diff --staged --quiet; then
             echo "Nenhuma mudança nos dados — sem commit"
           else

@@ -164,11 +164,15 @@ def _hash_conteudo(texto: str) -> str:
     return hashlib.sha256(corpo.encode("utf-8")).hexdigest()
 
 
-def duplicata(texto: str, agora_utc: datetime) -> bool:
+def _le_estado() -> dict:
     try:
-        est = json.loads(ESTADO.read_text("utf-8"))
+        return json.loads(ESTADO.read_text("utf-8"))
     except Exception:
-        return False
+        return {}
+
+
+def duplicata(texto: str, agora_utc: datetime) -> bool:
+    est = _le_estado()
     if est.get("hash") != _hash_conteudo(texto):
         return False
     try:
@@ -184,21 +188,65 @@ def duplicata(texto: str, agora_utc: datetime) -> bool:
     return False
 
 
-def grava_estado(texto: str, agora_utc: datetime):
-    """Temporário + rename, mesma regra dos JSONs do robô: o arquivo é
+def grava_estado(agora_utc: datetime, status: str, motivo: str = "",
+                 texto: str = None):
+    """Estado do post — gravado em TODA execução, não só quando há post.
+
+    DUAS COISAS NO MESMO ARQUIVO, e a distinção é o ponto:
+
+      · HEARTBEAT (verificado_em/status/motivo) — reescrito a cada run.
+        Sem ele não há como diferenciar "o post foi corretamente pulado"
+        de "o passo nunca rodou": os dois davam 404 em /data/last_post_x.json
+        e o módulo saía 0 nos dois casos. O `status` diz qual camada barrou,
+        então o diagnóstico não depende mais de ler o log do Actions — que
+        exige direito de admin no repositório.
+
+      · MEMÓRIA DO ÚLTIMO POST (postado_em/hash/chars/texto) — só é
+        reescrita quando o X aceitou o post. Um skip PRESERVA os campos
+        anteriores. Carimbá-los no skip envenenaria a anti-duplicata:
+        duplicata() passaria a comparar com um texto que nunca foi ao ar e
+        o post do dia seguinte seria suprimido por um post que não existiu.
+
+    Temporário + rename, mesma regra dos JSONs do robô: o arquivo é
     commitado logo depois e não pode ir pela metade."""
     payload = {
-        "postado_em": agora_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "hash": _hash_conteudo(texto),
-        "chars": len(texto),
-        "texto": texto,
+        "verificado_em": agora_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "status": status,
+        "motivo": motivo,
     }
+    if texto is not None:
+        payload.update({
+            "postado_em": agora_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "hash": _hash_conteudo(texto),
+            "chars": len(texto),
+            "texto": texto,
+        })
+    else:
+        anterior = _le_estado()
+        for campo in ("postado_em", "hash", "chars", "texto"):
+            if campo in anterior:
+                payload[campo] = anterior[campo]
     tmp = ESTADO.with_name(ESTADO.name + ".tmp")
     tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), "utf-8")
     os.replace(tmp, ESTADO)
 
 
-def enviar(texto: str) -> bool:
+def _heartbeat(agora_utc: datetime, status: str, motivo: str = "",
+               texto: str = None):
+    """A gravação do heartbeat não pode ser o que derruba o post (regra de
+    precedência do cabeçalho): disco cheio ou permissão ruim vira log."""
+    try:
+        grava_estado(agora_utc, status, motivo, texto)
+    except Exception as exc:
+        log.warning("  não consegui gravar %s (%s: %s)",
+                    ESTADO.name, type(exc).__name__, exc)
+
+
+def enviar(texto: str) -> tuple:
+    """(ok, motivo). O motivo vai para o heartbeat: é ele que separa
+    credencial ausente de 403 de token revogado e de 429 de cota estourada
+    sem precisar do log do Actions. Nenhum VALOR de credencial entra no
+    motivo — só nomes de variável e o que o X respondeu."""
     from requests_oauthlib import OAuth1Session
     faltando = [v for v in ("X_API_KEY", "X_API_SECRET",
                             "X_ACCESS_TOKEN", "X_ACCESS_SECRET")
@@ -206,7 +254,7 @@ def enviar(texto: str) -> bool:
     if faltando:
         # Só os NOMES das variáveis ausentes; valor de chave não vai a log.
         log.warning("  credenciais ausentes: %s — não postado", ", ".join(faltando))
-        return False
+        return False, "credenciais ausentes: " + ", ".join(faltando)
     sessao = OAuth1Session(
         os.environ["X_API_KEY"], os.environ["X_API_SECRET"],
         os.environ["X_ACCESS_TOKEN"], os.environ["X_ACCESS_SECRET"])
@@ -217,11 +265,11 @@ def enviar(texto: str) -> bool:
         except Exception:
             ident = "?"
         log.info("  publicado (id %s, %d chars)", ident, len(texto))
-        return True
+        return True, f"id {ident}"
     # Corpo cru no log ajuda no 403 de permissão e no 429 de cota; nenhuma
     # credencial trafega na resposta.
     log.warning("  X respondeu HTTP %s: %s", r.status_code, r.text[:200])
-    return False
+    return False, f"HTTP {r.status_code}: {r.text[:180]}"
 
 
 def main() -> int:
@@ -230,15 +278,19 @@ def main() -> int:
                     help="compõe e imprime o texto, sem enviar nem gravar estado")
     args = ap.parse_args()
 
+    agora = datetime.now(timezone.utc)
     try:
-        texto = compor()
+        texto = compor(agora)
         validar(texto)
     except Exception as exc:
         log.error("  composição falhou (%s: %s) — nada postado",
                   type(exc).__name__, exc)
         # Em dry-run o erro é do desenvolvedor e tem de ser barulhento; no
         # pipeline, ele não pode derrubar o run do robô.
-        return 1 if args.dry_run else 0
+        if args.dry_run:
+            return 1
+        _heartbeat(agora, "erro-composicao", f"{type(exc).__name__}: {exc}")
+        return 0
 
     if args.dry_run:
         print("─" * 60)
@@ -249,26 +301,35 @@ def main() -> int:
         print(f"hash do corpo: {_hash_conteudo(texto)[:16]}")
         return 0
 
+    # Cada saída daqui para baixo grava o heartbeat com a camada que barrou.
+    # "Pulado" e "nunca rodou" precisam ser distinguíveis de fora do Actions:
+    # antes os dois davam 404 em /data/last_post_x.json.
     try:
         falhas, _, _ = check_freshness.verificar()
         if falhas:
             log.warning("  dado estale, não postado — %d fonte(s) fora do limite: %s",
                         len(falhas), "; ".join(falhas)[:200])
+            _heartbeat(agora, "pulado-dado-estale", "; ".join(falhas)[:200])
             return 0
 
-        agora = datetime.now(timezone.utc)
         if duplicata(texto, agora):
+            _heartbeat(agora, "pulado-duplicata",
+                       f"corpo idêntico ao último post, dentro da janela de "
+                       f"{JANELA_DUPLICATA_H}h")
             return 0
 
         if os.environ.get("X_POST_ENABLED", "").strip().lower() != "true":
             log.info("  X_POST_ENABLED != true — post desligado, nada enviado")
+            _heartbeat(agora, "pulado-desligado", "X_POST_ENABLED != true")
             return 0
 
-        if enviar(texto):
-            grava_estado(texto, agora)
+        ok, motivo = enviar(texto)
+        _heartbeat(agora, "publicado" if ok else "falha-envio", motivo,
+                   texto=texto if ok else None)
     except Exception as exc:
         log.warning("  post falhou (%s: %s) — o robô de dados segue normal",
                     type(exc).__name__, exc)
+        _heartbeat(agora, "erro", f"{type(exc).__name__}: {exc}")
     return 0
 
 

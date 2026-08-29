@@ -119,10 +119,18 @@ jobs:
           X_POST_ENABLED:   ${{ vars.X_POST_ENABLED }}
         run: python scripts/post_x.py
 
-      # 8. Estado da anti-duplicata. Precisa de commit próprio porque o passo 5
-      #    já rodou: sem isto o last_post_x.json morreria com o runner e a
-      #    anti-duplicata nunca teria memória entre execuções. Só commita
-      #    quando houve post — se o passo 7 pulou, não há o que gravar.
+      # 8. Estado do post. Precisa de commit próprio porque o passo 5 já rodou:
+      #    sem isto o last_post_x.json morreria com o runner e a anti-duplicata
+      #    nunca teria memória entre execuções.
+      #
+      #    Agora commita SEMPRE, não só quando houve post: o arquivo virou
+      #    heartbeat e o passo 7 o reescreve em toda execução, com o `status`
+      #    da camada que barrou. Um skip legítimo e um passo que nunca rodou
+      #    davam os dois 404 em /data/last_post_x.json — indistinguíveis de
+      #    fora, e o log do Actions exige direito de admin no repositório.
+      #
+      #    O `git add` continua restrito a este arquivo: qualquer outra coisa
+      #    que tenha sobrado no disco é assunto do passo 5.
       - name: Persistir estado do post
         if: github.event_name == 'schedule'
         continue-on-error: true
@@ -131,7 +139,7 @@ jobs:
           git config user.email "bot@megagrid.com.br"
           git add site/data/last_post_x.json 2>/dev/null || true
           if git diff --staged --quiet; then
-            echo "Sem post nesta execução — nada a persistir"
+            echo "last_post_x.json inalterado — nada a persistir"
           else
             git commit -m "chore(x): estado do post $(date -u '+%Y-%m-%d %H:%M UTC')"
             git pull --rebase --autostash origin main && git push

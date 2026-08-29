@@ -1,27 +1,57 @@
 {
-  "updated": "2026-08-29T02:20:53Z",
+  "updated": "2026-08-29T15:52:43Z",
   "total": 60,
   "itens": [
     {
-      "id": "tarifas_71662",
-      "titulo": "Bandeira amarela é mantida em setembro e conta de luz seguirá mais cara",
-      "lead": "Bandeira amarela é mantida em setembro e conta de luz seguirá mais cara",
-      "fonte": "InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0ZmdkNHU3Jza3R6Z3JvNGh4ek1hNlkydk9mODZOenpJazRpekZCSmNBSnpLMTh4czVfUWlhVFZQRzZBRmJTQzlTenNuRjByaU1aeTc5d003SzdhVVh3R2VXU3NPeXhLalQyU3FlWlFGRmJENmZhZWtqVlJSWEQ4dDhKN3hFZms2QXYzbUlTcFhFamhZVkNSNHQySE5EeUJqUGdWNU9wejZfMmNib3fSAbMBQVVfeXFMUFZsOGc0Mlp4cXBZS3QxcTVDRmpMVUxuQVpkdlBuVzhXRnlvZzIySHVPa0J4Z1BERFBKeHM2cTI3clFTR3hOOW9rbG16UDRsNm5pWHRVVnVTbGFQZEJCSVNlQUxfVTNLR0k5TDdtWklDMjk3bUFVYzUzRWpMVUV0ZW1mbWdxT0plUHpJc0hlLVV5S2o0czhISW02ZHN4a1R1cWdjR3g4TXdOTWJNa25jdGJETWc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-29T01:27:19Z",
-      "dominio": "www.infomoney.com.br",
+      "id": "regulacao_32121",
+      "titulo": "Agência Nacional de Energia Elétrica",
+      "lead": "Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXUtWDVod1VNanA2S09GVjhOVTltc3psaUhyUWJ6Z2pxNmd4TnlRaG1nM1pQMmk0TTc1U0RFVjdtbTl2amVESTdzeENadmdILVRZTFprWDluYk43WGNVcnVVNG80enZFbU14R2Zpd0k2MHVzcUJLWTVYTHo2TE5Pb1dZN05Rdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-29T08:03:37Z",
+      "dominio": "www.gov.br",
       "tambem_em": [
-        "Jornal GGN",
-        "Estadão",
-        "O TEMPO",
-        "Extra online",
+        "ANEEL"
+      ],
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_4905",
+      "titulo": "Mecanismo de Compensação de...",
+      "lead": "Mecanismo de Compensação de...",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWmRnR0Uzc0lvWHZqWTVHZml2TV91eldkWFZ6T0pVaXhBc210Sl9XQ01PWkkxTS0ybFVvRHlRRmlzZ09ON0xjWlNnZnp5YjdnZHZqbHA3T2FITzY3T3o5M3BGVXlZU3F0N1JzM3NTT09yQ29nLTlSRndDQ1VqNmFJS3ZUNnZESDRFejlHRHhMckZoa3NzLWptMDdnOFdfVlhQV1ZFendTeUJKZEhVYjVFREQ4WUhWMlFxVTczcE4yTFZOLVJpVFp6OW9wenZDM1RuMXZqWjV2bUF1QlBXUm1jZGJoMzNzakk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-29T06:01:01Z",
+      "dominio": "dadosabertos.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "tarifas_5141",
+      "titulo": "Conta de luz continua com bandeira amarela em setembro",
+      "lead": "Conta de luz continua com bandeira amarela em setembro",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld4VmltZzJJZ3o4Nktoc1lfOG9FOW9YNFJMbGdhaVpmNWJIU0sxZTJyeVljNzBzYjdPWVNvdWd0S05hek05T2dDYXpnR1oxNXdXbGJnMEREeDdFeW5sMTkyakpWY0paN1d0dFBWLXN2TXdSc1NHZ2JDRHBfUUJUaGxfeEdpdVRZdnI4S3FBa1c2aEdaNDc3Q09yOHg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-28T21:57:32Z",
+      "dominio": "megawhat.uol.com.br",
+      "tambem_em": [
+        "Rádio Metrópole",
+        "Money Times",
+        "Impactto News",
+        "Hora Campinas",
+        "InfoMoney",
+        "ParaibaOnline",
+        "Brasil 247",
         "Folha de S.Paulo",
-        "G1",
-        "www.gov.br",
-        "ANEEL",
-        "Diário da Amazônia"
+        "www.gov.br"
       ],
       "tema": "consumidor-residencial"
     },
@@ -31,7 +61,7 @@
       "lead": "ANEEL abrirá consulta para mudar sazonalização da garantia física no MRE",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEdoVWx2NVluTEYydG5zZ1VXNW16LVVvU09CemRMYmFKc1VTWUFCZTlIR0NyN29IVzVNMmJQLWttMy1FRHd5UG1hemF0UGprWlZ0WEhXeWxnRUxDUnJIUkVYNGNyNE5EVXlKUUUzQU50UHZxS195dk1ZNUZXcFgtZQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-28T19:05:53Z",
       "dominio": "canalsolar.com.br",
@@ -72,6 +102,18 @@
       "data": "2026-08-28T14:57:17Z",
       "dominio": "agenciainfra.com",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_12190",
+      "titulo": "Leilão de baterias vive indefinição sobre quem paga a conta, e parte do setor vê adiamento como certo - Folha de S.Paulo",
+      "lead": "Leilão de baterias vive indefinição sobre quem paga a conta, e parte do setor vê adiamento como certo",
+      "fonte": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWlhDUVJIVWxrTHkzZzBualRwaVFkV1pxN1huVjlEQTF1UDhKWC1sdTF6QjVoUkxVTWpWdFRyanhUZlF4Q21mV0xjOEJzQmlLSmpMRlJkc0NsVktuaHZydktMVHJELXFaSm1fbi1WUE52cFhxQjdYMVc4c0cxdVpRZ0Fjb2pPV1NhdTBfZXJqZnpSdnJNV0h6TVBvMkV0Z08xNlpjRVlMVzV2Zk54R2tEYXBGM1RLRFlzWnNaZmhldXJzY3R6WjhGLU5WTnFsZVNnZXlSc1Z3cmx4eGh1S0ptU1JuZlhORTA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-08-28T07:00:00Z",
+      "dominio": "www1.folha.uol.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "transicao_18855",
@@ -127,7 +169,7 @@
       "lead": "Mercado livre de energia avança no Brasil e amplia oportunidades de redução de custos para empresas",
       "fonte": "Jornal Impresso Brasil",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRl8tWkNMbGh4ZmFubG1tc09CVDI3TGt3eThSdVRCZGZLYWl1Q3RoS3BqZW5LR1BDazJxel9rOHJDV045ODVUUmR1R0dGcnA3eG5pVndMX1Q5eFNWaEdtcnhNT0YtRlpRMUh3eHdweXJ6X2diNVpBV1FCR2FVQTY0TzZfaUVvX2U2NDlUNlQyc1JwQUoxVHRuMGlCeHN2Y3B1UHMxTXh0b0t1eHZHaVk0R190bFJhNUh5QkhmaHpIbHFhLTlaeTFpU2taVTBUV29DQ1dySUZxLUxIU0NEaE1jbWZsMzA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-26T21:19:00Z",
       "dominio": "jornalimpressobrasil.com.br",
@@ -197,6 +239,21 @@
       "tema": "industria-generica"
     },
     {
+      "id": "transicao_55805",
+      "titulo": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
+      "lead": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
+      "fonte": "Gazeta da Semana",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1A1dUUtdGRGc3hQaXJKRDNCMWVWQ2JNMFZNTzY5M01aVWhWZ0lOM1dkUU53d3Uxc2s3eFNJMUEwbnNCNzZhWjU2RGNWV1c5elJZSC1QOWJIVlRZMGRRSU8yZDFDcVZjOVlqUWJGLTdEX0ptZUpMaHltNm1nNGotXzNMdWpQcm9Rd3lpWUJLTXhFVUVqdmlBeGhEdHd6LTBDQ0lUNkl0SEVyam9QMGc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-08-26T12:05:56Z",
+      "dominio": "gazetadasemana.com.br",
+      "tambem_em": [
+        "Sala da Notícia"
+      ],
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "mercado-livre_90790",
       "titulo": "TCU vê governo fazer anúncio de políticas energéticas não instituídas",
       "lead": "TCU vê governo fazer anúncio de políticas energéticas não instituídas",
@@ -260,7 +317,7 @@
       "lead": "Aneel avalia incluir hidrelétricas e térmicas no rateio das baterias do LRCap",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcXZaQ3cyeFoyTGtsVHJfWUpxcFhSdy1pSFRLODgxeTRNcnM5SEZ0NDdjdldqbXBSQkpOZUtlOS1JN1V2dXZrY3pJanBhajRuMmN6WlZnaUJHWlBvUzhxdFVoSUdMTmkwQUJXT2lIbGFkZ2p1WGxCR0NOWTd1Q2FUcnhGaGN5X09HSXhxRU1qRWF5Rk1WN21hNnAwRnp2YmIzTFVwR2tvMVZXVFNZY3V2UTNlbVc1UjBHSEtWSw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-25T17:42:03Z",
       "dominio": "megawhat.uol.com.br",
@@ -328,21 +385,6 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "transicao_79895",
-      "titulo": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
-      "lead": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
-      "fonte": "Sala da Notícia",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYThzQ0ZtelIzY0NFbS1zZGRhbGNHX2xoWTI0bV9tM1l1Q2hQTUVpU19weDJGSjZ5TVZQYjQxaUl0UW96OVM0cXdJaE1XcmJNUEJnbWZmU1p2V0pNa2sxQ2JCSzYwZnVGdDRYdnlUd1JCYTdlZTFITWlSU0hUcFVhVmE4d0ZpRlhUNnh3TEF4VURPR0ptcWx0V0hCbTNPWWdzZFF3Zk1Ec0U0MmZkUkQ3R2dQT0g?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-25T01:00:03Z",
-      "dominio": "portal.saladanoticia.com.br",
-      "tambem_em": [
-        "Gazeta da Semana"
-      ],
-      "tema": "baterias-armazenamento"
-    },
-    {
       "id": "mercado-livre_80786",
       "titulo": "Flávio diz que leilão de energia de Lula penaliza mais pobres",
       "lead": "Flávio diz que leilão de energia de Lula penaliza mais pobres",
@@ -379,15 +421,17 @@
       ]
     },
     {
-      "id": "mercado-livre_8029",
+      "id": "mercado-livre_29373",
       "titulo": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
       "lead": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXA5ME91Yl9YUVY3OVRsalNsYWk3VzIxaWxzc1NhZzh3OXVFOUJxcE9pbm8wMVFaOWJkNWh1RDJNTXdsR3A0SlE5S0pxbVBDN2J3SWFwNk9jMW5zZm9CQW95SThUU00wTFp2b0ZOM0NZSzFhcmJ3bGlUTUZFMm1GZ3N3RG81VjBiWVBHZnlGZ05OY2doVWo2anpWVnhKVzVlcFZqODRxcjB4OW8wTF8ySzByM2Voc3IyWDh1MGlDZldSR0JscW5qcGRPVHBUdDdKaEVuUw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbW1WQ0dDUmd1Mkt2RUlvSGh4UWRaUU03em93UGkzOHNHVDRLX0hWYkFsZlNKOXB5WjM1T3gxNWFSU2lvWGQybl9xTktwcmlzVHFaTktPUXF1UnhjaGstbWJNeEhKMVZFV0Nnb2lERjJYZUJ4UEFXc3FnVHVZWnVlcGd6TFE3ZTdSdnJGUU9WdjZMZ2gwNjkzQVFmMk9KMEV0M3JRSUFyVHZPTWJwdnRqVGdCQ2RHSWFXNGJYX1hlVTBZcjFfNkpN?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-24T19:07:00Z",
+      "dominio": "www.ccee.org.br",
       "tambem_em": [
+        "CCEE",
         "VEJA"
       ],
       "tema": "precos-mercado"
@@ -398,7 +442,7 @@
       "lead": "MME abre consulta sobre regras de comercialização, armazenamento e mercado livre de energia www.gov.br",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWtiOV85YWhsTDFyZFFua0xhZmoyUkxicUNqNmZZaWZXcU02LTUycFZHNzYwM25GODdRSDgwTXZGN2xtQUtJM0p6TjFDLS1uRjYxdEs0RjZEY1VNR2Q3dWw1eW51NzQyMmVYWEdRZm0temlxMmZSRlBrenQ1SkNlTDRmZGRvMHUxWWd3NmgwSlM3WTR2SktCMU4zcHU2a3AwMm41ZWExMFlMZFY5YmJjRU5VT0toaUtMY29JMllTMmdXRElGa3IwaTUybmxqXy1xdGdZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-24T18:53:00Z",
       "tema": "baterias-armazenamento"
@@ -420,7 +464,7 @@
       "lead": "Aneel mantém tarifa provisória da Pacto enquanto decide sobre bateria",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM19COXItcThyekZXX2txbldjazRxVGprSURzUnB1MjcxSE41R2xDWWdvNklfVlZVMHdQQ1RsT0pCNDZ1VzhpVE9JU3ROYTZfSTdfVHgwTXlHTVo0NFlCZTNZSldOYUItYzlMRkZnaXNLN3JEeWN2MVhiSGZkUlV1WHUtNXVjdk1TcTAxeE1zQzJhckx6YjZ0Q09iOWJOODBFWjY0Z0lOUlo3Y2RJbmRqWFM3bjVWSldpelBXd2ZnYU1nYS1CX0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-08-24T17:04:42Z",
       "tema": "baterias-armazenamento"
@@ -687,40 +731,6 @@
       "editoria": "transicao",
       "data": "2026-08-21T18:22:58Z",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_1483",
-      "titulo": "Mercado livre de energia avança entre empresas de comércio e serviços",
-      "lead": "Mercado livre de energia avança entre empresas de comércio e serviços",
-      "fonte": "ND Mais",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNclV2aUNFamVHZlpBTnN6a2FTNkNjbjZQcUN1MzVhUGdKZUtYeWpPY3dISTZDbEo3d0I3TzQ2VDlsbW1LV1NlbkJMTF92QTNVbktTdTkwdjRoMzQwTWJFZHJpOXlXdHVqMVlIU0ttZzg0RTFHQVRMbTBOa0x4ckl2Q2NUb1kzSU9DR19LUW5LQ2pVYnNGREZ4UnhoSEtNSDA5MWYzLS1n?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-21T18:20:49Z",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "politica-energetica_8628",
-      "titulo": "Portaria_GM/MME_nº_85/2026",
-      "lead": "Portaria_GM/MME_nº_85/2026",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREQzMkxsaGZrU0ZqZlVHQTR1dEpaZlR5UFFYZ3FEYzZBZ0M1cDE2QTc1Tl9CemtzbDJNWHlMdjN1bGtkMlJIVEJvd2ZWVHozUXNfbm42Ymp0WWNEWE9manRCMmFXNVVQcmEyZ1RBUXFLV3JhOHZGTHVIRVBPa21qU3ppM2o0X1Nma0k2YXlnR05ySlU3OS0xeGdwWDIyYlFuVGs2bW5yWk9ibnNKUmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-08-21T09:36:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_61563",
-      "titulo": "Especialistas destacam vantagens para pequenas e médias empresas com o mercado livre de energia de baixa tensão",
-      "lead": "Especialistas destacam vantagens para pequenas e médias empresas com o mercado livre de energia de baixa tensão",
-      "fonte": "Diário do Comércio",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mNm1zMjM3RjdWUHYta05tNUVVcmE1Y1FiakNXYTlQNHR1TEZzYVIyOS13dDFFbVRLRzdxRjM0TFU1MFdKZ3czWUh3LWZiZWJ4NEhDYVNiaDlFOXhRZV8tNnp3Qk9VMTVHYzl6UEJ3QzhZd3FiSjNr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-21T08:01:00Z",
-      "tema": "precos-mercado"
     }
   ]
 }

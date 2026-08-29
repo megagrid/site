@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T15:52:43Z",
+  "updated": "2026-08-29T21:51:00Z",
   "total": 60,
   "itens": [
     {
@@ -43,14 +43,14 @@
       "data": "2026-08-28T21:57:32Z",
       "dominio": "megawhat.uol.com.br",
       "tambem_em": [
+        "Rede 98",
+        "Portal iG",
         "Rádio Metrópole",
         "Money Times",
         "Impactto News",
-        "Hora Campinas",
+        "Forbes Brasil",
         "InfoMoney",
-        "ParaibaOnline",
-        "Brasil 247",
-        "Folha de S.Paulo",
+        "G1",
         "www.gov.br"
       ],
       "tema": "consumidor-residencial"
@@ -431,9 +431,20 @@
       "data": "2026-08-24T19:07:00Z",
       "dominio": "www.ccee.org.br",
       "tambem_em": [
-        "CCEE",
         "VEJA"
       ],
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_98529",
+      "titulo": "CCEE na Mídia: Gerusa Côrtes explica abertura do mercado livre em reportagem do Jornal Nacional",
+      "lead": "CCEE na Mídia: Gerusa Côrtes explica abertura do mercado livre em reportagem do Jornal Nacional",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjg3T1FVS0dzdUVLNkFJcktHVnpiTG9kNGZ3bG5wX1hTVnVfVDhtQ3RwbTlTVVN6RTU1QWp0b1hXTERlN3lfOHdrNlVLeWVLdTBDVXJDaEZsSTBQcFJickpVLWJKam5CLXRnVVhWa0RnU0o0b013YmRUd2pGQmRhQlBFalZENExfaFNuSXZYNGRqMENXUVhwbU9hMGRxZms1MjdVaUYzZXVHT2FzWkxjbUVJMV8wSWEtbnRPaw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-24T19:05:00Z",
+      "dominio": "www.ccee.org.br",
       "tema": "precos-mercado"
     },
     {
@@ -655,6 +666,18 @@
       "tema": "consumidor-residencial"
     },
     {
+      "id": "mercado-livre_77878",
+      "titulo": "Abertura do mercado livre de energia vai beneficiar pequenos negócios",
+      "lead": "Abertura do mercado livre de energia vai beneficiar pequenos negócios",
+      "fonte": "Diário do Comércio",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mNm1zMjM3RjdWUHYta05tNUVVcmE1Y1FiakNXYTlQNHR1TEZzYVIyOS13dDFFbVRLRzdxRjM0TFU1MFdKZ3czWUh3LWZiZWJ4NEhDYVNiaDlFOXhRZV8tNnp3Qk9VMTVHYzl6UEJ3QzhZd3FiSjNr?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-23T07:00:00Z",
+      "dominio": "diariodocomercio.com.br",
+      "tema": "precos-mercado"
+    },
+    {
       "id": "mercado-livre_7222",
       "titulo": "Mercado livre de energia será ampliado e chegará aos consumidores residenciais",
       "lead": "Mercado livre de energia será ampliado e chegará aos consumidores residenciais",
@@ -705,32 +728,10 @@
       "lead": "O efeito das decisões judiciais no mercado livre de energia",
       "fonte": "Migalhas",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzlDWVZoWnlKNTM0ZU8ybXlSbE1ITllYZkd0c2lyVk9CcWZlMlUxZlVEck1fanJ1V0tKTnhMdmFLMmNkc054Q0hoTjlNcW1pdUtZYnVGTWRYd0JzdUlNUVRZc3daQmVSNzMyTWlVTTRiQndSM2dLcUdrR29SSGYzTnF4RGl1cVh2bkNST05xaFU3OWxxYWh6UkFJRjl6OUdCOTA0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-21T19:30:44Z",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_81330",
-      "titulo": "Trocar de fornecedor de energia não significa trocar de distribuidora; entenda a mudança",
-      "lead": "Trocar de fornecedor de energia não significa trocar de distribuidora; entenda a mudança",
-      "fonte": "Âncora 1",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3gzSURjNEhZd1hjLVhjU0xmTEN6MWozSC1zU1Q5X2s5bm1fdmhPT0JTNS1Qc3U1b1V5REZYY3dqSUhrVXpGU1RYelpnZzNFSjYyd3JpaEE1V2RhSjVQWi1aVERwT3prQ09XcXhWcnV3RE5qelMtOS1MWXVfOGw2cjVWbTJZTnRURzJSNXNpcm9vWmpxdmw4eVI1THQ1WnE3X2NYNUVnRUhWc1ZIeDRpNld4U0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-21T18:33:15Z",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_22826",
-      "titulo": "Armazenamento de energia ganha espaço na expansão renovável do Brasil",
-      "lead": "Armazenamento de energia ganha espaço na expansão renovável do Brasil",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyS1lrN1UwUU5mZEZPU2FXc3RPeUNsSzJvVjU5NmR4WXI2TkZva1JLb196Z1JOUWZVQVFGZ2Vkczc3dTk2dEZnYzJRb2dHcW05R01pVEZuUy1adW9YZElZQk44YjZYX0I0dndTeGNYSkdXNTRLQmQ1YTFGdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-21T18:22:58Z",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

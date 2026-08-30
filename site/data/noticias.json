@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T15:38:49Z",
+  "updated": "2026-08-30T21:56:57Z",
   "total": 60,
   "itens": [
     {
@@ -55,12 +55,12 @@
       "data": "2026-08-28T21:57:32Z",
       "dominio": "megawhat.uol.com.br",
       "tambem_em": [
+        "Revista Oeste",
+        "Portal Tempo Novo",
+        "Portal Piauí Hoje",
+        "Impactto News",
         "Portal O Dia",
         "capitalnews.com.br",
-        "Nativa News",
-        "Associação Comercial e Industrial de Araçatuba",
-        "Correio de Corumbá",
-        "Impactto News",
         "Forbes Brasil",
         "G1",
         "www.gov.br"
@@ -140,15 +140,18 @@
       "tema": "baterias-armazenamento"
     },
     {
-      "id": "mercado-livre_90548",
+      "id": "mercado-livre_29238",
       "titulo": "Integridade na prática: CCEE lança Cartilha Anticorrupção e Antissuborno",
       "lead": "Integridade na prática: CCEE lança Cartilha Anticorrupção e Antissuborno",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUZhQ21LcVFRLXhtMTJhQzlYQ2IxZTdWRFNVWjBTem1BX29KU3prV3JyUHdiMnRubUVCUnpvb3J5b1ZFMEZNekFReElwaEVOZWdDcm5sT0hQV0ZaR1RNZkZRcGt4LUs0aUFXSEtZMFdFUDJGRnZuWUQxR2VFWWk5RUVVTTBHUk1OcHN2b3RzbGRlWE5hUjQxdHdmTmZqSlpNVEU4dDJpemw2M3M?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbXI0QlU0MHg2Y0lzWWptdVRpSERjWUZCWEpLSnREV3M0SndueUVKdXhvYlZCemhBZ0ZiUkdkMk9LRlRJOF80X0VqZFVTYnJrNExoWkVvTDdiaDhqTjg1UmRHeGJLQzlSdGhzWm5TYzNqNll0eFNuSTFFcXZqMkxCQWdvU05pSlluWFVnOW9oWGhZU1ZHRkQ2RENnX1lqQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-27T19:36:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {

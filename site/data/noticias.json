@@ -1,14 +1,41 @@
 {
-  "updated": "2026-08-29T21:51:00Z",
+  "updated": "2026-08-30T15:38:49Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_6481",
+      "titulo": "Leilão de baterias no Brasil: plano de nacionalização",
+      "lead": "Leilão de baterias no Brasil: plano de nacionalização",
+      "fonte": "Associação Comercial e Industrial de Araçatuba",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVjE5Nk1DamM5dnZoY0lkNTFmMmRtaF9MX293Z3hTRmxvNFpkLUhWTDB0QXNCU2Z2MDZUTG5Zd3lsRTM0S0liUGtsbTVvNEhrUnk2Ty1xd1U1ZGZ1eUF6ZlZ3VGVPYVMyT0tENHViS0c2YU5sNVFXSl8zdXZza0thTA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-08-29T22:34:13Z",
+      "dominio": "aciara.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_72710",
+      "titulo": "Mecanismo de Compensação de...",
+      "lead": "Mecanismo de Compensação de...",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb29RVjF0Y0pndXY3XzJzMXlBRFkxV1NoS0Vzb0I0eUFJUzJmMTBkNXFwN1JDVXpyNEh1VFNYaEs3c3huc1pmRjkxYk1yNXlVZ0VsSkp0Z0ROSlNMdjZGOVJicGMwVDNicF9EMnBZM3RpcnBGQ2ZGcEt1M1BWZXlnai0tWUhWYlNmcWNqNTdOZi0taHZMT1E1Si1vLUswbFFfV0x0Z0VfeGZ6bmdsTi04VG5vNVFTaktnT21VTUtPU05DS19aN0xpRER0bllnenJHeEV5Q04yVDl6RTVianNWVg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-29T18:21:51Z",
+      "dominio": "dadosabertos.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
+      "tema": "precos-mercado"
+    },
     {
       "id": "regulacao_32121",
       "titulo": "Agência Nacional de Energia Elétrica",
       "lead": "Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXUtWDVod1VNanA2S09GVjhOVTltc3psaUhyUWJ6Z2pxNmd4TnlRaG1nM1pQMmk0TTc1U0RFVjdtbTl2amVESTdzeENadmdILVRZTFprWDluYk43WGNVcnVVNG80enZFbU14R2Zpd0k2MHVzcUJLWTVYTHo2TE5Pb1dZN05Rdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-29T08:03:37Z",
       "dominio": "www.gov.br",
@@ -16,21 +43,6 @@
         "ANEEL"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_4905",
-      "titulo": "Mecanismo de Compensação de...",
-      "lead": "Mecanismo de Compensação de...",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWmRnR0Uzc0lvWHZqWTVHZml2TV91eldkWFZ6T0pVaXhBc210Sl9XQ01PWkkxTS0ybFVvRHlRRmlzZ09ON0xjWlNnZnp5YjdnZHZqbHA3T2FITzY3T3o5M3BGVXlZU3F0N1JzM3NTT09yQ29nLTlSRndDQ1VqNmFJS3ZUNnZESDRFejlHRHhMckZoa3NzLWptMDdnOFdfVlhQV1ZFendTeUJKZEhVYjVFREQ4WUhWMlFxVTczcE4yTFZOLVJpVFp6OW9wenZDM1RuMXZqWjV2bUF1QlBXUm1jZGJoMzNzakk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-29T06:01:01Z",
-      "dominio": "dadosabertos.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "precos-mercado"
     },
     {
       "id": "tarifas_5141",
@@ -43,13 +55,13 @@
       "data": "2026-08-28T21:57:32Z",
       "dominio": "megawhat.uol.com.br",
       "tambem_em": [
-        "Rede 98",
-        "Portal iG",
-        "Rádio Metrópole",
-        "Money Times",
+        "Portal O Dia",
+        "capitalnews.com.br",
+        "Nativa News",
+        "Associação Comercial e Industrial de Araçatuba",
+        "Correio de Corumbá",
         "Impactto News",
         "Forbes Brasil",
-        "InfoMoney",
         "G1",
         "www.gov.br"
       ],
@@ -109,7 +121,7 @@
       "lead": "Leilão de baterias vive indefinição sobre quem paga a conta, e parte do setor vê adiamento como certo",
       "fonte": "Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWlhDUVJIVWxrTHkzZzBualRwaVFkV1pxN1huVjlEQTF1UDhKWC1sdTF6QjVoUkxVTWpWdFRyanhUZlF4Q21mV0xjOEJzQmlLSmpMRlJkc0NsVktuaHZydktMVHJELXFaSm1fbi1WUE52cFhxQjdYMVc4c0cxdVpRZ0Fjb2pPV1NhdTBfZXJqZnpSdnJNV0h6TVBvMkV0Z08xNlpjRVlMVzV2Zk54R2tEYXBGM1RLRFlzWnNaZmhldXJzY3R6WjhGLU5WTnFsZVNnZXlSc1Z3cmx4eGh1S0ptU1JuZlhORTA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-08-28T07:00:00Z",
       "dominio": "www1.folha.uol.com.br",
@@ -356,6 +368,7 @@
       "editoria": "regulacao",
       "data": "2026-08-25T07:30:49Z",
       "tambem_em": [
+        "Tribuna do Sertão",
         "Valor Econômico",
         "Brasília Alta Frequência"
       ],
@@ -721,17 +734,6 @@
       "editoria": "transicao",
       "data": "2026-08-21T19:44:47Z",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_27644",
-      "titulo": "O efeito das decisões judiciais no mercado livre de energia",
-      "lead": "O efeito das decisões judiciais no mercado livre de energia",
-      "fonte": "Migalhas",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzlDWVZoWnlKNTM0ZU8ybXlSbE1ITllYZkd0c2lyVk9CcWZlMlUxZlVEck1fanJ1V0tKTnhMdmFLMmNkc054Q0hoTjlNcW1pdUtZYnVGTWRYd0JzdUlNUVRZc3daQmVSNzMyTWlVTTRiQndSM2dLcUdrR29SSGYzTnF4RGl1cVh2bkNST05xaFU3OWxxYWh6UkFJRjl6OUdCOTA0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-21T19:30:44Z",
-      "tema": "precos-mercado"
     }
   ]
 }

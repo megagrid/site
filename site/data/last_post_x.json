@@ -1,5 +1,5 @@
 {
-  "verificado_em": "2026-08-29T21:51:02Z",
-  "status": "pulado-desligado",
-  "motivo": "X_POST_ENABLED != true"
+  "verificado_em": "2026-08-30T15:38:51Z",
+  "status": "falha-envio",
+  "motivo": "HTTP 401: {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
 }

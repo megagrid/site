@@ -1,5 +1,5 @@
 {
-  "verificado_em": "2026-08-30T21:56:59Z",
+  "verificado_em": "2026-08-31T18:21:35Z",
   "status": "falha-envio",
   "motivo": "HTTP 401: {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
 }

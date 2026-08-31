@@ -1,30 +1,21 @@
 {
-  "updated": "2026-08-31T18:21:32Z",
+  "updated": "2026-08-31T23:19:09Z",
   "total": 60,
   "itens": [
     {
-      "id": "transicao_34434",
-      "titulo": "Fabricantes chinesas de baterias se unem a brasileiras para ampliar disputa em leilão inédito",
-      "lead": "Fabricantes chinesas de baterias se unem a brasileiras para ampliar disputa em leilão inédito",
-      "fonte": "Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSi1rbVIyMFY4dVVXbW5Bc2xFeGJUcEphcldQS2xkd3NLRDNHemVvNkY2RGs1U0IyaVl3SG5vRm9RM0hhalJyRmhoWnNxdndqczM1a0VOQ01iSlZxYUxGb0h3QXU0eVpKdV9OVVBzTmk4YTlmRE1PbGJtOEpCZmo2SHJXaWFkQkRuVEFHWm9PWTVGdVA1U1I3LThkTXBoZWptTVhPUGZaS0xRVjBfZHluNWRmLTlMelJtVzNmUlNnZ0pVMVFDc2p4MkEwb1ZMcEV2Vmx6NHlJeW5sM0lVTnNvVDh0OXpVOFRCSDBndk9Semp3RTFq0gH0AUFVX3lxTE9KLWttUjIwVjh1VVdtbkFzbEV4YlRwSmFyV1BLbGR3c0tEM0d6ZW82RjZEazVTQjJpWXdIbm9Gb1EzSGFqUnJGaGhac3F2d2pzMzVrRU5DTWJKVnFhTEZvSHdBdTR5Wkp1X05VUHNOaThhOWZETU9sYm04SkJmajZIcldpYWRCRG5UQUdab09ZNUZ1UDVTUjctOGRNcGhlam1NWE9QZlpLTFFWMF9keW41ZGYtOUx6Um1XM2ZSU2dnSlUxUUNzangyQTBvVkxwRXZWbHo0eUl5bmwzSVVOc29UOHQ5elU4VEJIMGd2T1J6andFMWo?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "id": "transicao_17200",
+      "titulo": "De olho em leilão no Brasil, fabricantes chinesas de baterias se unem a nacionais",
+      "lead": "De olho em leilão no Brasil, fabricantes chinesas de baterias se unem a nacionais",
+      "fonte": "InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDRSR3lnUlk4dklIN2lKUC0zWlBWaldaYVNZcmF3aVJoS2ZkX0tiRGpwdE5NSlhYd2I0OGI2X2VCVlNHQ1ltc0M1YmdHbkk4R2FuaGgwN05xZGJOdE9TYnBHSExXUkZKUU1GSWZzRExLVFNKYTJRWHBNM210VlRuQUdseGt4TkZlR3NNUS1nNEVpN212RGdMLTVyX1MzNFMwamFSX1ZPZFNCa3d3Ulc1Y2FYLVp6Rjc1WmpJ0gHAAUFVX3lxTE5iVFVTUFJKQWVTdWhxQk96dmkwY0tVcklZd25pNXJwWmo5a0tlWENBSTc2NnRQMU1uOThMaDdqbWVJdjFOTklJV3JvRTVaNkw3bHBsRzEyVUlCeV9aS1BpUHo2UWxjN1pPNGVHUG9qMTZjTDV2ckFHZFhLT01HY01EUVVnaUh5bFNmVGRyRjd1dE1FaDN0cTVDMFlQaHpaUTd4SDJleHdaM0pHVW5ZT2NXanpLZ04xVGI3RThyRVh1NA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-08-31T15:02:48Z",
-      "dominio": "valor.globo.com",
+      "data": "2026-08-31T19:18:42Z",
+      "dominio": "www.infomoney.com.br",
+      "tambem_em": [
+        "Valor Econômico"
+      ],
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "tarifas_9096",
-      "titulo": "Conta de luz mantém cobrança extra em setembro",
-      "lead": "Conta de luz mantém cobrança extra em setembro",
-      "fonte": "Diário dos Campos",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzZtSzRPRmxwMnlQSVljekt5YUtKd094OVVDbm5lMVg0aTJuZnhWdlBOaUJWYlBmVkN0YzdCWWdabFVFLWx2bUlqZGZ1bElRQjhOeGU5SGZnOHBhX0xsQ25QekdUX1FOanZEMm1SamZDWmxWVFFjVE1HWXZFRVZEUkx4Y1dXSG50RGpETjRSaS1XOTMx0gGaAUFVX3lxTE1nbGEyd0JidG9MT1luTDdaTFYxcEUyTEkwd3RlclVUR1MwNnVERUZ0clVxWGVKNHpseGNLbW9vcjBHeWJzTy01TXhqeFZXM1V5SDRIWElhcjVUZ2dGdEE2cnZ5UXhlWjFENEd4T3BJeTA3Qm9KdmVZMnN1NlhnbmUzeUExcjc0LW05Vl9CdTFqYnk2OHBURUFseFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-31T12:23:00Z",
-      "dominio": "dcmais.com.br",
-      "tema": "consumidor-residencial"
     },
     {
       "id": "tarifas_20128",
@@ -32,7 +23,7 @@
       "lead": "ANEEL mantém bandeira amarela pelo quinto mês consecutivo",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvZkVpYmlsRUZ0QU16UXBfcFhLcl82Uk0taXlmRnU2SWhLNWN5TkdDQXR0WUpXR1RPRjRkWDJBZE1IQ2V6NlNFUnFZeVhwbHpGdW1TZnpRYzFEeWZ5WUwtQ3d1MFhJZnROR0h5UFc3YWZwZTgzOTRZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
@@ -63,7 +54,7 @@
       "lead": "Aneel mantém adicional de R$ 1,885 por 100 kWh na conta de luz em setembro",
       "fonte": "Movimento Econômico",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcV9kUFRYSVNSQWMzSmU4T3dJUlVWWERVa1hGbk5CdTNETk5BZks5bDBRME1PWXNUQnVlM3RyZllFM2RUa1BFZUlXdzVRVHJkNjdGbUhvQlJjTEhmV1hHcTFOUnFvc3B6dXdmbXRsOHBycG5YY0h6aVl2dXllMFBvYW5JVmdKU0pJUkdlVFRUTG5BMXphTDRpODIyM1FJdVJ3d296RHhYVHlFMEZQLXFhVlZlaFFKX2F0ck9fcUN5NENZX2s1MHlYQVl5dC1QNUhn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-08-31T11:13:48Z",
       "dominio": "movimentoeconomico.com.br",
@@ -102,14 +93,21 @@
       "lead": "Conta de luz continua com bandeira amarela em setembro",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld4VmltZzJJZ3o4Nktoc1lfOG9FOW9YNFJMbGdhaVpmNWJIU0sxZTJyeVljNzBzYjdPWVNvdWd0S05hek05T2dDYXpnR1oxNXdXbGJnMEREeDdFeW5sMTkyakpWY0paN1d0dFBWLXN2TXdSc1NHZ2JDRHBfUUJUaGxfeEdpdVRZdnI4S3FBa1c2aEdaNDc3Q09yOHg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-08-28T21:57:32Z",
       "dominio": "megawhat.uol.com.br",
       "tambem_em": [
+        "Diário dos Campos",
+        "ACidade ON",
+        "Jornal da Paraíba",
+        "Portal iG",
+        "atribuna.com.br",
         "InfoMoney",
-        "G1",
-        "www.gov.br"
+        "Brasil 247",
+        "liberal.com.br",
+        "g1.globo.com",
+        "gov.br"
       ],
       "tema": "consumidor-residencial"
     },
@@ -274,7 +272,7 @@
       "data": "2026-08-26T15:30:47Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "TAGD Advogados"
+        "tagdlaw.com.br"
       ],
       "tema": "regulacao-institucional"
     },
@@ -408,6 +406,7 @@
       "editoria": "regulacao",
       "data": "2026-08-25T07:30:49Z",
       "tambem_em": [
+        "Tribuna do Sertão",
         "Valor Econômico",
         "Brasília Alta Frequência"
       ],
@@ -469,7 +468,7 @@
       "data": "2026-08-24T19:08:40Z",
       "tema": "precos-mercado",
       "tambem_em": [
-        "TAGD Advogados"
+        "tagdlaw.com.br"
       ]
     },
     {
@@ -739,6 +738,18 @@
       "editoria": "mercado-livre",
       "data": "2026-08-22T16:00:00Z",
       "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_86473",
+      "titulo": "Decreto regulamenta abertura do mercado de energia elétrica a partir de 2027",
+      "lead": "Decreto regulamenta abertura do mercado de energia elétrica a partir de 2027",
+      "fonte": "Migalhas",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd1B6SDlZdEhobkNqVF81a05lbGoyUzNkdVd2NVdVY2p5eC12TXAtOEMtN2ZJQ25IUUJ3dzJpMk9xbnBHTHVwd21jR0pTOEN6VERIRGpxWHlGSDdXbmRXbGttVE5hVm5oVmh1VUd4d1A2aHM0Z1ZRdXJnQXFDbS1nQThrb2dMWk1mNVJ3Slp6aDFvamt1bmJwOGpacVNPdmRrcm05Zg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-22T07:00:00Z",
+      "dominio": "www.migalhas.com.br",
+      "tema": "regulacao-institucional"
     }
   ]
 }

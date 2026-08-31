@@ -1,33 +1,84 @@
 {
-  "updated": "2026-08-30T21:56:57Z",
+  "updated": "2026-08-31T13:27:48Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_34507",
+      "titulo": "Bandeira tarifária de energia permanecerá amarela em setembro",
+      "lead": "Bandeira tarifária de energia permanecerá amarela em setembro",
+      "fonte": "- Blog Dellas",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREdvN194b3FTeTVUM2VZclVkMC1jOHlzdHJvd240cWJ4Unh5am1DVF9nenRsZS1VUXpZbnoydGNwdXFPMUZoeTVYRHpZMTF4NlBXNGxuUmR3STNwUnJ1aHBXVXFZNHpWVE1VNHdod3E5UHFMeUdlVnAxS25TVDJsalowOWdOMkx4UmlBblFwWm02UQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-31T13:11:00Z",
+      "dominio": "blogdellas.com.br",
+      "tambem_em": [
+        "Bahia Na Política"
+      ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_11154",
+      "titulo": "Aneel mantém bandeira amarela e conta de luz terá acréscimo a partir de setembro",
+      "lead": "Aneel mantém bandeira amarela e conta de luz terá acréscimo a partir de setembro",
+      "fonte": "URB News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM1RwVGxVODhqMUtYUHA4SzJVa3Z0N3ZvTjdsUVVDMVJiOEFJWUVqTkc0eG10aGtjaEptY1plQzdSYXQ4d1J0M1B6QmNRLUlyYlJiWjh6NHljODl0blhndXJCRjhiSUxFdmp4b2Y0ZjBGb2EzWTk4T09QX2FYbjBEM1NyRXVFdHYwajlBSDQwUTdTTXVtOER3a3NsUHVRVjZiREF4d2twX1RHa2lFeVhOT1RFeld0QQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-31T12:43:00Z",
+      "dominio": "urbnews.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_20128",
+      "titulo": "ANEEL mantém bandeira amarela pelo quinto mês consecutivo",
+      "lead": "ANEEL mantém bandeira amarela pelo quinto mês consecutivo",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvZkVpYmlsRUZ0QU16UXBfcFhLcl82Uk0taXlmRnU2SWhLNWN5TkdDQXR0WUpXR1RPRjRkWDJBZE1IQ2V6NlNFUnFZeVhwbHpGdW1TZnpRYzFEeWZ5WUwtQ3d1MFhJZnROR0h5UFc3YWZwZTgzOTRZ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-31T11:38:50Z",
+      "dominio": "canalsolar.com.br",
+      "tambem_em": [
+        "A Tribuna RJ"
+      ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_80159",
+      "titulo": "Prazos do primeiro leilão de baterias do Brasil preocupam empresas",
+      "lead": "Prazos do primeiro leilão de baterias do Brasil preocupam empresas",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1hnbUt4TWFFQ0tZNlY5dGZZZW4tY2h1NTZ1Uy1NeU9xcExMWVZjUV81Nm43dXMzMWlKWDR2alFGX3BheEs5UEcybW52QmZRYWJoRjJvbzhzSFp1MC1fcVZVOGlFYzZWbUFCeXljd2RYV2wzbTNWUmNCSmpXdVh4akVjaUlxRmJDd19vRElzQVd6aDREUngyQWN5WUN2V0VyVnVoVHBxNG8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-08-31T11:22:29Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "tarifas_68205",
+      "titulo": "Aneel mantém adicional de R$ 1,885 por 100 kWh na conta de luz em setembro",
+      "lead": "Aneel mantém adicional de R$ 1,885 por 100 kWh na conta de luz em setembro",
+      "fonte": "Movimento Econômico",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcV9kUFRYSVNSQWMzSmU4T3dJUlVWWERVa1hGbk5CdTNETk5BZks5bDBRME1PWXNUQnVlM3RyZllFM2RUa1BFZUlXdzVRVHJkNjdGbUhvQlJjTEhmV1hHcTFOUnFvc3B6dXdmbXRsOHBycG5YY0h6aVl2dXllMFBvYW5JVmdKU0pJUkdlVFRUTG5BMXphTDRpODIyM1FJdVJ3d296RHhYVHlFMEZQLXFhVlZlaFFKX2F0ck9fcUN5NENZX2s1MHlYQVl5dC1QNUhn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-31T11:13:48Z",
+      "dominio": "movimentoeconomico.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "transicao_6481",
       "titulo": "Leilão de baterias no Brasil: plano de nacionalização",
       "lead": "Leilão de baterias no Brasil: plano de nacionalização",
       "fonte": "Associação Comercial e Industrial de Araçatuba",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVjE5Nk1DamM5dnZoY0lkNTFmMmRtaF9MX293Z3hTRmxvNFpkLUhWTDB0QXNCU2Z2MDZUTG5Zd3lsRTM0S0liUGtsbTVvNEhrUnk2Ty1xd1U1ZGZ1eUF6ZlZ3VGVPYVMyT0tENHViS0c2YU5sNVFXSl8zdXZza0thTA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-08-29T22:34:13Z",
       "dominio": "aciara.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_72710",
-      "titulo": "Mecanismo de Compensação de...",
-      "lead": "Mecanismo de Compensação de...",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb29RVjF0Y0pndXY3XzJzMXlBRFkxV1NoS0Vzb0I0eUFJUzJmMTBkNXFwN1JDVXpyNEh1VFNYaEs3c3huc1pmRjkxYk1yNXlVZ0VsSkp0Z0ROSlNMdjZGOVJicGMwVDNicF9EMnBZM3RpcnBGQ2ZGcEt1M1BWZXlnai0tWUhWYlNmcWNqNTdOZi0taHZMT1E1Si1vLUswbFFfV0x0Z0VfeGZ6bmdsTi04VG5vNVFTaktnT21VTUtPU05DS19aN0xpRER0bllnenJHeEV5Q04yVDl6RTVianNWVg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-29T18:21:51Z",
-      "dominio": "dadosabertos.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "precos-mercado"
     },
     {
       "id": "regulacao_32121",
@@ -55,13 +106,7 @@
       "data": "2026-08-28T21:57:32Z",
       "dominio": "megawhat.uol.com.br",
       "tambem_em": [
-        "Revista Oeste",
-        "Portal Tempo Novo",
-        "Portal Piauí Hoje",
-        "Impactto News",
-        "Portal O Dia",
-        "capitalnews.com.br",
-        "Forbes Brasil",
+        "InfoMoney",
         "G1",
         "www.gov.br"
       ],
@@ -121,7 +166,7 @@
       "lead": "Leilão de baterias vive indefinição sobre quem paga a conta, e parte do setor vê adiamento como certo",
       "fonte": "Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWlhDUVJIVWxrTHkzZzBualRwaVFkV1pxN1huVjlEQTF1UDhKWC1sdTF6QjVoUkxVTWpWdFRyanhUZlF4Q21mV0xjOEJzQmlLSmpMRlJkc0NsVktuaHZydktMVHJELXFaSm1fbi1WUE52cFhxQjdYMVc4c0cxdVpRZ0Fjb2pPV1NhdTBfZXJqZnpSdnJNV0h6TVBvMkV0Z08xNlpjRVlMVzV2Zk54R2tEYXBGM1RLRFlzWnNaZmhldXJzY3R6WjhGLU5WTnFsZVNnZXlSc1Z3cmx4eGh1S0ptU1JuZlhORTA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-08-28T07:00:00Z",
       "dominio": "www1.folha.uol.com.br",
@@ -184,7 +229,7 @@
       "lead": "Mercado livre de energia avança no Brasil e amplia oportunidades de redução de custos para empresas",
       "fonte": "Jornal Impresso Brasil",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRl8tWkNMbGh4ZmFubG1tc09CVDI3TGt3eThSdVRCZGZLYWl1Q3RoS3BqZW5LR1BDazJxel9rOHJDV045ODVUUmR1R0dGcnA3eG5pVndMX1Q5eFNWaEdtcnhNT0YtRlpRMUh3eHdweXJ6X2diNVpBV1FCR2FVQTY0TzZfaUVvX2U2NDlUNlQyc1JwQUoxVHRuMGlCeHN2Y3B1UHMxTXh0b0t1eHZHaVk0R190bFJhNUh5QkhmaHpIbHFhLTlaeTFpU2taVTBUV29DQ1dySUZxLUxIU0NEaE1jbWZsMzA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-26T21:19:00Z",
       "dominio": "jornalimpressobrasil.com.br",
@@ -203,15 +248,18 @@
       "tema": "consumidor-residencial"
     },
     {
-      "id": "mercado-livre_97645",
+      "id": "mercado-livre_26685",
       "titulo": "De olho na conta de luz: Capital recebe debate sobre nova era do mercado de energia",
       "lead": "De olho na conta de luz: Capital recebe debate sobre nova era do mercado de energia",
       "fonte": "Enfoque MS",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXRvank3aDRqalpUTmpEVXZ1RDdzLVBxTUJGd25FXzZNRDQtSUQ1cHVEM0RlenRFa1N6c0FPekcycHAwUXlmUW5fZG1HQWJzRTlVZDgzT1pYaTlyY2hRdUdYM1htbGtuSXhQNWhMSDdVdG9iNmk3UElBd1pUcjNoeEFqeU5IQkdTZUNGSktDRVJkQ2pfZDJPbEJILVhjMHlZcnBrUTVTc3g5QThzb3dVQW9IM1gwTXk3S2hUMDBn0gG-AUFVX3lxTE5pdG9qeTdoNGpqWlROakRVdnVEN3MtUHFNQkZ3bkVfNk1ENC1JRDVwdUQzRGV6dEVrU3pzQU96RzJwcDBReWZRbl9kbUdBYnNFOVVkODNPWlhpOXJjaFF1R1gzWG1sa25JeFA1aExIN1V0b2I2aTdQSUF3WlRyM2h4QWp5TkhCR1NlQ0ZKS0NFUmRDal9kMk9sQkgtWGMweVlycGtRNVNzeDlBOHNvd1VBb0gzWDBNeTdLaFQwMGc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTJtSU5NMkRIeFdMNUtJeDRxZm1ibzZsalFLWWR3NnY2UVIxazFBREhESXRjNzVtSGlETUVySTd4d1FNNDdaSW9MdkZnUUs1Wlo0WE1XdGhxLWRjWDRoVXl4cXB0UWZsaDJZd1pEck5YdERFMFFVWFdTdlNIOUw5Z0dWNHQtYjNNaTUwc1BRbDQ4MGxVR212T29Bd0FLODZfUWlCSkxqVWdkdElOTWZxekR1a0lmMnZW0gG-AUFVX3lxTE5pdG9qeTdoNGpqWlROakRVdnVEN3MtUHFNQkZ3bkVfNk1ENC1JRDVwdUQzRGV6dEVrU3pzQU96RzJwcDBReWZRbl9kbUdBYnNFOVVkODNPWlhpOXJjaFF1R1gzWG1sa25JeFA1aExIN1V0b2I2aTdQSUF3WlRyM2h4QWp5TkhCR1NlQ0ZKS0NFUmRDal9kMk9sQkgtWGMweVlycGtRNVNzeDlBOHNvd1VBb0gzWDBNeTdLaFQwMGc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-26T18:30:00Z",
       "dominio": "www.enfoquems.com.br",
+      "tambem_em": [
+        "Enfoque MS"
+      ],
       "tema": "consumidor-residencial"
     },
     {
@@ -350,18 +398,6 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_59015",
-      "titulo": "Mecanismo de Compensação de...",
-      "lead": "Mecanismo de Compensação de...",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUUpIWnc1SzVvTFFQWnpJWndYc1FhZWNSeHNZV2puc2plSmVZb3BEZUtwekxuZHN5QmlMaGdLeFlPMm03eFRWOHpiN0ZCT1JkY3JhLXdiTnM4cjRNZERxbFNMVkhsQU5FMUM0dFJfR0JSTDNCZWV5cnhEcWZRbTM1OVhueUFNWmNoQmFNSDM2OEpYeUpzRmRGU0NVY2U5UjZfUnlMeElBbUVFTkJvSFlqd0JfOGtiZFhNWmQ1Tm8wSDYtdkJReEJ2bDdHNC1faXdadEtpWmljbUJBTFlyUmh3MFRnallVS0NzS2N3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-25T14:24:38Z",
-      "dominio": "dadosabertos.ccee.org.br",
-      "tema": "precos-mercado"
-    },
-    {
       "id": "regulacao_82053",
       "titulo": "Aneel abre consulta sobre \"teto\" para subsídios na conta de luz",
       "lead": "Aneel abre consulta sobre \"teto\" para subsídios na conta de luz",
@@ -428,7 +464,7 @@
       "lead": "CCEE e ONS consultam setor sobre novo software para despacho e formação do PLD",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUk5YmtkY0M5ZDl4X2VEVzNqMVlCUGM5Q2dSTEt2LWs5c1cweElXM2o2SFNicVRmUTJhbVIyRnhsWVZmaldFZjNka1JLUkRxVmo1SXFmZDRYblN0c3VqQW5RQU1xYXh0M0NOaFlhYUtZa2xpa2lDbEZtTVAxZzQ3bHpOdmVsV3E0blQ2amNrdk9vbzRpdTZUbFBBNE13OFBIUER2WU02bHh3LWNpUkRpTGhzVl9vM09PMTk0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-24T19:08:40Z",
       "tema": "precos-mercado",
@@ -703,40 +739,6 @@
       "editoria": "mercado-livre",
       "data": "2026-08-22T16:00:00Z",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_3665",
-      "titulo": "Decreto regulamenta abertura do mercado de energia elétrica a partir de 2027",
-      "lead": "Decreto regulamenta abertura do mercado de energia elétrica a partir de 2027",
-      "fonte": "Migalhas",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd1B6SDlZdEhobkNqVF81a05lbGoyUzNkdVd2NVdVY2p5eC12TXAtOEMtN2ZJQ25IUUJ3dzJpMk9xbnBHTHVwd21jR0pTOEN6VERIRGpxWHlGSDdXbmRXbGttVE5hVm5oVmh1VUd4d1A2aHM0Z1ZRdXJnQXFDbS1nQThrb2dMWk1mNVJ3Slp6aDFvamt1bmJwOGpacVNPdmRrcm05Zg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-22T14:00:00Z",
-      "dominio": "www.migalhas.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_78479",
-      "titulo": "ANEEL sorteia na segunda (24) relator de custos do leilão de baterias",
-      "lead": "ANEEL sorteia na segunda (24) relator de custos do leilão de baterias",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEVkN0hPclhCZVFyRGVqaWNZX1hHTW1vNm5iM2Y3di14WUkyUzctdEZDSkNuRVQ1UlRFZ1VOeEl1cEJOU1lBNmU2czBuNGlPTkpyT1FtYlVBcGo0U09XdUFFNGZ2LXBuZVozNTVYeGFPeW9XN2kzMjRZYktKUWRiNnl4U2ZZRnl3b2cydjEyUlNqUVRLM21yQ3BVS0Y1MTQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-21T21:14:28Z",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_38323",
-      "titulo": "Leilão de armazenamento: setor defende baterias, reversíveis e outras soluções em disputa",
-      "lead": "Leilão de armazenamento: setor defende baterias, reversíveis e outras soluções em disputa",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnZuWm1kZ3hIQ3hWU0lpVmdWNmttRURHTU5CWkNVT2w1WEhBRlZNdGM1UXVJSW5paVZMQVg3RDdObGhEcEJCT1VkN0hFS04yZkozQVdKYm1icjlDVFdMRDBRTFF5T3RMNGVQenhzcGV4QncwYU5uOWhiS0o0Rll6VEN5Yl9QdUlOQ1hrMF9CVC0yVV9LRU1OQkpwVHZiaGM5TmhaUWwtcDRhOHQ2YnNfY3RRSnZTbWNVVkVJMFJ6aWxCUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-21T19:44:47Z",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

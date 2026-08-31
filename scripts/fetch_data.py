@@ -1362,6 +1362,58 @@ def _e_slug(titulo: str) -> bool:
     return bool(_SLUG_INTEIRO.fullmatch(t))
 
 
+# Portais de DADOS não são redação — mesma doutrina do _e_slug (P1.13), um
+# passo adiante: lá o critério era a FORMA do título ('pld-medio-semanal'),
+# aqui é a ORIGEM. O CKAN da CCEE (dadosabertos.ccee.org.br) indexa página
+# de dataset, cujo <title> o próprio portal entrega cortado — 'Mecanismo de
+# Compensação de...' passou pelo _e_slug só porque tem espaços. Dataset novo
+# é pauta do robô de dados, não item do acervo de notícias.
+DOMINIOS_BLOQUEADOS = ("dadosabertos.ccee.org.br",)
+
+
+def _dominio_bloqueado(host: str) -> bool:
+    h = (host or "").strip().lower().lstrip(".")
+    if h.startswith("www."):
+        h = h[4:]
+    return any(h == d or h.endswith("." + d) for d in DOMINIOS_BLOQUEADOS)
+
+
+def _tira_sufixo_veiculo(titulo: str) -> str:
+    """Remove o ' - Veículo' que o Google News anexa ao título.
+
+    O segundo passo existe porque há veículo cujo NOME começa com traço:
+    '- Blog Dellas' chega como '… em setembro - - Blog Dellas', o primeiro
+    regex leva só a última ocorrência e sobra um hífen órfão no fim — que em
+    31/08/2026 estava na manchete da home. Separador solto no fim nunca é
+    conteúdo, então cortar é seguro.
+    """
+    t = re.sub(r"\s+-\s+[\w\s]+$", "", str(titulo or "")).strip()
+    return re.sub(r"\s*[-–—]+\s*$", "", t).strip()
+
+
+_RE_TITULO_TRUNCADO = re.compile(r"(?:\.\.\.|…)\s*$")
+
+
+def _titulo_truncado(titulo: str) -> bool:
+    """True quando o título chegou CORTADO DA ORIGEM.
+
+    O corte é do feed, nunca nosso: _corta() só toca <title>/og:, jamais o
+    item do JSON. Medido em 30/08/2026: 4 em 500 títulos (0,8%) do Google
+    News já vêm com reticências — 'Mecanismo de Compensação de... - CCEE'.
+    O sufixo ' - Veículo' é removido logo acima, então nesse ponto o corte
+    está sempre no fim da string.
+
+    Recuperar o título íntegro NÃO é possível e foi verificado item a item:
+    o link do feed é redirect opaco que devolve o shell JS do Google News
+    (og:title = 'Google News'), o id é protobuf de 289 bytes sem URL dentro,
+    e nem `summary` nem `source` do RSS carregam a manchete. Sobra tratar a
+    APRESENTAÇÃO: o item não é descartado — fica só inelegível para os dois
+    slots onde o corte apareceria grande (manchete e card visual), e o CSS
+    dá conta do resíduo na lista secundária.
+    """
+    return bool(_RE_TITULO_TRUNCADO.search((titulo or "").rstrip()))
+
+
 def _espelho_rejeita(titulo: str, url: str, pub) -> str:
     """Filtro do espelho institucional. Retorna o motivo da rejeição
     ('' = aprovado). Todos os critérios são obrigatórios e cumulativos.
@@ -1436,13 +1488,18 @@ def _parse_feed(fonte, feed_url, seen_urls, max_per_feed=10,
                          _clean_text(entry.get("title", ""))[:50])
                 descarta("origem fora do Brasil (TLD de país)")
                 continue
+            if _dominio_bloqueado(host):
+                log.info("    %s: portal de dados recusado — %s (%s)", fonte,
+                         host, _clean_text(entry.get("title", ""))[:50])
+                descarta("portal de dados, não redação")
+                continue
             fonte_display = fonte
             if "news.google.com" in feed_url and not forcar_fonte:
                 src = _clean_text(entry.get("source", {}).get("title", ""))
                 if src:
                     fonte_display = src
             titulo = _clean_text(entry.get("title", ""))
-            titulo = re.sub(r"\s+-\s+[\w\s]+$", "", titulo).strip()
+            titulo = _tira_sufixo_veiculo(titulo)
             if not titulo or len(titulo) < 10:
                 descarta("título ausente ou curto demais")
                 continue
@@ -1485,6 +1542,10 @@ def _parse_feed(fonte, feed_url, seen_urls, max_per_feed=10,
                 "editoria": editoria,
                 "data": data_pub,
                 "dominio": host,
+                # Só grava quando é verdade: ausência do campo = título
+                # íntegro, e o JS lê `n.truncado` como falsy sem precisar
+                # do campo em 99% dos itens.
+                **({"truncado": True} if _titulo_truncado(titulo) else {}),
             })
             seen_urls.add(url)
     except Exception as exc:
@@ -1773,7 +1834,7 @@ def fetch_noticias(pld: dict = None, ear: dict = None, bandeira: dict = None) ->
     # itens antigos são carregados como estão — limpa entidades já gravadas
     # e realinha o id ao slug da editoria (acervo anterior ao P1.6).
     for it in existing_real:
-        it["titulo"] = _clean_text(it.get("titulo", ""))
+        it["titulo"] = _tira_sufixo_veiculo(_clean_text(it.get("titulo", "")))
         it["lead"] = _strip_fonte_suffix(_clean_text(it.get("lead", "")), it.get("fonte", ""))
         normaliza_id(it)
     # A guarda de slug vale também para o que já está gravado — sem isto o
@@ -1800,6 +1861,20 @@ def fetch_noticias(pld: dict = None, ear: dict = None, bandeira: dict = None) ->
             log.info("  acervo: origem estrangeira recusada — %s (%s)",
                      host, str(it.get("titulo", ""))[:50])
             continue
+        # Bloqueio de portal de dados também retroativo: sem isto o item do
+        # CKAN já gravado sobrevive a todas as rodadas seguintes, igual ao
+        # que o P1.13 descreveu para o slug.
+        if _dominio_bloqueado(host):
+            log.info("  acervo: portal de dados recusado — %s (%s)",
+                     host, str(it.get("titulo", ""))[:50])
+            continue
+        # Reavalia o corte a cada rodada em vez de confiar no que está
+        # gravado: o acervo anterior a esta mudança não tem o campo, e
+        # marcá-lo aqui é o que tira da manchete o item que já entrou.
+        if _titulo_truncado(it.get("titulo", "")):
+            it["truncado"] = True
+        else:
+            it.pop("truncado", None)
         limpos.append(it)
     existing_real = limpos
     seen_urls = {item["url"] for item in existing_real}
@@ -1844,6 +1919,18 @@ def fetch_noticias(pld: dict = None, ear: dict = None, bandeira: dict = None) ->
     }
     save("noticias.json", data)
     log.info("  %d novas . %d reais existentes . %d total", len(novos), len(existing_real), len(todos))
+    # Contagem do fallback documentado: título cortado NA ORIGEM, que não há
+    # como recuperar (ver _titulo_truncado). Silêncio aqui esconderia uma
+    # degradação do feed — se este número saltar, o Google News mudou o que
+    # entrega, não o nosso código.
+    truncados = [it for it in todos if it.get("truncado")]
+    if truncados:
+        log.info("  %d título(s) truncado(s) na origem — fora da manchete e do "
+                 "card visual, mantidos na lista: %s", len(truncados),
+                 "; ".join(f"{it.get('fonte','?')}: {it['titulo'][:44]}"
+                           for it in truncados[:3]))
+    else:
+        log.info("  nenhum título truncado na origem nesta rodada")
     resumo_feeds()
     oficiais = [it for it in todos if _e_oficial(it)]
     log.info("  itens com URL fora do Google News: %d%s", len(oficiais),
@@ -2051,10 +2138,22 @@ def _seleciona_manchetes(noticias: dict):
     def marcar(n):
         usados.update(chaves(n))
 
-    lead = next((n for n in itens if n.get("imagem")), itens[0])
+    # Título cortado na origem não ocupa os dois slots grandes. A ordem de
+    # preferência degrada em vez de falhar: se TODO o acervo estiver
+    # truncado, a manchete volta a ser a regra antiga — home com título
+    # cortado ainda é melhor que home sem manchete.
+    def integro(n):
+        return not n.get("truncado")
+
+    lead = (next((n for n in itens if n.get("imagem") and integro(n)), None)
+            or next((n for n in itens if integro(n)), None)
+            or next((n for n in itens if n.get("imagem")), itens[0]))
     marcar(lead)
 
-    visual = (next((n for n in itens if not usado(n) and n.get("imagem")), None)
+    visual = (next((n for n in itens if not usado(n) and n.get("imagem")
+                    and integro(n)), None)
+              or next((n for n in itens if not usado(n) and integro(n)), None)
+              or next((n for n in itens if not usado(n) and n.get("imagem")), None)
               or next((n for n in itens if not usado(n)), None))
     if visual:
         marcar(visual)

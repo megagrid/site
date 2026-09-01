@@ -1,14 +1,38 @@
 {
-  "updated": "2026-09-01T15:41:35Z",
+  "updated": "2026-09-01T21:53:19Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_38041",
+      "titulo": "Justiça derruba proteção da IBS Energy contra cobranças da CCEE",
+      "lead": "Justiça derruba proteção da IBS Energy contra cobranças da CCEE",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUhwTVI3dEdpTGpYdzFNUUdhblBUWVphZjlLOW9Od2p6aUpiTUMyU3ZKZ3FiSUhsVTFnSWt1OUt3eXcyMm9GQnBSUzl1elRYTmdPNVlHZlpWeXF4WVRkeXNkVlJhdWphQkozTUVDX0ZpeU5wVGtVNm9LNnEzY0FLNmFERm5vSGYxSEVvV0d6Q3dnUXlxMlVpck9ILTd5ZnFIUWQyZlVSLWpWQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-01T17:34:30Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_46299",
+      "titulo": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
+      "lead": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
+      "fonte": "TN Petróleo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ3NsVWlSb0NoNndjZTVJTzg2bkRUclQ3N0RwX0Rpd2lKUGhLLV9yZUlJVndBMVFxYlBRZ2xpZFRvSnBSbTlBR0J0bmVhcVJseERUTi13RUY1RXBFUVk0VzAwdFdJRWJROE5kYllwbldET2ZDbmtQMzA3dFh4cks0OFpBSHdtOEhXaGhJRHhEM19VbDY0TlhaeFd4SFB2NUI2RWNTLVN2TUN5RFVsSTdram9HRkY0MWZEazdxUzNIeGFrZUE2RFdlSE5jUGYtM203OFRv?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-01T15:00:00Z",
+      "dominio": "tnpetroleo.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "regulacao_53472",
       "titulo": "Termelétrica Manaus I inicia operação comercial parcial com 114,8 MW",
       "lead": "Termelétrica Manaus I inicia operação comercial parcial com 114,8 MW — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVRpUGY4QmpYRlJBRjBGaUxCTXEta0NScU5fY1VDZml6Y25nWDN3MjJsY1lmUmZTSGQzZGNXaUY4ZlEza2JJam1xOGN0QmtYOUQ3VmQ4emU5M3JLbVFYQmtqTEtxRE1kd3VvaXgxUFRuN1FRRl9XQjJnOUk4aHg2YzZTMEl2bUlCckU5M1pNSkhsV01fWmxfNl9nWWpmenBXWjZCbzVzVUVWMU01Sk5uMHg1TkczdGVPLXRmNFdxTk1OYTlMdExaLUUyb0U3Rmh1Qzh1Y3Jn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1578776349090-de61da00ff1a?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-01T11:38:00Z",
       "dominio": "www.gov.br",
@@ -20,7 +44,7 @@
       "lead": "De olho em leilão no Brasil, fabricantes chinesas de baterias se unem a nacionais",
       "fonte": "InfoMoney",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDRSR3lnUlk4dklIN2lKUC0zWlBWaldaYVNZcmF3aVJoS2ZkX0tiRGpwdE5NSlhYd2I0OGI2X2VCVlNHQ1ltc0M1YmdHbkk4R2FuaGgwN05xZGJOdE9TYnBHSExXUkZKUU1GSWZzRExLVFNKYTJRWHBNM210VlRuQUdseGt4TkZlR3NNUS1nNEVpN212RGdMLTVyX1MzNFMwamFSX1ZPZFNCa3d3Ulc1Y2FYLVp6Rjc1WmpJ0gHAAUFVX3lxTE5iVFVTUFJKQWVTdWhxQk96dmkwY0tVcklZd25pNXJwWmo5a0tlWENBSTc2NnRQMU1uOThMaDdqbWVJdjFOTklJV3JvRTVaNkw3bHBsRzEyVUlCeV9aS1BpUHo2UWxjN1pPNGVHUG9qMTZjTDV2ckFHZFhLT01HY01EUVVnaUh5bFNmVGRyRjd1dE1FaDN0cTVDMFlQaHpaUTd4SDJleHdaM0pHVW5ZT2NXanpLZ04xVGI3RThyRVh1NA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-08-31T19:18:42Z",
       "dominio": "www.infomoney.com.br",
@@ -35,11 +59,23 @@
       "lead": "ANEEL debaterá regras dos primeiros leilões de baterias nesta terça-feira",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOU5JY3U2ZEJuMWF0Q25PVHlFTXdmOWtVQzZqQUxWTC12bm16cnA0REdnNzBIU2J1cnB4RXlPUFZVQ3lQUnllQTJfaExCY3hmZGFjUDAzRkFsSVZSMkh2bERhbERGQm5lSHFSY21PTUM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-31T16:46:30Z",
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "tarifas_88058",
+      "titulo": "Bandeira tarifária de energia permanecerá amarela em setembro",
+      "lead": "Bandeira tarifária de energia permanecerá amarela em setembro",
+      "fonte": "- Blog Dellas",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREdvN194b3FTeTVUM2VZclVkMC1jOHlzdHJvd240cWJ4Unh5am1DVF9nenRsZS1VUXpZbnoydGNwdXFPMUZoeTVYRHpZMTF4NlBXNGxuUmR3STNwUnJ1aHBXVXFZNHpWVE1VNHdod3E5UHFMeUdlVnAxS25TVDJsalowOWdOMkx4UmlBblFwWm02UQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-31T13:11:00Z",
+      "dominio": "blogdellas.com.br",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "tarifas_20128",
@@ -52,12 +88,9 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
+        "Portal - Rios de Notícias",
         "Primeira Hora",
-        "Portal Alegrete Tudo",
-        "Rádio Clube de Canoinhas",
-        "Agora RN",
-        "jornalcruzeiro.com.br",
-        "Movimento Econômico"
+        "radioclubedecanoinhas.com.br"
       ],
       "tema": "consumidor-residencial"
     },
@@ -112,7 +145,8 @@
       "dominio": "megawhat.uol.com.br",
       "tambem_em": [
         "jornaldaparaiba.com.br",
-        "InfoMoney",
+        "portalimpactto.com.br",
+        "infomoney.com.br",
         "G1",
         "www.gov.br"
       ],
@@ -708,41 +742,6 @@
       "tambem_em": [
         "Fala Você Notícias"
       ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "tarifas_8394",
-      "titulo": "Por que a conta de luz sobe mesmo com consumo igual — e o que fazer quando a bandeira muda de cor",
-      "lead": "Por que a conta de luz sobe mesmo com consumo igual — e o que fazer quando a bandeira muda de cor",
-      "fonte": "Revista Oeste",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT3pqTVQ2SC1pVFQ3WnlENFB5ODZQRHVWTHBreDlsdS1CZEhTbG44eU5ycWxXNnRFbWk1ekZ5akctbDlOdWhmd0txVXJ5bnlYeDlXQWFGUDQ1aGd2Z0stVGwtbklYRl9SN3NPQXZZWENRMEpteDdsbWZ3eDA5RGdoR0ZmbGRLcDZteUlCRzdRLTRlLXFiRWxMcnZZYXFqVl83NkhrTUlxSFlTRWk3eXJ3b0J2dWpicjg4ejREQktrQ3FSa0tWSVVVS2l1eng?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-23T15:40:26Z",
-      "dominio": "revistaoeste.com",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_77878",
-      "titulo": "Abertura do mercado livre de energia vai beneficiar pequenos negócios",
-      "lead": "Abertura do mercado livre de energia vai beneficiar pequenos negócios",
-      "fonte": "Diário do Comércio",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mNm1zMjM3RjdWUHYta05tNUVVcmE1Y1FiakNXYTlQNHR1TEZzYVIyOS13dDFFbVRLRzdxRjM0TFU1MFdKZ3czWUh3LWZiZWJ4NEhDYVNiaDlFOXhRZV8tNnp3Qk9VMTVHYzl6UEJ3QzhZd3FiSjNr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-23T07:00:00Z",
-      "dominio": "diariodocomercio.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_7222",
-      "titulo": "Mercado livre de energia será ampliado e chegará aos consumidores residenciais",
-      "lead": "Mercado livre de energia será ampliado e chegará aos consumidores residenciais",
-      "fonte": "Gazeta do Paraná",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTZZQnlaSmlYdUtIYmF4ZFJOeFBsbW9mc3BBa2Q3U1FkSS16ZzNlb2p2N0xRU250Tms1dTQtMl9RcjFBT1ctS0Z5R3FndHh5ZTBWemFKaTY5RGpEOHpWZl9pSzQzZHliakJJMUxWaHB2ajBUTGJYNUFJemloeHU0UFhZVEdRSEFEYVBYOE1JclRKWl9qVUtxQVk2WUYwaTdGMHRVcGgybWxUaGpoNHZDQzFjd2hqQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-22T16:00:00Z",
       "tema": "consumidor-residencial"
     }
   ]

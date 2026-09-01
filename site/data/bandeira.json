@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T21:56:49Z",
+  "updated": "2026-09-01T15:41:27Z",
   "mes": "agosto/2026",
   "competencia": "2026-08",
   "fonte": "ANEEL — Dados Abertos",
@@ -128,5 +128,7 @@
       "mes": "setembro/2024",
       "cor": "vermelha1"
     }
-  ]
+  ],
+  "defasado": true,
+  "aviso": "Referência: agosto/2026. Não foi possível obter o registro de setembro/2026."
 }

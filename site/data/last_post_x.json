@@ -1,7 +1,7 @@
 {
-  "verificado_em": "2026-09-01T21:53:21Z",
-  "status": "pulado-duplicata",
-  "motivo": "corpo idêntico ao último post, dentro da janela de 20h",
+  "verificado_em": "2026-09-02T15:30:52Z",
+  "status": "falha-envio",
+  "motivo": "HTTP 401: {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}",
   "postado_em": "2026-09-01T15:41:38Z",
   "hash": "f4df42ca41e177deb20359e7ee3759bd12e1ceb6930eef923dc8682b012d14c9",
   "chars": 190,

@@ -1,14 +1,50 @@
 {
-  "updated": "2026-09-02T15:30:50Z",
+  "updated": "2026-09-02T21:55:04Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_13383",
+      "titulo": "Autoprodução eólica vai suprir Complexo de Ubu",
+      "lead": "Autoprodução eólica vai suprir Complexo de Ubu",
+      "fonte": "ES Brasil",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TQTVvY0IzelIybWl6bXNEYnoyWFEtVl8zd2dvNk5NTnJKSUVmVG5qWUJDWVFUaDZEQ1dId3hrM0ZZSVl0M1V1VDg3bFREY3NmUUdHOE8xOElyU1BiY2xrdzRoZTFyTHBOMnljWGhn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508791290064-c27cc1ef7a9a?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-02T21:08:55Z",
+      "dominio": "esbrasil.com.br",
+      "tema": "eolica"
+    },
+    {
+      "id": "regulacao_70150",
+      "titulo": "ANEEL aprova redução nas tarifas da Roraima Energia",
+      "lead": "ANEEL aprova redução nas tarifas da Roraima Energia — Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVll6M0JFd25uOWl0WHZhQTl5SFduTUUxU3FfeTJkWGpCZUxKbkdGNVdZaF9FbWlOdWw5OHN6NHNjaDNxR1lLNWZIRUtKR2R6UUd5LUhGSzdGZGo5aDFqX0tPbUt4MzVTcEZGcXBUSnp4R1UyV3FfTEpqT0ZoeExUNmNjaGNkd0dYc3JjRUhqWXlFUjg2VlM4LXA2ODRXZm9XZ0tzTkt2c0FwaFFNNkdWZ3ZEZjMxcURBREdKZGQ5MA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-02T16:08:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "tarifas_52638",
+      "titulo": "Conta de energia elétrica mantém bandeira amarela em setembro - jornaldacidade.net",
+      "lead": "Conta de energia elétrica mantém bandeira amarela em setembro",
+      "fonte": "jornaldacidade.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVJ0S20wS2lXOXk0c1VJMWZfeXR1Yng5V2JLWU9WUTRGSnJnQjdrbnJqUERoZkx0VEdFZlI3dGZSVUgzS2EwWHJEcmhuSE9Lc3pnYW9oTTViVTFCcUFPRzJRUzAzY3RoSi01NHlRV043b2oza1RacjZTYW4tcWdSNUdNZFJOcTE3cFpreHR1ZkVXaTljQ1RTZFBwZkRONEZoN1RIVDBuUThETEZaUXY3ZjZPcFQ0dlBuMUZlYQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-02T12:14:06Z",
+      "dominio": "www.jornaldacidade.net",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "regulacao_13223",
       "titulo": "ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição",
       "lead": "ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOR1JlUFRKVTkwZnI5aHNrM3E4bUJjeVVobGVINGdHbWc4UjA2TkNHS21kZ2dDanQ2QW50THphT0ZPMmtOY1lnUGI4bFNfdGI5eHN5aURKZ2NUa2xtUjhfQzhVdWt3QXg2cjQ0ME1qcEk4ZWtJUFJqdFJvODRGYi1YUW84MFZEX1Nic1RGdnFja2xVWi1tRG8wREU4YjlhRkFkc284cVhaR0dqZXJsQ0luZFI4clhaNTRIV0U2TDM4Y0xaVVBwV2NkdXZEc3RhLXZDRnNXMnFRZHo4amQ3THpydHJ6VFlDR3Y3V0pfdFZYanVKRVJBX0FfN2dEZHZPZXU3clJNMEwxRlF4RElkS0NYaC1HVjhNdE9CVGZaTWttaXVWT3I5NjVv?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-01T22:04:07Z",
       "dominio": "www.gov.br",
@@ -20,7 +56,7 @@
       "lead": "Setor elétrico pede mudanças nas regras de leilão de baterias",
       "fonte": "Tribuna do Agreste",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVJVcXB1d1Z1bFUtZzhyUmhiZDNQWTJ1T241TUJIc0lHVDdiNlFraHpELXZkUnNBNjRsT3hvSGF5ZXhOVXB3RnRKSi1TN2NkZjVMSUhOempqdUZFODFtVXR0azluaWN4b0hIQ3lBV1VQZ0FGTEl3Vzd3bkR3c2YtbXp5cE5xN1hXVVZWRGpZaVQyaDJpemFDQmZ5Q3JaQm9YUS1BeXFnOW03clVIZFVtUGlEMGs4Njg2NzRKWDN3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-01T21:56:00Z",
       "dominio": "www.tribunadoagreste.com.br",
@@ -112,7 +148,17 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "A Tribuna RJ"
+        "O Gonçalense",
+        "Roraima em Tempo",
+        "Portal O Dia",
+        "ACidade ON",
+        "Jornal da Paraíba",
+        "Impactto News",
+        "Forbes Brasil",
+        "InfoMoney",
+        "Folha de S.Paulo",
+        "MegaWhat",
+        "ANEEL"
       ],
       "tema": "consumidor-residencial"
     },
@@ -154,29 +200,6 @@
         "ANEEL"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_5141",
-      "titulo": "Conta de luz continua com bandeira amarela em setembro",
-      "lead": "Conta de luz continua com bandeira amarela em setembro",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld4VmltZzJJZ3o4Nktoc1lfOG9FOW9YNFJMbGdhaVpmNWJIU0sxZTJyeVljNzBzYjdPWVNvdWd0S05hek05T2dDYXpnR1oxNXdXbGJnMEREeDdFeW5sMTkyakpWY0paN1d0dFBWLXN2TXdSc1NHZ2JDRHBfUUJUaGxfeEdpdVRZdnI4S3FBa1c2aEdaNDc3Q09yOHg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-28T21:57:32Z",
-      "dominio": "megawhat.uol.com.br",
-      "tambem_em": [
-        "Roraima em Tempo",
-        "- Blog Dellas",
-        "ACidade ON",
-        "Jornal da Paraíba",
-        "Impactto News",
-        "InfoMoney",
-        "Folha de S.Paulo",
-        "G1",
-        "www.gov.br"
-      ],
-      "tema": "consumidor-residencial"
     },
     {
       "id": "regulacao_67158",
@@ -476,7 +499,7 @@
       "editoria": "regulacao",
       "data": "2026-08-25T07:30:49Z",
       "tambem_em": [
-        "bsbaltafrequencia.com.br",
+        "Brasília Alta Frequência",
         "Valor Econômico"
       ],
       "tema": "consumidor-residencial"
@@ -725,28 +748,6 @@
       "editoria": "regulacao",
       "data": "2026-08-24T12:13:41Z",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_2356",
-      "titulo": "ANEEL anui transferência de Controle Societário Direto e Indireto de concessionárias de serviço público de transmissão",
-      "lead": "ANEEL anui transferência de Controle Societário Direto e Indireto de concessionárias de serviço público de transmissão www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNU28tbDYwVGx2QjQtcFRndjU1UGxfSE5hNVBnZXV0V05tdDZIdE9oaW9la3ducTlXcnRFb2YyblQ1SG43Y1BjWGlVcWwtTmVOekZkeHRaQm5vaUJxMXlZRk13TXdGVmd5MG1vQldoWDBXUlVTZUtEMnEta0V5MXZsQ3ROaXY2bE9LeFhTUjc1YlRFNHo4Mzh4cExnNElmUnd0M09mdlY0czhLSldNbFk0QXFfUFZCeDF5ZmNWNS11LUU0RDVldHRseVF1Q0JzUU9VdVlDQ1U1eFp2M1hmTWZURWFqazVYdUk5QWZwOEZEdnVOMEtMSXVDYTdtamlMc1FZLVRsYk1XbHJtRTlGNG5TZ01RRFdqMXQ4?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389807183-f0fbe962761a?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-24T11:57:22Z",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_81064",
-      "titulo": "O ônus do consumidor mato-grossense",
-      "lead": "O ônus do consumidor mato-grossense",
-      "fonte": "MidiaNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckpwdHdta2ZBajItUVdnc0hfUjZMOFF2THpnbDJZdEt0S1lVYzhpLTAwVlJwQ2hwR00waEVUMTg5NkhYM3ZNb3lpQVlHYlNUTGJ4NkxjMFZGb2RkV0RycWZXNW5lVVYwM01rUGJMVTZNUVU2Ri1rUUMzbV9OYlVXcmRwaklZZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-24T09:30:00Z",
-      "tema": "consumidor-residencial"
     }
   ]
 }

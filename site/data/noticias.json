@@ -1,14 +1,38 @@
 {
-  "updated": "2026-09-01T21:53:19Z",
+  "updated": "2026-09-02T15:30:50Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_13223",
+      "titulo": "ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição",
+      "lead": "ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOR1JlUFRKVTkwZnI5aHNrM3E4bUJjeVVobGVINGdHbWc4UjA2TkNHS21kZ2dDanQ2QW50THphT0ZPMmtOY1lnUGI4bFNfdGI5eHN5aURKZ2NUa2xtUjhfQzhVdWt3QXg2cjQ0ME1qcEk4ZWtJUFJqdFJvODRGYi1YUW84MFZEX1Nic1RGdnFja2xVWi1tRG8wREU4YjlhRkFkc284cVhaR0dqZXJsQ0luZFI4clhaNTRIV0U2TDM4Y0xaVVBwV2NkdXZEc3RhLXZDRnNXMnFRZHo4amQ3THpydHJ6VFlDR3Y3V0pfdFZYanVKRVJBX0FfN2dEZHZPZXU3clJNMEwxRlF4RElkS0NYaC1HVjhNdE9CVGZaTWttaXVWT3I5NjVv?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-01T22:04:07Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_1225",
+      "titulo": "Setor elétrico pede mudanças nas regras de leilão de baterias",
+      "lead": "Setor elétrico pede mudanças nas regras de leilão de baterias",
+      "fonte": "Tribuna do Agreste",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVJVcXB1d1Z1bFUtZzhyUmhiZDNQWTJ1T241TUJIc0lHVDdiNlFraHpELXZkUnNBNjRsT3hvSGF5ZXhOVXB3RnRKSi1TN2NkZjVMSUhOempqdUZFODFtVXR0azluaWN4b0hIQ3lBV1VQZ0FGTEl3Vzd3bkR3c2YtbXp5cE5xN1hXVVZWRGpZaVQyaDJpemFDQmZ5Q3JaQm9YUS1BeXFnOW03clVIZFVtUGlEMGs4Njg2NzRKWDN3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-01T21:56:00Z",
+      "dominio": "www.tribunadoagreste.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "mercado-livre_38041",
       "titulo": "Justiça derruba proteção da IBS Energy contra cobranças da CCEE",
       "lead": "Justiça derruba proteção da IBS Energy contra cobranças da CCEE",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUhwTVI3dEdpTGpYdzFNUUdhblBUWVphZjlLOW9Od2p6aUpiTUMyU3ZKZ3FiSUhsVTFnSWt1OUt3eXcyMm9GQnBSUzl1elRYTmdPNVlHZlpWeXF4WVRkeXNkVlJhdWphQkozTUVDX0ZpeU5wVGtVNm9LNnEzY0FLNmFERm5vSGYxSEVvV0d6Q3dnUXlxMlVpck9ILTd5ZnFIUWQyZlVSLWpWQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-01T17:34:30Z",
       "dominio": "megawhat.uol.com.br",
@@ -20,7 +44,7 @@
       "lead": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
       "fonte": "TN Petróleo",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ3NsVWlSb0NoNndjZTVJTzg2bkRUclQ3N0RwX0Rpd2lKUGhLLV9yZUlJVndBMVFxYlBRZ2xpZFRvSnBSbTlBR0J0bmVhcVJseERUTi13RUY1RXBFUVk0VzAwdFdJRWJROE5kYllwbldET2ZDbmtQMzA3dFh4cks0OFpBSHdtOEhXaGhJRHhEM19VbDY0TlhaeFd4SFB2NUI2RWNTLVN2TUN5RFVsSTdram9HRkY0MWZEazdxUzNIeGFrZUE2RFdlSE5jUGYtM203OFRv?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-01T15:00:00Z",
       "dominio": "tnpetroleo.com.br",
@@ -66,16 +90,16 @@
       "tema": "baterias-armazenamento"
     },
     {
-      "id": "tarifas_88058",
-      "titulo": "Bandeira tarifária de energia permanecerá amarela em setembro",
-      "lead": "Bandeira tarifária de energia permanecerá amarela em setembro",
-      "fonte": "- Blog Dellas",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREdvN194b3FTeTVUM2VZclVkMC1jOHlzdHJvd240cWJ4Unh5am1DVF9nenRsZS1VUXpZbnoydGNwdXFPMUZoeTVYRHpZMTF4NlBXNGxuUmR3STNwUnJ1aHBXVXFZNHpWVE1VNHdod3E5UHFMeUdlVnAxS25TVDJsalowOWdOMkx4UmlBblFwWm02UQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-31T13:11:00Z",
-      "dominio": "blogdellas.com.br",
-      "tema": "consumidor-residencial"
+      "id": "mercado-livre_54678",
+      "titulo": "Neoenergia revê processos para atrair clientes da baixa tensão no mercado livre",
+      "lead": "Neoenergia revê processos para atrair clientes da baixa tensão no mercado livre",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNi1qUnM4cS0wRi1GQzdERUJORlBYdzZyZTUyOGdYRVc0UkZwWWRoaHVQWlBGdTFld3ZYNkhkRVEtb19DbE9tX0RjV2dhanQzMFRDQko5V0VZM3RsZ3BUaWUtLTlaMjNUYUxnTW1zMVBqd0RvdjhaZzF2Q29SVUtrc3c5aHBOdUl1UzVwQ1B5bUNMT1dmUER4d0tjRWhhZXNPdlM2OHJuQVh5ZUo5VlkxUHk1T1gwWnhKT1E?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-31T14:15:39Z",
+      "dominio": "eixos.com.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "tarifas_20128",
@@ -88,9 +112,7 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "Portal - Rios de Notícias",
-        "Primeira Hora",
-        "radioclubedecanoinhas.com.br"
+        "A Tribuna RJ"
       ],
       "tema": "consumidor-residencial"
     },
@@ -144,9 +166,13 @@
       "data": "2026-08-28T21:57:32Z",
       "dominio": "megawhat.uol.com.br",
       "tambem_em": [
-        "jornaldaparaiba.com.br",
-        "portalimpactto.com.br",
-        "infomoney.com.br",
+        "Roraima em Tempo",
+        "- Blog Dellas",
+        "ACidade ON",
+        "Jornal da Paraíba",
+        "Impactto News",
+        "InfoMoney",
+        "Folha de S.Paulo",
         "G1",
         "www.gov.br"
       ],
@@ -201,24 +227,27 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "transicao_46860",
+      "titulo": "Mercado de baterias para armazenar energia é dominado pela China e vive era da euforia",
+      "lead": "Mercado de baterias para armazenar energia é dominado pela China e vive era da euforia",
+      "fonte": "Página 3",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjF1ZHRhRXZPUXE0YWFWZzA0OU83WFF4SE8xOWp2c2NxaE5qaE5NbDFmekxQZ2ZJOU9oM3lhUlpMRko3VE5wZU1MWTdWWU1pd19YdnpWTXlYNlBzcV8wdDFYRDJLREdUMlJIN1pMTWFrMUwtRU81N0lLdWVqRlc2NXoxV21UZmt4Ykpsd253Ym54d19sRkFySGZocmZ1RENXQlIxVEtxOGVMWnJ1WWZ6SDVqdDRSZFdiMHdR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-08-28T08:47:00Z",
+      "dominio": "pagina3.com.br",
+      "tambem_em": [
+        "Folha de S.Paulo"
+      ],
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "transicao_12190",
       "titulo": "Leilão de baterias vive indefinição sobre quem paga a conta, e parte do setor vê adiamento como certo - Folha de S.Paulo",
       "lead": "Leilão de baterias vive indefinição sobre quem paga a conta, e parte do setor vê adiamento como certo",
       "fonte": "Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWlhDUVJIVWxrTHkzZzBualRwaVFkV1pxN1huVjlEQTF1UDhKWC1sdTF6QjVoUkxVTWpWdFRyanhUZlF4Q21mV0xjOEJzQmlLSmpMRlJkc0NsVktuaHZydktMVHJELXFaSm1fbi1WUE52cFhxQjdYMVc4c0cxdVpRZ0Fjb2pPV1NhdTBfZXJqZnpSdnJNV0h6TVBvMkV0Z08xNlpjRVlMVzV2Zk54R2tEYXBGM1RLRFlzWnNaZmhldXJzY3R6WjhGLU5WTnFsZVNnZXlSc1Z3cmx4eGh1S0ptU1JuZlhORTA?oc=5",
       "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-28T07:00:00Z",
-      "dominio": "www1.folha.uol.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_18855",
-      "titulo": "Mercado de baterias para armazenar energia é dominado pela China e vive era da euforia - Folha de S.Paulo",
-      "lead": "Mercado de baterias para armazenar energia é dominado pela China e vive era da euforia",
-      "fonte": "Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONmN4LVJ2RjRuNGJqdERRdGtsV0ljOGlRakFnck53Qm5GQjJ0em04YVdZUkNtZ2t1czI0LVk5Xzg4ZDJfXzMwbFRwcmRMc0lzX2FudFNGR3BCMkpkbXB1R25QZG5sTEZIZlR2MkY2Ui1fbUV3RXpJblhRREFjV2hTX0dDbUd5RXJ6OTdHbmRtLTRfSERVV0xrUi1YYktHMC1RTGs5OTFYZzgxNjJoMGdPM1gzWF9ZVWNVZ3d1aTN0Y0tNNXB2Q0ZNTWRYY0pKelhUNHNzZA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-08-28T07:00:00Z",
       "dominio": "www1.folha.uol.com.br",
@@ -447,8 +476,8 @@
       "editoria": "regulacao",
       "data": "2026-08-25T07:30:49Z",
       "tambem_em": [
-        "Valor Econômico",
-        "Brasília Alta Frequência"
+        "bsbaltafrequencia.com.br",
+        "Valor Econômico"
       ],
       "tema": "consumidor-residencial"
     },
@@ -717,31 +746,6 @@
       "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-08-24T09:30:00Z",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_52654",
-      "titulo": "Ceará é o 7º em migrações ao mercado livre de energia; setor prevê alta com abertura a residências",
-      "lead": "Ceará é o 7º em migrações ao mercado livre de energia; setor prevê alta com abertura a residências",
-      "fonte": "Diário do Nordeste",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOTh2YjE5WnFUX2dVOFgwUWVFUGpKeDVaYzVYWHpuQWZhQjJDTHo1MjBnRXBaRVliNjdQdEVkOVFvNkN1c25XQlJ4WXByMkpzdElNb1JHdVB6azhUdVUxQ1NQN0c0SkRKckp5M2RIcHg3emdNbVprZGxBdUlPVFBnLXhQc3hWNng3bVVCaDNDaFN1cTVMQVRQZWpHbkJnRGx4b3BEUE9xUE9VY2VCSTRZaHlqaUhRUG9yMHg4U3IxM2NuT2c5NllBeE00QnVlS3NUOVRIeER0Q29iZDV5ZmktcmJXUEFvbGZScFoxb3F1czR3VUJfV2FxZkQyTmNOWGZhSTVGZGgwTTNBdXRnRzRXZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-24T09:00:00Z",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_53467",
-      "titulo": "Entenda o que muda na conta de luz com a chegada do Mercado Livre de Energia a partir de 2027",
-      "lead": "Entenda o que muda na conta de luz com a chegada do Mercado Livre de Energia a partir de 2027",
-      "fonte": "AJN1",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnF0VDZfd1ZRLVRCZXFuZ2lGTjZZRjhtM3BtZERKMVg5RzB4ZTBvTjEyR2J1OUpNaUhPLVA2Q1h0MUh0QWNzV0xvRkVYY1dqVWplREFIVzlQN1NnY19SR1RrYk1xdEdoakloY0hyZTh0Ykx3eFpkby1ZRGNBRDZFVlJTM0RPM3oyU1NjWjlBS0FzMDVmbEZNVDBkSi1CbExwNllfMFpGM2tFMHh1Tm04WGlMSnY?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-23T18:04:15Z",
-      "tambem_em": [
-        "Fala Você Notícias"
-      ],
       "tema": "consumidor-residencial"
     }
   ]

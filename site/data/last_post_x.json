@@ -1,9 +1,9 @@
 {
-  "verificado_em": "2026-09-02T21:55:06Z",
-  "status": "falha-envio",
-  "motivo": "HTTP 401: {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}",
-  "postado_em": "2026-09-01T15:41:38Z",
-  "hash": "f4df42ca41e177deb20359e7ee3759bd12e1ceb6930eef923dc8682b012d14c9",
+  "verificado_em": "2026-09-03T15:23:58Z",
+  "status": "publicado",
+  "motivo": "id 2095533267780796889",
+  "postado_em": "2026-09-03T15:23:58Z",
+  "hash": "90fb6bd891fbea81b8dad4198e1ce4d4920c020bb255389c25a608e3b67cf776",
   "chars": 190,
-  "texto": "⚡ Mercado agora — 01/09 · edição da manhã\n\nPLD (R$/MWh): SE/CO 152,86 · Sul 152,86 · NE 152,86 · Norte 581,48\nBandeira: amarela (agosto/2026) · Reservatórios: 74,7%\nTermômetro do MWh: 27/100"
+  "texto": "⚡ Mercado agora — 03/09 · edição da manhã\n\nPLD (R$/MWh): SE/CO 152,86 · Sul 152,86 · NE 152,86 · Norte 581,48\nBandeira: amarela (agosto/2026) · Reservatórios: 74,5%\nTermômetro do MWh: 28/100"
 }

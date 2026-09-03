@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-02T21:55:04Z",
+  "updated": "2026-09-03T15:23:56Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_14121",
+      "titulo": "Conta de luz terá cobrança extra com bandeira amarela em setembro - Radio Tropical – Três Corações",
+      "lead": "Conta de luz terá cobrança extra com bandeira amarela em setembro",
+      "fonte": "Radio Tropical – Três Corações",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamlHNVU2b2Vwaldfc3QtTUJMUll2X280ZUFBTDh6R01Cb2F6ZVFacmp1UlVJek5xZ2UtdzlXazg1Q2loUkwxMHNUNjdlWUx6Y1BkLXNDRERoVjRIWEsxODJ2bTNRMHY0aS1EcERPdWxuNHhqQUlpT1ItUmQ5R1RELWwwWm5VSXVMNTk3OXpmczBudlVYeTVr?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-03T14:39:39Z",
+      "dominio": "radiotropical.net",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_35947",
+      "titulo": "CCEE corrige erro de 800 m³/s nos modelos NEWAVE e DECOMP e recalcula o preço de liquidação da energia a partir de 2 de setembro",
+      "lead": "CCEE corrige erro de 800 m³/s nos modelos NEWAVE e DECOMP e recalcula o preço de liquidação da energia a partir de 2 de setembro",
+      "fonte": "CPG Click Petróleo e Gás",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObkF6TUo2OE42bDVuVDNlTGdCSUhKSDRtY19Fd1JsTFJfZGF6UHFKcDlSUTlRTU9IWUszZ2Y5WnNTNWdhdk9GcVR4allDU3VGcHNGeF9NTmpwUDlldmdKaUJYWTE4azZCNUdGbWxCMzZITVFiTER6dk54RDdMckF5NWRjcXJ2UjluS1ZDQUs4YUdkQ2Fpdl9yVXRqb3FSek5RY0JPUUZmTmEwLWh6UlE2bGlETFF4a3l5RFIwUEgwTzNLY1dWUjhWb0wzZXM2dTNHc3ZEQTlZaktzUE5hVlFac18xMDVOQmhJazV6Uy1KaWhSTWxYOFp5SU9GQzNDUzlwT2Y2VA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-02T22:13:00Z",
+      "dominio": "clickpetroleoegas.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_13383",
       "titulo": "Autoprodução eólica vai suprir Complexo de Ubu",
@@ -15,12 +39,24 @@
       "tema": "eolica"
     },
     {
+      "id": "mercado-livre_40955",
+      "titulo": "CCEE apoia a IV Conferência de Arbitragem no Setor de Energia Elétrica",
+      "lead": "CCEE apoia a IV Conferência de Arbitragem no Setor de Energia Elétrica",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVk91aURGSHdCTkpCMmhqQi1uTTJiOUNHeGZnaElaZ0tEaEJyLU1OQ25tNDZkYVFWNmlVN2tZX2c5WFZTSHhYTmpzNHNPZWpWdnVZQmhWVVNKQWlvaVJxZG9ia1ZpYTVHNlRBbFUwcDBlZ19SNWxndlJJSXdfZ2lfM1BwRnQ4NG9LdVNFTTBiX0owQVNVN0s5ZG55c2M?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-02T17:38:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "regulacao_70150",
       "titulo": "ANEEL aprova redução nas tarifas da Roraima Energia",
       "lead": "ANEEL aprova redução nas tarifas da Roraima Energia — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVll6M0JFd25uOWl0WHZhQTl5SFduTUUxU3FfeTJkWGpCZUxKbkdGNVdZaF9FbWlOdWw5OHN6NHNjaDNxR1lLNWZIRUtKR2R6UUd5LUhGSzdGZGo5aDFqX0tPbUt4MzVTcEZGcXBUSnp4R1UyV3FfTEpqT0ZoeExUNmNjaGNkd0dYc3JjRUhqWXlFUjg2VlM4LXA2ODRXZm9XZ0tzTkt2c0FwaFFNNkdWZ3ZEZjMxcURBREdKZGQ5MA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-02T16:08:00Z",
       "dominio": "www.gov.br",
@@ -148,17 +184,15 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "O Gonçalense",
+        "CBN Caruaru",
+        "G1",
         "Roraima em Tempo",
-        "Portal O Dia",
+        "- Blog Dellas",
         "ACidade ON",
         "Jornal da Paraíba",
         "Impactto News",
-        "Forbes Brasil",
         "InfoMoney",
-        "Folha de S.Paulo",
-        "MegaWhat",
-        "ANEEL"
+        "MegaWhat"
       ],
       "tema": "consumidor-residencial"
     },
@@ -200,6 +234,18 @@
         "ANEEL"
       ],
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_93503",
+      "titulo": "ANEEL mantém bandeira tarifária amarela em setembro — Agência Nacional de Energia Elétrica - www.gov.br",
+      "lead": "ANEEL mantém bandeira tarifária amarela em setembro",
+      "fonte": "www.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUZHcTlBS0ZYRmJSNEJiN1hWUmFCRUpUa29YdUhMbmZVOVBiRjB4QzlJOGVoVFpBRDJjdlFHUjFhZ3JrX19pd3M4a21RVTBwZWdIUzM5bHRtZ2F6dDR4WXQwQVhpVmgxVFE3cUFuRGNRSGJXR0Y2ZFFMcDZVY2ZNWnc0TEpuNjZZbEEwQVJqOXZzbm9sandoQ1BEVExISGY5R3FSTmt4aF9YZndBWVpTeGVlUmJUUjg5Y2dkQ0N5OA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-28T21:53:53Z",
+      "dominio": "www.gov.br",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "regulacao_67158",
@@ -702,51 +748,6 @@
       "tambem_em": [
         "ANEEL"
       ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_81094",
-      "titulo": "Regulação do setor elétrico: Aneel dá aval a mudanças acionárias em transmissoras",
-      "lead": "Regulação do setor elétrico: Aneel dá aval a mudanças acionárias em transmissoras",
-      "fonte": "VEJA",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX240TjBkZ3pIZ0IzTWJvMGQwblNZalBzQXFEUGtHeC1PaGRIOG9tMnljSmtod0hWV2JNUHVwUFhUMDZFMUtIejF6cFk0MGxfZHpuZWRZY2pvVjdjamJSczUyRENPQjlWOHRqYkZnVjlEZ2hmMUNuN1JFWEZNdTQ0U3RCY2tsVElLNjYxd1Fhb3U2ZGhyaU12clhuYXFhaWpJMjkyN2xiYjlIc0Q0N3N4OGwtWVA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-24T14:02:53Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_18843",
-      "titulo": "MME abre consulta sobre PLD, liquidação semanal e flexibilização da contratação",
-      "lead": "MME abre consulta sobre PLD, liquidação semanal e flexibilização da contratação",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDh1RWJTanktUDJpekN0SXB0dVVBemFiUUVLekNORmNXQkpubExNNVFXcHlBcWxKNXRCS0pFTUVmeEgyaFpNZEMza0JnRC11dUxIbW5iNG5nZV9JNGdINGtyZVR1TlNVSTNHUEtlWk01SktFZHJqd05PZy1qR01qYi1NeW1YN1hva1RXdlRhd2hFcTZuOGhNZXFvUFBwbTZ4U1RaQ0ZHQWhzRHA5RU5wTzI4aFl0YTRndk1fbzJmMnZoMl9oUXc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-08-24T13:36:24Z",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_91313",
-      "titulo": "Aprovadas as novas tarifas da Neoenergia Elektro (SP/MS)",
-      "lead": "Aprovadas as novas tarifas da Neoenergia Elektro (SP/MS) — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFRyOElOTlBXU1dBYjE3ZWlRTkZMNUZ4STZiUURBem5pOU5wdzQwSmg1ZEpwTWlqUGdwbHFNWk14TndwU0ppMUUyYkE4QkI5amFoekI3dnk1OEU2SDBCakpydGxvclQwaGxsdUN1VU1QdmpQNmk2X3p0ME1aTlMtYUs1YkNPc2NqM0hJa295ZFhEbWV2WHFHa3RPanFjajlPV0hCUm5tbEdlUHNXYlJtYzZqNXZ1cUdMbjU5dXVKTjk1MW8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-24T13:15:35Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_39933",
-      "titulo": "Fazenda libera R$ 268 mil para Aneel em meio a impasse orçamentário",
-      "lead": "Fazenda libera R$ 268 mil para Aneel em meio a impasse orçamentário",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSER2RHgxQlhYaFkzSHZsNkZSRDZUdk1wbm5NVUpwNUd1M08yQm5oVGlzcS0wbXZCZk5zM3NGdWlpRVVJNi0zcnZIQjFVN19wQnA4dGJ1MTJtYzN4WU5RLVRVN3c4ZzAyd1VCWmJhanFBSjR0NHRsWEpzLVVEZ21ianRtNUNvc1NIckdaWUZoRGVkbWZHUXNhS2pvV0FhRTMzLTIxcnNab0w?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-24T12:13:41Z",
       "tema": "regulacao-institucional"
     }
   ]

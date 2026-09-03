@@ -1,18 +1,114 @@
 {
-  "updated": "2026-09-03T15:23:56Z",
+  "updated": "2026-09-03T21:47:37Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_4555",
+      "titulo": "HOTEL EM SALVADOR TERÁ SISTEMA DE BATERIAS PARA ARMAZENAR ENERGIA",
+      "lead": "HOTEL EM SALVADOR TERÁ SISTEMA DE BATERIAS PARA ARMAZENAR ENERGIA",
+      "fonte": "- Bahia Economica",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOW5YNjNIR3djMXBNbWtPSE0wajBpdjNnTjZLanI1eXRVb0RGUl9veXMxTDl2ZFRPNjJXbkwydzVOMlJTQWlQclVoZGdQbW5yQ1JlY0xZTXN0ZC1ZVXhoVWRTa3VfNDhFeDVjaXJjSkxESEdvNkJ5NFNMS3ZyMWZGRU0waklyNGN3Qm9zN2pMbk5TRnZLU3JhUEJFY0Fvck9rVDR6UWF3emk5OTlQdGhF?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-03T21:33:00Z",
+      "dominio": "bahiaeconomica.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_86158",
+      "titulo": "2º Fórum Análise Setorial CCEE já tem data marcada",
+      "lead": "2º Fórum Análise Setorial CCEE já tem data marcada",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcW1MOFlPLWZoV0RHM0RZTVNXS3lQWDVUR016SkRGVHgzU19ieDZEUWdkRE5YZ0sxQ01LVGhWTmdpSEh6OXllcmpQdzA2QUhOOW1NNE1VTkxJdFlVeE40Tkl1Y1FNUXhVSmptN21NUWU1allEd3RMWVBpQjdZMzFrcE1UQllfY0I5cW5mbWhR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-03T19:49:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_92942",
+      "titulo": "Aneel muda comando nas superintedências de geração e redes",
+      "lead": "Aneel muda comando nas superintedências de geração e redes",
+      "fonte": "TAGD Advogados",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0dpUk15WWg0Rk9EbV9FX0hSbDBGREVPMjRuV3VNcmU4ckdIZmoyX1NFMDAxUXFJNVFGbkxiTlFteEZMNWNObjN6LWJJR0V5cmVKOXJld1dMZmNtSmVmTWpwWWM0MGJpbjNseUYtSHNDV2RuZXlrWk5rYzJvUXd6M2ZCTUNEVHY0V0E?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1602860109208-613d39362844?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-03T19:27:44Z",
+      "dominio": "tagdlaw.com.br",
+      "tema": "industria-generica"
+    },
+    {
+      "id": "transicao_58457",
+      "titulo": "Resort de Salvador terá primeiro sistema de energia por bateria da América do Sul no setor hoteleiro",
+      "lead": "Resort de Salvador terá primeiro sistema de energia por bateria da América do Sul no setor hoteleiro",
+      "fonte": "Rádio Metrópole",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONXJpNnJyVDhYTkh2M2haVWhVRUJ0bzFWMFFrTGVOZm1KMjZwNi01eUlnaEgtU0VQbXhBNkdlUF8yVEhkaXVtV0xqZmxLQWVoMDFYVVFxZmNNVHV2cXhJc3NuZGJVbjB2WXRndXhfaHVhcjRWMEo5UHpBZlcwLTFlVm5SLXV0aVhJWGtEOEVTa3dvZzBwdkVITWNFQUNaNjIzUEtSbmNmT1lhM1pSN3RoV1NnU0hhMWZMZGl4Q3V3eXlNQ3Rna2FoZ09oNnVLSF9DeTNzd2NjX2k5T1I5Z3pocW83a01wZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-03T18:32:00Z",
+      "dominio": "www.metro1.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_44268",
+      "titulo": "CCEE coloca mais cinco comercializadoras em operação balanceada",
+      "lead": "CCEE coloca mais cinco comercializadoras em operação balanceada",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWdtZ19LS3ZWTDJzTk94cF9aQWdqNTMtMTFwTGN1Z1JuTnQ5MWVCSUZIYzE5UXF0QzVha0w2RlBIRDY5WTNyc29ydHNFMjBvNXExZlRMekg1RFBkYUtWLTkwX1dYY3N1U0xiZXFSVkhsWUFmSU9CbTlvSzlzcmxCdW1tZmRtVVpwZjAwU0xwaThlRUVPWGRKOWFyTk5tMkxSajZidWJETTRydw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-03T17:56:58Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "tarifas_14121",
       "titulo": "Conta de luz terá cobrança extra com bandeira amarela em setembro - Radio Tropical – Três Corações",
       "lead": "Conta de luz terá cobrança extra com bandeira amarela em setembro",
       "fonte": "Radio Tropical – Três Corações",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamlHNVU2b2Vwaldfc3QtTUJMUll2X280ZUFBTDh6R01Cb2F6ZVFacmp1UlVJek5xZ2UtdzlXazg1Q2loUkwxMHNUNjdlWUx6Y1BkLXNDRERoVjRIWEsxODJ2bTNRMHY0aS1EcERPdWxuNHhqQUlpT1ItUmQ5R1RELWwwWm5VSXVMNTk3OXpmczBudlVYeTVr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-09-03T14:39:39Z",
       "dominio": "radiotropical.net",
       "tema": "consumidor-residencial"
+    },
+    {
+      "id": "regulacao_21677",
+      "titulo": "ANEEL coordenará grupo de trabalho para investigar usinas de GD à revelia",
+      "lead": "ANEEL coordenará grupo de trabalho para investigar usinas de GD à revelia",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UWlRvRlBjQUl0WExBcTVMWDllNnp0TU5GZFJ0VjluM0ZXbUJOOXVHN0NhT3hOZ1JUaERJVC13VGtZb202ZmQya21Jem90aVJwMG1jT3BXUlg5S1BkemRvNFZGY2lqWW1tMDhoVW9EMmQ1UXBYLWpoOEMzVTU2b1k?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-03T13:16:28Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "industria-generica"
+    },
+    {
+      "id": "regulacao_36090",
+      "titulo": "Novas Portarias alteram a estrutura organizacional da ANEEL",
+      "lead": "Novas Portarias alteram a estrutura organizacional da ANEEL — Agência Nacional de Energia Elétrica gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9KazRCMktfOUVScGg3c1ZvWktUMnA3dWU3ZTVxbXN0ajZYcnJxYTRxQVZwUjlVOHNGWFk4R181eXFWX1VMZmROZi1iMFl6YzdVcXpINDV0M0xnckhXRnBsbTB5N3pNeWlyU2IwVlBRZnRUQm5DMkRyZ2tEaGxPVzcyd3Q1b01Vc3AyV3NyQVBxbGlNM3pIQlFDTFZCb1ZFUlEyVkJ3UTJvTUxfcjdTTHdmNnZuZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-03T13:12:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_95824",
+      "titulo": "CCEE defende autonomia para sancionar agentes em casos de irregularidades",
+      "lead": "CCEE defende autonomia para sancionar agentes em casos de irregularidades",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUNTUEcyWkVmQmZnTTNFcEVpcFFkQkNQd1Y0ZGFWX09idms0a0w1bmIzajdyWUluRmRQcHNqdHhzakpkRmY4aVdkTzk4T1dlZUVfZmtIcW5KZ0NibWQ4WF9LekY0Wi14OWtVSVhlN0JHUHZDRmNUbllGN3JFZEplaWExanNxT0F6OFV3dG9kTVJ5ZlRCQ29HYS11aDNfLWtJc1NQUmlQU040UlFsWjBnSzFIQ01ock52ajQxSTdn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-03T13:07:01Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_35947",
@@ -37,6 +133,30 @@
       "data": "2026-09-02T21:08:55Z",
       "dominio": "esbrasil.com.br",
       "tema": "eolica"
+    },
+    {
+      "id": "mercado-livre_13072",
+      "titulo": "Limite à reinjeção, obrigação do escoamento, CCEE do gás; as propostas da Abegás para o próximo governo",
+      "lead": "Limite à reinjeção, obrigação do escoamento, CCEE do gás; as propostas da Abegás para o próximo governo",
+      "fonte": "TAGD Advogados",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUTd0T2dLWXZPdTdMUEZERmNjWTE0Rm1kT1dyUUNaOFphWmN1bDFnLWZMTDA1SGdVNk54Um1WY3BNR0xOS25vX2VndUpGMWRQbEM1a2NXQmFrRmhzck0wU3pjTDZQckhWMldsOVlPbVlDNUhUWUptSGZaNVlQQXBHZ2l2ZGpMeXhQeHJLM3FhVnozSWhZeE9fSEpmWncyNlhLTWJyelllVzVnTHJ5aDllRVo2NkE0YTJZOUdMeVhsYVhRQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-02T19:29:20Z",
+      "dominio": "tagdlaw.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_76820",
+      "titulo": "Com uma série de questões ainda indefinidas, agentes já falam em adiar leilões de baterias",
+      "lead": "Com uma série de questões ainda indefinidas, agentes já falam em adiar leilões de baterias",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE5mLU9TaFVySlJ0SU5OZUtUeHFyWTBOTHc0RFVjQjF1WmdrSnBjU3NMZGNpREFGYzdGVHdPME0ydDczY3BVcng1MjVURzQ3TDNoRDduYmxDbkp1aXF1SnJKMk5wZ3pWZ3pIYlFtclBHU1BYQ1ZUTTBpaUxJV2lLcVRtYzZMbm1VVXV6NlZkZUQ1dUpDMm4xeTlsbFhOM3oxRE83d3U3TWJzUGF2TV9XNVBNR3RjUnJnMjVjeTVhVWFod19UczBR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-02T19:09:33Z",
+      "dominio": "eixos.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_40955",
@@ -75,6 +195,18 @@
       "tema": "consumidor-residencial"
     },
     {
+      "id": "transicao_80917",
+      "titulo": "Agentes do setor elétrico pedem mudanças no encargo e alguns defendem adiar leilão de baterias",
+      "lead": "Agentes do setor elétrico pedem mudanças no encargo e alguns defendem adiar leilão de baterias",
+      "fonte": "Folha PE",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDl3NlU5OE9XWWY3OHNZZzhNSTlxVlpPRXFqckdzNldXMjRHajRCUnQ0RGRtMGtHMkZOam5mOTdPVzlsbkNQNVlNWC1zZEx0UnBqbDNsblVZMUQ3SUhvTzVzYVg1ejI1RjVzM2dCMUN5WVpMR1NxNEtHZllsbnhuNXVCZnpReEtteXdhQnBzVFd1bE9abVlHOEJqWHJPLXQzSU1rd2xoa0RhUkpGZUJiMi1EVFFIUU3SAbcBQVVfeXFMTVg5dzZVOThPV1lmNzhzWWc4TUk5cVZaT0VxanJHczZXVzI0R2o0QlJ0NERkbTBrRzJGTmpuZjk3T1c5bG5DUDVZTVgtc2RMdFJwamwzbG5VWTFEN0lIb081c2FYNXoyNUY1czNnQjFDeVlaTEdTcTRLR2ZZbG54bjV1QmZ6UXhLbXl3YUJwc1RXdWxPWm1ZRzhCalhyTy10M0lNa3dsaGtEYVJKRmVCYjItRFRRSFFN?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-02T00:37:00Z",
+      "dominio": "www.folhape.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "regulacao_13223",
       "titulo": "ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição",
       "lead": "ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição www.gov.br",
@@ -96,6 +228,18 @@
       "editoria": "transicao",
       "data": "2026-09-01T21:56:00Z",
       "dominio": "www.tribunadoagreste.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_47567",
+      "titulo": "Moura se alia à China nas baterias e vê leilão maior que esperado",
+      "lead": "Moura se alia à China nas baterias e vê leilão maior que esperado",
+      "fonte": "Brazil Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0pYcXZVUUhuWWR0SXpoWW91WWVsQ29zal9Td3dzS1g3Q0dBM0Y0TWF4dzNJQ00yOGdPSktuMXUzUWhna2lRWmJCOVJ2N29VQ3dmZG44bkQ2cmZlWVJIQmdWX09VVmZKZEVmZEFaX2VmNldnWG5OWGtmWFk3cVhKR2QzNy1yZHN0NHRvdndKWkIwdFkxdDFodnNaT1VVblJKZGQ2ek4wbTY?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-01T21:36:56Z",
+      "dominio": "braziljournal.com",
       "tema": "baterias-armazenamento"
     },
     {
@@ -184,15 +328,7 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "CBN Caruaru",
-        "G1",
-        "Roraima em Tempo",
-        "- Blog Dellas",
-        "ACidade ON",
-        "Jornal da Paraíba",
-        "Impactto News",
-        "InfoMoney",
-        "MegaWhat"
+        "CBN Caruaru"
       ],
       "tema": "consumidor-residencial"
     },
@@ -236,15 +372,24 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "regulacao_93503",
-      "titulo": "ANEEL mantém bandeira tarifária amarela em setembro — Agência Nacional de Energia Elétrica - www.gov.br",
-      "lead": "ANEEL mantém bandeira tarifária amarela em setembro",
-      "fonte": "www.gov.br",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUZHcTlBS0ZYRmJSNEJiN1hWUmFCRUpUa29YdUhMbmZVOVBiRjB4QzlJOGVoVFpBRDJjdlFHUjFhZ3JrX19pd3M4a21RVTBwZWdIUzM5bHRtZ2F6dDR4WXQwQVhpVmgxVFE3cUFuRGNRSGJXR0Y2ZFFMcDZVY2ZNWnc0TEpuNjZZbEEwQVJqOXZzbm9sandoQ1BEVExISGY5R3FSTmt4aF9YZndBWVpTeGVlUmJUUjg5Y2dkQ0N5OA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-28T21:53:53Z",
-      "dominio": "www.gov.br",
+      "id": "tarifas_31226",
+      "titulo": "Conta de luz continua com bandeira amarela em setembro",
+      "lead": "Conta de luz continua com bandeira amarela em setembro",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld4VmltZzJJZ3o4Nktoc1lfOG9FOW9YNFJMbGdhaVpmNWJIU0sxZTJyeVljNzBzYjdPWVNvdWd0S05hek05T2dDYXpnR1oxNXdXbGJnMEREeDdFeW5sMTkyakpWY0paN1d0dFBWLXN2TXdSc1NHZ2JDRHBfUUJUaGxfeEdpdVRZdnI4S3FBa1c2aEdaNDc3Q09yOHg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-28T21:57:32Z",
+      "dominio": "megawhat.uol.com.br",
+      "tambem_em": [
+        "ACidade ON",
+        "Jornal da Paraíba",
+        "portalimpactto.com.br",
+        "InfoMoney",
+        "Agência Brasil",
+        "g1.globo.com",
+        "www.gov.br"
+      ],
       "tema": "consumidor-residencial"
     },
     {
@@ -348,6 +493,18 @@
       "data": "2026-08-27T16:24:00Z",
       "dominio": "economicnewsbrasil.com.br",
       "tema": "consumidor-residencial"
+    },
+    {
+      "id": "regulacao_681",
+      "titulo": "ANEEL promoverá audiência pública sobre editais dos primeiros leilões de baterias de grande porte do Brasil - gov.br",
+      "lead": "ANEEL promoverá audiência pública sobre editais dos primeiros leilões de baterias de grande porte do Brasil",
+      "fonte": "gov.br",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRS1ScW1YXzVneHZFMnZBWWpwalBIemEtMks0bXk2bFF1YXgyT3NQclNWdlpIdGhxNkU3NzhRaWJjM1RQZmpaeXM1WmxYTEMzNnNORjFfajZFTmNXWUNsNnBFMWtyNUdhMFlpT2ZVMjBQaXZ6aWwzcFFTR2JlUUJObW5CVTdHVGpPMDVkOWNDdmJWWkxXUExlMjg2MUFwSFh0MmlQOWRyNTRGd2hkYzVNZkFrTVZhWm9aSGZMSzhRSkgyRWQxQmhRTUxaOFpMSWR0VzZVcFRES1dLSm9uRmZNZHRKNUF2ZkxBeGdSR2l1ZkRlMGxINGJPOEd4b3o4TEdOY0hZa2JxYWpZdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-27T13:11:00Z",
+      "dominio": "www.gov.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_69480",
@@ -545,6 +702,7 @@
       "editoria": "regulacao",
       "data": "2026-08-25T07:30:49Z",
       "tambem_em": [
+        "Tribuna do Sertão",
         "Brasília Alta Frequência",
         "Valor Econômico"
       ],
@@ -593,161 +751,6 @@
       "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-24T20:01:00Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_62698",
-      "titulo": "CCEE e ONS consultam setor sobre novo software para despacho e formação do PLD",
-      "lead": "CCEE e ONS consultam setor sobre novo software para despacho e formação do PLD",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUk5YmtkY0M5ZDl4X2VEVzNqMVlCUGM5Q2dSTEt2LWs5c1cweElXM2o2SFNicVRmUTJhbVIyRnhsWVZmaldFZjNka1JLUkRxVmo1SXFmZDRYblN0c3VqQW5RQU1xYXh0M0NOaFlhYUtZa2xpa2lDbEZtTVAxZzQ3bHpOdmVsV3E0blQ2amNrdk9vbzRpdTZUbFBBNE13OFBIUER2WU02bHh3LWNpUkRpTGhzVl9vM09PMTk0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-24T19:08:40Z",
-      "tema": "precos-mercado",
-      "tambem_em": [
-        "TAGD Advogados"
-      ]
-    },
-    {
-      "id": "mercado-livre_29373",
-      "titulo": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
-      "lead": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbW1WQ0dDUmd1Mkt2RUlvSGh4UWRaUU03em93UGkzOHNHVDRLX0hWYkFsZlNKOXB5WjM1T3gxNWFSU2lvWGQybl9xTktwcmlzVHFaTktPUXF1UnhjaGstbWJNeEhKMVZFV0Nnb2lERjJYZUJ4UEFXc3FnVHVZWnVlcGd6TFE3ZTdSdnJGUU9WdjZMZ2gwNjkzQVFmMk9KMEV0M3JRSUFyVHZPTWJwdnRqVGdCQ2RHSWFXNGJYX1hlVTBZcjFfNkpN?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-24T19:07:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "VEJA"
-      ],
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_98529",
-      "titulo": "CCEE na Mídia: Gerusa Côrtes explica abertura do mercado livre em reportagem do Jornal Nacional",
-      "lead": "CCEE na Mídia: Gerusa Côrtes explica abertura do mercado livre em reportagem do Jornal Nacional",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjg3T1FVS0dzdUVLNkFJcktHVnpiTG9kNGZ3bG5wX1hTVnVfVDhtQ3RwbTlTVVN6RTU1QWp0b1hXTERlN3lfOHdrNlVLeWVLdTBDVXJDaEZsSTBQcFJickpVLWJKam5CLXRnVVhWa0RnU0o0b013YmRUd2pGQmRhQlBFalZENExfaFNuSXZYNGRqMENXUVhwbU9hMGRxZms1MjdVaUYzZXVHT2FzWkxjbUVJMV8wSWEtbnRPaw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-24T19:05:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_24627",
-      "titulo": "MME abre consulta sobre regras de comercialização, armazenamento e mercado livre de energia",
-      "lead": "MME abre consulta sobre regras de comercialização, armazenamento e mercado livre de energia www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWtiOV85YWhsTDFyZFFua0xhZmoyUkxicUNqNmZZaWZXcU02LTUycFZHNzYwM25GODdRSDgwTXZGN2xtQUtJM0p6TjFDLS1uRjYxdEs0RjZEY1VNR2Q3dWw1eW51NzQyMmVYWEdRZm0temlxMmZSRlBrenQ1SkNlTDRmZGRvMHUxWWd3NmgwSlM3WTR2SktCMU4zcHU2a3AwMm41ZWExMFlMZFY5YmJjRU5VT0toaUtMY29JMllTMmdXRElGa3IwaTUybmxqXy1xdGdZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-24T18:53:00Z",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_27937",
-      "titulo": "Teto da CDE: Simulação da ANEEL indica corte de 44% no subsídio à MMGD e de 11,6% em fontes incentivadas",
-      "lead": "Teto da CDE: Simulação da ANEEL indica corte de 44% no subsídio à MMGD e de 11,6% em fontes incentivadas",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2QzUkNBaWJxXzBzWlNhTHZpWW12S3RLMm9DZzFqRlRpWE9XRlplanZDbU9oeC1xMmJ2QjAxYWlTUGJlc2tnUWF2Mzc3d2VWVGl1WWg3VzVVZ1RZN3VtZF9xWTZYem1FS0wxOWpQRHVEc3ppY25wWEN3SWg5aTJYUXVGbzRyMUlnTVJzWmttcTF5SzEzeGdiQlExMENFSVdaekZWV0g2dUdiTFpRM3lNUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-24T17:41:44Z",
-      "tema": "solar"
-    },
-    {
-      "id": "transicao_34241",
-      "titulo": "Aneel mantém tarifa provisória da Pacto enquanto decide sobre bateria",
-      "lead": "Aneel mantém tarifa provisória da Pacto enquanto decide sobre bateria",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM19COXItcThyekZXX2txbldjazRxVGprSURzUnB1MjcxSE41R2xDWWdvNklfVlZVMHdQQ1RsT0pCNDZ1VzhpVE9JU3ROYTZfSTdfVHgwTXlHTVo0NFlCZTNZSldOYUItYzlMRkZnaXNLN3JEeWN2MVhiSGZkUlV1WHUtNXVjdk1TcTAxeE1zQzJhckx6YjZ0Q09iOWJOODBFWjY0Z0lOUlo3Y2RJbmRqWFM3bjVWSldpelBXd2ZnYU1nYS1CX0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-24T17:04:42Z",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_16899",
-      "titulo": "CCEE e ONS abrem consulta pública para estruturar modelo energético que substituirá NEWAVE e DECOMP",
-      "lead": "CCEE e ONS abrem consulta pública para estruturar modelo energético que substituirá NEWAVE e DECOMP",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzIzWTZXV2ZUTzAtcW5kMVpkY1ZJenlVUDZvNGhodDJGWGcxQ1pzYnY1b0MyWHNTWkgtRF9panR1TERPeTZmRVlZZmdJT1FfRHliRVFtZ2cyX2dnLUk4VTJYM1NOaHhSLUxrUk4zcDNub3E3RnFmcGpLbEt5TmNGT3ZiU09vVWlZWF9RQ04yUkFPQ2NvV2xxc0tIOVd2ZWxRQkpONnRGYw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-24T17:01:38Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_26193",
-      "titulo": "Teto da CDE reduziria subsídio à MMGD em 44% se já estivesse vigente em 2026",
-      "lead": "Teto da CDE reduziria subsídio à MMGD em 44% se já estivesse vigente em 2026",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeC1JMTRTOUJYT25WbTdlbVdBR2Zxd1dzU203cjc3dTJsN3pjRVUxeWE1Ukk0YzBnUE9ZcURLclNfdXRpRzloMDlZS2VCa2dKSUM5VEZEVEIwWmM4MVR1R0pWek1xTk95dUlCcWdNRHE1VEtzUy1iSW1uWHprTUdaVkktWnBEYVFYa25aS3ZZSVV5b1NoWGx3eGNoSXlEYmh4QW9EV0lRMVJpU19Ea2F0Y1loOUotUUFyYXNxZ3NTeTlZZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-24T17:00:25Z",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_26957",
-      "titulo": "Ceará avança no mercado livre de energia e ocupa 7º lugar em migrações no Brasil",
-      "lead": "Ceará avança no mercado livre de energia e ocupa 7º lugar em migrações no Brasil",
-      "fonte": "Mais FM Iguatu",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVhkUjhTRlNQbjNhS001LWNUNTBvYUw2N21qVU5lZU9hX0tiMW1GQUlpa2I3bUlveWp3bjFnRzlxOTJTMVZzVUlRdUtlb2NWanh5TVhBS2tXT0dSSDZiclJSWl9vMFJ2NWRaRWUyeXF2WFlwM2tlMFloWEtlTm1ZRmpURnhZdXZHVmYtbXpKZHg3RkVkWnhORTdWbU13U3hyZXc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-24T16:48:17Z",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_86761",
-      "titulo": "Pacto Energia tem novas tarifas de energia elétrica aprovadas pela ANEEL",
-      "lead": "Pacto Energia tem novas tarifas de energia elétrica aprovadas pela ANEEL www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeUgyMVAxSnBKOEZvTzBVLWhpRTYza0w1UzhrMHBIYUYybXlMNWFJTDlOcWdLaWNuMlZ3ZXlTVlN5OEthQ0NybGo1akl2dVdMVE84Wkh4TlVTLVc3bjJub1c0XzV0N2hkX19kMUJRdkVxUF9hWGhNZE5mX28tRHpYTkJOM3E4emxrS2M5QzB2YzlqMnZhMV9UY1dqTHdtOHpJUnEwdmNzXzhoMTBMTnh1RnFyZXlNeFFwdmNaMjZ3b3I0S3cxS3VIVVMzZm9zVkhzU3ROcnNtaHA0TWM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-24T15:56:32Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_55684",
-      "titulo": "Lula e Flávio citam renováveis e baterias; setor cobra propostas realistas",
-      "lead": "Lula e Flávio citam renováveis e baterias; setor cobra propostas realistas",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTFUQUdfdENOWUc5OTdEOEFGbmJ3NFFRV2FVNkxRZWdJelNtUXFvbm9ZQ29BN2dmWTRiU0NCSzQ5Z0VTV2J1R3JVZWJSSWlyd1J5WGF5c2hoREhMeWxLa3ZuUUwyU3I3NWJNbmdaMEZRZ21SdWtxX1dEa2VlYy1YMEVxYlZHcy1uREFrcTJyR2owSFpGMGtQb0JvR1hBTzdKMmtXd2lWcw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-24T15:00:00Z",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "empresas_6274",
-      "titulo": "Taxa de fiscalização das comercializadoras poderá ter cobrança retroativa",
-      "lead": "Taxa de fiscalização das comercializadoras poderá ter cobrança retroativa",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPazhaZ3loVG9fVVdYQTFmVzVuZ2RjSktFMmFFMHNydUpFV2xqcU9wVXUxSlRQcUdhVjVaRE1wcF9hSHp1eHhEVXdfNnlqTHNIUHR2UTFwUXZwVEtRalNHOTdoOFZqWFNuUGNfU1NRS19rY1d2U1ZCandveGlMOWJjSmswN0pObUNXemlUT1hSRkJhbG11ZVV2cFZFRG5SY1VKMUplUmh1eW9qb3JxbzhCS3JOdl9yQVh1dy0tVGFGWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1546185058-592ead754d27?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-08-24T14:54:36Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "regulacao_97987",
-      "titulo": "ANEEL aprova Reajuste Tarifário Anual da Equatorial Maranhão",
-      "lead": "ANEEL aprova Reajuste Tarifário Anual da Equatorial Maranhão — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVHZoZF9XVlFVbjlDU0FuVzkzWWNObG5jR1RnSDFpQ19mdk05emZkYjBraVNZRzQ4MF9EcVpvdWRTczVVaG9nYndnanpkYUNycDB6R3VkOVJDZzRLLWp1VWd6Z0NBRlZKdzdlRm1wSFpfT210aVVmWHBWb0N1dUhvOTczSWsySE5aMjY1NGc0dDVrb0VleF9xX3dZTUt4c09abk9jaVhsRXd2NU9NZHNaWGU1b1AyNVZjclU0MjZuenRZUlhWQ0lxQnlYUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-24T14:36:00Z",
-      "tambem_em": [
-        "ANEEL"
-      ],
       "tema": "regulacao-institucional"
     }
   ]

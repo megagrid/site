@@ -1,14 +1,38 @@
 {
-  "updated": "2026-09-03T21:47:37Z",
+  "updated": "2026-09-04T15:20:34Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_5192",
+      "titulo": "Procuradoria vê base legal para restrições a distribuidoras no mercado livre",
+      "lead": "Procuradoria vê base legal para restrições a distribuidoras no mercado livre",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWoxQVhhLWpWV3RkeWstVW5rMTdITUF6eGZfTWY3TEhPVXhzNDM3cURtWWZCUGxHT1k4b1U3d0I1WWJodk9JSC1qaWZuTFhRV3FhNGx3QVFIdEduS3gwSUJZSGx3RERMRTFvYTZEc2hTQkxFSllQNExmbkIzMkFvY1VwdWRxRkRmbVlRb0x4WUxkTzZzZzVYVmNFNHJXTk1RVXdNSmhtYU5IcmNxUS00UThpeVpDQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-04T10:16:50Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_91896",
+      "titulo": "Metrô de SP prevê economizar R$ 12 milhões por ano com autoprodução de energia solar; ônibus já têm geração própria no Brasil e exterior",
+      "lead": "Metrô de SP prevê economizar R$ 12 milhões por ano com autoprodução de energia solar; ônibus já têm geração própria no Brasil e exterior",
+      "fonte": "Diário do Transporte",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPX0gxV2xOeDJXc3VpS29oeHdzcWNHak8yM3diOXRhbVM2MEdqYzQ3UGQ3MC01SmVvcW9KTHdRczBhR0pzeGlqdWcxX0dkWWRFVkRtT1I4bk5KQnc0MkdGSmFZdXlKbFVKb1F3R2pjX1AzTkJZcm9uU3dKcVliRDhtdGtwTmYwR0RFWnBocEUtdVF4ajZfcWVPZXlabkQ4b2xzVFI3UmF5OFJ6T29BUXVmZVJwdnJGcllLRWNxb3pvZThSS2FJNzZ0U2huM1Fvek1pZWYtZHpXZjVJemhYbl9NNmV2dTFqejl3RXVEb29BdHljR192ejNXQXNJOE1oV2xEaGZicm5LMzRoNGNiTHV6aGhB0gGSAkFVX3lxTE9fSDFXbE54MldzdWlLb2h4d3NxY0dqTzIzd2I5dGFtUzYwR2pjNDdQZDcwLTVKZW9xb0pMd1FzMGFHSnN4aWp1ZzFfR2RZZEVWRG1PUjhuTkpCdzQyR0ZKYVl1eUpsVUpvUXdHamNfUDNOQllyb25Td0pxWWJEOG10a3BOZjBHREVacGhwRS11UXhqNl9xZU9leVpuRDhvbHNUUjdSYXk4UnpPb0FRdWZlUnB2ckZyWUtFY3Fvem9lOFJLYUk3NnRTaG4zUW96TWllZi1keldmNUl6aFhuX002ZXZ1MWp6OXdFdURvb0F0eWNHX3Z6M1dBc0k4TWhXbERoZmJybkszNGg0Y2JMdXpoaEE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-03T22:47:59Z",
+      "dominio": "diariodotransporte.com.br",
+      "tema": "solar"
+    },
     {
       "id": "transicao_4555",
       "titulo": "HOTEL EM SALVADOR TERÁ SISTEMA DE BATERIAS PARA ARMAZENAR ENERGIA",
       "lead": "HOTEL EM SALVADOR TERÁ SISTEMA DE BATERIAS PARA ARMAZENAR ENERGIA",
       "fonte": "- Bahia Economica",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOW5YNjNIR3djMXBNbWtPSE0wajBpdjNnTjZLanI1eXRVb0RGUl9veXMxTDl2ZFRPNjJXbkwydzVOMlJTQWlQclVoZGdQbW5yQ1JlY0xZTXN0ZC1ZVXhoVWRTa3VfNDhFeDVjaXJjSkxESEdvNkJ5NFNMS3ZyMWZGRU0waklyNGN3Qm9zN2pMbk5TRnZLU3JhUEJFY0Fvck9rVDR6UWF3emk5OTlQdGhF?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-03T21:33:00Z",
       "dominio": "bahiaeconomica.com.br",
@@ -20,23 +44,11 @@
       "lead": "2º Fórum Análise Setorial CCEE já tem data marcada",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcW1MOFlPLWZoV0RHM0RZTVNXS3lQWDVUR016SkRGVHgzU19ieDZEUWdkRE5YZ0sxQ01LVGhWTmdpSEh6OXllcmpQdzA2QUhOOW1NNE1VTkxJdFlVeE40Tkl1Y1FNUXhVSmptN21NUWU1allEd3RMWVBpQjdZMzFrcE1UQllfY0I5cW5mbWhR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-03T19:49:00Z",
       "dominio": "www.ccee.org.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_92942",
-      "titulo": "Aneel muda comando nas superintedências de geração e redes",
-      "lead": "Aneel muda comando nas superintedências de geração e redes",
-      "fonte": "TAGD Advogados",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0dpUk15WWg0Rk9EbV9FX0hSbDBGREVPMjRuV3VNcmU4ckdIZmoyX1NFMDAxUXFJNVFGbkxiTlFteEZMNWNObjN6LWJJR0V5cmVKOXJld1dMZmNtSmVmTWpwWWM0MGJpbjNseUYtSHNDV2RuZXlrWk5rYzJvUXd6M2ZCTUNEVHY0V0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1602860109208-613d39362844?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-03T19:27:44Z",
-      "dominio": "tagdlaw.com.br",
-      "tema": "industria-generica"
     },
     {
       "id": "transicao_58457",
@@ -44,7 +56,7 @@
       "lead": "Resort de Salvador terá primeiro sistema de energia por bateria da América do Sul no setor hoteleiro",
       "fonte": "Rádio Metrópole",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONXJpNnJyVDhYTkh2M2haVWhVRUJ0bzFWMFFrTGVOZm1KMjZwNi01eUlnaEgtU0VQbXhBNkdlUF8yVEhkaXVtV0xqZmxLQWVoMDFYVVFxZmNNVHV2cXhJc3NuZGJVbjB2WXRndXhfaHVhcjRWMEo5UHpBZlcwLTFlVm5SLXV0aVhJWGtEOEVTa3dvZzBwdkVITWNFQUNaNjIzUEtSbmNmT1lhM1pSN3RoV1NnU0hhMWZMZGl4Q3V3eXlNQ3Rna2FoZ09oNnVLSF9DeTNzd2NjX2k5T1I5Z3pocW83a01wZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-03T18:32:00Z",
       "dominio": "www.metro1.com.br",
@@ -111,12 +123,27 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "regulacao_1792",
+      "titulo": "Aneel muda comando nas superintedências de geração e redes",
+      "lead": "Aneel muda comando nas superintedências de geração e redes",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTdnYXktRURzMTRBNjZWWm1DeTVhRGwtWkdoS2ZoZ3hoMXh5WnpmV2otdlJLYVliMkQtNmtUZ2lzZ1RqYjV2RUZUR2hjemw0dEJNaEc0WDF6SkJTbkdieS1fZlRyd19tS0xLVGRpdFRUb3NiNEx5Zm81Z1c4NFNmU05FaWlVMi1MWWJRRDVXaEpLSE5aaF9VZkNNMVlBUGtubV96U0UwRnBSa1k?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1602860109208-613d39362844?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-03T13:01:08Z",
+      "dominio": "megawhat.uol.com.br",
+      "tambem_em": [
+        "TAGD Advogados"
+      ],
+      "tema": "industria-generica"
+    },
+    {
       "id": "mercado-livre_35947",
       "titulo": "CCEE corrige erro de 800 m³/s nos modelos NEWAVE e DECOMP e recalcula o preço de liquidação da energia a partir de 2 de setembro",
       "lead": "CCEE corrige erro de 800 m³/s nos modelos NEWAVE e DECOMP e recalcula o preço de liquidação da energia a partir de 2 de setembro",
       "fonte": "CPG Click Petróleo e Gás",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObkF6TUo2OE42bDVuVDNlTGdCSUhKSDRtY19Fd1JsTFJfZGF6UHFKcDlSUTlRTU9IWUszZ2Y5WnNTNWdhdk9GcVR4allDU3VGcHNGeF9NTmpwUDlldmdKaUJYWTE4azZCNUdGbWxCMzZITVFiTER6dk54RDdMckF5NWRjcXJ2UjluS1ZDQUs4YUdkQ2Fpdl9yVXRqb3FSek5RY0JPUUZmTmEwLWh6UlE2bGlETFF4a3l5RFIwUEgwTzNLY1dWUjhWb0wzZXM2dTNHc3ZEQTlZaktzUE5hVlFac18xMDVOQmhJazV6Uy1KaWhSTWxYOFp5SU9GQzNDUzlwT2Y2VA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-02T22:13:00Z",
       "dominio": "clickpetroleoegas.com.br",
@@ -135,18 +162,6 @@
       "tema": "eolica"
     },
     {
-      "id": "mercado-livre_13072",
-      "titulo": "Limite à reinjeção, obrigação do escoamento, CCEE do gás; as propostas da Abegás para o próximo governo",
-      "lead": "Limite à reinjeção, obrigação do escoamento, CCEE do gás; as propostas da Abegás para o próximo governo",
-      "fonte": "TAGD Advogados",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUTd0T2dLWXZPdTdMUEZERmNjWTE0Rm1kT1dyUUNaOFphWmN1bDFnLWZMTDA1SGdVNk54Um1WY3BNR0xOS25vX2VndUpGMWRQbEM1a2NXQmFrRmhzck0wU3pjTDZQckhWMldsOVlPbVlDNUhUWUptSGZaNVlQQXBHZ2l2ZGpMeXhQeHJLM3FhVnozSWhZeE9fSEpmWncyNlhLTWJyelllVzVnTHJ5aDllRVo2NkE0YTJZOUdMeVhsYVhRQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-02T19:29:20Z",
-      "dominio": "tagdlaw.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
       "id": "transicao_76820",
       "titulo": "Com uma série de questões ainda indefinidas, agentes já falam em adiar leilões de baterias",
       "lead": "Com uma série de questões ainda indefinidas, agentes já falam em adiar leilões de baterias",
@@ -159,12 +174,27 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "mercado-livre_56889",
+      "titulo": "Limite à reinjeção, obrigação do escoamento, CCEE do gás; as propostas da Abegás para o próximo governo",
+      "lead": "Limite à reinjeção, obrigação do escoamento, CCEE do gás; as propostas da Abegás para o próximo governo",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRGtTbWhJZ0lUVVdmTXIyNTVUVDg5d2FJaGs3b1BrZEhVc2xTYWNMQkdqWEI1OWpiZ3RNWlhTdndscTBDVXNFZU9pUFpVSGJhRkQtRC1PODJvQXotYWVVYW1ubEg4WHRobFRPbHdYNU9BRjJqVDl0RnpVVGdFVXllRXEwcHZKREhGUlQwZ3lGakxERl80cWdERDlXNTI0UjdoSjJKZ3NVVVhHYVlaQkV3MUhFci1aQ3RPT1ZzS3lnNUROdTVRdE50ZlFpMFdlTTl2MFk4MU5VcW5OcGRnMHFSc3E1ZlRzX0h4bDVzUA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-02T18:35:08Z",
+      "dominio": "eixos.com.br",
+      "tambem_em": [
+        "TAGD Advogados"
+      ],
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_40955",
       "titulo": "CCEE apoia a IV Conferência de Arbitragem no Setor de Energia Elétrica",
       "lead": "CCEE apoia a IV Conferência de Arbitragem no Setor de Energia Elétrica",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVk91aURGSHdCTkpCMmhqQi1uTTJiOUNHeGZnaElaZ0tEaEJyLU1OQ25tNDZkYVFWNmlVN2tZX2c5WFZTSHhYTmpzNHNPZWpWdnVZQmhWVVNKQWlvaVJxZG9ia1ZpYTVHNlRBbFUwcDBlZ19SNWxndlJJSXdfZ2lfM1BwRnQ4NG9LdVNFTTBiX0owQVNVN0s5ZG55c2M?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-02T17:38:00Z",
       "dominio": "www.ccee.org.br",
@@ -176,7 +206,7 @@
       "lead": "ANEEL aprova redução nas tarifas da Roraima Energia — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVll6M0JFd25uOWl0WHZhQTl5SFduTUUxU3FfeTJkWGpCZUxKbkdGNVdZaF9FbWlOdWw5OHN6NHNjaDNxR1lLNWZIRUtKR2R6UUd5LUhGSzdGZGo5aDFqX0tPbUt4MzVTcEZGcXBUSnp4R1UyV3FfTEpqT0ZoeExUNmNjaGNkd0dYc3JjRUhqWXlFUjg2VlM4LXA2ODRXZm9XZ0tzTkt2c0FwaFFNNkdWZ3ZEZjMxcURBREdKZGQ5MA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-02T16:08:00Z",
       "dominio": "www.gov.br",
@@ -328,7 +358,16 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "CBN Caruaru"
+        "A Tribuna RJ",
+        "CBN Caruaru",
+        "- Blog Dellas",
+        "pnbonline.com.br",
+        "Jornal da Paraíba",
+        "Impactto News",
+        "Agência Brasil",
+        "MegaWhat",
+        "G1",
+        "www.gov.br"
       ],
       "tema": "consumidor-residencial"
     },
@@ -370,27 +409,6 @@
         "ANEEL"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_31226",
-      "titulo": "Conta de luz continua com bandeira amarela em setembro",
-      "lead": "Conta de luz continua com bandeira amarela em setembro",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld4VmltZzJJZ3o4Nktoc1lfOG9FOW9YNFJMbGdhaVpmNWJIU0sxZTJyeVljNzBzYjdPWVNvdWd0S05hek05T2dDYXpnR1oxNXdXbGJnMEREeDdFeW5sMTkyakpWY0paN1d0dFBWLXN2TXdSc1NHZ2JDRHBfUUJUaGxfeEdpdVRZdnI4S3FBa1c2aEdaNDc3Q09yOHg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-28T21:57:32Z",
-      "dominio": "megawhat.uol.com.br",
-      "tambem_em": [
-        "ACidade ON",
-        "Jornal da Paraíba",
-        "portalimpactto.com.br",
-        "InfoMoney",
-        "Agência Brasil",
-        "g1.globo.com",
-        "www.gov.br"
-      ],
-      "tema": "consumidor-residencial"
     },
     {
       "id": "regulacao_67158",
@@ -702,11 +720,22 @@
       "editoria": "regulacao",
       "data": "2026-08-25T07:30:49Z",
       "tambem_em": [
-        "Tribuna do Sertão",
         "Brasília Alta Frequência",
         "Valor Econômico"
       ],
       "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_63504",
+      "titulo": "Artéria Energia amplia atuação em novas frentes do mercado de energia",
+      "lead": "Artéria Energia amplia atuação em novas frentes do mercado de energia",
+      "fonte": "Acontecendo Aqui",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmwtV3J0S1luSEJIbC0weTl1YlpkLU00djNCRGx3eWZaUmZwYVJ6cFNoT1E4eGhEWXVtTUZMcVNuUURnZnExbnhJYzJqZ2UzaURhRVhVd081TVNURUo5MDhJbGZ5ZWw2bHdzR0lOU3JHZklNWGhBNHdQSWdXdW0xVFBqcXZadXJNWWFIU1VNYlAwem53WG1acWFoZjFWbUM3QnhRaWNOYzFQR3ctR3g0?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-08-25T07:00:00Z",
+      "dominio": "acontecendoaqui.com.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "regulacao_31839",
@@ -729,28 +758,6 @@
       "editoria": "regulacao",
       "data": "2026-08-25T01:01:58Z",
       "dominio": "gazetadasemana.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_80786",
-      "titulo": "Flávio diz que leilão de energia de Lula penaliza mais pobres",
-      "lead": "Flávio diz que leilão de energia de Lula penaliza mais pobres",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTYyb0ZpS0lGVWVoVzZxSHVqQzluSTZFU1dhZ3JLeGFkZ25RUzB2WERnZ3BLUFlHUGVpY0Q5ZWMtSE05YlpSNjZmd1lLMTd5Nk9zSHpNZkt6ZnVYRzVkcmhkdlQzN0FMOEgxdlp3bTFqSjdnZmMtcGNLcnVQNm9lMHVfZzVuOVN4VFM2amFEcUxuWVhjTmNNd1p3MGh4MDY5c3R4S2g1Qm84V2tKTVRz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-25T00:07:13Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_22294",
-      "titulo": "ANEEL nega pedido de prova pericial feito pela Enel Distribuição São Paulo",
-      "lead": "ANEEL nega pedido de prova pericial feito pela Enel Distribuição São Paulo — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSi1WclNDYjZTYzU0UkdwZ0VsVXZGeEc0V3FZLUhzaWJEZFVaZWlVMjFMUk4tU1B6NC1mLURpOEdFMHZVRkVIYXA1UzU2a0k1c0h2Z1MzOUJlc1pyUmVoeTR2UGQyRWJQcTlGT012SDk3ZHFEbHFVU0hCOHFUcV9hOTRzeXo1V1RkVWQzZW93NlhVOTlJQm9kX2JjOXZIQUZNVWs3cHBBcHdIc256WTZqcjhUNXcycDJkVjIzQU1LYmZmbDBQcnZxa0toeHVOa1cyZ2dkRHVFTHRNNkU5c3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-24T20:01:00Z",
       "tema": "regulacao-institucional"
     }
   ]

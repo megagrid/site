@@ -1,14 +1,38 @@
 {
-  "updated": "2026-09-04T15:20:34Z",
+  "updated": "2026-09-04T21:37:13Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_66805",
+      "titulo": "Leilão de baterias vira campo minado para o setor elétrico",
+      "lead": "Leilão de baterias vira campo minado para o setor elétrico",
+      "fonte": "NeoFeed",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFdzaDJKYTdmLUFfYjdteF9FMlhjMlpRbHdLNEEzdFM1VFVQekYyUUNBcWpvNE45OFhHa2M4UHJROVhkQUUzVzlxMG5HaS02TFVRWVVQNEQ5TXdVbkxFU0RuekJzRVZWeVhacEZDaldnU2pqNDJ6bVVGakVIQ0xNNDRiT2RWUkJpQjB4U2tHSFNTa1J6R0E?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-04T20:22:00Z",
+      "dominio": "neofeed.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_44331",
+      "titulo": "Procuradoria diz que Aneel pode impor limites às distribuidoras na comercialização de energia",
+      "lead": "Procuradoria diz que Aneel pode impor limites às distribuidoras na comercialização de energia",
+      "fonte": "Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdlU4aTdRZno2ckFUNEZNT1hXWlZSYW1OWTduc3NSTmVhT0w4Tk5GS0hLdzdzakFkYy14TTlCRm4zRHBfdW5RN2lKQzdHOThkSVdGUUVGVGhIcks4Z0FMRGdmZEl0ZWpMak9scDhfazEtVHMzMVhHcDlWdVRBaFdVRTBXWlNuVjJmSWpoOGtDTGtMa1hzX1MyOGdEQzdNMnhrdXFqa2s2eGVwVTc1TklRb1hETWktcnJKS2hoMUJMUWlJWDJmZ1ZGM0tIcmhlY2p2dmFWZTA2RTBnd3BmNDJBNS1qelZTcDg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-04T17:13:00Z",
+      "dominio": "www.tribunadosertao.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_5192",
       "titulo": "Procuradoria vê base legal para restrições a distribuidoras no mercado livre",
       "lead": "Procuradoria vê base legal para restrições a distribuidoras no mercado livre",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWoxQVhhLWpWV3RkeWstVW5rMTdITUF6eGZfTWY3TEhPVXhzNDM3cURtWWZCUGxHT1k4b1U3d0I1WWJodk9JSC1qaWZuTFhRV3FhNGx3QVFIdEduS3gwSUJZSGx3RERMRTFvYTZEc2hTQkxFSllQNExmbkIzMkFvY1VwdWRxRkRmbVlRb0x4WUxkTzZzZzVYVmNFNHJXTk1RVXdNSmhtYU5IcmNxUS00UThpeVpDQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-04T10:16:50Z",
       "dominio": "megawhat.uol.com.br",
@@ -20,7 +44,7 @@
       "lead": "Metrô de SP prevê economizar R$ 12 milhões por ano com autoprodução de energia solar; ônibus já têm geração própria no Brasil e exterior",
       "fonte": "Diário do Transporte",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPX0gxV2xOeDJXc3VpS29oeHdzcWNHak8yM3diOXRhbVM2MEdqYzQ3UGQ3MC01SmVvcW9KTHdRczBhR0pzeGlqdWcxX0dkWWRFVkRtT1I4bk5KQnc0MkdGSmFZdXlKbFVKb1F3R2pjX1AzTkJZcm9uU3dKcVliRDhtdGtwTmYwR0RFWnBocEUtdVF4ajZfcWVPZXlabkQ4b2xzVFI3UmF5OFJ6T29BUXVmZVJwdnJGcllLRWNxb3pvZThSS2FJNzZ0U2huM1Fvek1pZWYtZHpXZjVJemhYbl9NNmV2dTFqejl3RXVEb29BdHljR192ejNXQXNJOE1oV2xEaGZicm5LMzRoNGNiTHV6aGhB0gGSAkFVX3lxTE9fSDFXbE54MldzdWlLb2h4d3NxY0dqTzIzd2I5dGFtUzYwR2pjNDdQZDcwLTVKZW9xb0pMd1FzMGFHSnN4aWp1ZzFfR2RZZEVWRG1PUjhuTkpCdzQyR0ZKYVl1eUpsVUpvUXdHamNfUDNOQllyb25Td0pxWWJEOG10a3BOZjBHREVacGhwRS11UXhqNl9xZU9leVpuRDhvbHNUUjdSYXk4UnpPb0FRdWZlUnB2ckZyWUtFY3Fvem9lOFJLYUk3NnRTaG4zUW96TWllZi1keldmNUl6aFhuX002ZXZ1MWp6OXdFdURvb0F0eWNHX3Z6M1dBc0k4TWhXbERoZmJybkszNGg0Y2JMdXpoaEE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-03T22:47:59Z",
       "dominio": "diariodotransporte.com.br",
@@ -143,7 +167,7 @@
       "lead": "CCEE corrige erro de 800 m³/s nos modelos NEWAVE e DECOMP e recalcula o preço de liquidação da energia a partir de 2 de setembro",
       "fonte": "CPG Click Petróleo e Gás",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObkF6TUo2OE42bDVuVDNlTGdCSUhKSDRtY19Fd1JsTFJfZGF6UHFKcDlSUTlRTU9IWUszZ2Y5WnNTNWdhdk9GcVR4allDU3VGcHNGeF9NTmpwUDlldmdKaUJYWTE4azZCNUdGbWxCMzZITVFiTER6dk54RDdMckF5NWRjcXJ2UjluS1ZDQUs4YUdkQ2Fpdl9yVXRqb3FSek5RY0JPUUZmTmEwLWh6UlE2bGlETFF4a3l5RFIwUEgwTzNLY1dWUjhWb0wzZXM2dTNHc3ZEQTlZaktzUE5hVlFac18xMDVOQmhJazV6Uy1KaWhSTWxYOFp5SU9GQzNDUzlwT2Y2VA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-02T22:13:00Z",
       "dominio": "clickpetroleoegas.com.br",
@@ -409,6 +433,30 @@
         "ANEEL"
       ],
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "tarifas_51129",
+      "titulo": "Conta de luz continua com bandeira amarela em setembro - megawhat.uol.com.br",
+      "lead": "Conta de luz continua com bandeira amarela em setembro",
+      "fonte": "megawhat.uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld4VmltZzJJZ3o4Nktoc1lfOG9FOW9YNFJMbGdhaVpmNWJIU0sxZTJyeVljNzBzYjdPWVNvdWd0S05hek05T2dDYXpnR1oxNXdXbGJnMEREeDdFeW5sMTkyakpWY0paN1d0dFBWLXN2TXdSc1NHZ2JDRHBfUUJUaGxfeEdpdVRZdnI4S3FBa1c2aEdaNDc3Q09yOHg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-08-28T21:57:32Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "regulacao_21711",
+      "titulo": "ANEEL mantém bandeira tarifária amarela em setembro — Agência Nacional de Energia Elétrica - www.gov.br",
+      "lead": "ANEEL mantém bandeira tarifária amarela em setembro",
+      "fonte": "www.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUZHcTlBS0ZYRmJSNEJiN1hWUmFCRUpUa29YdUhMbmZVOVBiRjB4QzlJOGVoVFpBRDJjdlFHUjFhZ3JrX19pd3M4a21RVTBwZWdIUzM5bHRtZ2F6dDR4WXQwQVhpVmgxVFE3cUFuRGNRSGJXR0Y2ZFFMcDZVY2ZNWnc0TEpuNjZZbEEwQVJqOXZzbm9sandoQ1BEVExISGY5R3FSTmt4aF9YZndBWVpTeGVlUmJUUjg5Y2dkQ0N5OA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-08-28T21:53:53Z",
+      "dominio": "www.gov.br",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "regulacao_67158",
@@ -708,56 +756,6 @@
       "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-25T17:24:47Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_82053",
-      "titulo": "Aneel abre consulta sobre \"teto\" para subsídios na conta de luz",
-      "lead": "Aneel abre consulta sobre \"teto\" para subsídios na conta de luz",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWF82Rkw3QnlKblRLRFh0OC1iekhKbU4xMVpaSWlodnZyOFRhQV94UEF6cEpnUnROSXhFY3JJSFJJcWRDbGdMVUpQSmdrNU1taWZ2b2tpMlVubWNkei16bUc4aTNwTmpjdTJJQ0puaFBYMWRpeHVnVWtCdF91V1Qwak41a183RGlnN2tZSm1UcGtJQWQtZ2JGVXJaWTRqdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-25T07:30:49Z",
-      "tambem_em": [
-        "Brasília Alta Frequência",
-        "Valor Econômico"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_63504",
-      "titulo": "Artéria Energia amplia atuação em novas frentes do mercado de energia",
-      "lead": "Artéria Energia amplia atuação em novas frentes do mercado de energia",
-      "fonte": "Acontecendo Aqui",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmwtV3J0S1luSEJIbC0weTl1YlpkLU00djNCRGx3eWZaUmZwYVJ6cFNoT1E4eGhEWXVtTUZMcVNuUURnZnExbnhJYzJqZ2UzaURhRVhVd081TVNURUo5MDhJbGZ5ZWw2bHdzR0lOU3JHZklNWGhBNHdQSWdXdW0xVFBqcXZadXJNWWFIU1VNYlAwem53WG1acWFoZjFWbUM3QnhRaWNOYzFQR3ctR3g0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-25T07:00:00Z",
-      "dominio": "acontecendoaqui.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_31839",
-      "titulo": "Aneel nega perícia pedida por Enel SP e fala em \"desrespeito\" da empresa à regulação",
-      "lead": "Aneel nega perícia pedida por Enel SP e fala em \"desrespeito\" da empresa à regulação",
-      "fonte": "Terra",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVm9tYmFBR0w3b3pyOUxoUVNLeVZ0ZGRwdllLdjdldFFWVjU0T0JkaXVuTWI0UW9MRDQwNEhlWFZ5eHB1bmw2aFFCMWJkVVJkTUw1S1NFSVlhdHNiOTE4eHBVYl8xX1pFaDAyMU0yV0tibTZJbnVSTXRDUXNRR1p0UUlZZ3Z5LUpoVTJoU3RIQ3d2VlJWV2N4RXNwZ1l1MTVIQVBacGZFRElnUTVLSUFNd1VuNVZ5bDhLV3l6elZESHRqeGU1eVN3M29wdDJWZWthbDh4QjJJVHNhY1dUQVB3TzQ0WGxFN2tQME1mNWxmWTA2UHZj?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-25T04:17:00Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_33439",
-      "titulo": "6º Energy Storage Brasil coloca investimentos e regulação em debate em São Paulo",
-      "lead": "6º Energy Storage Brasil coloca investimentos e regulação em debate em São Paulo",
-      "fonte": "Gazeta da Semana",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdGx1M3l5cjFUNmdnUTlQM3NwZTEyUnhyY0lWSzdNcnp2ZUpoYkg4YnE3dk9kVW01UW1NVmlIRzhKVzl1MkVQcHFPRURtNDc2aVNRMjVhdnZhNlpsUWpFSk9XTi1JNUtwbjFaeVZ5UmZ6TDFwRkNabmhabnF2VHFOc1RMQW9WZHBobTVHVk41bnF1Nzk0OGk0bU1nczBKeTdBV3VISzc2ejFVT1BGWE96T0w1aF9reW1OQi16aHZJbHdFZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-25T01:01:58Z",
-      "dominio": "gazetadasemana.com.br",
       "tema": "regulacao-institucional"
     }
   ]

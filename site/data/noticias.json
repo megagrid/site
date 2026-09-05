@@ -1,14 +1,50 @@
 {
-  "updated": "2026-09-05T14:08:07Z",
+  "updated": "2026-09-05T21:26:15Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_37642",
+      "titulo": "Megaleilão de energia do governo Lula é barrado pela Justiça",
+      "lead": "Megaleilão de energia do governo Lula é barrado pela Justiça",
+      "fonte": "Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0ZRdjludnVfMHlLUlFBNnVXanhYZTVORjh4aEVxNjZCcEdtT2t3cm5aQlBob1NCOHFMdlFxRTE2U0pTaDFyczh1VnVQZkhqUXFIbkVsRTM2by16dVRTQjVmT3NvUmxQMWRGTUhoTkUzQXgwM1lyV2R3dHJ0cHFEUVJDQXY0ZmFfZ1UyOVlweXhYUFE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-05T17:34:40Z",
+      "dominio": "www.gazetadopovo.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_86517",
+      "titulo": "Alemanha começa a erguer bateria gigante de 1,6 GWh em antiga área de usina a carvão, capaz de guardar energia para 640 mil casas por quatro horas",
+      "lead": "Alemanha começa a erguer bateria gigante de 1,6 GWh em antiga área de usina a carvão, capaz de guardar energia para 640 mil casas por quatro horas",
+      "fonte": "CPG Click Petróleo e Gás",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BQbC1MWTZ3TmtLbWJ4dU9JYzVISWJyUWFHamVMWDFlNzFmUFJWRDBGc3hHNFpOdTVONjg0clBLNUxFcnF5UnM5UEE3a3BncTd2ZHFyT0FGVk9Rc1ktYnFVSFAwbWdkOWRTbzE0SXZrdU80clB3aWRPN2hwdmViQmRnN1ZuUkk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-05T14:34:00Z",
+      "dominio": "clickpetroleoegas.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "tarifas_40490",
+      "titulo": "Bandeira tarifária de energia permanecerá amarela em setembro",
+      "lead": "Bandeira tarifária de energia permanecerá amarela em setembro",
+      "fonte": "Business Moment",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0FsWUszdVBpSHl4eVhBYzktOFJSc184T2k0Zlo3X3dzSmxUYTBteU4tcXpvV3Bvc1FrdVpFR1hiUVJOOXViS1dEcHMxei1saV9CM2ktVmc4akpFSG4tM24xOGx0bDBkTGU2MHZ4RHRIUUJNQUQtdy1BRXBFX2t1Qng1NDd0d9IBjgFBVV95cUxQSS1qaEt2S3VqZkVGTElhOTdGY0hPZGtkWXhrNGtaVU8tRE5JM3ZkaTVhVTNoeVoyUzZIVWhfVHExRWZwWXRfZVVBRS1MTUVkU2V1N19LUG5TR1ZKM3VfdmlpcVFJUzJxT2RGM3YtN0Y1SzNsZXlrVGJ3ZlhpdEltd0hsZmQ4eTFhemJtcjF3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-04T21:47:03Z",
+      "dominio": "businessmoment.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "mercado-livre_21989",
       "titulo": "Mato Grosso tem 2º maior aumento no consumo de energia elétrica do país",
       "lead": "Mato Grosso tem 2º maior aumento no consumo de energia elétrica do país",
       "fonte": "Rede da Notícia",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzhuZWlsTEMydS1WSWxhRVpfNzJqdW4zWlktbVlDbU1CbDFfUG9MNWVVUkt6WHYzUkc5XzRMWlFzTEllZi1VYjUwd1hEQjdHTEVSS29qZldUdllTazBzTXdrNzJLTFllTG80UUFieUJnaHdZd1FEUW9GZWtVRTludmtWcW5kZF9NQkJ4d2U2SHAxOEhiVHhFc2dLWVN2MUR0WFBv?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-04T21:32:06Z",
       "dominio": "rededanoticia.com.br",
@@ -20,7 +56,7 @@
       "lead": "Leilão de baterias vira campo minado para o setor elétrico",
       "fonte": "NeoFeed",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFdzaDJKYTdmLUFfYjdteF9FMlhjMlpRbHdLNEEzdFM1VFVQekYyUUNBcWpvNE45OFhHa2M4UHJROVhkQUUzVzlxMG5HaS02TFVRWVVQNEQ5TXdVbkxFU0RuekJzRVZWeVhacEZDaldnU2pqNDJ6bVVGakVIQ0xNNDRiT2RWUkJpQjB4U2tHSFNTa1J6R0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-04T20:22:00Z",
       "dominio": "neofeed.com.br",
@@ -80,7 +116,7 @@
       "lead": "Procuradoria vê base legal para restrições a distribuidoras no mercado livre",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWoxQVhhLWpWV3RkeWstVW5rMTdITUF6eGZfTWY3TEhPVXhzNDM3cURtWWZCUGxHT1k4b1U3d0I1WWJodk9JSC1qaWZuTFhRV3FhNGx3QVFIdEduS3gwSUJZSGx3RERMRTFvYTZEc2hTQkxFSllQNExmbkIzMkFvY1VwdWRxRkRmbVlRb0x4WUxkTzZzZzVYVmNFNHJXTk1RVXdNSmhtYU5IcmNxUS00UThpeVpDQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-04T10:16:50Z",
       "dominio": "megawhat.uol.com.br",
@@ -152,7 +188,7 @@
       "lead": "Conta de luz terá cobrança extra com bandeira amarela em setembro",
       "fonte": "Radio Tropical – Três Corações",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamlHNVU2b2Vwaldfc3QtTUJMUll2X280ZUFBTDh6R01Cb2F6ZVFacmp1UlVJek5xZ2UtdzlXazg1Q2loUkwxMHNUNjdlWUx6Y1BkLXNDRERoVjRIWEsxODJ2bTNRMHY0aS1EcERPdWxuNHhqQUlpT1ItUmQ5R1RELWwwWm5VSXVMNTk3OXpmczBudlVYeTVr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-09-03T14:39:39Z",
       "dominio": "radiotropical.net",
@@ -290,7 +326,7 @@
       "lead": "Conta de energia elétrica mantém bandeira amarela em setembro",
       "fonte": "jornaldacidade.net",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVJ0S20wS2lXOXk0c1VJMWZfeXR1Yng5V2JLWU9WUTRGSnJnQjdrbnJqUERoZkx0VEdFZlI3dGZSVUgzS2EwWHJEcmhuSE9Lc3pnYW9oTTViVTFCcUFPRzJRUzAzY3RoSi01NHlRV043b2oza1RacjZTYW4tcWdSNUdNZFJOcTE3cFpreHR1ZkVXaTljQ1RTZFBwZkRONEZoN1RIVDBuUThETEZaUXY3ZjZPcFQ0dlBuMUZlYQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-09-02T12:14:06Z",
       "dominio": "www.jornaldacidade.net",
@@ -432,8 +468,7 @@
       "tambem_em": [
         "A Tribuna RJ",
         "CBN Caruaru",
-        "- Blog Dellas",
-        "Roraima em Tempo",
+        "roraimaemtempo.com.br",
         "pnbonline.com.br"
       ],
       "tema": "consumidor-residencial"
@@ -489,10 +524,9 @@
       "dominio": "megawhat.uol.com.br",
       "tema": "consumidor-residencial",
       "tambem_em": [
-        "Jornal da Paraíba",
         "InfoMoney",
-        "G1",
-        "www.gov.br"
+        "www.gov.br",
+        "G1"
       ]
     },
     {
@@ -554,7 +588,7 @@
       "data": "2026-08-28T08:47:00Z",
       "dominio": "pagina3.com.br",
       "tambem_em": [
-        "Folha de S.Paulo"
+        "folha.uol.com.br"
       ],
       "tema": "baterias-armazenamento"
     },
@@ -725,41 +759,6 @@
       "data": "2026-08-25T23:02:33Z",
       "dominio": "www.poder360.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_48640",
-      "titulo": "Conta de luz no Ceará terá redução de 6,65% a partir desta quarta (25)",
-      "lead": "Conta de luz no Ceará terá redução de 6,65% a partir desta quarta (25)",
-      "fonte": "CN7",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYk8ydUIzTWFqMjdpb05IZXIxdnBUWTZLeHU4QWF6a2g1NmJKXzZ5WE9rMGp3WjhsVFhtSUhTZVBfMVlrUU5NaG5uYzdiUmFsZzBSUGdzSlZJcFZPbndkOVdHdEc0b3RhY2dvcE1XWDFSQXdCLXMxMHUxZVlvUzlaaVJESEo4N0hNSlpTSXdNUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-25T20:40:00Z",
-      "dominio": "cn7.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_41225",
-      "titulo": "Novas regras de PLD e contratação trazem mais previsibilidade, diz Itaú BBA",
-      "lead": "Novas regras de PLD e contratação trazem mais previsibilidade, diz Itaú BBA",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNENGYzk0SFJsZGJkRlU3b2FYcDJaOFVpQ1I2dnNKTUQyTWZVOVBDR3ZBUHdPMDlNcEhUSVI1alVESm9zdDFjd0RjZkVRY05HbFZoeWJfcWF6YlRWMVJiS2s4SlloYkxTWHVuM3dINWdiQm44Zk1CMWkxbnFieHQ4RTVYNTFPdVZZSFJjbzMzSnQ2SDVhbjRYb1JTWWZNWHBVNDZsaWxULUphcUdmNmVYX19VNW1xbUx0SjZqeXR4OHg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-25T20:12:25Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_68404",
-      "titulo": "Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26)",
-      "lead": "Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26) www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbzFRVjJiSTRTSXJMOVlfdHdVY21DSElEbWRsLVpybF9EUV91aFgwd1h2eEYtVFI5eUd2TzNqQVN5RUZfNGpicDUtUkU4NmJjeUtIRTVjZ1QtdnF3STdMUVE0ZlRrRDFrOWltLW5XSEowX0Q1ZGRvQUc1OVh3TFFGVFVGN3Z5N3Q0YUtPYmRxckc0NmhVbGJTLVdOcndqdGFrQ1VuODM2eTBNLU1odHEyTUdxMjM1TlJfR1VLT0Q1WWRsU1NLeDVMQmxYcnNrdTVyeTBDTEJRZVMxSnhlR2c2OF94SGJoM0dYY3dLNzZxNkw5WmdlUmxIcGdyU0o?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-25T18:02:28Z",
-      "tema": "regulacao-institucional"
     }
   ]
 }

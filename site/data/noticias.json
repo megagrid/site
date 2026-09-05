@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-04T21:37:13Z",
+  "updated": "2026-09-05T14:08:07Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_21989",
+      "titulo": "Mato Grosso tem 2º maior aumento no consumo de energia elétrica do país",
+      "lead": "Mato Grosso tem 2º maior aumento no consumo de energia elétrica do país",
+      "fonte": "Rede da Notícia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzhuZWlsTEMydS1WSWxhRVpfNzJqdW4zWlktbVlDbU1CbDFfUG9MNWVVUkt6WHYzUkc5XzRMWlFzTEllZi1VYjUwd1hEQjdHTEVSS29qZldUdllTazBzTXdrNzJLTFllTG80UUFieUJnaHdZd1FEUW9GZWtVRTludmtWcW5kZF9NQkJ4d2U2SHAxOEhiVHhFc2dLWVN2MUR0WFBv?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-04T21:32:06Z",
+      "dominio": "rededanoticia.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_66805",
       "titulo": "Leilão de baterias vira campo minado para o setor elétrico",
@@ -13,6 +25,18 @@
       "data": "2026-09-04T20:22:00Z",
       "dominio": "neofeed.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_10718",
+      "titulo": "CCEE se destaca no GPTW por ambiente seguro, inclusivo e voltado ao desenvolvimento",
+      "lead": "CCEE se destaca no GPTW por ambiente seguro, inclusivo e voltado ao desenvolvimento",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa3NBTTllZlp6dkNVZ1lZbWU3ZDBZbVR4X0N2VEpaOWFtX3RvSWtUT1VVc2xtQzN0VktWcVB6QWpwV2wzaS1UYUp0ZWhjZzBKbVBESUJCbGszMzZCRVlMVTlhVUoxZk1RdHVIMlpFMWtNQWRIc3pWLVFKYkJieldjWU5tMlRKMUVRN1RPTGtXb2V6SXJobUk2M0pOaVZDbHIxQXVWSXpCT2lCYWZzS044YzZOYjN0RkttLWc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-04T17:21:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_44331",
@@ -27,12 +51,36 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_8942",
+      "titulo": "2º Fórum Análise Setorial CCEE Debate A Transformação Do Mercado Elétrico Em São Paulo",
+      "lead": "2º Fórum Análise Setorial CCEE Debate A Transformação Do Mercado Elétrico Em São Paulo",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDJPcVVEUlhablJGeXFraWR6dlMtY3I5bWNDMGd4T1FPdkhfeFUwUDVJNHNJVG1rMFZIVnN1aGlCRnRVQm04NF9Yc09HaU9BQTZ2ODRpM0tvUkNHQ3lBak1VTDVsTnVvUnJRSlhnbkxwU2JEYlFqZzFUMmE3QVdDTVg2Nmw3c2cxYmswRFREOGx2SS1pNDN2cjIxSGk3YWpYMzM4cVAwek9ES1JMaWdFNm9ydzRBeWVxU2g4aEZKUTE5NlJvRmRr?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-04T16:37:11Z",
+      "dominio": "cenarioenergia.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_4743",
+      "titulo": "CCEE integra Ranking Melhores Empresas para Trabalhar em São Paulo pela primeira vez",
+      "lead": "CCEE integra Ranking Melhores Empresas para Trabalhar em São Paulo pela primeira vez",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTlqLS0tZHhpdndkaURTWjNTMVJDWURvdEhDV1NnVTEyeGxhampYaXNTcllrQnJjSllrWWQ4TExOSmVQNVlxdGJQT3BIWkJkdGRZUkV6aUh5LTJDTG1iNHhiZVlzQl9hTTFmdmJxRmRRV0RwM3BqVW9JSHgzczY1eUh1bzdJemxBeGhhanJYbHRYZVJXWmlsYVVELUFTSlhWZGROZnZENVRyVmZMbkF6T0NEa3BRYm9NWTQyQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-04T14:16:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_5192",
       "titulo": "Procuradoria vê base legal para restrições a distribuidoras no mercado livre",
       "lead": "Procuradoria vê base legal para restrições a distribuidoras no mercado livre",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWoxQVhhLWpWV3RkeWstVW5rMTdITUF6eGZfTWY3TEhPVXhzNDM3cURtWWZCUGxHT1k4b1U3d0I1WWJodk9JSC1qaWZuTFhRV3FhNGx3QVFIdEduS3gwSUJZSGx3RERMRTFvYTZEc2hTQkxFSllQNExmbkIzMkFvY1VwdWRxRkRmbVlRb0x4WUxkTzZzZzVYVmNFNHJXTk1RVXdNSmhtYU5IcmNxUS00UThpeVpDQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-04T10:16:50Z",
       "dominio": "megawhat.uol.com.br",
@@ -385,13 +433,8 @@
         "A Tribuna RJ",
         "CBN Caruaru",
         "- Blog Dellas",
-        "pnbonline.com.br",
-        "Jornal da Paraíba",
-        "Impactto News",
-        "Agência Brasil",
-        "MegaWhat",
-        "G1",
-        "www.gov.br"
+        "Roraima em Tempo",
+        "pnbonline.com.br"
       ],
       "tema": "consumidor-residencial"
     },
@@ -444,19 +487,13 @@
       "editoria": "tarifas",
       "data": "2026-08-28T21:57:32Z",
       "dominio": "megawhat.uol.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_21711",
-      "titulo": "ANEEL mantém bandeira tarifária amarela em setembro — Agência Nacional de Energia Elétrica - www.gov.br",
-      "lead": "ANEEL mantém bandeira tarifária amarela em setembro",
-      "fonte": "www.gov.br",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUZHcTlBS0ZYRmJSNEJiN1hWUmFCRUpUa29YdUhMbmZVOVBiRjB4QzlJOGVoVFpBRDJjdlFHUjFhZ3JrX19pd3M4a21RVTBwZWdIUzM5bHRtZ2F6dDR4WXQwQVhpVmgxVFE3cUFuRGNRSGJXR0Y2ZFFMcDZVY2ZNWnc0TEpuNjZZbEEwQVJqOXZzbm9sandoQ1BEVExISGY5R3FSTmt4aF9YZndBWVpTeGVlUmJUUjg5Y2dkQ0N5OA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-28T21:53:53Z",
-      "dominio": "www.gov.br",
-      "tema": "consumidor-residencial"
+      "tema": "consumidor-residencial",
+      "tambem_em": [
+        "Jornal da Paraíba",
+        "InfoMoney",
+        "G1",
+        "www.gov.br"
+      ]
     },
     {
       "id": "regulacao_67158",
@@ -722,40 +759,6 @@
       "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-08-25T18:02:28Z",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_56009",
-      "titulo": "Absolar cria agenda para próximo governo com foco em solar e nas baterias",
-      "lead": "Absolar cria agenda para próximo governo com foco em solar e nas baterias",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEVJZzJ6bVVlbDBjd0lwTDJ6ODBoaU9Ld192TTVFb2c2X2JYTi1nSkZidDRqcnN4WGoxd3otUGhwTml4d1NXMVlRMUVOZ01xYkpsNlpOZ0sxay1jcFpVZnI4NEhyZnJSU1N1QzRzREo0WGhTTXJGbUh6YUUyZmNmTXRuSWNRbTVlc2dMUjdWTGFqbGxIcVYzUGdtMW9Na3JIUTMwYkItclB4Y2xsT3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-25T17:48:45Z",
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_82636",
-      "titulo": "Aneel avalia incluir hidrelétricas e térmicas no rateio das baterias do LRCap",
-      "lead": "Aneel avalia incluir hidrelétricas e térmicas no rateio das baterias do LRCap",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcXZaQ3cyeFoyTGtsVHJfWUpxcFhSdy1pSFRLODgxeTRNcnM5SEZ0NDdjdldqbXBSQkpOZUtlOS1JN1V2dXZrY3pJanBhajRuMmN6WlZnaUJHWlBvUzhxdFVoSUdMTmkwQUJXT2lIbGFkZ2p1WGxCR0NOWTd1Q2FUcnhGaGN5X09HSXhxRU1qRWF5Rk1WN21hNnAwRnp2YmIzTFVwR2tvMVZXVFNZY3V2UTNlbVc1UjBHSEtWSw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-25T17:42:03Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_94638",
-      "titulo": "Autorizada transferência de controle societário da Transnorte para a Axia",
-      "lead": "Autorizada transferência de controle societário da Transnorte para a Axia — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUklYZTQtdjdpcXJHR1MxdVBJQXN6TC1pdmN6MVN3TXFJMzdOOWkwRUd5R1o1NmNLa1kzaG1NQ0YzbDJqLVcxa2Z3ckk1ZjlNR0l5a1BOT2h6dWhfMWIzdUdpN1F6Tjk5YUZHN0paeUg0UEtScFF5YnM1cnN4SjZfTXZVMkZkQ1BQa1BpeU9sOXNyWUNzMml5aEd1WV9YSTZjN1FUcHo5YzRqNkFKVWh4NzdGa25URXJja25pZ0RXRmRIVi15SzY2VGhFZVB1VnVLOGFITnYyb3hkUzNx?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-25T17:24:47Z",
       "tema": "regulacao-institucional"
     }
   ]

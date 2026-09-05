@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T21:37:11Z",
+  "updated": "2026-09-05T14:08:01Z",
   "score": 28,
   "nivel": "normal",
   "nivel_desc": "Mercado em equilíbrio",
@@ -21,7 +21,7 @@
     },
     "carga": {
       "peso": 10,
-      "valor": 84969,
+      "valor": 83205,
       "score": 50
     },
     "bandeira": {

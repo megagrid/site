@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-06T14:32:20Z",
+  "updated": "2026-09-06T21:30:13Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_73287",
+      "titulo": "Conta de luz entra em setembro com cobrança extra mantida pelo quinto mês seguido",
+      "lead": "Conta de luz entra em setembro com cobrança extra mantida pelo quinto mês seguido",
+      "fonte": "O POVO",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTIzbkhBbE1RZk5JRl9mQXl1VFM5djA0LUlzOXdNaEoteXlyOS04MG5MUmp3U0lZRUlFRkhZZTJMeDVsTXBtNGg3cE1HMDhQWFVGenNPdHZpOC14YXVtd3I4WDJqRmJZOHQzUG9ueUxSWkkzTkp1cHJDVmRRcjJ2dE82OHVDNFZEczJUVW1IMTgyeU9wYS11aDhnU2xMX1NZbmtGeGhydEN4XzZBQnlR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-06T14:15:00Z",
+      "dominio": "opovo.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "mercado-livre_28626",
       "titulo": "CCEE lança campanha nacional para apresentar mercado livre de energia",
@@ -20,7 +32,7 @@
       "lead": "Megaleilão de energia do governo Lula é barrado pela Justiça",
       "fonte": "Gazeta do Povo",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0ZRdjludnVfMHlLUlFBNnVXanhYZTVORjh4aEVxNjZCcEdtT2t3cm5aQlBob1NCOHFMdlFxRTE2U0pTaDFyczh1VnVQZkhqUXFIbkVsRTM2by16dVRTQjVmT3NvUmxQMWRGTUhoTkUzQXgwM1lyV2R3dHJ0cHFEUVJDQXY0ZmFfZ1UyOVlweXhYUFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-05T17:34:40Z",
       "dominio": "www.gazetadopovo.com.br",
@@ -450,6 +462,18 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "transicao_59197",
+      "titulo": "Governo prepara primeiro leilão de baterias para armazenamento de energia - band.com.br",
+      "lead": "Governo prepara primeiro leilão de baterias para armazenamento de energia",
+      "fonte": "band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmYzWk1nMEZsSnRHZ21JVTJkZFRVWXQ1SUM2VEtULWk4ZzA3S0gzQ1poRDFyZWU3MVNNdmp6bkpHQlFxNUgtTkx4SFo4OHRBRWJMS0RRMjBReVQ2QVl4dVVLQjh0amtxcEo4MWJXMkhSS1hfcGxqTnRSOXJicmlrTUF0eE4zSlNOVFhEeHNsSEhnQWNuYUNMMkVIeU8wSndaTDFWQlNnRUFzTzdmMnZjaC1LTzlFNEhrUEE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-08-31T16:57:11Z",
+      "dominio": "www.band.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "regulacao_60958",
       "titulo": "ANEEL debaterá regras dos primeiros leilões de baterias nesta terça-feira",
       "lead": "ANEEL debaterá regras dos primeiros leilões de baterias nesta terça-feira",
@@ -485,9 +509,7 @@
       "dominio": "canalsolar.com.br",
       "tambem_em": [
         "A Tribuna RJ",
-        "CBN Caruaru",
-        "Roraima em Tempo",
-        "pnbonline.com.br"
+        "CBN Caruaru"
       ],
       "tema": "consumidor-residencial"
     },
@@ -542,9 +564,10 @@
       "dominio": "megawhat.uol.com.br",
       "tema": "consumidor-residencial",
       "tambem_em": [
-        "InfoMoney",
+        "Jornal da Paraíba",
+        "infomoney.com.br",
         "www.gov.br",
-        "G1"
+        "g1.globo.com"
       ]
     },
     {
@@ -606,7 +629,7 @@
       "data": "2026-08-28T08:47:00Z",
       "dominio": "pagina3.com.br",
       "tambem_em": [
-        "folha.uol.com.br"
+        "Folha de S.Paulo"
       ],
       "tema": "baterias-armazenamento"
     },
@@ -738,33 +761,6 @@
       "data": "2026-08-26T14:11:28Z",
       "dominio": "telesintese.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_86948",
-      "titulo": "Usina Novo Tempo Barcarena, com 629 MW, entra em operação comercial",
-      "lead": "Usina Novo Tempo Barcarena, com 629 MW, entra em operação comercial — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmdMdGlOSGF4NGNhdUFteElYQUpmNWEyQktrcXd6cWZlZTV5b19OZUViZFhlSVBibWRMV016UHcwdmNVOXVYeGxpeFlWVVZURXQ0UmRKZ09BN0VYdjc5Y0FES2d3NnZOblZ4cFpLSVdJNVFOR1NtSGFreFZWMF9PMldrVjZXcjRRQUtVd21hVFVGRnlxY19TbWpSM05wT0Jxb09fRW51bGhWQ1FzTGs4dDlOb3plc25QOG1YQVVxb3pTM3pCTk42UGUwRlRHTFlueFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1543304376-1ae7c2be5e59?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-26T12:10:00Z",
-      "dominio": "www.gov.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "transicao_55805",
-      "titulo": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
-      "lead": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
-      "fonte": "Gazeta da Semana",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1A1dUUtdGRGc3hQaXJKRDNCMWVWQ2JNMFZNTzY5M01aVWhWZ0lOM1dkUU53d3Uxc2s3eFNJMUEwbnNCNzZhWjU2RGNWV1c5elJZSC1QOWJIVlRZMGRRSU8yZDFDcVZjOVlqUWJGLTdEX0ptZUpMaHltNm1nNGotXzNMdWpQcm9Rd3lpWUJLTXhFVUVqdmlBeGhEdHd6LTBDQ0lUNkl0SEVyam9QMGc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-26T12:05:56Z",
-      "dominio": "gazetadasemana.com.br",
-      "tambem_em": [
-        "Sala da Notícia"
-      ],
-      "tema": "baterias-armazenamento"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-05T21:26:15Z",
+  "updated": "2026-09-06T14:32:20Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_28626",
+      "titulo": "CCEE lança campanha nacional para apresentar mercado livre de energia",
+      "lead": "CCEE lança campanha nacional para apresentar mercado livre de energia",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKcU0zUm80cmFOTFVwb0FDMVYwNGJfeUUzTjBUaWVlMzZTV2tBWFRCd2FMMFhoYlByUFVfTmxCN2FTTFVOUTIyYW5Jam1lNmpQZ1BNUDVENzJtX2t2VVFNMlZ3OTM0QlB5N3ZkRF8xSURMYXlJekVwQU1Ecw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-06T13:00:41Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "mercado-livre_37642",
       "titulo": "Megaleilão de energia do governo Lula é barrado pela Justiça",
@@ -20,7 +32,7 @@
       "lead": "Alemanha começa a erguer bateria gigante de 1,6 GWh em antiga área de usina a carvão, capaz de guardar energia para 640 mil casas por quatro horas",
       "fonte": "CPG Click Petróleo e Gás",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BQbC1MWTZ3TmtLbWJ4dU9JYzVISWJyUWFHamVMWDFlNzFmUFJWRDBGc3hHNFpOdTVONjg0clBLNUxFcnF5UnM5UEE3a3BncTd2ZHFyT0FGVk9Rc1ktYnFVSFAwbWdkOWRTbzE0SXZrdU80clB3aWRPN2hwdmViQmRnN1ZuUkk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-05T14:34:00Z",
       "dominio": "clickpetroleoegas.com.br",
@@ -123,15 +135,18 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "transicao_91896",
+      "id": "transicao_51445",
       "titulo": "Metrô de SP prevê economizar R$ 12 milhões por ano com autoprodução de energia solar; ônibus já têm geração própria no Brasil e exterior",
       "lead": "Metrô de SP prevê economizar R$ 12 milhões por ano com autoprodução de energia solar; ônibus já têm geração própria no Brasil e exterior",
       "fonte": "Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPX0gxV2xOeDJXc3VpS29oeHdzcWNHak8yM3diOXRhbVM2MEdqYzQ3UGQ3MC01SmVvcW9KTHdRczBhR0pzeGlqdWcxX0dkWWRFVkRtT1I4bk5KQnc0MkdGSmFZdXlKbFVKb1F3R2pjX1AzTkJZcm9uU3dKcVliRDhtdGtwTmYwR0RFWnBocEUtdVF4ajZfcWVPZXlabkQ4b2xzVFI3UmF5OFJ6T29BUXVmZVJwdnJGcllLRWNxb3pvZThSS2FJNzZ0U2huM1Fvek1pZWYtZHpXZjVJemhYbl9NNmV2dTFqejl3RXVEb29BdHljR192ejNXQXNJOE1oV2xEaGZicm5LMzRoNGNiTHV6aGhB0gGSAkFVX3lxTE9fSDFXbE54MldzdWlLb2h4d3NxY0dqTzIzd2I5dGFtUzYwR2pjNDdQZDcwLTVKZW9xb0pMd1FzMGFHSnN4aWp1ZzFfR2RZZEVWRG1PUjhuTkpCdzQyR0ZKYVl1eUpsVUpvUXdHamNfUDNOQllyb25Td0pxWWJEOG10a3BOZjBHREVacGhwRS11UXhqNl9xZU9leVpuRDhvbHNUUjdSYXk4UnpPb0FRdWZlUnB2ckZyWUtFY3Fvem9lOFJLYUk3NnRTaG4zUW96TWllZi1keldmNUl6aFhuX002ZXZ1MWp6OXdFdURvb0F0eWNHX3Z6M1dBc0k4TWhXbERoZmJybkszNGg0Y2JMdXpoaEE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMExQMlNhQ2lkVkVwMmxtd2pFUjFHcUhsNXJVUDV0MWV3TXZZVF92MG1CM01FcWZpYUJhaGNVcmZfOUoyc3A4MS15TURqeXdGT0FTb0UtaWVmV0FCVEZUbnMzejFQMnc1SzQyMk41S3UwOGNqNjdUd1l1ellJVEM5ZEczc0E4TTBpWDJpT3hHRGxkak4wOUlxMS00WGM1ay1xR0stbjZXQ1dZeDFVdkdRWEpwSElIWnRCWUl2OEI5aEEzdFktYVRraXhuclZlQzNDSnd3TnJJem5aNWF3UVhBWDZNVnJ4QzlQbHFUaHhoa3JKNkU0Z0RPM1pKTzl4YTFpNUN6c1lDV2tyYXZx0gGSAkFVX3lxTE9fSDFXbE54MldzdWlLb2h4d3NxY0dqTzIzd2I5dGFtUzYwR2pjNDdQZDcwLTVKZW9xb0pMd1FzMGFHSnN4aWp1ZzFfR2RZZEVWRG1PUjhuTkpCdzQyR0ZKYVl1eUpsVUpvUXdHamNfUDNOQllyb25Td0pxWWJEOG10a3BOZjBHREVacGhwRS11UXhqNl9xZU9leVpuRDhvbHNUUjdSYXk4UnpPb0FRdWZlUnB2ckZyWUtFY3Fvem9lOFJLYUk3NnRTaG4zUW96TWllZi1keldmNUl6aFhuX002ZXZ1MWp6OXdFdURvb0F0eWNHX3Z6M1dBc0k4TWhXbERoZmJybkszNGg0Y2JMdXpoaEE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-09-03T22:47:59Z",
+      "data": "2026-09-03T22:52:05Z",
       "dominio": "diariodotransporte.com.br",
+      "tambem_em": [
+        "Diário do Transporte"
+      ],
       "tema": "solar"
     },
     {
@@ -342,7 +357,10 @@
       "editoria": "transicao",
       "data": "2026-09-02T00:37:00Z",
       "dominio": "www.folhape.com.br",
-      "tema": "baterias-armazenamento"
+      "tema": "baterias-armazenamento",
+      "tambem_em": [
+        "Tribuna do Sertão"
+      ]
     },
     {
       "id": "regulacao_13223",
@@ -468,7 +486,7 @@
       "tambem_em": [
         "A Tribuna RJ",
         "CBN Caruaru",
-        "roraimaemtempo.com.br",
+        "Roraima em Tempo",
         "pnbonline.com.br"
       ],
       "tema": "consumidor-residencial"
@@ -747,18 +765,6 @@
         "Sala da Notícia"
       ],
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_90790",
-      "titulo": "TCU vê governo fazer anúncio de políticas energéticas não instituídas",
-      "lead": "TCU vê governo fazer anúncio de políticas energéticas não instituídas",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNandHTW1PeV9kN2NJYnFENmVyUXdVekdZa3NUWklnT0tja0lEVnJhOXZvSEdyTWF3dW8wVjFVczRuSEpCSEtjSkh6MDVSand3Xzd6ckFUcnVwdHdtN3pxNjJLUkNIZ2k1NGxmbnBBanRfWVFoeVdjQlhsYmJRaWdWTFI4M1F3d0tDMV9XYmtIWEFlMzM5U25JUFNmX090ckRnOFZoSUlhZFRfcUtEVmt1Tjdn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-25T23:02:33Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

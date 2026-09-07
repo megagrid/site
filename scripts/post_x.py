@@ -45,8 +45,22 @@ DATA_DIR = Path(__file__).parent.parent / "site" / "data"
 ESTADO = DATA_DIR / "last_post_x.json"
 
 API_URL = "https://api.x.com/2/tweets"
+# Endpoint de identidade: a chamada mais barata que prova que a credencial
+# vale. Não escreve nada, devolve o handle — serve ao mesmo tempo de teste de
+# autenticação e de confirmação de que as chaves são da conta certa.
+API_ME_URL = "https://api.x.com/2/users/me"
 LIMITE_CHARS = 280
 JANELA_DUPLICATA_H = 20
+
+# A ordem é a ordem POSICIONAL do OAuth1Session (client key, client secret,
+# resource owner key, resource owner secret). Trocar duas aqui dá 401.
+CREDENCIAIS = ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET")
+
+# Estes dois textos vão para o heartbeat, que é público. Dizem o que FAZER,
+# não só o que houve: quem lê o arquivo às 3h da manhã não quer um código HTTP,
+# quer a próxima ação.
+MOTIVO_401 = "credencial rejeitada (401) — regenerar chaves e recolar secrets"
+MOTIVO_403 = "app sem permissão de escrita (403) — conferir Read and Write no portal"
 
 # Hora UTC a partir da qual o run é "tarde". Os dois crons são 12:00 e 19:30
 # UTC; 16h separa os dois com folga larga dos dois lados, então atraso de
@@ -64,6 +78,74 @@ BANDEIRA_NOME = {
 # tem ponto seguido de letra, então falso positivo aqui custa um post pulado,
 # enquanto falso negativo custa 13x em dinheiro.
 _RE_URL = re.compile(r"(?i)(?:\bhttps?://|\bwww\.|\b[\w-]+\.[a-z]{2,}\b)")
+
+
+def _fingerprints() -> dict:
+    """SHA-256 truncado (8 hex) de cada credencial — NUNCA o valor.
+
+    Responde de fora uma pergunta que antes exigia adivinhação: "a chave que
+    recolei hoje chegou ao runner?". O fingerprint muda quando o secret muda,
+    então comparar dois heartbeats basta. Publicar 32 bits de um SHA-256 de
+    segredo de alta entropia não é vazamento: não se volta ao valor a partir
+    disso, e quem já tivesse o valor não precisaria do fingerprint.
+
+    O hash é do valor CRU, sem strip(): secret colado com espaço ou quebra de
+    linha no fim é causa clássica de 401, e normalizar aqui esconderia
+    exatamente o defeito que este campo existe para revelar — por isso o
+    espaço nas pontas é ANOTADO em vez de removido.
+    """
+    fps = {}
+    for var in CREDENCIAIS:
+        bruto = os.environ.get(var)
+        if not bruto:
+            fps[var] = "ausente"
+            continue
+        fp = hashlib.sha256(bruto.encode("utf-8")).hexdigest()[:8]
+        fps[var] = (fp + " (espaço nas pontas)") if bruto != bruto.strip() else fp
+    return fps
+
+
+def _sessao() -> tuple:
+    """(sessao, faltando). UMA construção de credencial para o --check e para o
+    envio: duas cópias divergiriam no dia em que uma variável mudasse de nome,
+    e o --check passaria a testar algo que o envio não usa."""
+    from requests_oauthlib import OAuth1Session
+    faltando = [v for v in CREDENCIAIS if not os.environ.get(v)]
+    if faltando:
+        return None, faltando
+    return OAuth1Session(*(os.environ[v] for v in CREDENCIAIS)), []
+
+
+def verificar_credencial() -> tuple:
+    """(codigo, motivo). codigo ∈ {ok, ausente, 401, 403, indefinido}.
+
+    GET /2/users/me com as MESMAS credenciais do envio. Custa uma leitura por
+    run que posta e responde em segundos o que antes levava dias: a chave foi
+    rejeitada, o app perdeu a escrita, ou o problema é outro?
+
+    'indefinido' é deliberado e é o coração da regra de precedência: 429, 5xx,
+    DNS caído — nada disso pode SUPRIMIR um post que talvez funcionasse. Só 401
+    e 403 abortam, porque são exatamente os casos em que o envio repetiria a
+    mesma resposta. Um diagnóstico que derruba o que veio diagnosticar é pior
+    que diagnóstico nenhum.
+    """
+    sessao, faltando = _sessao()
+    if faltando:
+        return "ausente", "credenciais ausentes: " + ", ".join(faltando)
+    try:
+        r = sessao.get(API_ME_URL, timeout=15)
+    except Exception as exc:
+        return "indefinido", f"{type(exc).__name__}: {exc}"
+    if r.status_code == 200:
+        try:
+            return "ok", "@" + r.json()["data"]["username"]
+        except Exception:
+            return "ok", "handle ilegível na resposta"
+    if r.status_code == 401:
+        return "401", MOTIVO_401
+    if r.status_code == 403:
+        return "403", MOTIVO_403
+    return "indefinido", f"HTTP {r.status_code}: {r.text[:180]}"
 
 
 def _brl(v) -> str:
@@ -188,6 +270,32 @@ def duplicata(texto: str, agora_utc: datetime) -> bool:
     return False
 
 
+def _payload_estado(agora_utc: datetime, status: str, motivo: str = "",
+                    texto: str = None) -> dict:
+    """Monta o dicionário do heartbeat. Existe separado da gravação para que o
+    --dry-run possa MOSTRAR o arquivo que sairia sem escrever nada — um
+    segundo trecho montando a mesma forma acabaria divergindo dela."""
+    payload = {
+        "verificado_em": agora_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "status": status,
+        "motivo": motivo,
+        "fingerprints": _fingerprints(),
+    }
+    if texto is not None:
+        payload.update({
+            "postado_em": agora_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "hash": _hash_conteudo(texto),
+            "chars": len(texto),
+            "texto": texto,
+        })
+    else:
+        anterior = _le_estado()
+        for campo in ("postado_em", "hash", "chars", "texto"):
+            if campo in anterior:
+                payload[campo] = anterior[campo]
+    return payload
+
+
 def grava_estado(agora_utc: datetime, status: str, motivo: str = "",
                  texto: str = None):
     """Estado do post — gravado em TODA execução, não só quando há post.
@@ -207,25 +315,13 @@ def grava_estado(agora_utc: datetime, status: str, motivo: str = "",
         duplicata() passaria a comparar com um texto que nunca foi ao ar e
         o post do dia seguinte seria suprimido por um post que não existiu.
 
+      · FINGERPRINTS — reescritos a cada run, junto do heartbeat. São a
+        resposta a "a chave que recolei chegou ao runner?", que antes não
+        tinha resposta nenhuma de fora do Actions. Ver _fingerprints().
+
     Temporário + rename, mesma regra dos JSONs do robô: o arquivo é
     commitado logo depois e não pode ir pela metade."""
-    payload = {
-        "verificado_em": agora_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "status": status,
-        "motivo": motivo,
-    }
-    if texto is not None:
-        payload.update({
-            "postado_em": agora_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "hash": _hash_conteudo(texto),
-            "chars": len(texto),
-            "texto": texto,
-        })
-    else:
-        anterior = _le_estado()
-        for campo in ("postado_em", "hash", "chars", "texto"):
-            if campo in anterior:
-                payload[campo] = anterior[campo]
+    payload = _payload_estado(agora_utc, status, motivo, texto)
     tmp = ESTADO.with_name(ESTADO.name + ".tmp")
     tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), "utf-8")
     os.replace(tmp, ESTADO)
@@ -247,17 +343,11 @@ def enviar(texto: str) -> tuple:
     credencial ausente de 403 de token revogado e de 429 de cota estourada
     sem precisar do log do Actions. Nenhum VALOR de credencial entra no
     motivo — só nomes de variável e o que o X respondeu."""
-    from requests_oauthlib import OAuth1Session
-    faltando = [v for v in ("X_API_KEY", "X_API_SECRET",
-                            "X_ACCESS_TOKEN", "X_ACCESS_SECRET")
-                if not os.environ.get(v)]
+    sessao, faltando = _sessao()
     if faltando:
         # Só os NOMES das variáveis ausentes; valor de chave não vai a log.
         log.warning("  credenciais ausentes: %s — não postado", ", ".join(faltando))
         return False, "credenciais ausentes: " + ", ".join(faltando)
-    sessao = OAuth1Session(
-        os.environ["X_API_KEY"], os.environ["X_API_SECRET"],
-        os.environ["X_ACCESS_TOKEN"], os.environ["X_ACCESS_SECRET"])
     r = sessao.post(API_URL, json={"text": texto}, timeout=25)
     if r.status_code == 201:
         try:
@@ -276,9 +366,24 @@ def main() -> int:
     ap = argparse.ArgumentParser(description="Publica o resumo do mercado no X.")
     ap.add_argument("--dry-run", action="store_true",
                     help="compõe e imprime o texto, sem enviar nem gravar estado")
+    ap.add_argument("--check", action="store_true",
+                    help="testa a credencial em /2/users/me e sai; não compõe nem envia")
     args = ap.parse_args()
 
     agora = datetime.now(timezone.utc)
+
+    # --check vem antes de tudo: não depende de dado no disco, e o ponto dele é
+    # justamente responder quando o resto está quebrado. Sai 1 em falha porque
+    # é modo de diagnóstico local, nunca roda no workflow — a regra de saída 0
+    # protege o pipeline, e aqui não há pipeline para proteger.
+    if args.check:
+        codigo, motivo = verificar_credencial()
+        print(f"credencial ok: {motivo}" if codigo == "ok"
+              else f"credencial NÃO ok [{codigo}]: {motivo}")
+        print("fingerprints (SHA-256, 8 hex — nunca o valor):")
+        for var, fp in _fingerprints().items():
+            print(f"  {var:16s} {fp}")
+        return 0 if codigo == "ok" else 1
     try:
         texto = compor(agora)
         validar(texto)
@@ -299,6 +404,11 @@ def main() -> int:
         print(f"{len(texto)} caracteres (limite {LIMITE_CHARS}) · "
               f"sem URL: {'sim' if not _RE_URL.search(texto) else 'NÃO'}")
         print(f"hash do corpo: {_hash_conteudo(texto)[:16]}")
+        # Mostra o ARQUIVO que sairia, fingerprints inclusive, sem gravá-lo:
+        # o formato do heartbeat é conferível localmente antes de ir ao ar.
+        print("\nheartbeat que seria gravado (dry-run NÃO grava):")
+        print(json.dumps(_payload_estado(agora, "publicado", "(simulado)", texto),
+                         ensure_ascii=False, indent=2))
         return 0
 
     # Cada saída daqui para baixo grava o heartbeat com a camada que barrou.
@@ -322,6 +432,23 @@ def main() -> int:
             log.info("  X_POST_ENABLED != true — post desligado, nada enviado")
             _heartbeat(agora, "pulado-desligado", "X_POST_ENABLED != true")
             return 0
+
+        # ÚLTIMA porta antes do envio, e de propósito: posta depois dos gates
+        # de frescor/duplicata/desligado para não gastar uma leitura da API nos
+        # runs que já se sabe que não vão postar. Os fingerprints, esses, vão
+        # ao heartbeat em TODA execução — inclusive nas puladas.
+        codigo, motivo_cred = verificar_credencial()
+        if codigo in ("401", "403", "ausente"):
+            log.warning("  %s — não postado", motivo_cred)
+            _heartbeat(agora, "falha-credencial", motivo_cred)
+            return 0
+        if codigo == "indefinido":
+            # Não sabemos se a credencial presta; tentar o post é melhor que
+            # suprimi-lo por causa de um 429 na verificação.
+            log.info("  verificação inconclusiva (%s) — seguindo para o envio",
+                     motivo_cred)
+        else:
+            log.info("  credencial ok: %s", motivo_cred)
 
         ok, motivo = enviar(texto)
         _heartbeat(agora, "publicado" if ok else "falha-envio", motivo,

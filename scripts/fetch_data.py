@@ -845,7 +845,24 @@ def _ons_sub_key(row: dict):
     return None
 
 
+def _ons_float(v) -> float:
+    """'204615.328' → 204615.328. Aceita a vírgula decimal que a ONS às vezes
+    usa em coluna numérica."""
+    return float(str(v).strip().replace(",", "."))
+
+
 def fetch_reservatorios() -> dict:
+    """EAR do SIN, PONDERADA PELA CAPACIDADE de cada subsistema.
+
+    O agregado é soma(ear_verif_subsistema_mwmes) / soma(ear_max_subsistema),
+    não a média dos quatro percentuais. A diferença não é de casa decimal: o
+    SE/CO responde por ~70% da capacidade do SIN, e a média simples o trata
+    como um quarto. Em 05/09/2026 isso dava 73,3% pela média contra 63,1% pela
+    ponderação — dez pontos, com a página rotulando o número como "(SIN)".
+
+    Média de percentuais só valeria se os denominadores fossem iguais, e aqui
+    o maior é treze vezes o menor (204.615 contra 15.302 MWmês).
+    """
     log.info("ONS reservatórios (EAR)…")
     existing = load_existing("reservatorios.json")
     year = datetime.utcnow().year
@@ -864,11 +881,22 @@ def fetch_reservatorios() -> dict:
         date_key = next((k for k in rows[0] if "data" in k.lower()), None)
         pct_key = next((k for k in rows[0]
                         if "percentual" in k.lower() and "ear" in k.lower()), None)
+        # Numerador e denominador da ponderação. Sem eles não há agregado
+        # honesto a publicar, então a ausência é ERRO — cai no except abaixo e
+        # mantém o arquivo anterior, que o sentinela de frescor denuncia em até
+        # 4 dias. Voltar calado para a média simples seria trocar um dado
+        # ausente por um dado errado, que é o pior dos dois.
+        verif_key = next((k for k in rows[0]
+                          if "verif" in k.lower() and "mwmes" in k.lower()), None)
+        max_key = next((k for k in rows[0] if "ear_max" in k.lower()), None)
         if not date_key or not pct_key:
             raise ValueError(f"colunas não encontradas; header={list(rows[0])}")
+        if not verif_key or not max_key:
+            raise ValueError(f"colunas de capacidade ausentes (verif={verif_key!r}, "
+                             f"max={max_key!r}); header={list(rows[0])}")
 
         latest_date = max(rw[date_key] for rw in rows if rw.get(date_key))
-        sub_ear = {}
+        sub_ear, sub_verif, sub_max = {}, {}, {}
         for rw in rows:
             if rw.get(date_key) != latest_date:
                 continue
@@ -876,22 +904,52 @@ def fetch_reservatorios() -> dict:
             if not sub:
                 continue
             try:
-                sub_ear[sub] = round(float(str(rw[pct_key]).replace(",", ".")), 1)
+                sub_ear[sub] = round(_ons_float(rw[pct_key]), 1)
+            except (ValueError, TypeError):
+                continue
+            try:
+                sub_verif[sub] = _ons_float(rw[verif_key])
+                sub_max[sub] = _ons_float(rw[max_key])
             except (ValueError, TypeError):
                 pass
         if not sub_ear:
             raise ValueError("nenhum subsistema reconhecido")
+        # Um subsistema sem capacidade no CSV não pode sair da conta em
+        # silêncio: o total perderia a base e o percentual subiria sozinho.
+        if len(sub_max) != len(sub_ear):
+            faltam = sorted(set(sub_ear) - set(sub_max))
+            raise ValueError(f"capacidade ausente em {faltam} — agregado não ponderável")
+        total_max = sum(sub_max.values())
+        total_verif = sum(sub_verif.values())
+        if total_max <= 0:
+            raise ValueError("soma de ear_max_subsistema <= 0")
 
-        avg = round(sum(sub_ear.values()) / len(sub_ear), 1)
+        ponderada = round(total_verif / total_max * 100, 1)
         data = {
             "updated": now_iso(),
             "data_ref": latest_date,
             "fonte": "ONS — Dados Abertos (dados.ons.org.br)",
-            "ear_percentual": avg,
+            "ear_percentual": ponderada,
+            # Método e operandos ficam no arquivo publicado para o número ser
+            # auditável sem baixar o CSV da ONS: qualquer um refaz a divisão.
+            "metodo": "ponderada por capacidade (soma ear_verif / soma ear_max)",
+            "ear_verif_mwmes": round(total_verif, 1),
+            "ear_max_mwmes": round(total_max, 1),
             "subsistemas": sub_ear,
         }
         save("reservatorios.json", data)
-        log.info("  EAR %s: %.1f%% %s", latest_date, avg, sub_ear)
+
+        # Nota de uma vez só, na primeira rodada após a correção: o arquivo
+        # anterior não tem `metodo`. Sem ela, o degrau no histórico pareceria
+        # esvaziamento repentino de reservatório em vez de troca de conta.
+        if not (existing or {}).get("metodo"):
+            simples = round(sum(sub_ear.values()) / len(sub_ear), 1)
+            log.info("  EAR agora ponderada por capacidade — a média simples "
+                     "daria %.1f%%, a ponderada dá %.1f%%; o degrau no gráfico "
+                     "é correção de método, não queda de reservatório",
+                     simples, ponderada)
+        log.info("  EAR %s: %.1f%% (ponderada; %.0f/%.0f MWmês) %s",
+                 latest_date, ponderada, total_verif, total_max, sub_ear)
         return data
     except Exception as exc:
         log.warning("  EAR parse falhou (%s) — mantendo existente", exc)

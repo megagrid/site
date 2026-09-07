@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-06T21:30:13Z",
+  "updated": "2026-09-07T16:46:44Z",
   "total": 60,
   "itens": [
+    {
+      "id": "dado-2026-09-07",
+      "titulo": "PLD cai 18,1% na semana e fecha a R$ 125,13 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 125,13/MWh · reservatórios em 63,1% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "fonte": "Megagrid Dados",
+      "url": "https://megagrid.com.br/#precos",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-07T16:46:44Z",
+      "tema": "precos-mercado"
+    },
     {
       "id": "tarifas_73287",
       "titulo": "Conta de luz entra em setembro com cobrança extra mantida pelo quinto mês seguido",
@@ -20,7 +31,7 @@
       "lead": "CCEE lança campanha nacional para apresentar mercado livre de energia",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKcU0zUm80cmFOTFVwb0FDMVYwNGJfeUUzTjBUaWVlMzZTV2tBWFRCd2FMMFhoYlByUFVfTmxCN2FTTFVOUTIyYW5Jam1lNmpQZ1BNUDVENzJtX2t2VVFNMlZ3OTM0QlB5N3ZkRF8xSURMYXlJekVwQU1Ecw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-06T13:00:41Z",
       "dominio": "canalsolar.com.br",
@@ -32,7 +43,7 @@
       "lead": "Megaleilão de energia do governo Lula é barrado pela Justiça",
       "fonte": "Gazeta do Povo",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0ZRdjludnVfMHlLUlFBNnVXanhYZTVORjh4aEVxNjZCcEdtT2t3cm5aQlBob1NCOHFMdlFxRTE2U0pTaDFyczh1VnVQZkhqUXFIbkVsRTM2by16dVRTQjVmT3NvUmxQMWRGTUhoTkUzQXgwM1lyV2R3dHJ0cHFEUVJDQXY0ZmFfZ1UyOVlweXhYUFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-05T17:34:40Z",
       "dominio": "www.gazetadopovo.com.br",
@@ -87,15 +98,18 @@
       "tema": "baterias-armazenamento"
     },
     {
-      "id": "mercado-livre_10718",
+      "id": "mercado-livre_13885",
       "titulo": "CCEE se destaca no GPTW por ambiente seguro, inclusivo e voltado ao desenvolvimento",
       "lead": "CCEE se destaca no GPTW por ambiente seguro, inclusivo e voltado ao desenvolvimento",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa3NBTTllZlp6dkNVZ1lZbWU3ZDBZbVR4X0N2VEpaOWFtX3RvSWtUT1VVc2xtQzN0VktWcVB6QWpwV2wzaS1UYUp0ZWhjZzBKbVBESUJCbGszMzZCRVlMVTlhVUoxZk1RdHVIMlpFMWtNQWRIc3pWLVFKYkJieldjWU5tMlRKMUVRN1RPTGtXb2V6SXJobUk2M0pOaVZDbHIxQXVWSXpCT2lCYWZzS044YzZOYjN0RkttLWc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTDNrOGxUdldiVDRoZGRxOGljU1pDMDRWNExpVUVJYXBBLWV5c1pHaXdUOXF4S05MbjBSZU5BSUdDN0E2NG9OdU9JSTFCVGNVOGx5N0trZTFEbzVhcXQ5YTRqaEU3VUp4NjN0SFh5bl9oQ0NseUlzblBHU2F5eVJ3c1NTbXA5ZVVfT3p0YklOemYtQjRUVjJaYU5GdVBZN2VsdHowWVNDVHRwQUR1?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-04T17:21:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -123,15 +137,18 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_4743",
+      "id": "mercado-livre_12430",
       "titulo": "CCEE integra Ranking Melhores Empresas para Trabalhar em São Paulo pela primeira vez",
       "lead": "CCEE integra Ranking Melhores Empresas para Trabalhar em São Paulo pela primeira vez",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTlqLS0tZHhpdndkaURTWjNTMVJDWURvdEhDV1NnVTEyeGxhampYaXNTcllrQnJjSllrWWQ4TExOSmVQNVlxdGJQT3BIWkJkdGRZUkV6aUh5LTJDTG1iNHhiZVlzQl9hTTFmdmJxRmRRV0RwM3BqVW9JSHgzczY1eUh1bzdJemxBeGhhanJYbHRYZVJXWmlsYVVELUFTSlhWZGROZnZENVRyVmZMbkF6T0NEa3BRYm9NWTQyQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjJOWGdNZkhaTHdoVFhCUm5yUWM1RnhrMldMTVNsb1djV2JEajB3QUlPVzZ3a0taaFJNUnlPUWFVMTRsWENqUHlVWWlUZTVvbV8wTm8yS0lkUTYycE5rYk1nT3dydmFUQkVEMnh6NFpVY3A5VjRsYkVleDdiLWRZdEVrakxuZF9HUGNlSjVpVVFhQXBSRVZOYS0xcXRLY00yZ1NxdF9UdEFzc0k4UkFn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-04T14:16:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -179,7 +196,7 @@
       "lead": "2º Fórum Análise Setorial CCEE já tem data marcada",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcW1MOFlPLWZoV0RHM0RZTVNXS3lQWDVUR016SkRGVHgzU19ieDZEUWdkRE5YZ0sxQ01LVGhWTmdpSEh6OXllcmpQdzA2QUhOOW1NNE1VTkxJdFlVeE40Tkl1Y1FNUXhVSmptN21NUWU1allEd3RMWVBpQjdZMzFrcE1UQllfY0I5cW5mbWhR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-03T19:49:00Z",
       "dominio": "www.ccee.org.br",
@@ -360,6 +377,30 @@
       "tema": "consumidor-residencial"
     },
     {
+      "id": "tarifas_5899",
+      "titulo": "Conta de luz segue em bandeira amarela pelo quinto mês seguido - atribunarj.com.br",
+      "lead": "Conta de luz segue em bandeira amarela pelo quinto mês seguido",
+      "fonte": "atribunarj.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMkVBY3owNWpqNmZTYXlDZkNRbnFLOWVMWXA4bmNIbnVneC1kbWZHa0txUHBtNEd3R2FpUlZoWEh5WWluUk5zRzAyTjFmUE1jbk8wQTliQm1QTUJhN0c5Ry0xTUFVV3Z3ckJrVWx1eXp3SlJOdVBMZENnNkYyc1lPX0p5TktVdG0tanJ2VHBzMnhqbWQ4b0FtcmNkbS0zQ0libXc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-02T10:25:52Z",
+      "dominio": "www.atribunarj.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_39081",
+      "titulo": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
+      "lead": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
+      "fonte": "Gazeta da Semana",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1A1dUUtdGRGc3hQaXJKRDNCMWVWQ2JNMFZNTzY5M01aVWhWZ0lOM1dkUU53d3Uxc2s3eFNJMUEwbnNCNzZhWjU2RGNWV1c5elJZSC1QOWJIVlRZMGRRSU8yZDFDcVZjOVlqUWJGLTdEX0ptZUpMaHltNm1nNGotXzNMdWpQcm9Rd3lpWUJLTXhFVUVqdmlBeGhEdHd6LTBDQ0lUNkl0SEVyam9QMGc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-02T07:00:00Z",
+      "dominio": "gazetadasemana.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "transicao_80917",
       "titulo": "Agentes do setor elétrico pedem mudanças no encargo e alguns defendem adiar leilão de baterias",
       "lead": "Agentes do setor elétrico pedem mudanças no encargo e alguns defendem adiar leilão de baterias",
@@ -508,8 +549,7 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "A Tribuna RJ",
-        "CBN Caruaru"
+        "cbncaruaru.com"
       ],
       "tema": "consumidor-residencial"
     },
@@ -564,10 +604,11 @@
       "dominio": "megawhat.uol.com.br",
       "tema": "consumidor-residencial",
       "tambem_em": [
-        "Jornal da Paraíba",
-        "infomoney.com.br",
+        "jornaldaparaiba.com.br",
+        "Folha de S.Paulo",
         "www.gov.br",
-        "g1.globo.com"
+        "g1.globo.com",
+        "InfoMoney"
       ]
     },
     {
@@ -719,48 +760,6 @@
       "data": "2026-08-26T20:18:59Z",
       "dominio": "diarionline.com.br",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_26685",
-      "titulo": "De olho na conta de luz: Capital recebe debate sobre nova era do mercado de energia",
-      "lead": "De olho na conta de luz: Capital recebe debate sobre nova era do mercado de energia",
-      "fonte": "Enfoque MS",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTJtSU5NMkRIeFdMNUtJeDRxZm1ibzZsalFLWWR3NnY2UVIxazFBREhESXRjNzVtSGlETUVySTd4d1FNNDdaSW9MdkZnUUs1Wlo0WE1XdGhxLWRjWDRoVXl4cXB0UWZsaDJZd1pEck5YdERFMFFVWFdTdlNIOUw5Z0dWNHQtYjNNaTUwc1BRbDQ4MGxVR212T29Bd0FLODZfUWlCSkxqVWdkdElOTWZxekR1a0lmMnZW0gG-AUFVX3lxTE5pdG9qeTdoNGpqWlROakRVdnVEN3MtUHFNQkZ3bkVfNk1ENC1JRDVwdUQzRGV6dEVrU3pzQU96RzJwcDBReWZRbl9kbUdBYnNFOVVkODNPWlhpOXJjaFF1R1gzWG1sa25JeFA1aExIN1V0b2I2aTdQSUF3WlRyM2h4QWp5TkhCR1NlQ0ZKS0NFUmRDal9kMk9sQkgtWGMweVlycGtRNVNzeDlBOHNvd1VBb0gzWDBNeTdLaFQwMGc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-26T18:30:00Z",
-      "dominio": "www.enfoquems.com.br",
-      "tambem_em": [
-        "Enfoque MS"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_35823",
-      "titulo": "ANEEL deve incorporar ‘posteiro’ obrigatório em resolução com telecom",
-      "lead": "ANEEL deve incorporar ‘posteiro’ obrigatório em resolução com telecom",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2xiU0pxQ2R1dGdYOUtMOW02eVBLYWRsNHZUaWtVVVJ0cWt2WXBBSWgxb25tTEsxYUY4QU1BUUpYR3c4ZjF5SUl1d3JRZnNFTXkwQm1CNkRIelFYSzRLS0pHSmJmSXZFbzZRc0lUeE9veW9Va3l0TVY3QmlZX2JTVVE3MC1VSTlrTHBXSFlhYUlHZ1NBaG1EM0lzeV9YbVk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-26T15:30:47Z",
-      "dominio": "agenciainfra.com",
-      "tambem_em": [
-        "tagdlaw.com.br"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_28607",
-      "titulo": "Aneel retoma tramitação da resolução dos postes e nomeia relator",
-      "lead": "Aneel retoma tramitação da resolução dos postes e nomeia relator",
-      "fonte": "TeleSíntese",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWFg2eGlwbmVSemdYRGhsLUlfZVdfR1dNRV9BenhOQl91Y0RlenpDSkxINGNpZ3dUWGEzMTUxXy1zeF9waUhpRURRWFhmM2RubFdPYUg5d1F5Y3VfTjA4UnJGTXdfOU9aTHRsd3RNX3VOalJZb0hrS0kyQm55Sm14Wms0RUpBYTFNU1hrZ3Z6M1FydVZkbDFJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-26T14:11:28Z",
-      "dominio": "telesintese.com.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

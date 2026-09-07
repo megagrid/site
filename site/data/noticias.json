@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-07T16:46:44Z",
+  "updated": "2026-09-07T22:09:38Z",
   "total": 60,
   "itens": [
     {
       "id": "dado-2026-09-07",
       "titulo": "PLD cai 18,1% na semana e fecha a R$ 125,13 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 125,13/MWh · reservatórios em 63,1% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "lead": "PLD SE/CO a R$ 125,13/MWh · reservatórios em 63,0% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
       "fonte": "Megagrid Dados",
       "url": "https://megagrid.com.br/#precos",
       "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-09-07T16:46:44Z",
+      "data": "2026-09-07T22:09:38Z",
       "tema": "precos-mercado"
     },
     {
@@ -135,6 +135,18 @@
       "data": "2026-09-04T16:37:11Z",
       "dominio": "cenarioenergia.com.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_65941",
+      "titulo": "Novas regras podem exigir adaptação de 33 GW em geração distribuída",
+      "lead": "Novas regras podem exigir adaptação de 33 GW em geração distribuída",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWpTNzdpUnV0LWlVZmduS29fSVZsbUxXbi00enVPRUdNYll3RXdNQzY3MGNlTGRBQVdrb21zQW02QVQydzlUNGpVbGFtOFZLMWxwWmtLaEE0SHdWWGNHaXZGS2JaX0d0RVlXNWVzSjV6cU40NzNBZHFieGFwVTd4c1FCSTc5cmZzNFJUc2dxdG4yTkF3VmUxTVhtRlRNX2RRU2hwNGduc3VoZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-04T14:21:12Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "solar"
     },
     {
       "id": "mercado-livre_12430",
@@ -549,7 +561,7 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "cbncaruaru.com"
+        "CBN Caruaru"
       ],
       "tema": "consumidor-residencial"
     },
@@ -604,9 +616,10 @@
       "dominio": "megawhat.uol.com.br",
       "tema": "consumidor-residencial",
       "tambem_em": [
-        "jornaldaparaiba.com.br",
+        "Jornal da Paraíba",
+        "Forbes Brasil",
         "Folha de S.Paulo",
-        "www.gov.br",
+        "GOV.BR",
         "g1.globo.com",
         "InfoMoney"
       ]
@@ -748,18 +761,6 @@
       "data": "2026-08-26T21:19:00Z",
       "dominio": "jornalimpressobrasil.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_59055",
-      "titulo": "Conselhos de Consumidores de mais de 20 estados vão discutir o futuro do mercado de energia",
-      "lead": "Conselhos de Consumidores de mais de 20 estados vão discutir o futuro do mercado de energia",
-      "fonte": "Diário Corumbaense",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UN3JERVRHY09sTUVlZDhiVUY2NFI5TnB0MGZiUjFSbFFZUEJvOVEtdU5tTjdnTTZ3MTlaSV93TUJLLXhDT3loVzg1ekZ5RFBGVThjVTBxV3ZPSW8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-26T20:18:59Z",
-      "dominio": "diarionline.com.br",
-      "tema": "consumidor-residencial"
     }
   ]
 }

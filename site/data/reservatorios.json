@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-07T16:46:36Z",
+  "updated": "2026-09-07T22:09:30Z",
   "data_ref": "2026-09-06",
   "fonte": "ONS — Dados Abertos (dados.ons.org.br)",
-  "ear_percentual": 63.1,
+  "ear_percentual": 63.0,
   "metodo": "ponderada por capacidade (soma ear_verif / soma ear_max)",
-  "ear_verif_mwmes": 184158.2,
+  "ear_verif_mwmes": 184148.1,
   "ear_max_mwmes": 292068.2,
   "subsistemas": {
     "NE": 74.3,

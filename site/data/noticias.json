@@ -1,11 +1,62 @@
 {
-  "updated": "2026-09-08T15:33:42Z",
+  "updated": "2026-09-08T21:57:20Z",
   "total": 60,
   "itens": [
     {
+      "id": "transicao_79640",
+      "titulo": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos",
+      "lead": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV0o4UlV4YnJGWGxjaWkxZG5Pb2IzREY4cTJacjNhUFFteU1oTTlnUks1Y1dMVFM4NFNtdmdoQ1p0dlo3T29rT25fVVIzNWRNQkhNX0Y2WmVVT29qTGdva0VvUmtYbC11N1RFZmZOcVI4OV9FcnFwanI2MkFjUnYyX29rQVBpYzNXc092ZGo2clRMRTNUU2ljcUxXZmxEbFRqYjEtcDdJYmtoQzE5UUdKcl9JUlN1MlMxdG1YeFFJNlhGem9mUElXM05HbVUwSERSUXZkZTlRTHo3MktZODd3dnZUaWl5eEJZaXBlUng4YTFMZGo4bzA1eVNMS29NOEtuWTU3ZlB3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-08T18:58:14Z",
+      "dominio": "www.gov.br",
+      "tema": "solar"
+    },
+    {
+      "id": "regulacao_3137",
+      "titulo": "Leilão da Aneel: obras em MS ligam Brasil à Bolívia",
+      "lead": "Leilão da Aneel: obras em MS ligam Brasil à Bolívia",
+      "fonte": "Campo Grande News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0RndlkyTkNLUnRVQ21qM0k2eGQyd05CUE93czA3NnozMlVxYlM0M3phc1lvYnA4SnVYOV9qNFlMdkJpbXA3NXBkR2JwT2pRaFZGM1ZfWkJZUExrVDY1ejlxYlJOR054LVJ0Q2ZvVGlodGVBNi01WG1NenRtMkMwZko5NVk5azlXb3hWei05eEJvajhrY2Q1SmVfZ3c3OTd5RkxaM2lSMkpNbDdnbXJmZTAwalVXc3ZEbU1CX19OMNIBvwFBVV95cUxOZFdrNDVUWkNJT3g4bWpFTXV6SXZhRHhoWWY5Qnh0NnVpeTJqTVB5SV9peVM0WFlZSmZLclJxUEdKZXNyQUtPaHljQmptU3llV2JHUHpzNUIxNWNiNy1QYXk3YlZWeHNIQUpFZ0ZmakphWWhEZkxwNEY4aVIxaEstNEVYU3A1QkhVWjI1eTBaOTVaNUZwLThpZ3lHSWYzUWZSSmNVcHdwZGNMV0RjUk5INUdQNmowcjdvSTFuMTdzbw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-08T18:56:00Z",
+      "dominio": "www.campograndenews.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "empresas_18736",
+      "titulo": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos - Portal IN - Pompeu Vasconcelos",
+      "lead": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos - Portal IN",
+      "fonte": "Balada IN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHM4ODBQRDhQU3ppdmdMVGYzMVZRMFdUa1dKZnR4TVBDbDJKSDZrZzdqUjlQMm8yaU9tNGJNSjhmeWYzNzFNOER1alk1a0RnOUZ0d2xJcl9EckExMXZpRkhEcWNoUE5qT1NjSnZySnFValRfZU1uOVAzeTk3TTRYc2RscU9obFdNOW94MXdPNlVTa0M3bXJibU9VWGEwRUE3bmJxUEZyVQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
+      "editoria": "empresas",
+      "data": "2026-09-08T18:28:00Z",
+      "dominio": "www.portalin.com.br",
+      "tambem_em": [
+        "Brasil 247"
+      ],
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "regulacao_99558",
+      "titulo": "Bruno Goulart de Freitas Machado",
+      "lead": "Bruno Goulart de Freitas Machado — Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTDhMMzB3bHlSUEMyWFFEUkJmQmRPaDQ5THN1MlpoclRxalp3V0Rlek1oSkxnb0FZM2dWOTZPT0ZQOXJWZ1hocDhLVUktSUEteXF0U3RGcWpONkVlMWxTb0xFUlZESGFFd0N5UUwzbDd5VmpFckRveUx1UHNBd1EzX1h1Z3lGVmg1ekxKTWNpZG1nb3RiWTJGdXh2azBZWUs2a3hES1RuaXFBQnQyX1ZITmFYb2YwN2RPTUV2OUowQVo2NFBCdTdmdGt6Z1N4dFJoSXhUV3RCckdCdDNkdm01RU11c0JWNXJ2M3QzaGMyc2pSNkdONk8zRDFHUHYwem9aS1FST002ODFuOVViTXNEZUoxWnpBeFBoOUE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-08T16:20:41Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "tarifas_35771",
       "titulo": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia | O Liberal",
-      "lead": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia | O Liberal",
+      "lead": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia |",
       "fonte": "O Liberal",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHBVUy1GZi0yUzBkcU1ub0RaUkhtTzctelNua0h6c1BTckJ0WUdqN1JUSWlKMGRwejJqdkg0c2x1emRYSHYyaHdtZnktVWcyeUFHSTNGS2tiN3JUUEFuN21pZU5mMnU4aE55Z01HU3BPaWQzMnhHem5wUExIcTIzeXVVMmN3b0hMSm1oTGwzcThKTV8wSU9SZ2U3c2hlMUhweXZRbGtZd0Y3Q3FST0xURk1vazl0U1JFSnZDSnctR2pacVY00gHKAUFVX3lxTFBxS1lyZGxlY0hjTVZpYUZWemtLUmg2OXMwODV3UXFnWml5M0s5SXRHaHItYXdXaV94OUlNQ3FoYmlscVc1VzI4Tm9SUUVPeWlJTGVRM2oxSVVKTFRHQ0JNd3lYaVN4MVRHdXpKUXZzaE9IYVg4RHM3c01ESkw2RkRLSkVOWFptdlZEbmZRM1EtbU1fMTB3YXZvNXZ0RnNKdi1xVzZJNUNGdlpyZVZTY1ZnemVXUjIwWC02SV9RRFZMUkR6YUpVZ1NzR3c?oc=5",
       "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
@@ -15,12 +66,24 @@
       "tema": "consumidor-residencial"
     },
     {
+      "id": "transicao_27940",
+      "titulo": "Quem vai pagar a conta do leilão de baterias?; veja o Radar Energia XP | Setembro",
+      "lead": "Quem vai pagar a conta do leilão de baterias?; veja o Radar Energia XP | Setembro",
+      "fonte": "XP Investimentos",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQThtbzl0OHd0XzFkVUtkVEtfaEFURWVWb0o0dTVIaC1WMVJzbXdVczlqY0xKb2lYdTc0UGNhZkhUaWlCOXZfV3kwMjRwRjYwQWpFbmV1UzJ5YTRfYmRmQkVoMG9aSjFjS0ctcGFqby1fX0pBYWR6VjFLNXRQODNrd1FJNlBza00wLTZORGpxY3RiME1lUWZjdHU4RDBScml2YjNsWktjcjBRVzk4REhHZ3FXNlkwVFQ5WlQza2FyQWxUdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-08T10:56:58Z",
+      "dominio": "conteudos.xpi.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "tarifas_73287",
       "titulo": "Conta de luz entra em setembro com cobrança extra mantida pelo quinto mês seguido",
       "lead": "Conta de luz entra em setembro com cobrança extra mantida pelo quinto mês seguido",
       "fonte": "O POVO",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTIzbkhBbE1RZk5JRl9mQXl1VFM5djA0LUlzOXdNaEoteXlyOS04MG5MUmp3U0lZRUlFRkhZZTJMeDVsTXBtNGg3cE1HMDhQWFVGenNPdHZpOC14YXVtd3I4WDJqRmJZOHQzUG9ueUxSWkkzTkp1cHJDVmRRcjJ2dE82OHVDNFZEczJUVW1IMTgyeU9wYS11aDhnU2xMX1NZbmtGeGhydEN4XzZBQnlR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-09-06T14:15:00Z",
       "dominio": "opovo.com.br",
@@ -116,7 +179,7 @@
       "lead": "CCEE se destaca no GPTW por ambiente seguro, inclusivo e voltado ao desenvolvimento",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTDNrOGxUdldiVDRoZGRxOGljU1pDMDRWNExpVUVJYXBBLWV5c1pHaXdUOXF4S05MbjBSZU5BSUdDN0E2NG9OdU9JSTFCVGNVOGx5N0trZTFEbzVhcXQ5YTRqaEU3VUp4NjN0SFh5bl9oQ0NseUlzblBHU2F5eVJ3c1NTbXA5ZVVfT3p0YklOemYtQjRUVjJaYU5GdVBZN2VsdHowWVNDVHRwQUR1?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-04T17:21:00Z",
       "dominio": "www.ccee.org.br",
@@ -574,7 +637,7 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "CBN Caruaru"
+        "cbncaruaru.com"
       ],
       "tema": "consumidor-residencial"
     },
@@ -632,7 +695,7 @@
         "Impactto News",
         "Jornal da Paraíba",
         "www.gov.br",
-        "g1.globo.com",
+        "G1",
         "InfoMoney",
         "Folha de S.Paulo"
       ]
@@ -698,69 +761,6 @@
       "tambem_em": [
         "Folha de S.Paulo"
       ],
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_12190",
-      "titulo": "Leilão de baterias vive indefinição sobre quem paga a conta, e parte do setor vê adiamento como certo - Folha de S.Paulo",
-      "lead": "Leilão de baterias vive indefinição sobre quem paga a conta, e parte do setor vê adiamento como certo",
-      "fonte": "Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWlhDUVJIVWxrTHkzZzBualRwaVFkV1pxN1huVjlEQTF1UDhKWC1sdTF6QjVoUkxVTWpWdFRyanhUZlF4Q21mV0xjOEJzQmlLSmpMRlJkc0NsVktuaHZydktMVHJELXFaSm1fbi1WUE52cFhxQjdYMVc4c0cxdVpRZ0Fjb2pPV1NhdTBfZXJqZnpSdnJNV0h6TVBvMkV0Z08xNlpjRVlMVzV2Zk54R2tEYXBGM1RLRFlzWnNaZmhldXJzY3R6WjhGLU5WTnFsZVNnZXlSc1Z3cmx4eGh1S0ptU1JuZlhORTA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-28T07:00:00Z",
-      "dominio": "www1.folha.uol.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_29238",
-      "titulo": "Integridade na prática: CCEE lança Cartilha Anticorrupção e Antissuborno",
-      "lead": "Integridade na prática: CCEE lança Cartilha Anticorrupção e Antissuborno",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbXI0QlU0MHg2Y0lzWWptdVRpSERjWUZCWEpLSnREV3M0SndueUVKdXhvYlZCemhBZ0ZiUkdkMk9LRlRJOF80X0VqZFVTYnJrNExoWkVvTDdiaDhqTjg1UmRHeGJLQzlSdGhzWm5TYzNqNll0eFNuSTFFcXZqMkxCQWdvU05pSlluWFVnOW9oWGhZU1ZHRkQ2RENnX1lqQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-27T19:36:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_75564",
-      "titulo": "IPCA-15 cai 0,40% e conta de luz lidera queda de preços em agosto",
-      "lead": "IPCA-15 cai 0,40% e conta de luz lidera queda de preços em agosto",
-      "fonte": "Economic News Brasil",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1MwQU5Mc0w1MWZXamNqZzB6Rk9IRUtSRllFVFdQcEdSTEN5ZjZGdlo3SWxhQ3lhZXNvaHRIMTB6UUl6WWRydGNhQ2xqbW1sYWNZMzZrc2ltSXA4UjVNM1dCS1d0TEZCMVQwSG1fdG9HcG5haWk4bXdiUEV2Q2hrTldOWDdTUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-27T16:24:00Z",
-      "dominio": "economicnewsbrasil.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_681",
-      "titulo": "ANEEL promoverá audiência pública sobre editais dos primeiros leilões de baterias de grande porte do Brasil - gov.br",
-      "lead": "ANEEL promoverá audiência pública sobre editais dos primeiros leilões de baterias de grande porte do Brasil",
-      "fonte": "gov.br",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRS1ScW1YXzVneHZFMnZBWWpwalBIemEtMks0bXk2bFF1YXgyT3NQclNWdlpIdGhxNkU3NzhRaWJjM1RQZmpaeXM1WmxYTEMzNnNORjFfajZFTmNXWUNsNnBFMWtyNUdhMFlpT2ZVMjBQaXZ6aWwzcFFTR2JlUUJObW5CVTdHVGpPMDVkOWNDdmJWWkxXUExlMjg2MUFwSFh0MmlQOWRyNTRGd2hkYzVNZkFrTVZhWm9aSGZMSzhRSkgyRWQxQmhRTUxaOFpMSWR0VzZVcFRES1dLSm9uRmZNZHRKNUF2ZkxBeGdSR2l1ZkRlMGxINGJPOEd4b3o4TEdOY0hZa2JxYWpZdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-27T13:11:00Z",
-      "dominio": "www.gov.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_69480",
-      "titulo": "Encargo das baterias deve gerar pedidos de reequilíbrio no mercado livre",
-      "lead": "Encargo das baterias deve gerar pedidos de reequilíbrio no mercado livre",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOckN3Qml2QVhNOU1BUXgzMHBnQ2VfMWtUcjRwQnA3SVdGQzUzc2xudzJaeVFWTjN2Nm02R2ZEQlFOU0ZFSV85LXludEtoNnZaR2dJVDA4Q2xpTDdGdGRCTGs1dmdtY1NqRHRmbm5DM1hWLUFMRG9ycEpOM3dzYV9ZOGVtVzMwZ0FyNEpzNWFBQ0lxZ1FFSGN5alNqN2V4M3dhWjUyWi1OdHNTRnpsek9heEhHRHpidw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-26T22:36:40Z",
-      "dominio": "megawhat.uol.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

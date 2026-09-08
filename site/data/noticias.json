@@ -1,17 +1,18 @@
 {
-  "updated": "2026-09-07T22:09:38Z",
+  "updated": "2026-09-08T15:33:42Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-09-07",
-      "titulo": "PLD cai 18,1% na semana e fecha a R$ 125,13 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 125,13/MWh · reservatórios em 63,0% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
-      "fonte": "Megagrid Dados",
-      "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-07T22:09:38Z",
-      "tema": "precos-mercado"
+      "id": "tarifas_35771",
+      "titulo": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia | O Liberal",
+      "lead": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia | O Liberal",
+      "fonte": "O Liberal",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHBVUy1GZi0yUzBkcU1ub0RaUkhtTzctelNua0h6c1BTckJ0WUdqN1JUSWlKMGRwejJqdkg0c2x1emRYSHYyaHdtZnktVWcyeUFHSTNGS2tiN3JUUEFuN21pZU5mMnU4aE55Z01HU3BPaWQzMnhHem5wUExIcTIzeXVVMmN3b0hMSm1oTGwzcThKTV8wSU9SZ2U3c2hlMUhweXZRbGtZd0Y3Q3FST0xURk1vazl0U1JFSnZDSnctR2pacVY00gHKAUFVX3lxTFBxS1lyZGxlY0hjTVZpYUZWemtLUmg2OXMwODV3UXFnWml5M0s5SXRHaHItYXdXaV94OUlNQ3FoYmlscVc1VzI4Tm9SUUVPeWlJTGVRM2oxSVVKTFRHQ0JNd3lYaVN4MVRHdXpKUXZzaE9IYVg4RHM3c01ESkw2RkRLSkVOWFptdlZEbmZRM1EtbU1fMTB3YXZvNXZ0RnNKdi1xVzZJNUNGdlpyZVZTY1ZnemVXUjIwWC02SV9RRFZMUkR6YUpVZ1NzR3c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-08T14:34:09Z",
+      "dominio": "www.oliberal.com",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "tarifas_73287",
@@ -19,7 +20,7 @@
       "lead": "Conta de luz entra em setembro com cobrança extra mantida pelo quinto mês seguido",
       "fonte": "O POVO",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTIzbkhBbE1RZk5JRl9mQXl1VFM5djA0LUlzOXdNaEoteXlyOS04MG5MUmp3U0lZRUlFRkhZZTJMeDVsTXBtNGg3cE1HMDhQWFVGenNPdHZpOC14YXVtd3I4WDJqRmJZOHQzUG9ueUxSWkkzTkp1cHJDVmRRcjJ2dE82OHVDNFZEczJUVW1IMTgyeU9wYS11aDhnU2xMX1NZbmtGeGhydEN4XzZBQnlR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-09-06T14:15:00Z",
       "dominio": "opovo.com.br",
@@ -36,6 +37,18 @@
       "data": "2026-09-06T13:00:41Z",
       "dominio": "canalsolar.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_2002",
+      "titulo": "Joísa: Leilão de baterias gera debate sobre risco e retorno ao investidor",
+      "lead": "Joísa: Leilão de baterias gera debate sobre risco e retorno ao investidor",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOW5GSlgxbXhwOVlJdno2QkswOW9pNWV5Xy1HNktxeEhQaUVWdmNCM0gxdUxyd3Bza21iZnBmZU9CbTdxNTNXZXlibndoYlVXcWI5MmtkYjF6ajdmX25Qc2xZbm5icXkwOXplVWlZcnJmdkRJVS1pb183cGN2Zkp3eFpZNV90SkE1SkRhYml0T2VLdWhPT0tFMG81elJ4bzJ6VlR1MFlneWk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-06T07:00:00Z",
+      "dominio": "www.cnnbrasil.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_37642",
@@ -616,12 +629,12 @@
       "dominio": "megawhat.uol.com.br",
       "tema": "consumidor-residencial",
       "tambem_em": [
+        "Impactto News",
         "Jornal da Paraíba",
-        "Forbes Brasil",
-        "Folha de S.Paulo",
-        "GOV.BR",
+        "www.gov.br",
         "g1.globo.com",
-        "InfoMoney"
+        "InfoMoney",
+        "Folha de S.Paulo"
       ]
     },
     {
@@ -749,18 +762,6 @@
       "data": "2026-08-26T22:36:40Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_69810",
-      "titulo": "Mercado livre de energia avança no Brasil e amplia oportunidades de redução de custos para empresas",
-      "lead": "Mercado livre de energia avança no Brasil e amplia oportunidades de redução de custos para empresas",
-      "fonte": "Jornal Impresso Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRl8tWkNMbGh4ZmFubG1tc09CVDI3TGt3eThSdVRCZGZLYWl1Q3RoS3BqZW5LR1BDazJxel9rOHJDV045ODVUUmR1R0dGcnA3eG5pVndMX1Q5eFNWaEdtcnhNT0YtRlpRMUh3eHdweXJ6X2diNVpBV1FCR2FVQTY0TzZfaUVvX2U2NDlUNlQyc1JwQUoxVHRuMGlCeHN2Y3B1UHMxTXh0b0t1eHZHaVk0R190bFJhNUh5QkhmaHpIbHFhLTlaeTFpU2taVTBUV29DQ1dySUZxLUxIU0NEaE1jbWZsMzA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-26T21:19:00Z",
-      "dominio": "jornalimpressobrasil.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

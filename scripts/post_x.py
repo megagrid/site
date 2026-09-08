@@ -16,6 +16,14 @@ uma verificação por regex ANTES do envio que aborta o post se qualquer coisa
 parecida com endereço aparecer. Um caractere errado aqui multiplica a conta
 por treze, todo dia, para sempre.
 
+REGRA DE CADÊNCIA — POSTA O QUE MUDOU, NÃO O QUE O RELÓGIO MANDA
+São duas rodadas por dia, mas duas rodadas não são dois posts. O critério é
+NOVIDADE MATERIAL: PLD dos quatro submercados, cor e competência da bandeira,
+EAR ao inteiro e a FAIXA do termômetro. Se nada disso mudou desde o último
+post publicado, a segunda rodada do dia não posta. Em 07/09/2026 os dois posts
+saíram idênticos exceto por "63,1%" contra "63,0%" — um décimo de ponto de
+reservatório, que não é notícia, e o leitor viu a mesma coisa duas vezes.
+
 REGRA DE PRECEDÊNCIA — O SITE É O PRODUTO, O POST É ACESSÓRIO
 Nenhuma falha aqui pode derrubar o pipeline: rede, 401, 403, 429, resposta
 ilegível, credencial ausente — tudo vira log e saída 0. O robô de dados
@@ -62,9 +70,20 @@ CREDENCIAIS = ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET")
 MOTIVO_401 = "credencial rejeitada (401) — regenerar chaves e recolar secrets"
 MOTIVO_403 = "app sem permissão de escrita (403) — conferir Read and Write no portal"
 
-# Hora UTC a partir da qual o run é "tarde". Os dois crons são 12:00 e 19:30
-# UTC; 16h separa os dois com folga larga dos dois lados, então atraso de
-# fila do Actions não troca o rótulo da edição.
+# O rótulo da edição sai do CRON que disparou o run, não do relógio. A premissa
+# antiga — "16h separa os dois crons com folga, atraso de fila não troca o
+# rótulo" — era falsa e caiu em 07/09/2026: a rodada das 12:00 UTC ficou na
+# fila do Actions e executou 16:46, publicando "edição da tarde" às 13:46 BRT.
+# O atraso do Actions é de horas e não tem teto; hora de execução simplesmente
+# não identifica qual cron disparou. Isto identifica.
+SLOT_POR_CRON = {
+    "0 12 * * *": "manhã",
+    "30 19 * * *": "tarde",
+}
+
+# Fallback para execução fora do Actions (dry-run local, teste), onde não há
+# cron nenhum. Continua sendo um palpite pelo relógio — e é por isso que só
+# vale quando não há fonte melhor.
 UTC_CORTE_TARDE = 16
 
 BANDEIRA_NOME = {
@@ -148,6 +167,37 @@ def verificar_credencial() -> tuple:
     return "indefinido", f"HTTP {r.status_code}: {r.text[:180]}"
 
 
+def _slot(agora_utc: datetime) -> tuple:
+    """(edição, de onde veio). Três fontes, nesta ordem:
+
+      1. X_SLOT / SLOT no ambiente — override explícito, para dry-run e teste.
+      2. X_CRON — o cron que disparou o run, que o workflow repassa cru de
+         github.event.schedule. É a fonte boa: identifica o SLOT, não a hora
+         em que a fila do Actions resolveu executar.
+      3. Relógio UTC — palpite, só quando não há nenhuma das duas acima.
+
+    O workflow manda o cron cru em vez de já mandar o rótulo pronto: assim a
+    tabela de slots fica no código, onde dá para testar, e um cron novo ou
+    renomeado cai no fallback em vez de virar rótulo errado em silêncio.
+    """
+    bruto = (os.environ.get("X_SLOT") or os.environ.get("SLOT") or "").strip().lower()
+    if bruto:
+        # Aceita 'manha' sem acento: é como se digita numa linha de comando.
+        if bruto in ("manha", "manhã"):
+            return "manhã", "env X_SLOT/SLOT"
+        if bruto == "tarde":
+            return "tarde", "env X_SLOT/SLOT"
+        log.warning("  X_SLOT/SLOT com valor não reconhecido (%r) — ignorado", bruto)
+    cron = (os.environ.get("X_CRON") or "").strip()
+    if cron:
+        edicao = SLOT_POR_CRON.get(cron)
+        if edicao:
+            return edicao, f"cron {cron}"
+        log.warning("  cron %r fora de SLOT_POR_CRON — caindo no relógio", cron)
+    edicao = "manhã" if agora_utc.hour < UTC_CORTE_TARDE else "tarde"
+    return edicao, f"relógio UTC ({agora_utc.hour:02d}h, corte {UTC_CORTE_TARDE}h)"
+
+
 def _brl(v) -> str:
     """147.63 → '147,63'. Sempre 2 casas: '147,6' pareceria dado truncado."""
     return f"{float(v):,.2f}".replace(",", "\x00").replace(".", ",").replace("\x00", ".")
@@ -161,31 +211,28 @@ def _carrega(nome: str) -> dict:
         return {}
 
 
-def compor(agora_utc: datetime = None) -> str:
-    """Monta o texto. Levanta ValueError se faltar dado essencial — post com
-    travessão no lugar do preço seria pior que post nenhum."""
-    agora_utc = agora_utc or datetime.now(timezone.utc)
-    edicao = "manhã" if agora_utc.hour < UTC_CORTE_TARDE else "tarde"
-    data_br = agora_utc.astimezone(TZ_BR).strftime("%d/%m")
+SUBMERCADOS_POST = (("SE/CO", "SE/CO"), ("S", "Sul"), ("NE", "NE"), ("N", "Norte"))
 
+
+def coletar() -> dict:
+    """Lê os 4 JSONs e extrai os valores do post. Levanta ValueError se faltar
+    dado essencial — post com travessão no lugar do preço seria pior que post
+    nenhum.
+
+    UMA leitura, dois usos: o texto e a assinatura material saem daqui. Se cada
+    um lesse por conta própria, o post poderia anunciar um número e o dedupe
+    comparar outro — e a divergência apareceria justamente no dia em que os
+    arquivos mudassem no meio da execução."""
     pld = _carrega("pld.json")
     band = _carrega("bandeira.json")
     ear = _carrega("reservatorios.json")
     termo = _carrega("termometro.json")
 
     subs = pld.get("submercados") or {}
-    # Submercado a submercado, SEMPRE — mesmo com os quatro valores iguais.
-    # Aglutinar ("SE/CO, Sul e NE a 147,63") foi decidido contra no ticker:
-    # some com a informação de que são preços independentes que por acaso
-    # convergiram, que é justamente o que o leitor de mercado quer ver.
-    faltando = [k for k in ("SE/CO", "S", "NE", "N")
+    faltando = [k for k, _ in SUBMERCADOS_POST
                 if (subs.get(k) or {}).get("preco") is None]
     if faltando:
         raise ValueError(f"PLD sem submercado(s): {', '.join(faltando)}")
-    linha_pld = "PLD (R$/MWh): " + " · ".join(
-        f"{rot} {_brl(subs[k]['preco'])}"
-        for k, rot in (("SE/CO", "SE/CO"), ("S", "Sul"), ("NE", "NE"), ("N", "Norte")))
-
     cor = band.get("cor")
     comp = band.get("mes")
     if not cor or not comp:
@@ -193,7 +240,35 @@ def compor(agora_utc: datetime = None) -> str:
     pct = ear.get("ear_percentual")
     if pct is None:
         raise ValueError("reservatórios sem ear_percentual")
-    score = (termo or {}).get("score")
+    return {
+        "precos": {k: float(subs[k]["preco"]) for k, _ in SUBMERCADOS_POST},
+        "cor": cor,
+        "comp": comp,
+        "pct": float(pct),
+        "score": (termo or {}).get("score"),
+        # A FAIXA vem pronta do termometro.json. Reproduzir aqui a tabela de
+        # limiares do fetch_data seria uma segunda fonte para o mesmo
+        # julgamento, destinada a divergir no dia em que uma das duas mudasse.
+        "faixa": (termo or {}).get("nivel"),
+    }
+
+
+def compor(dados: dict, agora_utc: datetime = None, edicao: str = None) -> str:
+    """Monta o texto a partir do que coletar() extraiu."""
+    agora_utc = agora_utc or datetime.now(timezone.utc)
+    if edicao is None:
+        edicao, _ = _slot(agora_utc)
+    data_br = agora_utc.astimezone(TZ_BR).strftime("%d/%m")
+
+    # Submercado a submercado, SEMPRE — mesmo com os quatro valores iguais.
+    # Aglutinar ("SE/CO, Sul e NE a 147,63") foi decidido contra no ticker:
+    # some com a informação de que são preços independentes que por acaso
+    # convergiram, que é justamente o que o leitor de mercado quer ver.
+    linha_pld = "PLD (R$/MWh): " + " · ".join(
+        f"{rot} {_brl(dados['precos'][k])}" for k, rot in SUBMERCADOS_POST)
+
+    cor, comp, pct, score = (dados["cor"], dados["comp"], dados["pct"],
+                             dados["score"])
 
     cabecalho = f"⚡ Mercado agora — {data_br} · edição da {edicao}"
     # EAR com UMA casa, que é como a home e a página /reservatorios/ mostram.
@@ -222,6 +297,40 @@ def compor(agora_utc: datetime = None) -> str:
                 log.info("  texto degradado para caber em %d: %s", LIMITE_CHARS, rotulo)
             return texto
     raise ValueError(f"texto não coube em {LIMITE_CHARS} nem degradado")
+
+
+def _inteiro(pct: float) -> int:
+    """Arredonda meio-para-CIMA. O round() embutido arredonda meio-para-par —
+    round(62.5) dá 62 e round(63.5) dá 64 —, e aí a mesma distância de meio
+    ponto contaria como novidade às vezes sim, às vezes não."""
+    return int(float(pct) + 0.5)
+
+
+def assinatura_material(dados: dict) -> dict:
+    """O QUE o post diz, sem o COMO. É esta assinatura, e não o texto, que
+    decide se a segunda rodada do dia publica.
+
+    As grandezas entram na resolução em que uma mudança é NOTÍCIA, não na
+    resolução em que o arquivo a guarda:
+
+      · PLD nas 2 casas exibidas — abaixo disso o leitor não vê diferença.
+      · Bandeira por cor E competência: a virada do mês é notícia mesmo com a
+        cor repetida.
+      · EAR ao INTEIRO. Reservatório mexe décimos todo dia; 63,1 → 63,0 não é
+        fato novo, é ruído de arredondamento com cara de atualização.
+      · Termômetro pela FAIXA, não pelo número: 33 → 35 é a mesma leitura de
+        mercado dita com outro dígito. Trocar de 'normal' para 'atenção' é que
+        é o acontecimento.
+
+    Guardada no heartbeat junto da memória do último post. Assinatura antiga
+    ausente (heartbeat gravado antes desta regra) compara diferente e o post
+    sai — errar para o lado de publicar é o lado barato do erro."""
+    return {
+        "pld": {k: round(dados["precos"][k], 2) for k, _ in SUBMERCADOS_POST},
+        "bandeira": f"{dados['cor']}/{dados['comp']}",
+        "ear_inteiro": _inteiro(dados["pct"]),
+        "termometro_faixa": dados["faixa"],
+    }
 
 
 def validar(texto: str):
@@ -270,8 +379,43 @@ def duplicata(texto: str, agora_utc: datetime) -> bool:
     return False
 
 
+def sem_novidade(material: dict, agora_utc: datetime) -> tuple:
+    """(pular, motivo). Primeira camada do dedupe, e a que de fato morde.
+
+    duplicata() compara o texto byte a byte; esta compara o CONTEÚDO. Um
+    décimo de ponto de EAR muda o texto e não muda o mercado, então o hash
+    exato deixava passar dois posts que o leitor lê como o mesmo post.
+
+    A janela é a mesma do hash: passadas JANELA_DUPLICATA_H sem novidade, o
+    post sai assim mesmo. Mercado parado por mais de 20h ainda é informação, e
+    silêncio indefinido pareceria conta abandonada."""
+    est = _le_estado()
+    anterior = est.get("material")
+    if not anterior or anterior != material:
+        return False, ""
+    try:
+        quando = datetime.fromisoformat(str(est["postado_em"]).replace("Z", "+00:00"))
+    except Exception:
+        # Assinatura sem data de post utilizável: não dá para julgar a janela,
+        # e na dúvida publica.
+        return False, ""
+    horas = (agora_utc - quando).total_seconds() / 3600
+    if horas >= JANELA_DUPLICATA_H:
+        log.info("  nada mudou, mas o último post foi há %.1fh — publicando", horas)
+        return False, ""
+    precos = " · ".join(f"{rot} {_brl(material['pld'][k])}"
+                        for k, rot in SUBMERCADOS_POST if k in material.get("pld", {}))
+    partes = [f"PLD ({precos})", f"bandeira {material.get('bandeira')}",
+              f"EAR {material.get('ear_inteiro')}%"]
+    if material.get("termometro_faixa"):
+        partes.append(f"termômetro em '{material['termometro_faixa']}'")
+    return True, (f"sem novidade material desde o post de {horas:.1f}h atrás "
+                  f"(janela de {JANELA_DUPLICATA_H}h) — iguais: "
+                  + "; ".join(partes))
+
+
 def _payload_estado(agora_utc: datetime, status: str, motivo: str = "",
-                    texto: str = None) -> dict:
+                    texto: str = None, material: dict = None) -> dict:
     """Monta o dicionário do heartbeat. Existe separado da gravação para que o
     --dry-run possa MOSTRAR o arquivo que sairia sem escrever nada — um
     segundo trecho montando a mesma forma acabaria divergindo dela."""
@@ -288,16 +432,21 @@ def _payload_estado(agora_utc: datetime, status: str, motivo: str = "",
             "chars": len(texto),
             "texto": texto,
         })
+        if material is not None:
+            payload["material"] = material
     else:
         anterior = _le_estado()
-        for campo in ("postado_em", "hash", "chars", "texto"):
+        # `material` entra na lista pelo mesmo motivo dos outros quatro: um
+        # skip não pode apagar a memória do último post publicado, senão a
+        # rodada seguinte compara com o vazio e publica repetido.
+        for campo in ("postado_em", "hash", "chars", "texto", "material"):
             if campo in anterior:
                 payload[campo] = anterior[campo]
     return payload
 
 
 def grava_estado(agora_utc: datetime, status: str, motivo: str = "",
-                 texto: str = None):
+                 texto: str = None, material: dict = None):
     """Estado do post — gravado em TODA execução, não só quando há post.
 
     DUAS COISAS NO MESMO ARQUIVO, e a distinção é o ponto:
@@ -321,18 +470,18 @@ def grava_estado(agora_utc: datetime, status: str, motivo: str = "",
 
     Temporário + rename, mesma regra dos JSONs do robô: o arquivo é
     commitado logo depois e não pode ir pela metade."""
-    payload = _payload_estado(agora_utc, status, motivo, texto)
+    payload = _payload_estado(agora_utc, status, motivo, texto, material)
     tmp = ESTADO.with_name(ESTADO.name + ".tmp")
     tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), "utf-8")
     os.replace(tmp, ESTADO)
 
 
 def _heartbeat(agora_utc: datetime, status: str, motivo: str = "",
-               texto: str = None):
+               texto: str = None, material: dict = None):
     """A gravação do heartbeat não pode ser o que derruba o post (regra de
     precedência do cabeçalho): disco cheio ou permissão ruim vira log."""
     try:
-        grava_estado(agora_utc, status, motivo, texto)
+        grava_estado(agora_utc, status, motivo, texto, material)
     except Exception as exc:
         log.warning("  não consegui gravar %s (%s: %s)",
                     ESTADO.name, type(exc).__name__, exc)
@@ -384,9 +533,14 @@ def main() -> int:
         for var, fp in _fingerprints().items():
             print(f"  {var:16s} {fp}")
         return 0 if codigo == "ok" else 1
+    edicao, origem_slot = _slot(agora)
+    log.info("  edição da %s (fonte: %s)", edicao, origem_slot)
+
     try:
-        texto = compor(agora)
+        dados = coletar()
+        texto = compor(dados, agora, edicao)
         validar(texto)
+        material = assinatura_material(dados)
     except Exception as exc:
         log.error("  composição falhou (%s: %s) — nada postado",
                   type(exc).__name__, exc)
@@ -404,11 +558,16 @@ def main() -> int:
         print(f"{len(texto)} caracteres (limite {LIMITE_CHARS}) · "
               f"sem URL: {'sim' if not _RE_URL.search(texto) else 'NÃO'}")
         print(f"hash do corpo: {_hash_conteudo(texto)[:16]}")
+        print(f"assinatura material: "
+              f"{json.dumps(material, ensure_ascii=False, sort_keys=True)}")
+        pular, motivo_sn = sem_novidade(material, agora)
+        print("dedupe por novidade: "
+              + (motivo_sn if pular else "publicaria (assinatura nova ou fora da janela)"))
         # Mostra o ARQUIVO que sairia, fingerprints inclusive, sem gravá-lo:
         # o formato do heartbeat é conferível localmente antes de ir ao ar.
         print("\nheartbeat que seria gravado (dry-run NÃO grava):")
-        print(json.dumps(_payload_estado(agora, "publicado", "(simulado)", texto),
-                         ensure_ascii=False, indent=2))
+        print(json.dumps(_payload_estado(agora, "publicado", "(simulado)", texto,
+                                         material), ensure_ascii=False, indent=2))
         return 0
 
     # Cada saída daqui para baixo grava o heartbeat com a camada que barrou.
@@ -420,6 +579,15 @@ def main() -> int:
             log.warning("  dado estale, não postado — %d fonte(s) fora do limite: %s",
                         len(falhas), "; ".join(falhas)[:200])
             _heartbeat(agora, "pulado-dado-estale", "; ".join(falhas)[:200])
+            return 0
+
+        # Novidade material ANTES do hash: é o critério largo. O hash exato
+        # fica como segunda camada porque custa zero e cobre o período de
+        # transição, em que o heartbeat anterior ainda não tem `material`.
+        pular, motivo_sn = sem_novidade(material, agora)
+        if pular:
+            log.info("  %s", motivo_sn)
+            _heartbeat(agora, "pulado-sem-novidade", motivo_sn)
             return 0
 
         if duplicata(texto, agora):
@@ -452,7 +620,8 @@ def main() -> int:
 
         ok, motivo = enviar(texto)
         _heartbeat(agora, "publicado" if ok else "falha-envio", motivo,
-                   texto=texto if ok else None)
+                   texto=texto if ok else None,
+                   material=material if ok else None)
     except Exception as exc:
         log.warning("  post falhou (%s: %s) — o robô de dados segue normal",
                     type(exc).__name__, exc)

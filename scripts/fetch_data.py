@@ -1420,6 +1420,75 @@ def _e_slug(titulo: str) -> bool:
     return bool(_SLUG_INTEIRO.fullmatch(t))
 
 
+# Teto de palavras significativas do nome próprio — ver a nota no fim de
+# _parece_nome_proprio: é ele que separa nome de manchete em Title Case.
+NOME_PROPRIO_MAX_PALAVRAS = 6   # ↑ descarta mais · ↓ deixa passar mais
+# Conectores que aparecem DENTRO de um nome próprio sem quebrar a sequência
+# de maiúsculas ('Bruno Goulart DE Freitas Machado', 'Agência Nacional DE
+# Energia Elétrica'). Lista curta de propósito: quanto mais palavra se
+# ignora, mais manchete de verdade vira "nome próprio" por engano.
+_CONECTORES_NOME = frozenset((
+    "de", "da", "do", "das", "dos", "e", "em", "a", "o", "à", "para", "com",
+))
+# Pontuação de borda: o token é julgado pela LETRA, não pelas aspas ou pelas
+# reticências que o feed cola nele.
+_PONTUACAO_BORDA = "\"'“”‘’()[]{}«»,.;!?…-–—"
+
+
+def _e_sigla(palavra: str) -> bool:
+    """Token em caixa alta — 'ANEEL', 'MS', 'GD'. Sem letra não é sigla."""
+    return (len(palavra) >= 2 and palavra == palavra.upper()
+            and any(c.isalpha() for c in palavra))
+
+
+def _parece_nome_proprio(titulo: str) -> bool:
+    """True quando o texto é um NOME, não uma manchete.
+
+    P2.4 (2026-09-09): o espelho institucional (Google News site:gov.br/aneel)
+    indexa o domínio inteiro, então traz também a página de PESSOA
+    ('Bruno Goulart de Freitas Machado', um diretor) e a home do próprio órgão
+    ('Agência Nacional de Energia Elétrica'). Nenhuma das duas é barrada por
+    _espelho_rejeita: passam dos 25 chars e não têm termo da blocklist —
+    'Bruno Goulart' chegou ao bloco alto da home como REGULAÇÃO.
+
+    O critério é gramatical, não lexical (blocklist não escala para nome de
+    diretor): manchete tem verbo, e verbo em português vem em minúscula.
+    Ignorando conectores e siglas, se TODA palavra restante começa com
+    maiúscula, sobrou só nome — não há o que o título esteja afirmando.
+
+    Duas guardas contra falso positivo:
+      · dígito ou ':' → False. Manchete com número ('… 114,8 MW') ou com
+        chapéu ('Leilão da Aneel: obras em MS…') está afirmando alguma coisa.
+      · título sem nenhuma minúscula → False. 'HOTEL EM SALVADOR TERÁ
+        SISTEMA DE BATERIAS' é manchete gritada pelo veículo; quando tudo
+        está em caixa alta, a inicial maiúscula não distingue mais nada.
+    """
+    t = (titulo or "").strip()
+    if not t or ":" in t or any(c.isdigit() for c in t):
+        return False
+    if not any(c.islower() for c in t):
+        return False
+    restantes = 0
+    for bruto in t.split():
+        p = bruto.strip(_PONTUACAO_BORDA)
+        if not p:
+            continue
+        if p.lower() in _CONECTORES_NOME or _e_sigla(p):
+            continue
+        if not p[:1].isupper():
+            return False
+        restantes += 1
+    # Só siglas e conectores ('CCEE e ANEEL') não é nome próprio julgável.
+    # E nome próprio é CURTO: os dois casos reais têm 4 palavras
+    # significativas ('Bruno Goulart [de] Freitas Machado', 'Agência
+    # Nacional [de] Energia Elétrica'), e a superintendência de nome mais
+    # comprido do organograma da ANEEL não passa de 6. Acima disso é
+    # manchete em Title Case — o Cenário Energia escreve assim ('Fórum
+    # Análise Setorial CCEE Debate A Transformação Do Mercado Elétrico',
+    # 7 significativas), e ela hoje só escapa porque começa com '2º'.
+    return 0 < restantes <= NOME_PROPRIO_MAX_PALAVRAS
+
+
 # Portais de DADOS não são redação — mesma doutrina do _e_slug (P1.13), um
 # passo adiante: lá o critério era a FORMA do título ('pld-medio-semanal'),
 # aqui é a ORIGEM. O CKAN da CCEE (dadosabertos.ccee.org.br) indexa página
@@ -1436,6 +1505,31 @@ def _dominio_bloqueado(host: str) -> bool:
     return any(h == d or h.endswith("." + d) for d in DOMINIOS_BLOQUEADOS)
 
 
+# Cascata de sufixos (2026-09-09): o Google News anexa UM ' - Veículo', mas o
+# <title> do próprio veículo já vinha decorado — '… em investimentos - Portal
+# IN - Pompeu Vasconcelos', '… como economizar | Economia | O Liberal'. O
+# regex acima leva só o último segmento e o resto foi para a home.
+_RE_SEPARADOR_CAUDA = re.compile(r"\s+\|\s+|\s+-\s+")
+CAUDA_TITULO_MIN = 25   # o que sobra precisa continuar sendo manchete
+
+
+def _cauda_e_veiculo(seg: str) -> bool:
+    """True quando o segmento final tem cara de assinatura de veículo ou de
+    editoria: curto, sem número e todo em inicial maiúscula ou sigla
+    ('Portal IN', 'Economia', 'O Liberal'). Qualquer palavra em minúscula
+    denuncia conteúdo — é aí que a cascata para."""
+    palavras = seg.split()
+    if not palavras or len(palavras) > 4:
+        return False
+    if any(c.isdigit() for c in seg):
+        return False
+    for bruto in palavras:
+        p = bruto.strip(_PONTUACAO_BORDA)
+        if not p or not (p[:1].isupper() or _e_sigla(p)):
+            return False
+    return True
+
+
 def _tira_sufixo_veiculo(titulo: str) -> str:
     """Remove o ' - Veículo' que o Google News anexa ao título.
 
@@ -1446,6 +1540,17 @@ def _tira_sufixo_veiculo(titulo: str) -> str:
     conteúdo, então cortar é seguro.
     """
     t = re.sub(r"\s+-\s+[\w\s]+$", "", str(titulo or "")).strip()
+    t = re.sub(r"\s*[-–—]+\s*$", "", t).strip()
+    while True:
+        sep = None
+        for cand in _RE_SEPARADOR_CAUDA.finditer(t):
+            sep = cand          # interessa sempre o ÚLTIMO separador
+        if not sep:
+            break
+        cabeca, cauda = t[:sep.start()].strip(), t[sep.end():].strip()
+        if len(cabeca) < CAUDA_TITULO_MIN or not _cauda_e_veiculo(cauda):
+            break
+        t = cabeca
     return re.sub(r"\s*[-–—]+\s*$", "", t).strip()
 
 
@@ -1491,6 +1596,10 @@ def _espelho_rejeita(titulo: str, url: str, pub) -> str:
     for termo in ESPELHO_BLOCKLIST:
         if termo in alvo:
             return f"blocklist: {termo!r}"
+    # A blocklist é lexical e não escala para nome de diretor nem para a home
+    # do órgão; este critério é gramatical e pega os dois.
+    if _parece_nome_proprio(_manchete_nua(titulo)):
+        return "nome próprio/página institucional, não manchete"
     return ""
 
 
@@ -1564,6 +1673,11 @@ def _parse_feed(fonte, feed_url, seen_urls, max_per_feed=10,
             if _e_slug(titulo):
                 log.info("    %s: slug recusado como título: %r", fonte, titulo)
                 descarta("título é slug, não manchete")
+                continue
+            if _parece_nome_proprio(titulo):
+                log.info("    %s: nome próprio recusado como título: %r",
+                         fonte, titulo)
+                descarta("nome próprio/página institucional, não manchete")
                 continue
             lead = entry.get("summary", "") or entry.get("description", "")
             lead = _clean_text(re.sub(r"<[^>]+>", " ", lead))
@@ -1901,6 +2015,14 @@ def fetch_noticias(pld: dict = None, ear: dict = None, bandeira: dict = None) ->
     for it in existing_real:
         if _e_slug(it.get("titulo", "")):
             log.info("  acervo: slug recusado como título — %s: %r",
+                     it.get("fonte", "?"), it.get("titulo", ""))
+            continue
+        # Idem para nome próprio/página institucional: sem isto o item ruim
+        # ('Bruno Goulart de Freitas Machado') fica na home até expirar.
+        # O corte em cascata do sufixo de veículo já foi reaplicado acima,
+        # junto com _tira_sufixo_veiculo.
+        if _parece_nome_proprio(it.get("titulo", "")):
+            log.info("  acervo: nome próprio recusado como título — %s: %r",
                      it.get("fonte", "?"), it.get("titulo", ""))
             continue
         # O filtro de origem vale também para o que já está gravado —

@@ -1,14 +1,62 @@
 {
-  "updated": "2026-09-08T21:57:20Z",
+  "updated": "2026-09-09T15:28:26Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_19258",
+      "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
+      "lead": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027 www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaHdabk1yeWJrcDhUNzFQbUxhbjlrbmlGdzRkYUUzME5tdDVBTms1bFhsZFI2RkpPbENhZzR3TjE1YkdYdlRnYmtNLVB2UlYtN2lMd1dYTkRha01qMnM5VkItcmd4RkU4NzZ6VDZIUHkwdS1uZ0RjTE9nSXlFWG82QjN1V2tvWm9oaHdiZlBMTzJxcFpJZFpxX283d1kxbmhYcENna3NEc01HX2phemQ4UVpYalY4NE5kb2xNaXdUS2pNVHVOUE1KcWE1RlJCdk1hd2l6VGYwQ2laOFY0U0ZJ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-09T11:54:39Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_98370",
+      "titulo": "Leilão de transmissão da ANEEL terá contratação de baterias pela 1ª vez",
+      "lead": "Leilão de transmissão da ANEEL terá contratação de baterias pela 1ª vez",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOGlsWlViWWJqREJxMTF1cEtjcGQ1eDl3RjFsNF93anpTNWZCWDh5Z3ZBbHRmWDdySWgzLVhPNnFqeTlLOUljNGFoOXdPQ2h6cUQyaXNKdEp2YkpneU9mUG14d1RoZE1oYzBKYS1ZZFBzc3c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-08T20:45:30Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_73179",
+      "titulo": "Leilão bilionário: Acre terá 1º sistema de baterias para armazenar energia",
+      "lead": "Leilão bilionário: Acre terá 1º sistema de baterias para armazenar energia",
+      "fonte": "ContilNet",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaTFqa0dzcFd2aEZPMDdsdmpyUlplYnZITEhGZlRQRkNJRm1EVVZ2MF9jQ1pkd3dOb3p2LUdNdnk3YkRQbmNOZExkMXEzM095cFVuRFkydF9RaGVVZl9OXzZOMHZMeGFucW1GTTZwTzRpczRQV0J1OXJnckVwWlJMQ00zNjIwYVVNU3JUdUl5R1pXYjhyRFZZUTZnTjFmQlE4U1lXWW5qQ3c4NEFjZTBUcUNfVTFkMHRoTkHSAb8BQVVfeXFMTmlvZ0o2YlhQMGRBLTVQQjVSdk1iNDE5QjM2NzE0ZGdLYW1RaTk3Tzlvbll2N1lnOFZsQUpNY3haMWZTUHN6MnFYWWlvTWxOVTBMYzJIRmhVNlFCS0lhMEpJdkw1WmFBX2VBdzNPd1VSUmppTUEwdFRzT2JHNUZDYjFEd3BHREQ5Vjc4S21LTXBqamRNMENnbUUxZFdUNi00UDJ5UDZnNjN3VXVoSE5RMk5oaW5ad1NPSGRHQ1RqM00?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-08T20:04:56Z",
+      "dominio": "contilnetnoticias.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "tarifas_14164",
+      "titulo": "EQUATORIAL ORIENTA CLIENTES SOBRE COMO ECONOMIZAR ENERGIA DURANTE PERÍODO COM BANDEIRA AMARELA",
+      "lead": "EQUATORIAL ORIENTA CLIENTES SOBRE COMO ECONOMIZAR ENERGIA DURANTE PERÍODO COM BANDEIRA AMARELA",
+      "fonte": "Jornal O Impacto",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXFRYkxydkM3Sm00WEpiWko2Z3F5NERkdm9hc0RMWGsxVDctU0FUekNwYWN3UTZfM0pqeGc2ZE9TeGxWYmh5Q1o3bWdvQ0VUTllDT2xfT3V6MWw2b3F4YnhiaE9FaE5ndWRvbVF6dEJjU2ljOUdwb3gwSEFnckROZV9KdkxacXlLUXBQcVM3MG1YWGdwRHZ3dWI5YUQzd3lpTENFN1NfLU5paWVodTVwUE9LdmMxYzRrSFJuVmMtamd3Ymp6eXc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-08T19:23:21Z",
+      "dominio": "oimpacto.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "transicao_79640",
       "titulo": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos",
       "lead": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV0o4UlV4YnJGWGxjaWkxZG5Pb2IzREY4cTJacjNhUFFteU1oTTlnUks1Y1dMVFM4NFNtdmdoQ1p0dlo3T29rT25fVVIzNWRNQkhNX0Y2WmVVT29qTGdva0VvUmtYbC11N1RFZmZOcVI4OV9FcnFwanI2MkFjUnYyX29rQVBpYzNXc092ZGo2clRMRTNUU2ljcUxXZmxEbFRqYjEtcDdJYmtoQzE5UUdKcl9JUlN1MlMxdG1YeFFJNlhGem9mUElXM05HbVUwSERSUXZkZTlRTHo3MktZODd3dnZUaWl5eEJZaXBlUng4YTFMZGo4bzA1eVNMS29NOEtuWTU3ZlB3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-08T18:58:14Z",
       "dominio": "www.gov.br",
@@ -20,7 +68,7 @@
       "lead": "Leilão da Aneel: obras em MS ligam Brasil à Bolívia",
       "fonte": "Campo Grande News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0RndlkyTkNLUnRVQ21qM0k2eGQyd05CUE93czA3NnozMlVxYlM0M3phc1lvYnA4SnVYOV9qNFlMdkJpbXA3NXBkR2JwT2pRaFZGM1ZfWkJZUExrVDY1ejlxYlJOR054LVJ0Q2ZvVGlodGVBNi01WG1NenRtMkMwZko5NVk5azlXb3hWei05eEJvajhrY2Q1SmVfZ3c3OTd5RkxaM2lSMkpNbDdnbXJmZTAwalVXc3ZEbU1CX19OMNIBvwFBVV95cUxOZFdrNDVUWkNJT3g4bWpFTXV6SXZhRHhoWWY5Qnh0NnVpeTJqTVB5SV9peVM0WFlZSmZLclJxUEdKZXNyQUtPaHljQmptU3llV2JHUHpzNUIxNWNiNy1QYXk3YlZWeHNIQUpFZ0ZmakphWWhEZkxwNEY4aVIxaEstNEVYU3A1QkhVWjI1eTBaOTVaNUZwLThpZ3lHSWYzUWZSSmNVcHdwZGNMV0RjUk5INUdQNmowcjdvSTFuMTdzbw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-08T18:56:00Z",
       "dominio": "www.campograndenews.com.br",
@@ -28,8 +76,8 @@
     },
     {
       "id": "empresas_18736",
-      "titulo": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos - Portal IN - Pompeu Vasconcelos",
-      "lead": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos - Portal IN",
+      "titulo": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos - Portal IN",
+      "lead": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos",
       "fonte": "Balada IN",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHM4ODBQRDhQU3ppdmdMVGYzMVZRMFdUa1dKZnR4TVBDbDJKSDZrZzdqUjlQMm8yaU9tNGJNSjhmeWYzNzFNOER1alk1a0RnOUZ0d2xJcl9EckExMXZpRkhEcWNoUE5qT1NjSnZySnFValRfZU1uOVAzeTk3TTRYc2RscU9obFdNOW94MXdPNlVTa0M3bXJibU9VWGEwRUE3bmJxUEZyVQ?oc=5",
       "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
@@ -37,7 +85,7 @@
       "data": "2026-09-08T18:28:00Z",
       "dominio": "www.portalin.com.br",
       "tambem_em": [
-        "Brasil 247"
+        "brasil247.com"
       ],
       "tema": "transmissao-rede"
     },
@@ -54,6 +102,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "regulacao_19352",
+      "titulo": "ANEEL avalia incentivos para baterias junto a usinas e prioridade no curtailment",
+      "lead": "ANEEL avalia incentivos para baterias junto a usinas e prioridade no curtailment",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wT3NHOTN0bUozZXItLS1YcDZNcHhrcUN0clJVZXZpZ0lXVFdkckI0NnN6VXRwTEhJdWR4V3JCb3ZHeHBqSmRNWGw2TzVyMmNObzZuRlBRU3dKWVNNS19WcnRudUhUQ1FRWUwySmdRbVFLdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-08T14:56:49Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "tarifas_35771",
       "titulo": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia | O Liberal",
       "lead": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia |",
@@ -64,6 +124,18 @@
       "data": "2026-09-08T14:34:09Z",
       "dominio": "www.oliberal.com",
       "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_72070",
+      "titulo": "Diretor-presidente interino Ricardo Simabuku apresenta o Programa de Integridade da CCEE",
+      "lead": "Diretor-presidente interino Ricardo Simabuku apresenta o Programa de Integridade da CCEE",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlZpRVZsUkYweE9ENXlJN044TFBYbXFUdVlpcFZBU2o0aTZYRWptOUJkZXpJYnB4bFN1cktKNGFWT3c0dGxZWi14ZlBqNjNzQlRmOVFpMzR5LWVkUzZFZ3NubmYtSENES0EwVEY5YlAtZFNkVm1nRTNvQnJHZlpzVlNUZmlteDBiS0lUZzBPZUxTTUJ5YU9sRll3THJzU0RwTjlCUUdDMzdGQTRLSGZpWHpOYnc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-08T13:29:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_27940",
@@ -179,7 +251,7 @@
       "lead": "CCEE se destaca no GPTW por ambiente seguro, inclusivo e voltado ao desenvolvimento",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTDNrOGxUdldiVDRoZGRxOGljU1pDMDRWNExpVUVJYXBBLWV5c1pHaXdUOXF4S05MbjBSZU5BSUdDN0E2NG9OdU9JSTFCVGNVOGx5N0trZTFEbzVhcXQ5YTRqaEU3VUp4NjN0SFh5bl9oQ0NseUlzblBHU2F5eVJ3c1NTbXA5ZVVfT3p0YklOemYtQjRUVjJaYU5GdVBZN2VsdHowWVNDVHRwQUR1?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-04T17:21:00Z",
       "dominio": "www.ccee.org.br",
@@ -540,6 +612,18 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "regulacao_82013",
+      "titulo": "Com R$ 20 bi em jogo, Aneel discute regras para leilão de baterias",
+      "lead": "Com R$ 20 bi em jogo, Aneel discute regras para leilão de baterias",
+      "fonte": "Exame",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzc2T0VCaWtOZmxwTy1KSGY3LUxBMTdwQnR1NmJtaGRJSGFtejk4OFhJVFVmampJZWpHU3VveHNXbzhsV1dWT215dHd1YmlPRGQ5aWt3T2t1bkQ1Nm12UGtvREd6SmRlV2FISGxCTWxjb092aTQydm1rTDN3dnBoZ2J5X1ZxdklKYmhCVGVQLUpSVG0tNmlaTXlISEVZZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-01T19:39:54Z",
+      "dominio": "exame.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "mercado-livre_38041",
       "titulo": "Justiça derruba proteção da IBS Energy contra cobranças da CCEE",
       "lead": "Justiça derruba proteção da IBS Energy contra cobranças da CCEE",
@@ -637,7 +721,7 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "cbncaruaru.com"
+        "CBN Caruaru"
       ],
       "tema": "consumidor-residencial"
     },
@@ -654,114 +738,16 @@
       "tema": "baterias-armazenamento"
     },
     {
-      "id": "transicao_6481",
-      "titulo": "Leilão de baterias no Brasil: plano de nacionalização",
-      "lead": "Leilão de baterias no Brasil: plano de nacionalização",
-      "fonte": "Associação Comercial e Industrial de Araçatuba",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVjE5Nk1DamM5dnZoY0lkNTFmMmRtaF9MX293Z3hTRmxvNFpkLUhWTDB0QXNCU2Z2MDZUTG5Zd3lsRTM0S0liUGtsbTVvNEhrUnk2Ty1xd1U1ZGZ1eUF6ZlZ3VGVPYVMyT0tENHViS0c2YU5sNVFXSl8zdXZza0thTA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-29T22:34:13Z",
-      "dominio": "aciara.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_32121",
-      "titulo": "Agência Nacional de Energia Elétrica",
-      "lead": "Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXUtWDVod1VNanA2S09GVjhOVTltc3psaUhyUWJ6Z2pxNmd4TnlRaG1nM1pQMmk0TTc1U0RFVjdtbTl2amVESTdzeENadmdILVRZTFprWDluYk43WGNVcnVVNG80enZFbU14R2Zpd0k2MHVzcUJLWTVYTHo2TE5Pb1dZN05Rdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "id": "regulacao_49958",
+      "titulo": "Anatel aguarda decisão da Aneel para resolver impasse sobre postes",
+      "lead": "Anatel aguarda decisão da Aneel para resolver impasse sobre postes",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlp6WVhIRFdzSzZhSTdDX01aajhNd2Rid2pLTUpSTlFTZHpiQUlweUtTTVZrYnJvRFlOcjJ5RERjZFBOUzJodWFJTDVYTW83djJTQ1FBaVowbVk2WFZQLWl6ejQtSUVFVlJucUMyTXd6Z1FwbmNNN3ZUbThTd1dDQmljenBqdDB6MFJRcjVxYWM4VlhyMUV2ajJYQ2dyVzRmbTAxRmRsTlE2eE0?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
-      "data": "2026-08-29T08:03:37Z",
-      "dominio": "www.gov.br",
-      "tambem_em": [
-        "ANEEL"
-      ],
+      "data": "2026-08-31T07:00:00Z",
+      "dominio": "www.poder360.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_51129",
-      "titulo": "Conta de luz continua com bandeira amarela em setembro - megawhat.uol.com.br",
-      "lead": "Conta de luz continua com bandeira amarela em setembro",
-      "fonte": "megawhat.uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld4VmltZzJJZ3o4Nktoc1lfOG9FOW9YNFJMbGdhaVpmNWJIU0sxZTJyeVljNzBzYjdPWVNvdWd0S05hek05T2dDYXpnR1oxNXdXbGJnMEREeDdFeW5sMTkyakpWY0paN1d0dFBWLXN2TXdSc1NHZ2JDRHBfUUJUaGxfeEdpdVRZdnI4S3FBa1c2aEdaNDc3Q09yOHg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-28T21:57:32Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "consumidor-residencial",
-      "tambem_em": [
-        "Impactto News",
-        "Jornal da Paraíba",
-        "www.gov.br",
-        "G1",
-        "InfoMoney",
-        "Folha de S.Paulo"
-      ]
-    },
-    {
-      "id": "regulacao_67158",
-      "titulo": "ANEEL abrirá consulta para mudar sazonalização da garantia física no MRE",
-      "lead": "ANEEL abrirá consulta para mudar sazonalização da garantia física no MRE",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEdoVWx2NVluTEYydG5zZ1VXNW16LVVvU09CemRMYmFKc1VTWUFCZTlIR0NyN29IVzVNMmJQLWttMy1FRHd5UG1hemF0UGprWlZ0WEhXeWxnRUxDUnJIUkVYNGNyNE5EVXlKUUUzQU50UHZxS195dk1ZNUZXcFgtZQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-28T19:05:53Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_61157",
-      "titulo": "CCEE recebe delegação do Quênia para fortalecer cooperação no setor de energia",
-      "lead": "CCEE recebe delegação do Quênia para fortalecer cooperação no setor de energia",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdS0tdkl4cVNRb20yUUV0V0V5dE1TTXBLT3dsRW1PT193MUFhMlpvVkU4Nzc4V1FqZVkyc1JrVFNXZ0RhLXdmSy1MOVNZalRUNmQyZktTc1RCcm5nTGlqZHJ3N1JHOGV1Ykl6VldKN2RoUW9xUXdTcFhaWFlSRFM3cU0tY2VpT1M3TDNwUTMzLVVPR2Q0dmRiZm8wa2wyUlRlRHNQTXEwejBPZFFFenRYVXJTM2w?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-28T18:45:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_72856",
-      "titulo": "MME prepara consulta sobre renovação das concessões de geração",
-      "lead": "MME prepara consulta sobre renovação das concessões de geração",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2ZjYnNCV1Y0UE1oVTFVU2poNmtfcTZXRWpHN3YwbFFvbmFoeHNzOEdxTG1zRmJrNXV3SnZSQVluNnNEbUswN3RaWWhZektGTGRVZGxHd0tOMnhLTHNGbkpsWkVKdlBZS1g5OEVaS1Awdk1KOXU2d3ZFby1MRW1tZnJoam1kOXVrVy1LcFhhUkE4SHIyZmFveUxEY2dFcy1UMVZHVXdpR3QxbHNyQ0h2NA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1584169417032-d34e8d805e8b?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-08-28T15:15:31Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "regulacao_57290",
-      "titulo": "Regulação atual não impulsiona enterramento de redes de energia, diz Abradee",
-      "lead": "Regulação atual não impulsiona enterramento de redes de energia, diz Abradee",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajd2dmllNGdVaDc1alNfTktlY2FHUjFScGx5bTl6WjlBaUQtQlE5Tmh4QzlxdW52NjhES1pPendRZkRVLTdIVDFqVHVobUJvc3pqa2U5bnZDd2dFZ3dkQkdsbDBlMEpmUGR6SEVPMGVUOFhWYVRKZm5vT2xiT25QRnNVLXBYalVZMENfU1g2Y0NEYmkwSHRvSXE1eXduNTF3TUU5UWZ5MVI4dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-28T14:57:17Z",
-      "dominio": "agenciainfra.com",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_46860",
-      "titulo": "Mercado de baterias para armazenar energia é dominado pela China e vive era da euforia",
-      "lead": "Mercado de baterias para armazenar energia é dominado pela China e vive era da euforia",
-      "fonte": "Página 3",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjF1ZHRhRXZPUXE0YWFWZzA0OU83WFF4SE8xOWp2c2NxaE5qaE5NbDFmekxQZ2ZJOU9oM3lhUlpMRko3VE5wZU1MWTdWWU1pd19YdnpWTXlYNlBzcV8wdDFYRDJLREdUMlJIN1pMTWFrMUwtRU81N0lLdWVqRlc2NXoxV21UZmt4Ykpsd253Ym54d19sRkFySGZocmZ1RENXQlIxVEtxOGVMWnJ1WWZ6SDVqdDRSZFdiMHdR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-28T08:47:00Z",
-      "dominio": "pagina3.com.br",
-      "tambem_em": [
-        "Folha de S.Paulo"
-      ],
-      "tema": "baterias-armazenamento"
     }
   ]
 }

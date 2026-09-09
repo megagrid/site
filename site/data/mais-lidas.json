@@ -1,31 +1,10 @@
 {
-  "updated": "2026-09-08T21:57:21Z",
-  "fallback": true,
+  "updated": "2026-09-09T15:28:26Z",
   "itens": [
     {
       "rank": 1,
-      "titulo": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV0o4UlV4YnJGWGxjaWkxZG5Pb2IzREY4cTJacjNhUFFteU1oTTlnUks1Y1dMVFM4NFNtdmdoQ1p0dlo3T29rT25fVVIzNWRNQkhNX0Y2WmVVT29qTGdva0VvUmtYbC11N1RFZmZOcVI4OV9FcnFwanI2MkFjUnYyX29rQVBpYzNXc092ZGo2clRMRTNUU2ljcUxXZmxEbFRqYjEtcDdJYmtoQzE5UUdKcl9JUlN1MlMxdG1YeFFJNlhGem9mUElXM05HbVUwSERSUXZkZTlRTHo3MktZODd3dnZUaWl5eEJZaXBlUng4YTFMZGo4bzA1eVNMS29NOEtuWTU3ZlB3?oc=5"
-    },
-    {
-      "rank": 2,
-      "titulo": "Leilão da Aneel: obras em MS ligam Brasil à Bolívia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0RndlkyTkNLUnRVQ21qM0k2eGQyd05CUE93czA3NnozMlVxYlM0M3phc1lvYnA4SnVYOV9qNFlMdkJpbXA3NXBkR2JwT2pRaFZGM1ZfWkJZUExrVDY1ejlxYlJOR054LVJ0Q2ZvVGlodGVBNi01WG1NenRtMkMwZko5NVk5azlXb3hWei05eEJvajhrY2Q1SmVfZ3c3OTd5RkxaM2lSMkpNbDdnbXJmZTAwalVXc3ZEbU1CX19OMNIBvwFBVV95cUxOZFdrNDVUWkNJT3g4bWpFTXV6SXZhRHhoWWY5Qnh0NnVpeTJqTVB5SV9peVM0WFlZSmZLclJxUEdKZXNyQUtPaHljQmptU3llV2JHUHpzNUIxNWNiNy1QYXk3YlZWeHNIQUpFZ0ZmakphWWhEZkxwNEY4aVIxaEstNEVYU3A1QkhVWjI1eTBaOTVaNUZwLThpZ3lHSWYzUWZSSmNVcHdwZGNMV0RjUk5INUdQNmowcjdvSTFuMTdzbw?oc=5"
-    },
-    {
-      "rank": 3,
-      "titulo": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos - Portal IN - Pompeu Vasconcelos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHM4ODBQRDhQU3ppdmdMVGYzMVZRMFdUa1dKZnR4TVBDbDJKSDZrZzdqUjlQMm8yaU9tNGJNSjhmeWYzNzFNOER1alk1a0RnOUZ0d2xJcl9EckExMXZpRkhEcWNoUE5qT1NjSnZySnFValRfZU1uOVAzeTk3TTRYc2RscU9obFdNOW94MXdPNlVTa0M3bXJibU9VWGEwRUE3bmJxUEZyVQ?oc=5"
-    },
-    {
-      "rank": 4,
-      "titulo": "Bruno Goulart de Freitas Machado",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTDhMMzB3bHlSUEMyWFFEUkJmQmRPaDQ5THN1MlpoclRxalp3V0Rlek1oSkxnb0FZM2dWOTZPT0ZQOXJWZ1hocDhLVUktSUEteXF0U3RGcWpONkVlMWxTb0xFUlZESGFFd0N5UUwzbDd5VmpFckRveUx1UHNBd1EzX1h1Z3lGVmg1ekxKTWNpZG1nb3RiWTJGdXh2azBZWUs2a3hES1RuaXFBQnQyX1ZITmFYb2YwN2RPTUV2OUowQVo2NFBCdTdmdGt6Z1N4dFJoSXhUV3RCckdCdDNkdm01RU11c0JWNXJ2M3QzaGMyc2pSNkdONk8zRDFHUHYwem9aS1FST002ODFuOVViTXNEZUoxWnpBeFBoOUE?oc=5"
-    },
-    {
-      "rank": 5,
-      "titulo": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia | O Liberal",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHBVUy1GZi0yUzBkcU1ub0RaUkhtTzctelNua0h6c1BTckJ0WUdqN1JUSWlKMGRwejJqdkg0c2x1emRYSHYyaHdtZnktVWcyeUFHSTNGS2tiN3JUUEFuN21pZU5mMnU4aE55Z01HU3BPaWQzMnhHem5wUExIcTIzeXVVMmN3b0hMSm1oTGwzcThKTV8wSU9SZ2U3c2hlMUhweXZRbGtZd0Y3Q3FST0xURk1vazl0U1JFSnZDSnctR2pacVY00gHKAUFVX3lxTFBxS1lyZGxlY0hjTVZpYUZWemtLUmg2OXMwODV3UXFnWml5M0s5SXRHaHItYXdXaV94OUlNQ3FoYmlscVc1VzI4Tm9SUUVPeWlJTGVRM2oxSVVKTFRHQ0JNd3lYaVN4MVRHdXpKUXZzaE9IYVg4RHM3c01ESkw2RkRLSkVOWFptdlZEbmZRM1EtbU1fMTB3YXZvNXZ0RnNKdi1xVzZJNUNGdlpyZVZTY1ZnemVXUjIwWC02SV9RRFZMUkR6YUpVZ1NzR3c?oc=5"
+      "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaHdabk1yeWJrcDhUNzFQbUxhbjlrbmlGdzRkYUUzME5tdDVBTms1bFhsZFI2RkpPbENhZzR3TjE1YkdYdlRnYmtNLVB2UlYtN2lMd1dYTkRha01qMnM5VkItcmd4RkU4NzZ6VDZIUHkwdS1uZ0RjTE9nSXlFWG82QjN1V2tvWm9oaHdiZlBMTzJxcFpJZFpxX283d1kxbmhYcENna3NEc01HX2phemQ4UVpYalY4NE5kb2xNaXdUS2pNVHVOUE1KcWE1RlJCdk1hd2l6VGYwQ2laOFY0U0ZJ?oc=5"
     }
   ]
 }

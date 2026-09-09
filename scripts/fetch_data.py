@@ -1513,21 +1513,44 @@ _RE_SEPARADOR_CAUDA = re.compile(r"\s+\|\s+|\s+-\s+")
 CAUDA_TITULO_MIN = 25   # o que sobra precisa continuar sendo manchete
 
 
+# Cauda que é o próprio HOST do veículo: o Google News assina assim quando não
+# conhece o nome da redação ('… em setembro - jornaldacidade.net', '… - gov.br',
+# '… - megawhat.uol.com.br'). Não passava na regra de capitalização (inicial
+# minúscula) nem no primeiro regex ([\w\s]+ não casa ponto), e sobrava na home.
+# Dígito é permitido AQUI e só aqui: 'g1.globo.com' é host legítimo.
+_RE_CAUDA_DOMINIO = re.compile(r"[a-z0-9.-]+\.[a-z]{2,}")
+# Conectores que aparecem DENTRO do nome do veículo sem denunciar conteúdo
+# ('Folha de S.Paulo', 'Diário do Nordeste'). Subconjunto estrito do
+# _CONECTORES_NOME: 'em'/'para'/'com' e artigo solto ficam de fora porque são
+# justamente o que aparece em cauda de manchete de verdade ('- Entenda o caso').
+_CONECTORES_CAUDA = frozenset(("de", "da", "do", "das", "dos", "e"))
+
+
 def _cauda_e_veiculo(seg: str) -> bool:
     """True quando o segmento final tem cara de assinatura de veículo ou de
     editoria: curto, sem número e todo em inicial maiúscula ou sigla
-    ('Portal IN', 'Economia', 'O Liberal'). Qualquer palavra em minúscula
-    denuncia conteúdo — é aí que a cascata para."""
-    palavras = seg.split()
-    if not palavras or len(palavras) > 4:
-        return False
+    ('Portal IN', 'Economia', 'O Liberal', 'Folha de S.Paulo'), ou o host do
+    próprio veículo ('jornaldacidade.net'). Qualquer palavra em minúscula que
+    não seja conector denuncia conteúdo — é aí que a cascata para."""
+    if _RE_CAUDA_DOMINIO.fullmatch(seg.strip()):
+        return True
     if any(c.isdigit() for c in seg):
         return False
-    for bruto in palavras:
+    significativas = 0
+    for bruto in seg.split():
         p = bruto.strip(_PONTUACAO_BORDA)
-        if not p or not (p[:1].isupper() or _e_sigla(p)):
+        # Token de pontuação pura ('–' solto em 'Radio Tropical – Três
+        # Corações') não é palavra de assinatura: separador no MEIO da cauda
+        # significa que ela não é um nome só, e cortar aí é fora de escopo.
+        if not p:
             return False
-    return True
+        if p.lower() in _CONECTORES_CAUDA:
+            continue
+        if not (p[:1].isupper() or _e_sigla(p)):
+            return False
+        significativas += 1
+    # Conector solto ('- de') não é assinatura; 4 é o teto do nome de veículo.
+    return 0 < significativas <= 4
 
 
 def _tira_sufixo_veiculo(titulo: str) -> str:

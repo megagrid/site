@@ -1,14 +1,62 @@
 {
-  "updated": "2026-09-09T15:28:26Z",
+  "updated": "2026-09-09T21:51:03Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_9737",
+      "titulo": "Brasil pode ter primeira contratação de bateria em leilão de transmissão em 2027",
+      "lead": "Brasil pode ter primeira contratação de bateria em leilão de transmissão em 2027",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOem4yd0FTeEhjTzl4NkY2c2dkVTFkdktTdkxwdUktYUExc1BWMDNBNl9NVGJSUTY0OUFGc2c3UmNnX3VGZ0haRUpfX05pMDU4NTF3Uk1leGxmZFVBd3BJenQwcWh5c25DcGEwVF9vUm1VS21FLUk3LVNmVEJTNkFiT1JET3BUOGhpOWM3QkRPWkVIODU1SHFLSFV4bFd2UGZiV3prQktZNFUyYkYyNkRvU0J0bi1ldmM1SUE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-09T20:23:58Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_60470",
+      "titulo": "ANEEL quer dar às distribuidoras controle sobre geração distribuída",
+      "lead": "ANEEL quer dar às distribuidoras controle sobre geração distribuída",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzM5eTZYeF9sY2pORXRuNHJiN0dySjlyWlRzY1kzeE1WQTViT05UNGg3YTlCd05iRlJ1QWtTd3dCQTFneUxOUjRqWkJrcTN2V1RhaWtNcEtBQlNfTHVhblI2dHFpaFFRaUlwOGNpMzhTRmZuYmpjSDFBX1d1aFZSTlRR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-09T19:39:30Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "regulacao_46539",
+      "titulo": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia",
+      "lead": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS2haM2tYOHZxRXVpRGQ4V1RZOHhjQTR6Mm9QRU5VVlNndno3YlF1VjY0a2JERVBOYzZwNUdhemdnV3NtMUpQRzR5TkJpTDVlTUZzXzIwWEVHdnIxdVJ6ZVdkQzRsMjZoTklReWxGc3RQSUNuaVZJaGUyMzJHUUxOdEZGNUZhSjlRRUlKODZHNnh5S194RDhoUGFXX1ZnenhEakhITnFreEIzTHNiQmNlZ1FTMjhFcG5sQ1YxZ1NSckF3Q2NSQ3Noc0RlLVEzWFZGbFVGX200Y1pNZE93YllIZXhIVFExaVdpNXY3V21ldW8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-09T18:04:19Z",
+      "dominio": "www.gov.br",
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "mercado-livre_61072",
+      "titulo": "Encontro CCEE reúne lideranças para discutir os próximos passos da diversidade no setor elétrico",
+      "lead": "Encontro CCEE reúne lideranças para discutir os próximos passos da diversidade no setor elétrico",
+      "fonte": "Observatório do Terceiro Setor",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcjM3LTlGYXdDQlB5cC1uNXFsMlRLcUI0S0YtXzc5WWtXU1IxYm9KRFl3OXZsRGpUc2kyd3R6TlB3R3Vmckk3NlpuaGxfbTluSksyWXhSdjlaME9Ha3hDSzJjT3ZKZ0QwZTFldGNCTHdHb1ZWVEF4M2pHR0gyWnphMVdBX3Y3ei1IbVNiSEMwRDNKTDNDOXlwekI4dkFsbU1xT1l1VkZZX0NpQ2xtM0x6eVViWEdrQ1cwMFR6NlBkaXdsV19IQVBqSkk2Yw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-09T18:03:54Z",
+      "dominio": "observatorio3setor.org.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "regulacao_19258",
       "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
       "lead": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027 www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaHdabk1yeWJrcDhUNzFQbUxhbjlrbmlGdzRkYUUzME5tdDVBTms1bFhsZFI2RkpPbENhZzR3TjE1YkdYdlRnYmtNLVB2UlYtN2lMd1dYTkRha01qMnM5VkItcmd4RkU4NzZ6VDZIUHkwdS1uZ0RjTE9nSXlFWG82QjN1V2tvWm9oaHdiZlBMTzJxcFpJZFpxX283d1kxbmhYcENna3NEc01HX2phemQ4UVpYalY4NE5kb2xNaXdUS2pNVHVOUE1KcWE1RlJCdk1hd2l6VGYwQ2laOFY0U0ZJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-09T11:54:39Z",
       "dominio": "www.gov.br",
@@ -20,11 +68,15 @@
       "lead": "Leilão de transmissão da ANEEL terá contratação de baterias pela 1ª vez",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOGlsWlViWWJqREJxMTF1cEtjcGQ1eDl3RjFsNF93anpTNWZCWDh5Z3ZBbHRmWDdySWgzLVhPNnFqeTlLOUljNGFoOXdPQ2h6cUQyaXNKdEp2YkpneU9mUG14d1RoZE1oYzBKYS1ZZFBzc3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-08T20:45:30Z",
       "dominio": "canalsolar.com.br",
-      "tema": "baterias-armazenamento"
+      "tema": "baterias-armazenamento",
+      "tambem_em": [
+        "AJN1",
+        "XP Investimentos"
+      ]
     },
     {
       "id": "transicao_73179",
@@ -56,7 +108,7 @@
       "lead": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV0o4UlV4YnJGWGxjaWkxZG5Pb2IzREY4cTJacjNhUFFteU1oTTlnUks1Y1dMVFM4NFNtdmdoQ1p0dlo3T29rT25fVVIzNWRNQkhNX0Y2WmVVT29qTGdva0VvUmtYbC11N1RFZmZOcVI4OV9FcnFwanI2MkFjUnYyX29rQVBpYzNXc092ZGo2clRMRTNUU2ljcUxXZmxEbFRqYjEtcDdJYmtoQzE5UUdKcl9JUlN1MlMxdG1YeFFJNlhGem9mUElXM05HbVUwSERSUXZkZTlRTHo3MktZODd3dnZUaWl5eEJZaXBlUng4YTFMZGo4bzA1eVNMS29NOEtuWTU3ZlB3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-08T18:58:14Z",
       "dominio": "www.gov.br",
@@ -76,7 +128,7 @@
     },
     {
       "id": "empresas_18736",
-      "titulo": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos - Portal IN",
+      "titulo": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos",
       "lead": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos",
       "fonte": "Balada IN",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHM4ODBQRDhQU3ppdmdMVGYzMVZRMFdUa1dKZnR4TVBDbDJKSDZrZzdqUjlQMm8yaU9tNGJNSjhmeWYzNzFNOER1alk1a0RnOUZ0d2xJcl9EckExMXZpRkhEcWNoUE5qT1NjSnZySnFValRfZU1uOVAzeTk3TTRYc2RscU9obFdNOW94MXdPNlVTa0M3bXJibU9VWGEwRUE3bmJxUEZyVQ?oc=5",
@@ -85,21 +137,9 @@
       "data": "2026-09-08T18:28:00Z",
       "dominio": "www.portalin.com.br",
       "tambem_em": [
-        "brasil247.com"
+        "Brasil 247"
       ],
       "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_99558",
-      "titulo": "Bruno Goulart de Freitas Machado",
-      "lead": "Bruno Goulart de Freitas Machado — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTDhMMzB3bHlSUEMyWFFEUkJmQmRPaDQ5THN1MlpoclRxalp3V0Rlek1oSkxnb0FZM2dWOTZPT0ZQOXJWZ1hocDhLVUktSUEteXF0U3RGcWpONkVlMWxTb0xFUlZESGFFd0N5UUwzbDd5VmpFckRveUx1UHNBd1EzX1h1Z3lGVmg1ekxKTWNpZG1nb3RiWTJGdXh2azBZWUs2a3hES1RuaXFBQnQyX1ZITmFYb2YwN2RPTUV2OUowQVo2NFBCdTdmdGt6Z1N4dFJoSXhUV3RCckdCdDNkdm01RU11c0JWNXJ2M3QzaGMyc2pSNkdONk8zRDFHUHYwem9aS1FST002ODFuOVViTXNEZUoxWnpBeFBoOUE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-08T16:20:41Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_19352",
@@ -115,7 +155,7 @@
     },
     {
       "id": "tarifas_35771",
-      "titulo": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia | O Liberal",
+      "titulo": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar",
       "lead": "Bandeira amarela: veja quais aparelhos mais pesam na conta de luz e como economizar | Economia |",
       "fonte": "O Liberal",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHBVUy1GZi0yUzBkcU1ub0RaUkhtTzctelNua0h6c1BTckJ0WUdqN1JUSWlKMGRwejJqdkg0c2x1emRYSHYyaHdtZnktVWcyeUFHSTNGS2tiN3JUUEFuN21pZU5mMnU4aE55Z01HU3BPaWQzMnhHem5wUExIcTIzeXVVMmN3b0hMSm1oTGwzcThKTV8wSU9SZ2U3c2hlMUhweXZRbGtZd0Y3Q3FST0xURk1vazl0U1JFSnZDSnctR2pacVY00gHKAUFVX3lxTFBxS1lyZGxlY0hjTVZpYUZWemtLUmg2OXMwODV3UXFnWml5M0s5SXRHaHItYXdXaV94OUlNQ3FoYmlscVc1VzI4Tm9SUUVPeWlJTGVRM2oxSVVKTFRHQ0JNd3lYaVN4MVRHdXpKUXZzaE9IYVg4RHM3c01ESkw2RkRLSkVOWFptdlZEbmZRM1EtbU1fMTB3YXZvNXZ0RnNKdi1xVzZJNUNGdlpyZVZTY1ZnemVXUjIwWC02SV9RRFZMUkR6YUpVZ1NzR3c?oc=5",
@@ -128,7 +168,7 @@
     {
       "id": "mercado-livre_72070",
       "titulo": "Diretor-presidente interino Ricardo Simabuku apresenta o Programa de Integridade da CCEE",
-      "lead": "Diretor-presidente interino Ricardo Simabuku apresenta o Programa de Integridade da CCEE",
+      "lead": "Diretor-presidente interino Ricardo Simabuku apresenta o Programa de Integridade da",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlZpRVZsUkYweE9ENXlJN044TFBYbXFUdVlpcFZBU2o0aTZYRWptOUJkZXpJYnB4bFN1cktKNGFWT3c0dGxZWi14ZlBqNjNzQlRmOVFpMzR5LWVkUzZFZ3NubmYtSENES0EwVEY5YlAtZFNkVm1nRTNvQnJHZlpzVlNUZmlteDBiS0lUZzBPZUxTTUJ5YU9sRll3THJzU0RwTjlCUUdDMzdGQTRLSGZpWHpOYnc?oc=5",
       "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
@@ -139,7 +179,7 @@
     },
     {
       "id": "transicao_27940",
-      "titulo": "Quem vai pagar a conta do leilão de baterias?; veja o Radar Energia XP | Setembro",
+      "titulo": "Quem vai pagar a conta do leilão de baterias?; veja o Radar Energia XP",
       "lead": "Quem vai pagar a conta do leilão de baterias?; veja o Radar Energia XP | Setembro",
       "fonte": "XP Investimentos",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQThtbzl0OHd0XzFkVUtkVEtfaEFURWVWb0o0dTVIaC1WMVJzbXdVczlqY0xKb2lYdTc0UGNhZkhUaWlCOXZfV3kwMjRwRjYwQWpFbmV1UzJ5YTRfYmRmQkVoMG9aSjFjS0ctcGFqby1fX0pBYWR6VjFLNXRQODNrd1FJNlBza00wLTZORGpxY3RiME1lUWZjdHU4RDBScml2YjNsWktjcjBRVzk4REhHZ3FXNlkwVFQ5WlQza2FyQWxUdw?oc=5",
@@ -525,30 +565,6 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "tarifas_52638",
-      "titulo": "Conta de energia elétrica mantém bandeira amarela em setembro - jornaldacidade.net",
-      "lead": "Conta de energia elétrica mantém bandeira amarela em setembro",
-      "fonte": "jornaldacidade.net",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVJ0S20wS2lXOXk0c1VJMWZfeXR1Yng5V2JLWU9WUTRGSnJnQjdrbnJqUERoZkx0VEdFZlI3dGZSVUgzS2EwWHJEcmhuSE9Lc3pnYW9oTTViVTFCcUFPRzJRUzAzY3RoSi01NHlRV043b2oza1RacjZTYW4tcWdSNUdNZFJOcTE3cFpreHR1ZkVXaTljQ1RTZFBwZkRONEZoN1RIVDBuUThETEZaUXY3ZjZPcFQ0dlBuMUZlYQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-02T12:14:06Z",
-      "dominio": "www.jornaldacidade.net",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "tarifas_5899",
-      "titulo": "Conta de luz segue em bandeira amarela pelo quinto mês seguido - atribunarj.com.br",
-      "lead": "Conta de luz segue em bandeira amarela pelo quinto mês seguido",
-      "fonte": "atribunarj.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMkVBY3owNWpqNmZTYXlDZkNRbnFLOWVMWXA4bmNIbnVneC1kbWZHa0txUHBtNEd3R2FpUlZoWEh5WWluUk5zRzAyTjFmUE1jbk8wQTliQm1QTUJhN0c5Ry0xTUFVV3Z3ckJrVWx1eXp3SlJOdVBMZENnNkYyc1lPX0p5TktVdG0tanJ2VHBzMnhqbWQ4b0FtcmNkbS0zQ0libXc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-02T10:25:52Z",
-      "dominio": "www.atribunarj.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
       "id": "transicao_39081",
       "titulo": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
       "lead": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
@@ -676,7 +692,7 @@
     },
     {
       "id": "transicao_59197",
-      "titulo": "Governo prepara primeiro leilão de baterias para armazenamento de energia - band.com.br",
+      "titulo": "Governo prepara primeiro leilão de baterias para armazenamento de energia",
       "lead": "Governo prepara primeiro leilão de baterias para armazenamento de energia",
       "fonte": "band.com.br",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmYzWk1nMEZsSnRHZ21JVTJkZFRVWXQ1SUM2VEtULWk4ZzA3S0gzQ1poRDFyZWU3MVNNdmp6bkpHQlFxNUgtTkx4SFo4OHRBRWJMS0RRMjBReVQ2QVl4dVVLQjh0amtxcEo4MWJXMkhSS1hfcGxqTnRSOXJicmlrTUF0eE4zSlNOVFhEeHNsSEhnQWNuYUNMMkVIeU8wSndaTDFWQlNnRUFzTzdmMnZjaC1LTzlFNEhrUEE?oc=5",
@@ -721,6 +737,8 @@
       "data": "2026-08-31T11:38:50Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
+        "jornaldacidade.net",
+        "atribunarj.com.br",
         "CBN Caruaru"
       ],
       "tema": "consumidor-residencial"
@@ -736,18 +754,6 @@
       "data": "2026-08-31T11:22:29Z",
       "dominio": "www.bnamericas.com",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_49958",
-      "titulo": "Anatel aguarda decisão da Aneel para resolver impasse sobre postes",
-      "lead": "Anatel aguarda decisão da Aneel para resolver impasse sobre postes",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlp6WVhIRFdzSzZhSTdDX01aajhNd2Rid2pLTUpSTlFTZHpiQUlweUtTTVZrYnJvRFlOcjJ5RERjZFBOUzJodWFJTDVYTW83djJTQ1FBaVowbVk2WFZQLWl6ejQtSUVFVlJucUMyTXd6Z1FwbmNNN3ZUbThTd1dDQmljenBqdDB6MFJRcjVxYWM4VlhyMUV2ajJYQ2dyVzRmbTAxRmRsTlE2eE0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-31T07:00:00Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

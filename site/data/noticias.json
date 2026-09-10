@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-10T15:23:41Z",
+  "updated": "2026-09-10T21:43:46Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_53320",
+      "titulo": "WEG ganha sinal verde do BNDES para disputar corrida pelas \"baterias gigantes\" em novo leilão de energia",
+      "lead": "WEG ganha sinal verde do BNDES para disputar corrida pelas \"baterias gigantes\" em novo leilão de energia",
+      "fonte": "NSC Total",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFJwM0ZjZ2NlSG5HRTlXRkRVbWU3M0FESnU3VFF6NjJKMDRoVFBsckcwMnpSckt5VW5zZnNZWHpjaWpBQkZrZGdGYmV4R2x0dmtzcGh6Ujh0V2VSbW5HcHlkbTNzTnNlNV8xN2lIZHgybEZHa2RkWUY0OW4ybW4zSHY1T2FsWkhuZ19wVWt6dXFzSGJCSjhiY2psM3VVVHVQenV5M1VNUHY0aWNpRE8wVy1zcl9DWnNuTFpfbjhOT2E1bnJiNDRvamdQTmZGc2N4WW5pNWlkcTA0WXFuVkE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-10T17:51:04Z",
+      "dominio": "www.nsctotal.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "tarifas_78447",
       "titulo": "Conta de luz terá cobrança extra em setembro; veja quanto você vai pagar",
@@ -20,7 +32,7 @@
       "lead": "Brasil pode ter primeira contratação de bateria em leilão de transmissão em 2027",
       "fonte": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOem4yd0FTeEhjTzl4NkY2c2dkVTFkdktTdkxwdUktYUExc1BWMDNBNl9NVGJSUTY0OUFGc2c3UmNnX3VGZ0haRUpfX05pMDU4NTF3Uk1leGxmZFVBd3BJenQwcWh5c25DcGEwVF9vUm1VS21FLUk3LVNmVEJTNkFiT1JET3BUOGhpOWM3QkRPWkVIODU1SHFLSFV4bFd2UGZiV3prQktZNFUyYkYyNkRvU0J0bi1ldmM1SUE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-09T20:23:58Z",
       "dominio": "www.bnamericas.com",
@@ -736,18 +748,6 @@
       "editoria": "transicao",
       "data": "2026-08-31T16:57:11Z",
       "dominio": "www.band.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_60958",
-      "titulo": "ANEEL debaterá regras dos primeiros leilões de baterias nesta terça-feira",
-      "lead": "ANEEL debaterá regras dos primeiros leilões de baterias nesta terça-feira",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOU5JY3U2ZEJuMWF0Q25PVHlFTXdmOWtVQzZqQUxWTC12bm16cnA0REdnNzBIU2J1cnB4RXlPUFZVQ3lQUnllQTJfaExCY3hmZGFjUDAzRkFsSVZSMkh2bERhbERGQm5lSHFSY21PTUM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-08-31T16:46:30Z",
-      "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

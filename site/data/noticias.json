@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-09T21:51:03Z",
+  "updated": "2026-09-10T15:23:41Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_78447",
+      "titulo": "Conta de luz terá cobrança extra em setembro; veja quanto você vai pagar",
+      "lead": "Conta de luz terá cobrança extra em setembro; veja quanto você vai pagar",
+      "fonte": "Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcFdGbkJCdFpoRzRzd1B6NTdQeGtpcjk1RFpScXRMRVZSTW5UVnFNRWNtcHhkNXNjX3pqWktFelJwaE04TEFKdHpSTEtoZVpHclZHdWw5Q2RKWGxXWkpJUG5XLUMzTE5IaGNBOTFIaFI2ZU5KeWpGaGJvWVNqS3lYN1VXWFJSeGRfUnpSY29sSEFINEhiZG9jWXo4NGJ1MFhyR05VMDdfWm5VRHFOc09Da2d1UG9nUG1zQXVnRmUwSmNjbzJtcXpPam5zVlN5MHlRd2p3aFRRcWtQcHByYi13a1BxT2tqUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-10T13:33:00Z",
+      "dominio": "www.terra.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "transicao_9737",
       "titulo": "Brasil pode ter primeira contratação de bateria em leilão de transmissão em 2027",
@@ -15,12 +27,24 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "transicao_20598",
+      "titulo": "Empresa colombiana de energia \"recarrega\" estratégia com aposta em baterias no Brasil",
+      "lead": "Empresa colombiana de energia \"recarrega\" estratégia com aposta em baterias no Brasil",
+      "fonte": "NeoFeed",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHNycmRLQ1ZhamNXdk9ncURRMjI3QmVJRkJyV012UTNkZ0M4TXpmQWFaOFVHOXdJdnE1OG5tX1NVblRadFQ0WkRGNkVaSUhSWnJ2WEdBQWdtYWM5enVMb3RoQTRrbmJzRU9CaDUyZUJBcmxYQVVaLVVFLXhRejJpNWxNcmlNamJYclZXRV9VX2JvYUhBalhsdnZZRzBsUWJPLVBsaDJpNjF5QjlheTJjT2RhbnBhQW8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-09T19:56:00Z",
+      "dominio": "neofeed.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "regulacao_60470",
       "titulo": "ANEEL quer dar às distribuidoras controle sobre geração distribuída",
       "lead": "ANEEL quer dar às distribuidoras controle sobre geração distribuída",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzM5eTZYeF9sY2pORXRuNHJiN0dySjlyWlRzY1kzeE1WQTViT05UNGg3YTlCd05iRlJ1QWtTd3dCQTFneUxOUjRqWkJrcTN2V1RhaWtNcEtBQlNfTHVhblI2dHFpaFFRaUlwOGNpMzhTRmZuYmpjSDFBX1d1aFZSTlRR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-09T19:39:30Z",
       "dominio": "canalsolar.com.br",
@@ -51,6 +75,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_30473",
+      "titulo": "CCEE realiza Jogos de Mercado e apresenta melhorias propostas na formação de preços",
+      "lead": "CCEE realiza Jogos de Mercado e apresenta melhorias propostas na formação de preços",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1NqS2t6OTEyeXFqdXQwNUxNNWJrb3lNdnRQQXJTOVNRaDR6eTlDN0h1cWpLaEdqUFdydGQ0Nk9zVVJqTXZSVGM2elhjc0pWYmNZYmM4YUoxc0xNaHdxYlljcGRQYXdXeEoxWHdMV2pjSU1xNU5DaFU1dkJxQUl5eGQ1eUZzTHhOOXpnbk9CcmVtNFl3Vjk1Vmc3eW1pSzE4bEdPM0NYY0luZEJTX1FZeHVoT2Q0M1JMaVRGd1gwa2JXRzAyVWxybXB2c2tFMjR0UWtkYzFHQWFmYlRZYTVpREV6NA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-09T18:02:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "precos-mercado"
+    },
+    {
       "id": "regulacao_19258",
       "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
       "lead": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027 www.gov.br",
@@ -68,7 +104,7 @@
       "lead": "Leilão de transmissão da ANEEL terá contratação de baterias pela 1ª vez",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOGlsWlViWWJqREJxMTF1cEtjcGQ1eDl3RjFsNF93anpTNWZCWDh5Z3ZBbHRmWDdySWgzLVhPNnFqeTlLOUljNGFoOXdPQ2h6cUQyaXNKdEp2YkpneU9mUG14d1RoZE1oYzBKYS1ZZFBzc3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-08T20:45:30Z",
       "dominio": "canalsolar.com.br",
@@ -108,7 +144,7 @@
       "lead": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV0o4UlV4YnJGWGxjaWkxZG5Pb2IzREY4cTJacjNhUFFteU1oTTlnUks1Y1dMVFM4NFNtdmdoQ1p0dlo3T29rT25fVVIzNWRNQkhNX0Y2WmVVT29qTGdva0VvUmtYbC11N1RFZmZOcVI4OV9FcnFwanI2MkFjUnYyX29rQVBpYzNXc092ZGo2clRMRTNUU2ljcUxXZmxEbFRqYjEtcDdJYmtoQzE5UUdKcl9JUlN1MlMxdG1YeFFJNlhGem9mUElXM05HbVUwSERSUXZkZTlRTHo3MktZODd3dnZUaWl5eEJZaXBlUng4YTFMZGo4bzA1eVNMS29NOEtuWTU3ZlB3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-08T18:58:14Z",
       "dominio": "www.gov.br",
@@ -712,47 +748,6 @@
       "editoria": "regulacao",
       "data": "2026-08-31T16:46:30Z",
       "dominio": "canalsolar.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_54678",
-      "titulo": "Neoenergia revê processos para atrair clientes da baixa tensão no mercado livre",
-      "lead": "Neoenergia revê processos para atrair clientes da baixa tensão no mercado livre",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNi1qUnM4cS0wRi1GQzdERUJORlBYdzZyZTUyOGdYRVc0UkZwWWRoaHVQWlBGdTFld3ZYNkhkRVEtb19DbE9tX0RjV2dhanQzMFRDQko5V0VZM3RsZ3BUaWUtLTlaMjNUYUxnTW1zMVBqd0RvdjhaZzF2Q29SVUtrc3c5aHBOdUl1UzVwQ1B5bUNMT1dmUER4d0tjRWhhZXNPdlM2OHJuQVh5ZUo5VlkxUHk1T1gwWnhKT1E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-08-31T14:15:39Z",
-      "dominio": "eixos.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_20128",
-      "titulo": "ANEEL mantém bandeira amarela pelo quinto mês consecutivo",
-      "lead": "ANEEL mantém bandeira amarela pelo quinto mês consecutivo",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvZkVpYmlsRUZ0QU16UXBfcFhLcl82Uk0taXlmRnU2SWhLNWN5TkdDQXR0WUpXR1RPRjRkWDJBZE1IQ2V6NlNFUnFZeVhwbHpGdW1TZnpRYzFEeWZ5WUwtQ3d1MFhJZnROR0h5UFc3YWZwZTgzOTRZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-08-31T11:38:50Z",
-      "dominio": "canalsolar.com.br",
-      "tambem_em": [
-        "jornaldacidade.net",
-        "atribunarj.com.br",
-        "CBN Caruaru"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_80159",
-      "titulo": "Prazos do primeiro leilão de baterias do Brasil preocupam empresas",
-      "lead": "Prazos do primeiro leilão de baterias do Brasil preocupam empresas",
-      "fonte": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1hnbUt4TWFFQ0tZNlY5dGZZZW4tY2h1NTZ1Uy1NeU9xcExMWVZjUV81Nm43dXMzMWlKWDR2alFGX3BheEs5UEcybW52QmZRYWJoRjJvbzhzSFp1MC1fcVZVOGlFYzZWbUFCeXljd2RYV2wzbTNWUmNCSmpXdVh4akVjaUlxRmJDd19vRElzQVd6aDREUngyQWN5WUN2V0VyVnVoVHBxNG8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-31T11:22:29Z",
-      "dominio": "www.bnamericas.com",
       "tema": "baterias-armazenamento"
     }
   ]

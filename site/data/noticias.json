@@ -1,14 +1,65 @@
 {
-  "updated": "2026-09-10T21:43:46Z",
+  "updated": "2026-09-11T15:25:35Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_8083",
+      "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
+      "lead": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONVVLc2pDUUM0RFJvbW1jNEZTMHpadE16dHF1OEtTbWg0aXFKNXdod05hcVc3N2RDaERPcnFMTTU1a2QtVlRaUEtydzhIZk5HMS04ZWF1UnVmMUREcE9CcFR4LVdIZkg5d2VueFRyUVF5THNvckhQM2NEUjF6cUt2TG9SS3Y4aU9HUV9rU2lNZkduUlVMckpGdkNPN1hidllwZUJTNGFURC1uNjl1ZktpTVhmd1pmd21hc0ZZS2RpN2xCMFB3MklRQ3FvSkFacVBnRnlhSmw3N3VfYURXYzNTaVNUZ0U3cDFkZ0I4?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-11T12:27:25Z",
+      "dominio": "www.gov.br",
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "regulacao_47537",
+      "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
+      "lead": "ANEEL assina novos contratos de geração e transmissão de energia elétrica gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEllWEp2VWEwXzFxOFczYXRJdmVLek5jRDNqQzUtQzNBY3NQUzg0akVQNUZ6VzRYMGdOSmFfVS1USlBoblQzZzQyTzBvRG95VFdwdXBGOWItYlByd0FHNXBwdzJuZkdUMlppRXR5NGRlclhTTXRBeHZMV2IzblVDSWpjd050OWNmX2pBbl9xQ2N2YTI4WkUtbTNza0M0Q3B6emVKaExOckhpS29XdWpxT1NyYl8xOC1pNWI3Z3AzUzFWem5YZzRZTko0cGxfYTR4OV9OdlJFdklfTFNK?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-10T20:59:54Z",
+      "dominio": "www.gov.br",
+      "tambem_em": [
+        "ANEEL"
+      ],
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "regulacao_42017",
+      "titulo": "Sandoval cita 'turbulência' no LRCap e defende atuação da Aneel",
+      "lead": "Sandoval cita 'turbulência' no LRCap e defende atuação da Aneel",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUlKQXp6THc2YktZYXZROEdGcjNIOHF1VHhpX05pdEUtY0RKOWdORFZ4YnRacmV0YTdQTXd3ZlpVTGhielpFV0tibUNTRGp2c1ByVFNTN3RPLUx6NFdaeUwxb2laemd6TEJrbmRjLWROaGNicHVrbVlRTEp3UFNSX3pSM0FSWlJTMTIzcmxRWmtqalNjSXlCSjJGeWpqQnM?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-10T19:40:24Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_3971",
+      "titulo": "Aneel Propõe Repasse Do Encargo De Baterias Do LRCAP A Contratos Do Mercado Regulado",
+      "lead": "Aneel Propõe Repasse Do Encargo De Baterias Do LRCAP A Contratos Do Mercado Regulado",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXZCckFGZVlVT0k1RVlEMEV5SEllajgzWGQ5bjFDa0RMUDB1THl3bG1wR3RuNVM2QmJVUklYQUt6ckw2UzJQQ0VLM3lQVGg3alhKTHBNX2UzSHZjQ2hOT1VtbEo1QWN4WUE5ejREWkFwN3Qybmx6dTFTY2lCNXlKaUlNLWo1blFCOGpNWFlvZ2dMVGJWbXNSVlVud2pwVkF5SFZxZDZCc0RoU1JYQ3FRbUFyeE5hZmVGWHBjeW94YlA4UmFY?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-10T18:10:16Z",
+      "dominio": "cenarioenergia.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "transicao_53320",
       "titulo": "WEG ganha sinal verde do BNDES para disputar corrida pelas \"baterias gigantes\" em novo leilão de energia",
       "lead": "WEG ganha sinal verde do BNDES para disputar corrida pelas \"baterias gigantes\" em novo leilão de energia",
       "fonte": "NSC Total",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFJwM0ZjZ2NlSG5HRTlXRkRVbWU3M0FESnU3VFF6NjJKMDRoVFBsckcwMnpSckt5VW5zZnNZWHpjaWpBQkZrZGdGYmV4R2x0dmtzcGh6Ujh0V2VSbW5HcHlkbTNzTnNlNV8xN2lIZHgybEZHa2RkWUY0OW4ybW4zSHY1T2FsWkhuZ19wVWt6dXFzSGJCSjhiY2psM3VVVHVQenV5M1VNUHY0aWNpRE8wVy1zcl9DWnNuTFpfbjhOT2E1bnJiNDRvamdQTmZGc2N4WW5pNWlkcTA0WXFuVkE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-10T17:51:04Z",
       "dominio": "www.nsctotal.com.br",
@@ -61,18 +112,6 @@
       "data": "2026-09-09T19:39:30Z",
       "dominio": "canalsolar.com.br",
       "tema": "solar"
-    },
-    {
-      "id": "regulacao_46539",
-      "titulo": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia",
-      "lead": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS2haM2tYOHZxRXVpRGQ4V1RZOHhjQTR6Mm9QRU5VVlNndno3YlF1VjY0a2JERVBOYzZwNUdhemdnV3NtMUpQRzR5TkJpTDVlTUZzXzIwWEVHdnIxdVJ6ZVdkQzRsMjZoTklReWxGc3RQSUNuaVZJaGUyMzJHUUxOdEZGNUZhSjlRRUlKODZHNnh5S194RDhoUGFXX1ZnenhEakhITnFreEIzTHNiQmNlZ1FTMjhFcG5sQ1YxZ1NSckF3Q2NSQ3Noc0RlLVEzWFZGbFVGX200Y1pNZE93YllIZXhIVFExaVdpNXY3V21ldW8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-09T18:04:19Z",
-      "dominio": "www.gov.br",
-      "tema": "transmissao-rede"
     },
     {
       "id": "mercado-livre_61072",
@@ -700,55 +739,19 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_46299",
-      "titulo": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
-      "lead": "CCEE lança campanha nacional para apresentar o mercado livre de energia para 90 milhões de brasileiros",
-      "fonte": "TN Petróleo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ3NsVWlSb0NoNndjZTVJTzg2bkRUclQ3N0RwX0Rpd2lKUGhLLV9yZUlJVndBMVFxYlBRZ2xpZFRvSnBSbTlBR0J0bmVhcVJseERUTi13RUY1RXBFUVk0VzAwdFdJRWJROE5kYllwbldET2ZDbmtQMzA3dFh4cks0OFpBSHdtOEhXaGhJRHhEM19VbDY0TlhaeFd4SFB2NUI2RWNTLVN2TUN5RFVsSTdram9HRkY0MWZEazdxUzNIeGFrZUE2RFdlSE5jUGYtM203OFRv?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-01T15:00:00Z",
-      "dominio": "tnpetroleo.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_53472",
-      "titulo": "Termelétrica Manaus I inicia operação comercial parcial com 114,8 MW",
-      "lead": "Termelétrica Manaus I inicia operação comercial parcial com 114,8 MW — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVRpUGY4QmpYRlJBRjBGaUxCTXEta0NScU5fY1VDZml6Y25nWDN3MjJsY1lmUmZTSGQzZGNXaUY4ZlEza2JJam1xOGN0QmtYOUQ3VmQ4emU5M3JLbVFYQmtqTEtxRE1kd3VvaXgxUFRuN1FRRl9XQjJnOUk4aHg2YzZTMEl2bUlCckU5M1pNSkhsV01fWmxfNl9nWWpmenBXWjZCbzVzVUVWMU01Sk5uMHg1TkczdGVPLXRmNFdxTk1OYTlMdExaLUUyb0U3Rmh1Qzh1Y3Jn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-01T11:38:00Z",
-      "dominio": "www.gov.br",
-      "tema": "termica-gas"
-    },
-    {
-      "id": "transicao_17200",
-      "titulo": "De olho em leilão no Brasil, fabricantes chinesas de baterias se unem a nacionais",
-      "lead": "De olho em leilão no Brasil, fabricantes chinesas de baterias se unem a nacionais",
-      "fonte": "InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDRSR3lnUlk4dklIN2lKUC0zWlBWaldaYVNZcmF3aVJoS2ZkX0tiRGpwdE5NSlhYd2I0OGI2X2VCVlNHQ1ltc0M1YmdHbkk4R2FuaGgwN05xZGJOdE9TYnBHSExXUkZKUU1GSWZzRExLVFNKYTJRWHBNM210VlRuQUdseGt4TkZlR3NNUS1nNEVpN212RGdMLTVyX1MzNFMwamFSX1ZPZFNCa3d3Ulc1Y2FYLVp6Rjc1WmpJ0gHAAUFVX3lxTE5iVFVTUFJKQWVTdWhxQk96dmkwY0tVcklZd25pNXJwWmo5a0tlWENBSTc2NnRQMU1uOThMaDdqbWVJdjFOTklJV3JvRTVaNkw3bHBsRzEyVUlCeV9aS1BpUHo2UWxjN1pPNGVHUG9qMTZjTDV2ckFHZFhLT01HY01EUVVnaUh5bFNmVGRyRjd1dE1FaDN0cTVDMFlQaHpaUTd4SDJleHdaM0pHVW5ZT2NXanpLZ04xVGI3RThyRVh1NA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-31T19:18:42Z",
-      "dominio": "www.infomoney.com.br",
+      "id": "tarifas_96748",
+      "titulo": "Aneel mantém bandeira tarifária amarela em setembro",
+      "lead": "Aneel mantém bandeira tarifária amarela em setembro",
+      "fonte": "CBN Caruaru",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0dCUV9VbzJPQmVaQU9UdS1xT2VCd2xUWUtCQkxSZEJqeWJsRHNkWGRxWVlUeUt6VUlJY0JBU1B2M21EY3dmQ3pzNDFlVXNNR2RPWU1IRHJBNDIyendSZXRLVWF0MHM3bi1scnFnZHU4XzJDZ3lHVmVJZkliejYzdmlQS09RdjhndEdrMHJ0Yw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-01T17:34:10Z",
+      "dominio": "cbncaruaru.com",
       "tambem_em": [
-        "Valor Econômico"
+        "canalsolar.com.br"
       ],
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_59197",
-      "titulo": "Governo prepara primeiro leilão de baterias para armazenamento de energia",
-      "lead": "Governo prepara primeiro leilão de baterias para armazenamento de energia",
-      "fonte": "band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmYzWk1nMEZsSnRHZ21JVTJkZFRVWXQ1SUM2VEtULWk4ZzA3S0gzQ1poRDFyZWU3MVNNdmp6bkpHQlFxNUgtTkx4SFo4OHRBRWJMS0RRMjBReVQ2QVl4dVVLQjh0amtxcEo4MWJXMkhSS1hfcGxqTnRSOXJicmlrTUF0eE4zSlNOVFhEeHNsSEhnQWNuYUNMMkVIeU8wSndaTDFWQlNnRUFzTzdmMnZjaC1LTzlFNEhrUEE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-08-31T16:57:11Z",
-      "dominio": "www.band.com.br",
-      "tema": "baterias-armazenamento"
+      "tema": "consumidor-residencial"
     }
   ]
 }

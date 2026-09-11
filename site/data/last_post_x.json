@@ -1,17 +1,17 @@
 {
-  "verificado_em": "2026-09-11T15:25:37Z",
-  "status": "pulado-sem-novidade",
-  "motivo": "sem novidade material desde o post de 17.7h atrás (janela de 20h) — iguais: PLD (SE/CO 125,13 · Sul 125,13 · NE 125,13 · Norte 289,25); bandeira amarela/setembro/2026; EAR 63%; termômetro em 'normal'",
+  "verificado_em": "2026-09-11T21:48:53Z",
+  "status": "publicado",
+  "motivo": "id 2098529237770682821",
   "fingerprints": {
     "X_API_KEY": "71f1882d",
     "X_API_SECRET": "962872f8",
     "X_ACCESS_TOKEN": "ffc2943f",
     "X_ACCESS_SECRET": "37faeb93"
   },
-  "postado_em": "2026-09-10T21:43:48Z",
+  "postado_em": "2026-09-11T21:48:53Z",
   "hash": "1a8cb457b24197f5380d87bef7e2420d930f63312602835699841c42c97a0dca",
   "chars": 192,
-  "texto": "⚡ Mercado agora — 10/09 · edição da tarde\n\nPLD (R$/MWh): SE/CO 125,13 · Sul 125,13 · NE 125,13 · Norte 289,25\nBandeira: amarela (setembro/2026) · Reservatórios: 62,6%\nTermômetro do MWh: 33/100",
+  "texto": "⚡ Mercado agora — 11/09 · edição da tarde\n\nPLD (R$/MWh): SE/CO 125,13 · Sul 125,13 · NE 125,13 · Norte 289,25\nBandeira: amarela (setembro/2026) · Reservatórios: 62,6%\nTermômetro do MWh: 33/100",
   "material": {
     "pld": {
       "SE/CO": 125.13,

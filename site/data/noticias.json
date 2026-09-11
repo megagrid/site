@@ -1,14 +1,50 @@
 {
-  "updated": "2026-09-11T15:25:35Z",
+  "updated": "2026-09-11T21:48:51Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_50496",
+      "titulo": "Expansão da matriz elétrica em agosto é de quase 2 GW",
+      "lead": "Expansão da matriz elétrica em agosto é de quase 2 GW — Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS25temxhTHV1SkwtQmpXRG5NNndyUEJJc0EzaG5fMzk1TllDckk0b3hHMFlTRno4bkJBMHRDVFBsbjB6WjFVMGN0UllMbXRGdzFaaDhBdE4tNS1DbHU3SXVsRDh2TW94bkxtU3Z1OUtlbnhqamdPZ3FWRXEtVjkweXVZbFRGblRzU2t1Vy1kYTZwOUcybGNyWFpnVEtzTkhZMkVQTjh3RlFmSnFtMG9nYmpjTWhGM09SVG5ydzlTYWRvUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-11T19:54:57Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_20756",
+      "titulo": "Setor elétrico brasileiro requer R$670bi até 2040 – quais são as demandas e desafios?",
+      "lead": "Setor elétrico brasileiro requer R$670bi até 2040 – quais são as demandas e desafios?",
+      "fonte": "bnamericas.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnZPWXh1YkNSclhnSFFyS29LMnVpemVHQXVad1VLeGYxSm5qcEM3NkdkOXliUUtqVGNIc3czbTQ2bDlBU0c4WnB3NExNTG0tdU1LNEx6REFLMnVGOF9XVVVJR1luY2xXeXdlTDZvMFM2djlWWG9QWWdsRWZiZ3Z1TldLc0dfandzSDEtaVVBd2NGMnNFUng4RnFrLTEzQUR2ejFFSDU0MHp4Slc0YkJiaFFfV3U1akRaZDluSw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-11T18:22:30Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "solar"
+    },
+    {
+      "id": "mercado-livre_37521",
+      "titulo": "2º Fórum Análise Setorial CCEE abre oportunidades de patrocínio",
+      "lead": "2º Fórum Análise Setorial CCEE abre oportunidades de patrocínio",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTmUxWDdGakE3ZE03M0ZZVkZvcFJ1TWlKS3QtNUtQcDlnNXBwSVV5aDRXRE9wenJFT21GQ0JrckZXQnVUSlN6NXVEM0ZwanBpX01mOGNVM3lpWWJsaWpiSjVfdWh4UFdkN25YQlNFdlljLUx5UUYyRDN5T1RVSkpaVEdVQWxKVjVtQTNFeEkzTFU2dw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-11T15:00:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "regulacao_8083",
       "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
       "lead": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONVVLc2pDUUM0RFJvbW1jNEZTMHpadE16dHF1OEtTbWg0aXFKNXdod05hcVc3N2RDaERPcnFMTTU1a2QtVlRaUEtydzhIZk5HMS04ZWF1UnVmMUREcE9CcFR4LVdIZkg5d2VueFRyUVF5THNvckhQM2NEUjF6cUt2TG9SS3Y4aU9HUV9rU2lNZkduUlVMckpGdkNPN1hidllwZUJTNGFURC1uNjl1ZktpTVhmd1pmd21hc0ZZS2RpN2xCMFB3MklRQ3FvSkFacVBnRnlhSmw3N3VfYURXYzNTaVNUZ0U3cDFkZ0I4?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509389807183-f0fbe962761a?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-11T12:27:25Z",
       "dominio": "www.gov.br",
@@ -20,7 +56,7 @@
       "lead": "ANEEL assina novos contratos de geração e transmissão de energia elétrica gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEllWEp2VWEwXzFxOFczYXRJdmVLek5jRDNqQzUtQzNBY3NQUzg0akVQNUZ6VzRYMGdOSmFfVS1USlBoblQzZzQyTzBvRG95VFdwdXBGOWItYlByd0FHNXBwdzJuZkdUMlppRXR5NGRlclhTTXRBeHZMV2IzblVDSWpjd050OWNmX2pBbl9xQ2N2YTI4WkUtbTNza0M0Q3B6emVKaExOckhpS29XdWpxT1NyYl8xOC1pNWI3Z3AzUzFWem5YZzRZTko0cGxfYTR4OV9OdlJFdklfTFNK?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-10T20:59:54Z",
       "dominio": "www.gov.br",
@@ -713,45 +749,6 @@
       "data": "2026-09-01T21:36:56Z",
       "dominio": "braziljournal.com",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_82013",
-      "titulo": "Com R$ 20 bi em jogo, Aneel discute regras para leilão de baterias",
-      "lead": "Com R$ 20 bi em jogo, Aneel discute regras para leilão de baterias",
-      "fonte": "Exame",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzc2T0VCaWtOZmxwTy1KSGY3LUxBMTdwQnR1NmJtaGRJSGFtejk4OFhJVFVmampJZWpHU3VveHNXbzhsV1dWT215dHd1YmlPRGQ5aWt3T2t1bkQ1Nm12UGtvREd6SmRlV2FISGxCTWxjb092aTQydm1rTDN3dnBoZ2J5X1ZxdklKYmhCVGVQLUpSVG0tNmlaTXlISEVZZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-01T19:39:54Z",
-      "dominio": "exame.com",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_38041",
-      "titulo": "Justiça derruba proteção da IBS Energy contra cobranças da CCEE",
-      "lead": "Justiça derruba proteção da IBS Energy contra cobranças da CCEE",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUhwTVI3dEdpTGpYdzFNUUdhblBUWVphZjlLOW9Od2p6aUpiTUMyU3ZKZ3FiSUhsVTFnSWt1OUt3eXcyMm9GQnBSUzl1elRYTmdPNVlHZlpWeXF4WVRkeXNkVlJhdWphQkozTUVDX0ZpeU5wVGtVNm9LNnEzY0FLNmFERm5vSGYxSEVvV0d6Q3dnUXlxMlVpck9ILTd5ZnFIUWQyZlVSLWpWQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-01T17:34:30Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_96748",
-      "titulo": "Aneel mantém bandeira tarifária amarela em setembro",
-      "lead": "Aneel mantém bandeira tarifária amarela em setembro",
-      "fonte": "CBN Caruaru",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0dCUV9VbzJPQmVaQU9UdS1xT2VCd2xUWUtCQkxSZEJqeWJsRHNkWGRxWVlUeUt6VUlJY0JBU1B2M21EY3dmQ3pzNDFlVXNNR2RPWU1IRHJBNDIyendSZXRLVWF0MHM3bi1scnFnZHU4XzJDZ3lHVmVJZkliejYzdmlQS09RdjhndEdrMHJ0Yw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-01T17:34:10Z",
-      "dominio": "cbncaruaru.com",
-      "tambem_em": [
-        "canalsolar.com.br"
-      ],
-      "tema": "consumidor-residencial"
     }
   ]
 }

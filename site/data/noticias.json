@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-12T21:32:03Z",
+  "updated": "2026-09-13T15:13:44Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_95674",
+      "titulo": "FIEMA reúne Conselhos Temáticos para discutir avanços e oportunidades no mercado livre de energia",
+      "lead": "FIEMA reúne Conselhos Temáticos para discutir avanços e oportunidades no mercado livre de energia",
+      "fonte": "O Maranhense",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1NjQmd4TW0zcndmUm1XV3VkbFR0VDMxRnhpSjVnbXV3aS1UMXBwT1VzYWFlVjVISnV0VWR4dmRRNFFDbzhLTnRWaFVLaF81ZU4xV0dqRFFTcTNpVDhYY1FyaURUcUlsWUt0aFg5NUlrMnpWeTNvTFI2RmtCWVVlV29zaDlWbDFVLXBQWVRmLWVwSFdhbW1oYVdLSjVpNmdSaVZMVjVuQUVsYWxMOW1zOFdrQkF1Wl9DWHRIUldPSQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-13T02:12:31Z",
+      "dominio": "omaranhense.com",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_96360",
       "titulo": "Infra em 1 Minuto: quem paga a conta do leilão de baterias?",
@@ -20,7 +32,7 @@
       "lead": "O leilão de baterias e a nova fronteira regulatória do setor elétrico",
       "fonte": "Agência eixos",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUJQWWdXWVRtYWZXY3ZNS0xhMXBVQW1tMHlYWUpyeks3eHBNdEg3Y3hnOUtScHJKNFo3YlhiOUh1dXl2MTFLMTFsYVlOUDNvQmFaV295a2RMZWl6eXF3ZjBBMFFRMEI2SkZiWFRZYWl4OV91M2lOV2tQT01IbXNyT0xUNnhDQzA0TGFUMDNnUmtOcEJIWmFNb0NXNHh6OWdQOVE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-12T09:00:00Z",
       "dominio": "eixos.com.br",
@@ -119,7 +131,7 @@
       "lead": "Aneel Propõe Repasse Do Encargo De Baterias Do LRCAP A Contratos Do Mercado Regulado",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXZCckFGZVlVT0k1RVlEMEV5SEllajgzWGQ5bjFDa0RMUDB1THl3bG1wR3RuNVM2QmJVUklYQUt6ckw2UzJQQ0VLM3lQVGg3alhKTHBNX2UzSHZjQ2hOT1VtbEo1QWN4WUE5ejREWkFwN3Qybmx6dTFTY2lCNXlKaUlNLWo1blFCOGpNWFlvZ2dMVGJWbXNSVlVud2pwVkF5SFZxZDZCc0RoU1JYQ3FRbUFyeE5hZmVGWHBjeW94YlA4UmFY?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-10T18:10:16Z",
       "dominio": "cenarioenergia.com.br",
@@ -136,6 +148,30 @@
       "data": "2026-09-10T17:51:04Z",
       "dominio": "www.nsctotal.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_30314",
+      "titulo": "Minuta de resolução detalha repasse do encargo das baterias aos consumidores",
+      "lead": "Minuta de resolução detalha repasse do encargo das baterias aos consumidores",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUF9Va3A3QjYtc0c0S2FQVHB5S1E0em9GS1FNQ2Z2aTRWN0s1b3l2dTdsdEcwdm40Z0dnZW5LSmFxQ0RVNE8zVmgydGp6bmoyLWNmSkt6anlMQ3JFcHk3ZUZpSHROWUdiTk5RNXd4MWRxZDdBalNBaF9wQ1RuWUg4SlBzdWd6cUN1b0hhM0FrX004Z2U5YnUzVzJfSkVyM0tfeGdlUGlrSm5RMEhSQXpyY3RwajAxRXdxWXUw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-10T14:48:19Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_95529",
+      "titulo": "Axia vence três dos quatro lotes do leilão de transmissão e amplia carteira de projetos em 10%",
+      "lead": "Axia vence três dos quatro lotes do leilão de transmissão e amplia carteira de projetos em 10%",
+      "fonte": "Terra",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR1hGeTgtVGhUakVUSTVVZXB2RWVGRDc3QUtGQU9QWEM2bXNKRTh3c2hiOWs5SFhycFVIc1ZQdTNEVHh1eXUzUzVVNFlRZkFjbVBKQzZoVkZRSVRERlB0TF83VUlvVFNtMHJybDZXSk5fZGdKZFl5N3pkdGtGTGxUMExQRWd2OExWVllhNkNENS1jZ21ubVUzdjhmOEtmZUFuamg3TUcyaHlUb05mR181Y1NKZXNESEpGUmJ1OFA5Xzk2cFZvdnl6MGNmZlhUcmFOMGI3WU1XejlmaHBNcmxHbk1TOTdnTEo4RF9BT19yeHlCdUI1QUJPc1ZSWXdVR3VUMnIw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-10T14:21:00Z",
+      "dominio": "www.terra.com.br",
+      "tema": "transmissao-rede"
     },
     {
       "id": "tarifas_78447",
@@ -710,45 +746,6 @@
       "data": "2026-09-02T17:38:00Z",
       "dominio": "www.ccee.org.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_70150",
-      "titulo": "ANEEL aprova redução nas tarifas da Roraima Energia",
-      "lead": "ANEEL aprova redução nas tarifas da Roraima Energia — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVll6M0JFd25uOWl0WHZhQTl5SFduTUUxU3FfeTJkWGpCZUxKbkdGNVdZaF9FbWlOdWw5OHN6NHNjaDNxR1lLNWZIRUtKR2R6UUd5LUhGSzdGZGo5aDFqX0tPbUt4MzVTcEZGcXBUSnp4R1UyV3FfTEpqT0ZoeExUNmNjaGNkd0dYc3JjRUhqWXlFUjg2VlM4LXA2ODRXZm9XZ0tzTkt2c0FwaFFNNkdWZ3ZEZjMxcURBREdKZGQ5MA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-02T16:08:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_39081",
-      "titulo": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
-      "lead": "Baterias ganham espaço na nova fase do setor elétrico brasileiro",
-      "fonte": "Gazeta da Semana",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1A1dUUtdGRGc3hQaXJKRDNCMWVWQ2JNMFZNTzY5M01aVWhWZ0lOM1dkUU53d3Uxc2s3eFNJMUEwbnNCNzZhWjU2RGNWV1c5elJZSC1QOWJIVlRZMGRRSU8yZDFDcVZjOVlqUWJGLTdEX0ptZUpMaHltNm1nNGotXzNMdWpQcm9Rd3lpWUJLTXhFVUVqdmlBeGhEdHd6LTBDQ0lUNkl0SEVyam9QMGc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-02T07:00:00Z",
-      "dominio": "gazetadasemana.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_80917",
-      "titulo": "Agentes do setor elétrico pedem mudanças no encargo e alguns defendem adiar leilão de baterias",
-      "lead": "Agentes do setor elétrico pedem mudanças no encargo e alguns defendem adiar leilão de baterias",
-      "fonte": "Folha PE",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDl3NlU5OE9XWWY3OHNZZzhNSTlxVlpPRXFqckdzNldXMjRHajRCUnQ0RGRtMGtHMkZOam5mOTdPVzlsbkNQNVlNWC1zZEx0UnBqbDNsblVZMUQ3SUhvTzVzYVg1ejI1RjVzM2dCMUN5WVpMR1NxNEtHZllsbnhuNXVCZnpReEtteXdhQnBzVFd1bE9abVlHOEJqWHJPLXQzSU1rd2xoa0RhUkpGZUJiMi1EVFFIUU3SAbcBQVVfeXFMTVg5dzZVOThPV1lmNzhzWWc4TUk5cVZaT0VxanJHczZXVzI0R2o0QlJ0NERkbTBrRzJGTmpuZjk3T1c5bG5DUDVZTVgtc2RMdFJwamwzbG5VWTFEN0lIb081c2FYNXoyNUY1czNnQjFDeVlaTEdTcTRLR2ZZbG54bjV1QmZ6UXhLbXl3YUJwc1RXdWxPWm1ZRzhCalhyTy10M0lNa3dsaGtEYVJKRmVCYjItRFRRSFFN?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-02T00:37:00Z",
-      "dominio": "www.folhape.com.br",
-      "tema": "baterias-armazenamento",
-      "tambem_em": [
-        "Tribuna do Sertão"
-      ]
     }
   ]
 }

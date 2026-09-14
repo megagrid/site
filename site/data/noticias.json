@@ -1,14 +1,50 @@
 {
-  "updated": "2026-09-14T17:10:42Z",
+  "updated": "2026-09-14T22:37:10Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_79447",
+      "titulo": "Mercado livre de energia: quando a migração começa a fazer sentido para o supermercado",
+      "lead": "Mercado livre de energia: quando a migração começa a fazer sentido para o supermercado",
+      "fonte": "SuperVarejo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlN3S215cVVjdXRrR0F4S3hjQzNONDhNQmdZQ2RpU0s4RWtfQ3M4bVFlWnZ2V2dTQW9UMnljQnI0YWQxZ001azRfdDBUVUF2RFo1aEl2T0ZVWGxqaDVoZ1lNdDBteVF0UUIwZVZLZURkUGRxZzF0NTBHTkcxcGpTcXRnVnJfMDE1MTVVS0ZKNDJVV0Q0N2NUcHlCaVFiT2tGczBxajJMcWRaNDJOSFlPZ2ViSmhVYklrejZSekllcWk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-14T18:45:08Z",
+      "dominio": "www.supervarejo.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_56486",
+      "titulo": "Diretor da ANEEL vai debater regras dos primeiros leilões de baterias solares no Brasil em evento da ABSOLAR",
+      "lead": "Diretor da ANEEL vai debater regras dos primeiros leilões de baterias solares no Brasil em evento da ABSOLAR",
+      "fonte": "bra1.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWGhFRDkzMFJFVWNtNkpoZE81eWNpek5sVjhGM3pOY2RxYlo5MzVlMFgyUzA4Y0ZjOXh2SWZpeENQanlaMTZKb3lNZG1XN1lXRGFtVXpjNlZ5ekNoN0gwOWROQUJHX2Z1b0JoLWZyNXE2eElXZkVSVWFBQlUxRTJJTklRLWdjMUM1VDU5ZHRBTUkzM2dnakI2S19WbnhTN1FjOGZmVERLd2pVSW1PWm9aNnl5ZHFkZGI5SVhHT0VmZW9ZVTB1czl3WHNTZWc4UGVLdDJ5ZFpxNVBhSW1PN2FsQ1NWeUIyQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-14T12:30:00Z",
+      "dominio": "www.bra1.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "transicao_75054",
+      "titulo": "Mercado de baterias para armazenar energia é dominado pela China e vive era de euforia – Edição do dia",
+      "lead": "Mercado de baterias para armazenar energia é dominado pela China e vive era de euforia",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTnNsUi1xazh0OXdTYkRLVjNneEZJNnNIYW4tc3Z3RDhqaFFfUF96QXdwaUhuYjF6OUN2WmoyS3hvbE40cG5GbmloSlNydTBGaEQ1M0syYmd2THJLRkttdkYtMVJ3S29nR202Y3EzOEM3Skp6WnpCV2dNX2dPTGJDZS1oUFJEU1NCQWU4MGg3ZkxZLTc1X3czVHg4QlRlVFN0VDBDbkFqc3lTbmRPQzFWLVQzRUNTZjFwa1VJeFlEYXZXNU1HaFFRdF9PWm5yaE1hNzRuZDhMSG9DZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-14T12:02:10Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "tarifas_24436",
       "titulo": "Alerta é feito e brasileiros devem se preparar para o que vai acontecer com o preço da conta de luz em setembro",
       "lead": "Alerta é feito e brasileiros devem se preparar para o que vai acontecer com o preço da conta de luz em setembro",
       "fonte": "diariodocomercio.com.br",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUUpqXzhkRlB1MTN3SjNhakdUYnBpQ3hnM1NPQ0lBajJnSlJsbzA2cDRYYTkzLW9sOGstc2l5eHBKVjZQcmY0OWNpT0xlbHZxNHhfM2dyRGFzR0gxSXQ5dDlyb0RSVUx6Sk1sZm0xQ2ZROGc3X0Q0ZTgyUGlmSkJKSDdYM0N3Zkt0ak9EbVFveFVKazdhVFVVZTgzOHFaVHpyaE43cTlKUncxLWRETWxwdlZSUGhrRzVKam5lN0xNb0ZKNTRRX01lS0VaVmZSX2NnbldWNThmMG9XSWQyMlZzTE53?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-09-13T23:04:00Z",
       "dominio": "diariodocomercio.com.br",
@@ -20,7 +56,7 @@
       "lead": "Leilão de baterias é ameaçado por impasse jurídico",
       "fonte": "Capital Aberto",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3NOd2xsZWhocW1QYjJkb3dyVkZRcjI5MW53bHA4MHV0UjkwM0J6SU1lbXFjX1JrVTBWd2NPeDVzWHQ5bjJ2REdqZzNlOUpOUkRkYjQzcklMVUJocWdkd3gyOGRWZk9RNlBab1k4SnhuTzB0Y2RHN1FGb1hOa3RUXzN4bzZWM0Z4RGNuY3E5S185MlJrRVpqUUxpQVhwdE1nQWJneXE0VUxCWnA1UlBXQUhqYW5FdzZZUjgxQTZndk0tUmJLZnc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-13T23:01:30Z",
       "dominio": "capitalaberto.com.br",
@@ -707,42 +743,6 @@
         "TAGD Advogados"
       ],
       "tema": "industria-generica"
-    },
-    {
-      "id": "mercado-livre_35947",
-      "titulo": "CCEE corrige erro de 800 m³/s nos modelos NEWAVE e DECOMP e recalcula o preço de liquidação da energia a partir de 2 de setembro",
-      "lead": "CCEE corrige erro de 800 m³/s nos modelos NEWAVE e DECOMP e recalcula o preço de liquidação da energia a partir de 2 de setembro",
-      "fonte": "CPG Click Petróleo e Gás",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObkF6TUo2OE42bDVuVDNlTGdCSUhKSDRtY19Fd1JsTFJfZGF6UHFKcDlSUTlRTU9IWUszZ2Y5WnNTNWdhdk9GcVR4allDU3VGcHNGeF9NTmpwUDlldmdKaUJYWTE4azZCNUdGbWxCMzZITVFiTER6dk54RDdMckF5NWRjcXJ2UjluS1ZDQUs4YUdkQ2Fpdl9yVXRqb3FSek5RY0JPUUZmTmEwLWh6UlE2bGlETFF4a3l5RFIwUEgwTzNLY1dWUjhWb0wzZXM2dTNHc3ZEQTlZaktzUE5hVlFac18xMDVOQmhJazV6Uy1KaWhSTWxYOFp5SU9GQzNDUzlwT2Y2VA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-02T22:13:00Z",
-      "dominio": "clickpetroleoegas.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_13383",
-      "titulo": "Autoprodução eólica vai suprir Complexo de Ubu",
-      "lead": "Autoprodução eólica vai suprir Complexo de Ubu",
-      "fonte": "ES Brasil",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TQTVvY0IzelIybWl6bXNEYnoyWFEtVl8zd2dvNk5NTnJKSUVmVG5qWUJDWVFUaDZEQ1dId3hrM0ZZSVl0M1V1VDg3bFREY3NmUUdHOE8xOElyU1BiY2xrdzRoZTFyTHBOMnljWGhn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508791290064-c27cc1ef7a9a?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-02T21:08:55Z",
-      "dominio": "esbrasil.com.br",
-      "tema": "eolica"
-    },
-    {
-      "id": "transicao_76820",
-      "titulo": "Com uma série de questões ainda indefinidas, agentes já falam em adiar leilões de baterias",
-      "lead": "Com uma série de questões ainda indefinidas, agentes já falam em adiar leilões de baterias",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE5mLU9TaFVySlJ0SU5OZUtUeHFyWTBOTHc0RFVjQjF1WmdrSnBjU3NMZGNpREFGYzdGVHdPME0ydDczY3BVcng1MjVURzQ3TDNoRDduYmxDbkp1aXF1SnJKMk5wZ3pWZ3pIYlFtclBHU1BYQ1ZUTTBpaUxJV2lLcVRtYzZMbm1VVXV6NlZkZUQ1dUpDMm4xeTlsbFhOM3oxRE83d3U3TWJzUGF2TV9XNVBNR3RjUnJnMjVjeTVhVWFod19UczBR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-02T19:09:33Z",
-      "dominio": "eixos.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

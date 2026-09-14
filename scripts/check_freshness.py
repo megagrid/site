@@ -15,7 +15,9 @@ Limites por arquivo (dias desde `updated`):
   bandeira.json       40   (ANEEL mensal)
 
 Além do frescor do ARQUIVO, alguns dados têm COMPETÊNCIA própria e precisam
-ser validados por ela (ver LIMITES_COMPETENCIA).
+ser validados por ela (ver LIMITES_COMPETENCIA). E há um dado que não vem de
+fonte nenhuma — o piso/teto do PLD é constante no código e envelhece sozinho,
+uma vez por ano (ver verificar_limites_pld).
 """
 
 import json
@@ -79,6 +81,36 @@ def atraso_competencia_dias(ano: int, mes: int) -> int:
     return (date(hoje.year, hoje.month, 1) - date(ano, mes, 1)).days
 
 
+# Guarda anual dos limites do PLD (14/09/2026). Piso e teto são homologados
+# pela ANEEL a cada ano e moram em fetch_data.py, onde viviam sob um comentário
+# pedindo "revisar anualmente" — que passou 2026 inteiro sem ser lido. Em
+# 14/09/2026 o Norte apareceu no site a R$ 726,00, o teto de 2025, clampando um
+# CMO de R$ 1.444 que o teto vigente (785,27) teria deixado em 785,27. Nenhum
+# limite de frescor pegava isso: o arquivo estava fresco, a competência era da
+# semana — só a régua é que era do ano passado. Comentário não alarma; sentinela
+# alarma. Ano do run diferente do ano dos limites ⇒ run VERMELHO, igual a
+# qualquer fonte parada, e o post no X fica bloqueado junto (post_x.py lê este
+# mesmo julgamento).
+def verificar_limites_pld() -> tuple:
+    """(falha|None, linha). Lê as constantes do fetch_data — fonte única dos
+    limites — em vez de manter aqui uma segunda cópia que um dia divergiria.
+    Import adiado e protegido: este sentinela roda com `if: always()`, também
+    quando o robô quebrou, e não pode morrer junto com ele."""
+    try:
+        from fetch_data import PLD_LIMITES_ANO, PLD_PISO, PLD_TETO
+    except Exception as exc:
+        msg = f"limites PLD ilegíveis em fetch_data.py ({type(exc).__name__}: {exc})"
+        return msg, f"STALE  {msg}"
+
+    ano_run = date.today().year
+    st = (f"limites PLD: piso R$ {PLD_PISO:.2f} · teto R$ {PLD_TETO:.2f} "
+          f"(homologados para {PLD_LIMITES_ANO}; run em {ano_run})")
+    if PLD_LIMITES_ANO != ano_run:
+        return (f"limites PLD desatualizados — revisar Despacho ANEEL do ano "
+                f"(gravados para {PLD_LIMITES_ANO}, run em {ano_run})"), f"STALE  {st}"
+    return None, f"ok     {st}"
+
+
 def verificar() -> tuple:
     """(falhas, avisos, linhas). Separado do main() para que o post_x.py
     consulte o MESMO julgamento que deixa o run vermelho, em vez de manter
@@ -117,6 +149,11 @@ def verificar() -> tuple:
         elif atraso > lim_comp * 0.7:
             avisos.append(st)
         linhas.append(("STALE  " if atraso > lim_comp else "ok     ") + st)
+
+    falha_pld, linha_pld = verificar_limites_pld()
+    if falha_pld:
+        falhas.append(falha_pld)
+    linhas.append(linha_pld)
 
     return falhas, avisos, linhas
 

@@ -519,11 +519,23 @@ CCEE_PLD_SEMANAL = {
     "2026": "e34f98e8-68df-4a22-972f-02cb621ec978",
 }
 
-# Piso/teto do PLD homologados pela ANEEL (revisar anualmente).
-# Usados no fallback via CMO: por definição, PLD semanal = CMO limitado
-# ao piso/teto — então clamp(CMO) reproduz o PLD oficial.
-PLD_PISO = 63.60
-PLD_TETO = 726.00
+# Piso/teto do PLD homologados pela ANEEL para o ano de PLD_LIMITES_ANO.
+# Vigentes em 2026: Despacho ANEEL de dezembro/2025, publicado no DOU em
+# 23/12/2025 — piso de R$ 57,31/MWh (igual à TEO de Itaipu do ano) e teto
+# estrutural de R$ 785,27/MWh. Usados no fallback via CMO: por definição,
+# PLD semanal = CMO limitado ao piso/teto — então clamp(CMO) reproduz o
+# PLD oficial.
+#
+# PLD_LIMITES_ANO é a guarda anual, e não decoração: até 14/09/2026 estes
+# dois números eram os de 2025 (63,60 / 726,00) com um comentário pedindo
+# "revisar anualmente" — comentário que ninguém lê no dia certo. O resultado
+# foi o site publicar o Norte a R$ 726,00 quando o teto vigente já era
+# 785,27. Agora, se o ano do run não for este, a sentinela de frescor
+# (check_freshness.py) derruba o run em VERMELHO. Ao atualizar os limites,
+# atualize os três valores juntos.
+PLD_LIMITES_ANO = 2026
+PLD_PISO = 57.31
+PLD_TETO = 785.27
 
 # ── Helpers ─────────────────────────────────────────────────────────
 

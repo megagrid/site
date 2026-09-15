@@ -1,14 +1,38 @@
 {
-  "updated": "2026-09-14T22:37:10Z",
+  "updated": "2026-09-15T15:50:24Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_16404",
+      "titulo": "Baterias: o novo ouro do setor elétrico, mas só para quem entender a regulação",
+      "lead": "Baterias: o novo ouro do setor elétrico, mas só para quem entender a regulação",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM2dMc3EwajdtaVpVRUwwd2RUTHlGOXdfYlVSLXlxamh1N2p2Z0JjY3FxdzJwQTJTeXY4RVp6MlJ6T2UxazJabnNBYWhfNTQ3X2pDSGkzMnMyOEhaaWpOYmpiSWsxQkNJbmwyeVA3eDJibzM3dFE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-15T12:52:15Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_10837",
+      "titulo": "Leilões de baterias atraem oferta recorde, mas ainda enfrentam incertezas regulatórias",
+      "lead": "Leilões de baterias atraem oferta recorde, mas ainda enfrentam incertezas regulatórias",
+      "fonte": "Além da Energia",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTE1dmNvSHVFZ2x5bERqaEtyTUI5dC1SMU9TNFAyd0dGckFTeklraFY1TjV0WmotaUN1THR5ZFh0MUFQRTZ1N0ZnajJmWWN2N0ktREh0cWw1V2ttbnIyTUp3VDh5cjNWX1pQUmlOLVNHa2JVWF8wVW9wMEdMRHFzU0M3d2RLRmJC?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-15T10:01:26Z",
+      "dominio": "www.alemdaenergia.engie.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "mercado-livre_79447",
       "titulo": "Mercado livre de energia: quando a migração começa a fazer sentido para o supermercado",
       "lead": "Mercado livre de energia: quando a migração começa a fazer sentido para o supermercado",
       "fonte": "SuperVarejo",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlN3S215cVVjdXRrR0F4S3hjQzNONDhNQmdZQ2RpU0s4RWtfQ3M4bVFlWnZ2V2dTQW9UMnljQnI0YWQxZ001azRfdDBUVUF2RFo1aEl2T0ZVWGxqaDVoZ1lNdDBteVF0UUIwZVZLZURkUGRxZzF0NTBHTkcxcGpTcXRnVnJfMDE1MTVVS0ZKNDJVV0Q0N2NUcHlCaVFiT2tGczBxajJMcWRaNDJOSFlPZ2ViSmhVYklrejZSekllcWk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-14T18:45:08Z",
       "dominio": "www.supervarejo.com.br",
@@ -20,7 +44,7 @@
       "lead": "Diretor da ANEEL vai debater regras dos primeiros leilões de baterias solares no Brasil em evento da ABSOLAR",
       "fonte": "bra1.com.br",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWGhFRDkzMFJFVWNtNkpoZE81eWNpek5sVjhGM3pOY2RxYlo5MzVlMFgyUzA4Y0ZjOXh2SWZpeENQanlaMTZKb3lNZG1XN1lXRGFtVXpjNlZ5ekNoN0gwOWROQUJHX2Z1b0JoLWZyNXE2eElXZkVSVWFBQlUxRTJJTklRLWdjMUM1VDU5ZHRBTUkzM2dnakI2S19WbnhTN1FjOGZmVERLd2pVSW1PWm9aNnl5ZHFkZGI5SVhHT0VmZW9ZVTB1czl3WHNTZWc4UGVLdDJ5ZFpxNVBhSW1PN2FsQ1NWeUIyQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-14T12:30:00Z",
       "dominio": "www.bra1.com.br",
@@ -330,7 +354,7 @@
       "tema": "baterias-armazenamento",
       "tambem_em": [
         "AJN1",
-        "XP Investimentos"
+        "conteudos.xpi.com.br"
       ]
     },
     {
@@ -716,33 +740,6 @@
       "data": "2026-09-03T13:12:00Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_95824",
-      "titulo": "CCEE defende autonomia para sancionar agentes em casos de irregularidades",
-      "lead": "CCEE defende autonomia para sancionar agentes em casos de irregularidades",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUNTUEcyWkVmQmZnTTNFcEVpcFFkQkNQd1Y0ZGFWX09idms0a0w1bmIzajdyWUluRmRQcHNqdHhzakpkRmY4aVdkTzk4T1dlZUVfZmtIcW5KZ0NibWQ4WF9LekY0Wi14OWtVSVhlN0JHUHZDRmNUbllGN3JFZEplaWExanNxT0F6OFV3dG9kTVJ5ZlRCQ29HYS11aDNfLWtJc1NQUmlQU040UlFsWjBnSzFIQ01ock52ajQxSTdn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-03T13:07:01Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_1792",
-      "titulo": "Aneel muda comando nas superintedências de geração e redes",
-      "lead": "Aneel muda comando nas superintedências de geração e redes",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTdnYXktRURzMTRBNjZWWm1DeTVhRGwtWkdoS2ZoZ3hoMXh5WnpmV2otdlJLYVliMkQtNmtUZ2lzZ1RqYjV2RUZUR2hjemw0dEJNaEc0WDF6SkJTbkdieS1fZlRyd19tS0xLVGRpdFRUb3NiNEx5Zm81Z1c4NFNmU05FaWlVMi1MWWJRRDVXaEpLSE5aaF9VZkNNMVlBUGtubV96U0UwRnBSa1k?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1602860109208-613d39362844?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-03T13:01:08Z",
-      "dominio": "megawhat.uol.com.br",
-      "tambem_em": [
-        "TAGD Advogados"
-      ],
-      "tema": "industria-generica"
     }
   ]
 }

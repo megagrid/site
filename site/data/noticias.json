@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-15T15:50:24Z",
+  "updated": "2026-09-15T22:23:31Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_59148",
+      "titulo": "Leilão de baterias inaugura nova era no setor elétrico brasileiro",
+      "lead": "Leilão de baterias inaugura nova era no setor elétrico brasileiro",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0dVbk5PUmpXeEZaTjBLX0Q0VE5Hb3Y1T2tmZ1JTeDhpemJ4N0NQdFlObTVIMFFDM2Q0WWhrd215aVlRZ0haX1psRnhPZVp0bFN4ek5EX29uQ0gxQS14RlV6aW9wLVJxUGdZaWJadmR2Q3pLSDBnZXJDVE1nUFZQUzNua2xlbkowdHVoSWIyUXduWTA0akZr?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-15T20:33:58Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_26730",
+      "titulo": "Aprovadas as novas tarifas da Equatorial Pará",
+      "lead": "Aprovadas as novas tarifas da Equatorial Pará — Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHdQM2ZyeFp0LXlJLVB2OUdlOUlnbTlVcFBQR0pqSGNHQVFkeGRiUzZJSktoaDY4bjI1Nk1mQ2xOcFMwZjN5T1p0VV9yTXFCNi03U0ZCY09wWERHYW14NXVRM3RNLUp0VUZkaDFUWDU2WVJPRzd2dF93M2o0MEphaG4yMmZlZHYyNW0zTHd1dGRfLUw3ajA2Y0xLSDJfV3NPc3RkbGJ6UWFOdXpfcTlyMzBYdkRjN1k?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-15T20:12:32Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_16789",
+      "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas",
+      "lead": "Experimento Energias da Floresta busca levar energia a populações isoladas www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV09EYlJpRFRvZE8tVEpINEZTcGZNMzc2S1F4S1M3bjFub0NRc3A2WTJSbDhKUWNNZGU1ZDZXcmI1RWhyMHlDWDBSQTNaR2ZzMjFNWDV1amtyV1d4S1h0MHZTWUw2V0ZUMXdMT2tQVlNoRktrSlloaVFkeDVJclVaNzduSndUOFVDNFFZR1VjMk1tVlJ1RVRvOWNlRzEtQW5aTDRtLTRtRHlEQTQzUXNnRFNrX19mNEo1QS1ONGhtNG5oWHBVN1VpQVhYVmJfWmpQT1pueFFEZ0xhWWppRVE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-15T20:11:59Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_7313",
+      "titulo": "Mercado livre de energia: abrir o mercado da baixa tensão é apenas o começo",
+      "lead": "Mercado livre de energia: abrir o mercado da baixa tensão é apenas o começo",
+      "fonte": "Brazil Journal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnpjeVdjTzhXdjgwSTAydXJtQWlsQVcwTlZaLWctQ05KYjFXdi1Gd0lOclNjakRmQTRQLXZoaWxDVkMtVWlXMTMybnBnNHN2Z09xdzYyYm1teGQ0STRfVXRDMWlmSzUtdnBQT3REb0dGNndWUXBYZ3AwNnZPS1J1ODdaUFlxMjRBUVlmV1pMaHF4SjRNZ1hxakJDTnRZLUJMX1hmdTE4RjZtdGozX19EZEF5QQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-15T13:17:13Z",
+      "dominio": "braziljournal.com",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_16404",
       "titulo": "Baterias: o novo ouro do setor elétrico, mas só para quem entender a regulação",
@@ -20,7 +68,7 @@
       "lead": "Leilões de baterias atraem oferta recorde, mas ainda enfrentam incertezas regulatórias",
       "fonte": "Além da Energia",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTE1dmNvSHVFZ2x5bERqaEtyTUI5dC1SMU9TNFAyd0dGckFTeklraFY1TjV0WmotaUN1THR5ZFh0MUFQRTZ1N0ZnajJmWWN2N0ktREh0cWw1V2ttbnIyTUp3VDh5cjNWX1pQUmlOLVNHa2JVWF8wVW9wMEdMRHFzU0M3d2RLRmJC?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-15T10:01:26Z",
       "dominio": "www.alemdaenergia.engie.com.br",
@@ -354,7 +402,7 @@
       "tema": "baterias-armazenamento",
       "tambem_em": [
         "AJN1",
-        "conteudos.xpi.com.br"
+        "XP Investimentos"
       ]
     },
     {
@@ -692,54 +740,6 @@
       "data": "2026-09-03T18:32:00Z",
       "dominio": "www.metro1.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_44268",
-      "titulo": "CCEE coloca mais cinco comercializadoras em operação balanceada",
-      "lead": "CCEE coloca mais cinco comercializadoras em operação balanceada",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWdtZ19LS3ZWTDJzTk94cF9aQWdqNTMtMTFwTGN1Z1JuTnQ5MWVCSUZIYzE5UXF0QzVha0w2RlBIRDY5WTNyc29ydHNFMjBvNXExZlRMekg1RFBkYUtWLTkwX1dYY3N1U0xiZXFSVkhsWUFmSU9CbTlvSzlzcmxCdW1tZmRtVVpwZjAwU0xwaThlRUVPWGRKOWFyTk5tMkxSajZidWJETTRydw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-03T17:56:58Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_14121",
-      "titulo": "Conta de luz terá cobrança extra com bandeira amarela em setembro - Radio Tropical – Três Corações",
-      "lead": "Conta de luz terá cobrança extra com bandeira amarela em setembro",
-      "fonte": "Radio Tropical – Três Corações",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamlHNVU2b2Vwaldfc3QtTUJMUll2X280ZUFBTDh6R01Cb2F6ZVFacmp1UlVJek5xZ2UtdzlXazg1Q2loUkwxMHNUNjdlWUx6Y1BkLXNDRERoVjRIWEsxODJ2bTNRMHY0aS1EcERPdWxuNHhqQUlpT1ItUmQ5R1RELWwwWm5VSXVMNTk3OXpmczBudlVYeTVr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-03T14:39:39Z",
-      "dominio": "radiotropical.net",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_21677",
-      "titulo": "ANEEL coordenará grupo de trabalho para investigar usinas de GD à revelia",
-      "lead": "ANEEL coordenará grupo de trabalho para investigar usinas de GD à revelia",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UWlRvRlBjQUl0WExBcTVMWDllNnp0TU5GZFJ0VjluM0ZXbUJOOXVHN0NhT3hOZ1JUaERJVC13VGtZb202ZmQya21Jem90aVJwMG1jT3BXUlg5S1BkemRvNFZGY2lqWW1tMDhoVW9EMmQ1UXBYLWpoOEMzVTU2b1k?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-03T13:16:28Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "regulacao_36090",
-      "titulo": "Novas Portarias alteram a estrutura organizacional da ANEEL",
-      "lead": "Novas Portarias alteram a estrutura organizacional da ANEEL — Agência Nacional de Energia Elétrica gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9KazRCMktfOUVScGg3c1ZvWktUMnA3dWU3ZTVxbXN0ajZYcnJxYTRxQVZwUjlVOHNGWFk4R181eXFWX1VMZmROZi1iMFl6YzdVcXpINDV0M0xnckhXRnBsbTB5N3pNeWlyU2IwVlBRZnRUQm5DMkRyZ2tEaGxPVzcyd3Q1b01Vc3AyV3NyQVBxbGlNM3pIQlFDTFZCb1ZFUlEyVkJ3UTJvTUxfcjdTTHdmNnZuZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-03T13:12:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

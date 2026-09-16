@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-15T22:23:31Z",
+  "updated": "2026-09-16T15:42:21Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_22390",
+      "titulo": "CCEE avança em proposta de fundo para cobrir perdas em casos de inadimplência no mercado",
+      "lead": "CCEE avança em proposta de fundo para cobrir perdas em casos de inadimplência no mercado",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlVDV2pkVENLaEUxcUc0dE92S2FOZ3Yya2taQVFjMktrRVNKdzY4UG5xSExfUjRrR0hRbUhuN2VrVHhtMzdjV0tnQlRYWkpRY0x2UzF4ZU9vc1RsTVVmZk5JOE9yRHVjOVhqcURUNDZVcXlBMWJqSEtRSTZvcWJtd1dPaTlBWUgzM21xTDMzc29YNzlENERoS0dqRnNGWEQyRDlvS1VJY3VwakRtZlptQXM3TU9QRHJWWXlQZEx1X3ladFhQWjh1OHM1bEVEOUpRMlE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-16T15:21:13Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "transicao_59148",
       "titulo": "Leilão de baterias inaugura nova era no setor elétrico brasileiro",
@@ -20,7 +32,7 @@
       "lead": "Aprovadas as novas tarifas da Equatorial Pará — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHdQM2ZyeFp0LXlJLVB2OUdlOUlnbTlVcFBQR0pqSGNHQVFkeGRiUzZJSktoaDY4bjI1Nk1mQ2xOcFMwZjN5T1p0VV9yTXFCNi03U0ZCY09wWERHYW14NXVRM3RNLUp0VUZkaDFUWDU2WVJPRzd2dF93M2o0MEphaG4yMmZlZHYyNW0zTHd1dGRfLUw3ajA2Y0xLSDJfV3NPc3RkbGJ6UWFOdXpfcTlyMzBYdkRjN1k?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-15T20:12:32Z",
       "dominio": "www.gov.br",
@@ -402,7 +414,8 @@
       "tema": "baterias-armazenamento",
       "tambem_em": [
         "AJN1",
-        "XP Investimentos"
+        "XP Investimentos",
+        "Agência eixos"
       ]
     },
     {
@@ -728,18 +741,6 @@
       "data": "2026-09-03T19:49:00Z",
       "dominio": "www.ccee.org.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_58457",
-      "titulo": "Resort de Salvador terá primeiro sistema de energia por bateria da América do Sul no setor hoteleiro",
-      "lead": "Resort de Salvador terá primeiro sistema de energia por bateria da América do Sul no setor hoteleiro",
-      "fonte": "Rádio Metrópole",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONXJpNnJyVDhYTkh2M2haVWhVRUJ0bzFWMFFrTGVOZm1KMjZwNi01eUlnaEgtU0VQbXhBNkdlUF8yVEhkaXVtV0xqZmxLQWVoMDFYVVFxZmNNVHV2cXhJc3NuZGJVbjB2WXRndXhfaHVhcjRWMEo5UHpBZlcwLTFlVm5SLXV0aVhJWGtEOEVTa3dvZzBwdkVITWNFQUNaNjIzUEtSbmNmT1lhM1pSN3RoV1NnU0hhMWZMZGl4Q3V3eXlNQ3Rna2FoZ09oNnVLSF9DeTNzd2NjX2k5T1I5Z3pocW83a01wZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-03T18:32:00Z",
-      "dominio": "www.metro1.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

@@ -1,14 +1,26 @@
 {
-  "updated": "2026-09-16T15:42:21Z",
+  "updated": "2026-09-16T22:15:06Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_98406",
+      "titulo": "CCEE recebe Prêmio Empresas que Melhor se Comunicam com Jornalistas pelo quarto ano",
+      "lead": "CCEE recebe Prêmio Empresas que Melhor se Comunicam com Jornalistas pelo quarto ano",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmIwNlhkZl9xV2pWRWQ3bERrZmlCNzRJeUd4RXA3TVdsUGs5RHIzRTZzb21PRHFIVkJPTURHb3VsQTFSZzcxMV9LVC1ocnc4akdraFZxaDR2NDNuTk1senRoV2M0RUxkY0dQSjVYZEtpN2EzQy15bzhPaDVDVERZQi1pdTBSTklBaktnWnlJcWdsRnlSUWw5ZEZDaGR1VkxkenVySHhhazJZaUNkeFFOZl9KbllXNV96RE1NbEVXR2ZtTFM4amhyb2gzdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-16T19:37:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_22390",
       "titulo": "CCEE avança em proposta de fundo para cobrir perdas em casos de inadimplência no mercado",
       "lead": "CCEE avança em proposta de fundo para cobrir perdas em casos de inadimplência no mercado",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlVDV2pkVENLaEUxcUc0dE92S2FOZ3Yya2taQVFjMktrRVNKdzY4UG5xSExfUjRrR0hRbUhuN2VrVHhtMzdjV0tnQlRYWkpRY0x2UzF4ZU9vc1RsTVVmZk5JOE9yRHVjOVhqcURUNDZVcXlBMWJqSEtRSTZvcWJtd1dPaTlBWUgzM21xTDMzc29YNzlENERoS0dqRnNGWEQyRDlvS1VJY3VwakRtZlptQXM3TU9QRHJWWXlQZEx1X3ladFhQWjh1OHM1bEVEOUpRMlE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-16T15:21:13Z",
       "dominio": "megawhat.uol.com.br",
@@ -20,7 +32,7 @@
       "lead": "Leilão de baterias inaugura nova era no setor elétrico brasileiro",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0dVbk5PUmpXeEZaTjBLX0Q0VE5Hb3Y1T2tmZ1JTeDhpemJ4N0NQdFlObTVIMFFDM2Q0WWhrd215aVlRZ0haX1psRnhPZVp0bFN4ek5EX29uQ0gxQS14RlV6aW9wLVJxUGdZaWJadmR2Q3pLSDBnZXJDVE1nUFZQUzNua2xlbkowdHVoSWIyUXduWTA0akZr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-15T20:33:58Z",
       "dominio": "canalsolar.com.br",
@@ -68,7 +80,7 @@
       "lead": "Baterias: o novo ouro do setor elétrico, mas só para quem entender a regulação",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM2dMc3EwajdtaVpVRUwwd2RUTHlGOXdfYlVSLXlxamh1N2p2Z0JjY3FxdzJwQTJTeXY4RVp6MlJ6T2UxazJabnNBYWhfNTQ3X2pDSGkzMnMyOEhaaWpOYmpiSWsxQkNJbmwyeVA3eDJibzM3dFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-15T12:52:15Z",
       "dominio": "canalsolar.com.br",
@@ -554,6 +566,18 @@
       "tema": "precos-mercado"
     },
     {
+      "id": "mercado-livre_75062",
+      "titulo": "CCEE coloca mais quatro comercializadoras em operação balanceada e libera Anemus",
+      "lead": "CCEE coloca mais quatro comercializadoras em operação balanceada e libera Anemus",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDFkT2ZiNFdaSU9tR1NaR0xMUVcyTGNha2FpejFwejV3ZHhISHlmY19Kc3EzeVk0WW9SWDRhTzgwNHZUczJ3akh0NEdBcDFjSXQ2Ujg2dnotTTRGQlZWQ3djMHJURFh3eFViTTcwdHdaMktBLVNuaGpDcFVvRHhURTRFUHNSdVNkVGZQUWNQdjRMcWxtdjFTbDI2X19ESk80cjVzZ1Faa0V1Y2M5YUFTQTBOMXpGcXItbXZvamdwODA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-06T07:00:00Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "transicao_2002",
       "titulo": "Joísa: Leilão de baterias gera debate sobre risco e retorno ao investidor",
       "lead": "Joísa: Leilão de baterias gera debate sobre risco e retorno ao investidor",
@@ -717,30 +741,6 @@
         "Diário do Transporte"
       ],
       "tema": "solar"
-    },
-    {
-      "id": "transicao_4555",
-      "titulo": "HOTEL EM SALVADOR TERÁ SISTEMA DE BATERIAS PARA ARMAZENAR ENERGIA",
-      "lead": "HOTEL EM SALVADOR TERÁ SISTEMA DE BATERIAS PARA ARMAZENAR ENERGIA",
-      "fonte": "- Bahia Economica",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOW5YNjNIR3djMXBNbWtPSE0wajBpdjNnTjZLanI1eXRVb0RGUl9veXMxTDl2ZFRPNjJXbkwydzVOMlJTQWlQclVoZGdQbW5yQ1JlY0xZTXN0ZC1ZVXhoVWRTa3VfNDhFeDVjaXJjSkxESEdvNkJ5NFNMS3ZyMWZGRU0waklyNGN3Qm9zN2pMbk5TRnZLU3JhUEJFY0Fvck9rVDR6UWF3emk5OTlQdGhF?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-03T21:33:00Z",
-      "dominio": "bahiaeconomica.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_86158",
-      "titulo": "2º Fórum Análise Setorial CCEE já tem data marcada",
-      "lead": "2º Fórum Análise Setorial CCEE já tem data marcada",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcW1MOFlPLWZoV0RHM0RZTVNXS3lQWDVUR016SkRGVHgzU19ieDZEUWdkRE5YZ0sxQ01LVGhWTmdpSEh6OXllcmpQdzA2QUhOOW1NNE1VTkxJdFlVeE40Tkl1Y1FNUXhVSmptN21NUWU1allEd3RMWVBpQjdZMzFrcE1UQllfY0I5cW5mbWhR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-03T19:49:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-16T22:15:06Z",
+  "updated": "2026-09-17T15:48:19Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_74237",
+      "titulo": "Aquisição e pagamento de baterias",
+      "lead": "Aquisição e pagamento de baterias",
+      "fonte": "valor.globo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHlleFdmRl9pRXNxNklQWFBpN3h6a1l6dU5SWTc2XzR6QlFCMDRERWVBbzJFWTlYZEU1WFI2bXFXZ1d3ek92VTV5Q3cyeFNQeVM3OUk2VG41UUZTN0FGRS1mcFk1NHNuLVRwOGx4UHdwcUpYYWRsTmZ2Ym84N0JENDNxZEZEM2V6MnB4ZVIyTzhxcmfSAZMBQVVfeXFMUGR5ZXhXZkZfaUVzcTZJUFhQaTd4emtZenVOUlk3Nl80ekJRQjA0REVlQW8yRVk5WGRFNVhSNm1xV2dXd3pPdlU1eUN3MnhTUHlTNzlJNlRuNVFGUzdBRkUtZnBZNTRzbi1UcDhseFB3cHFKWGFkbE5mdmJvODdCRDQzcWRGRDNlejJweGVSMk84cXJn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-17T08:00:00Z",
+      "dominio": "valor.globo.com",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "mercado-livre_98406",
       "titulo": "CCEE recebe Prêmio Empresas que Melhor se Comunicam com Jornalistas pelo quarto ano",
@@ -20,7 +32,7 @@
       "lead": "CCEE avança em proposta de fundo para cobrir perdas em casos de inadimplência no mercado",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlVDV2pkVENLaEUxcUc0dE92S2FOZ3Yya2taQVFjMktrRVNKdzY4UG5xSExfUjRrR0hRbUhuN2VrVHhtMzdjV0tnQlRYWkpRY0x2UzF4ZU9vc1RsTVVmZk5JOE9yRHVjOVhqcURUNDZVcXlBMWJqSEtRSTZvcWJtd1dPaTlBWUgzM21xTDMzc29YNzlENERoS0dqRnNGWEQyRDlvS1VJY3VwakRtZlptQXM3TU9QRHJWWXlQZEx1X3ladFhQWjh1OHM1bEVEOUpRMlE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-16T15:21:13Z",
       "dominio": "megawhat.uol.com.br",
@@ -32,7 +44,7 @@
       "lead": "Leilão de baterias inaugura nova era no setor elétrico brasileiro",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0dVbk5PUmpXeEZaTjBLX0Q0VE5Hb3Y1T2tmZ1JTeDhpemJ4N0NQdFlObTVIMFFDM2Q0WWhrd215aVlRZ0haX1psRnhPZVp0bFN4ek5EX29uQ0gxQS14RlV6aW9wLVJxUGdZaWJadmR2Q3pLSDBnZXJDVE1nUFZQUzNua2xlbkowdHVoSWIyUXduWTA0akZr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-15T20:33:58Z",
       "dominio": "canalsolar.com.br",
@@ -80,7 +92,7 @@
       "lead": "Baterias: o novo ouro do setor elétrico, mas só para quem entender a regulação",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM2dMc3EwajdtaVpVRUwwd2RUTHlGOXdfYlVSLXlxamh1N2p2Z0JjY3FxdzJwQTJTeXY4RVp6MlJ6T2UxazJabnNBYWhfNTQ3X2pDSGkzMnMyOEhaaWpOYmpiSWsxQkNJbmwyeVA3eDJibzM3dFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-15T12:52:15Z",
       "dominio": "canalsolar.com.br",
@@ -726,21 +738,6 @@
       "data": "2026-09-04T10:16:50Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_51445",
-      "titulo": "Metrô de SP prevê economizar R$ 12 milhões por ano com autoprodução de energia solar; ônibus já têm geração própria no Brasil e exterior",
-      "lead": "Metrô de SP prevê economizar R$ 12 milhões por ano com autoprodução de energia solar; ônibus já têm geração própria no Brasil e exterior",
-      "fonte": "Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMExQMlNhQ2lkVkVwMmxtd2pFUjFHcUhsNXJVUDV0MWV3TXZZVF92MG1CM01FcWZpYUJhaGNVcmZfOUoyc3A4MS15TURqeXdGT0FTb0UtaWVmV0FCVEZUbnMzejFQMnc1SzQyMk41S3UwOGNqNjdUd1l1ellJVEM5ZEczc0E4TTBpWDJpT3hHRGxkak4wOUlxMS00WGM1ay1xR0stbjZXQ1dZeDFVdkdRWEpwSElIWnRCWUl2OEI5aEEzdFktYVRraXhuclZlQzNDSnd3TnJJem5aNWF3UVhBWDZNVnJ4QzlQbHFUaHhoa3JKNkU0Z0RPM1pKTzl4YTFpNUN6c1lDV2tyYXZx0gGSAkFVX3lxTE9fSDFXbE54MldzdWlLb2h4d3NxY0dqTzIzd2I5dGFtUzYwR2pjNDdQZDcwLTVKZW9xb0pMd1FzMGFHSnN4aWp1ZzFfR2RZZEVWRG1PUjhuTkpCdzQyR0ZKYVl1eUpsVUpvUXdHamNfUDNOQllyb25Td0pxWWJEOG10a3BOZjBHREVacGhwRS11UXhqNl9xZU9leVpuRDhvbHNUUjdSYXk4UnpPb0FRdWZlUnB2ckZyWUtFY3Fvem9lOFJLYUk3NnRTaG4zUW96TWllZi1keldmNUl6aFhuX002ZXZ1MWp6OXdFdURvb0F0eWNHX3Z6M1dBc0k4TWhXbERoZmJybkszNGg0Y2JMdXpoaEE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-03T22:52:05Z",
-      "dominio": "diariodotransporte.com.br",
-      "tambem_em": [
-        "Diário do Transporte"
-      ],
-      "tema": "solar"
     }
   ]
 }

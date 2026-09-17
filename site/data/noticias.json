@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-17T15:48:19Z",
+  "updated": "2026-09-17T22:18:49Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_67498",
+      "titulo": "CCEE lança campanha para aproximar brasileiros do mercado livre de energia",
+      "lead": "CCEE lança campanha para aproximar brasileiros do mercado livre de energia",
+      "fonte": "Grandes Nomes da Propaganda",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHdpTW43bGptcTIyRU9iZDVEVlpwbTZYRHZ2MC05Qk4yUnctbm9UTmpWLWNLYXU0cVRwTkhzclVINWl1SEo1cG91QUd0dmRQQmZyWWRORERTRGRZeDhaT3psbWhPWGFKYU93MndSU2F2eTVPdUltV0dIRFJsa0E1NjM5b2F3SkcwMS1FOWpkLWRCNTdEdWVZSWFBcC1OM08tbUxSc3ViLW9TN0h0eTZsaEFKcHBIdk9lbEhmcmV3NmcyUlhN?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-17T21:32:09Z",
+      "dominio": "grandesnomesdapropaganda.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_74237",
       "titulo": "Aquisição e pagamento de baterias",
@@ -20,7 +32,7 @@
       "lead": "CCEE recebe Prêmio Empresas que Melhor se Comunicam com Jornalistas pelo quarto ano",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmIwNlhkZl9xV2pWRWQ3bERrZmlCNzRJeUd4RXA3TVdsUGs5RHIzRTZzb21PRHFIVkJPTURHb3VsQTFSZzcxMV9LVC1ocnc4akdraFZxaDR2NDNuTk1senRoV2M0RUxkY0dQSjVYZEtpN2EzQy15bzhPaDVDVERZQi1pdTBSTklBaktnWnlJcWdsRnlSUWw5ZEZDaGR1VkxkenVySHhhazJZaUNkeFFOZl9KbllXNV96RE1NbEVXR2ZtTFM4amhyb2gzdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-16T19:37:00Z",
       "dominio": "www.ccee.org.br",
@@ -32,7 +44,7 @@
       "lead": "CCEE avança em proposta de fundo para cobrir perdas em casos de inadimplência no mercado",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlVDV2pkVENLaEUxcUc0dE92S2FOZ3Yya2taQVFjMktrRVNKdzY4UG5xSExfUjRrR0hRbUhuN2VrVHhtMzdjV0tnQlRYWkpRY0x2UzF4ZU9vc1RsTVVmZk5JOE9yRHVjOVhqcURUNDZVcXlBMWJqSEtRSTZvcWJtd1dPaTlBWUgzM21xTDMzc29YNzlENERoS0dqRnNGWEQyRDlvS1VJY3VwakRtZlptQXM3TU9QRHJWWXlQZEx1X3ladFhQWjh1OHM1bEVEOUpRMlE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-16T15:21:13Z",
       "dominio": "megawhat.uol.com.br",
@@ -80,7 +92,7 @@
       "lead": "Mercado livre de energia: abrir o mercado da baixa tensão é apenas o começo",
       "fonte": "Brazil Journal",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnpjeVdjTzhXdjgwSTAydXJtQWlsQVcwTlZaLWctQ05KYjFXdi1Gd0lOclNjakRmQTRQLXZoaWxDVkMtVWlXMTMybnBnNHN2Z09xdzYyYm1teGQ0STRfVXRDMWlmSzUtdnBQT3REb0dGNndWUXBYZ3AwNnZPS1J1ODdaUFlxMjRBUVlmV1pMaHF4SjRNZ1hxakJDTnRZLUJMX1hmdTE4RjZtdGozX19EZEF5QQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-15T13:17:13Z",
       "dominio": "braziljournal.com",
@@ -726,18 +738,6 @@
         "CCEE"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_5192",
-      "titulo": "Procuradoria vê base legal para restrições a distribuidoras no mercado livre",
-      "lead": "Procuradoria vê base legal para restrições a distribuidoras no mercado livre",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWoxQVhhLWpWV3RkeWstVW5rMTdITUF6eGZfTWY3TEhPVXhzNDM3cURtWWZCUGxHT1k4b1U3d0I1WWJodk9JSC1qaWZuTFhRV3FhNGx3QVFIdEduS3gwSUJZSGx3RERMRTFvYTZEc2hTQkxFSllQNExmbkIzMkFvY1VwdWRxRkRmbVlRb0x4WUxkTzZzZzVYVmNFNHJXTk1RVXdNSmhtYU5IcmNxUS00UThpeVpDQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-04T10:16:50Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-17T22:18:49Z",
+  "updated": "2026-09-18T15:21:17Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_89944",
+      "titulo": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
+      "lead": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
+      "fonte": "Estadão Blue Studio",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRU1yNUU4ZjhqYzlNNy15ems5OXRucGdsRzFWcFZ6ZWNma3NJaUM0c0xPTndVd0RjM0xIb3R0NlYtXy1KemtZUDNZdm5saVdBYmVPY1kyZXF6YVI2eW8zX3VYM29kWXFGQlEzREVlOVYxZEEwMTg2WW8tZlZjME5pV2p0Y1lHUWZPMFVVaVI3c2gzclA1Z0Z0R1Q1R1FXUm5LdV9mbjRPNWt5SXVULXFmY0pXN18zOVJPRVpWNlI4X2VyVmpUVU10RUtqS0hkWmtuNzh4elBZa3JmRXRlMXhySjZtZHlUVnVRSG0zVmJBVmRHUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-18T11:05:19Z",
+      "dominio": "bluestudio.estadao.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "mercado-livre_67498",
       "titulo": "CCEE lança campanha para aproximar brasileiros do mercado livre de energia",
@@ -15,12 +27,24 @@
       "tema": "precos-mercado"
     },
     {
+      "id": "mercado-livre_37271",
+      "titulo": "CCEE antecipa publicação do relatório de contabilização do MCP pelo quarto ciclo consecutivo",
+      "lead": "CCEE antecipa publicação do relatório de contabilização do MCP pelo quarto ciclo consecutivo",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWGlXWUFaUjFqZUZtaTdwM0xabFJXOElES25rREgtdHFxSHFZam12WkRoaDREUVlCQTFhMG9FRVdadXYwVmVVRC1haVMzdUlBWWVCdkp5U2s2UGEwZTBLcGNveV9pckx3bEphR3c1aEJaN3cyTGhNOFdrQ29NaExDcEw1V095MFBoMzF5WEREZ2lvbnUtRFVUcmRvTnJyQUNwdWRLUmhMeGdydzZSSEhyUTJBcktiM29lNHBDSzdLLVh5UEhRbllzeFFTQ1MyZEtGSWRyV2pfRm5KZzUteDVudVpPUmxKUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-17T20:08:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "transicao_74237",
       "titulo": "Aquisição e pagamento de baterias",
       "lead": "Aquisição e pagamento de baterias",
       "fonte": "valor.globo.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHlleFdmRl9pRXNxNklQWFBpN3h6a1l6dU5SWTc2XzR6QlFCMDRERWVBbzJFWTlYZEU1WFI2bXFXZ1d3ek92VTV5Q3cyeFNQeVM3OUk2VG41UUZTN0FGRS1mcFk1NHNuLVRwOGx4UHdwcUpYYWRsTmZ2Ym84N0JENDNxZEZEM2V6MnB4ZVIyTzhxcmfSAZMBQVVfeXFMUGR5ZXhXZkZfaUVzcTZJUFhQaTd4emtZenVOUlk3Nl80ekJRQjA0REVlQW8yRVk5WGRFNVhSNm1xV2dXd3pPdlU1eUN3MnhTUHlTNzlJNlRuNVFGUzdBRkUtZnBZNTRzbi1UcDhseFB3cHFKWGFkbE5mdmJvODdCRDQzcWRGRDNlejJweGVSMk84cXJn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-17T08:00:00Z",
       "dominio": "valor.globo.com",
@@ -56,7 +80,7 @@
       "lead": "Leilão de baterias inaugura nova era no setor elétrico brasileiro",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0dVbk5PUmpXeEZaTjBLX0Q0VE5Hb3Y1T2tmZ1JTeDhpemJ4N0NQdFlObTVIMFFDM2Q0WWhrd215aVlRZ0haX1psRnhPZVp0bFN4ek5EX29uQ0gxQS14RlV6aW9wLVJxUGdZaWJadmR2Q3pLSDBnZXJDVE1nUFZQUzNua2xlbkowdHVoSWIyUXduWTA0akZr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-15T20:33:58Z",
       "dominio": "canalsolar.com.br",
@@ -104,7 +128,7 @@
       "lead": "Baterias: o novo ouro do setor elétrico, mas só para quem entender a regulação",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM2dMc3EwajdtaVpVRUwwd2RUTHlGOXdfYlVSLXlxamh1N2p2Z0JjY3FxdzJwQTJTeXY4RVp6MlJ6T2UxazJabnNBYWhfNTQ3X2pDSGkzMnMyOEhaaWpOYmpiSWsxQkNJbmwyeVA3eDJibzM3dFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-15T12:52:15Z",
       "dominio": "canalsolar.com.br",
@@ -449,9 +473,7 @@
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento",
       "tambem_em": [
-        "AJN1",
-        "XP Investimentos",
-        "Agência eixos"
+        "Poder360"
       ]
     },
     {
@@ -710,33 +732,6 @@
       "editoria": "mercado-livre",
       "data": "2026-09-04T16:37:11Z",
       "dominio": "cenarioenergia.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_65941",
-      "titulo": "Novas regras podem exigir adaptação de 33 GW em geração distribuída",
-      "lead": "Novas regras podem exigir adaptação de 33 GW em geração distribuída",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWpTNzdpUnV0LWlVZmduS29fSVZsbUxXbi00enVPRUdNYll3RXdNQzY3MGNlTGRBQVdrb21zQW02QVQydzlUNGpVbGFtOFZLMWxwWmtLaEE0SHdWWGNHaXZGS2JaX0d0RVlXNWVzSjV6cU40NzNBZHFieGFwVTd4c1FCSTc5cmZzNFJUc2dxdG4yTkF3VmUxTVhtRlRNX2RRU2hwNGduc3VoZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-04T14:21:12Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_12430",
-      "titulo": "CCEE integra Ranking Melhores Empresas para Trabalhar em São Paulo pela primeira vez",
-      "lead": "CCEE integra Ranking Melhores Empresas para Trabalhar em São Paulo pela primeira vez",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjJOWGdNZkhaTHdoVFhCUm5yUWM1RnhrMldMTVNsb1djV2JEajB3QUlPVzZ3a0taaFJNUnlPUWFVMTRsWENqUHlVWWlUZTVvbV8wTm8yS0lkUTYycE5rYk1nT3dydmFUQkVEMnh6NFpVY3A5VjRsYkVleDdiLWRZdEVrakxuZF9HUGNlSjVpVVFhQXBSRVZOYS0xcXRLY00yZ1NxdF9UdEFzc0k4UkFn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-04T14:16:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
       "tema": "regulacao-institucional"
     }
   ]

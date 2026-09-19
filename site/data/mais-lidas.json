@@ -1,31 +1,10 @@
 {
-  "updated": "2026-09-18T21:46:08Z",
-  "fallback": true,
+  "updated": "2026-09-19T14:58:28Z",
   "itens": [
     {
       "rank": 1,
-      "titulo": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVERIVXFvLVhwYXNGcDFFb0RjTWlWWlZpdm5xN1B3eG9iSjVTQVNSdUlPbnJfRTZ5TDB1V3RtSlpDeTFWVGVpWDBWUUF6cEQtcUotaEN1VUlzb3hINzFvaDJPb0xETUg2ZWs2QUpnb19Xd0I0aEpEdkFhOEp5RFFwTE9pa2oyZ2paNXN3cW9nWGdoaFdVNnRZaUJRYmpZRExoUmVZWlp4RGhURkZzUU92bDRBVVZJY05yUHhoanpkTzlUWThLQkNWcWMwRQ?oc=5"
-    },
-    {
-      "rank": 2,
-      "titulo": "CCEE realiza 78ª Assembleia Geral Extraordinária na próxima sexta-feira (25/09), em formato online",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSm5CTFpTUG5Wcjg4T2gzdHpnUlloQWF0MGFUZ3RzZXBSUzZrNFBNRkNQMTU2dnRiUkRRWmVyMVBoVDl2QXl5WC1CMGg5OUx1VWx3cWJ6UlZ0Qy01QUNHQ2JxeXNDT1BRUUppRGFMZnZDeU5aRGVoYzhZLTBMYjNkUHdKdm1DcEhEaF8xVC1TSlNYTFNibllEdlFJa3l2R3pfa29YVi1TRHpjeVlNTGdXNEhTU0tmM0lKSk5VdURHbWVsN3l5UGJXblJR?oc=5"
-    },
-    {
-      "rank": 3,
-      "titulo": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRU1yNUU4ZjhqYzlNNy15ems5OXRucGdsRzFWcFZ6ZWNma3NJaUM0c0xPTndVd0RjM0xIb3R0NlYtXy1KemtZUDNZdm5saVdBYmVPY1kyZXF6YVI2eW8zX3VYM29kWXFGQlEzREVlOVYxZEEwMTg2WW8tZlZjME5pV2p0Y1lHUWZPMFVVaVI3c2gzclA1Z0Z0R1Q1R1FXUm5LdV9mbjRPNWt5SXVULXFmY0pXN18zOVJPRVpWNlI4X2VyVmpUVU10RUtqS0hkWmtuNzh4elBZa3JmRXRlMXhySjZtZHlUVnVRSG0zVmJBVmRHUQ?oc=5"
-    },
-    {
-      "rank": 4,
-      "titulo": "CCEE lança campanha para aproximar brasileiros do mercado livre de energia",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHdpTW43bGptcTIyRU9iZDVEVlpwbTZYRHZ2MC05Qk4yUnctbm9UTmpWLWNLYXU0cVRwTkhzclVINWl1SEo1cG91QUd0dmRQQmZyWWRORERTRGRZeDhaT3psbWhPWGFKYU93MndSU2F2eTVPdUltV0dIRFJsa0E1NjM5b2F3SkcwMS1FOWpkLWRCNTdEdWVZSWFBcC1OM08tbUxSc3ViLW9TN0h0eTZsaEFKcHBIdk9lbEhmcmV3NmcyUlhN?oc=5"
-    },
-    {
-      "rank": 5,
-      "titulo": "CCEE antecipa publicação do relatório de contabilização do MCP pelo quarto ciclo consecutivo",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWGlXWUFaUjFqZUZtaTdwM0xabFJXOElES25rREgtdHFxSHFZam12WkRoaDREUVlCQTFhMG9FRVdadXYwVmVVRC1haVMzdUlBWWVCdkp5U2s2UGEwZTBLcGNveV9pckx3bEphR3c1aEJaN3cyTGhNOFdrQ29NaExDcEw1V095MFBoMzF5WEREZ2lvbnUtRFVUcmRvTnJyQUNwdWRLUmhMeGdydzZSSEhyUTJBcktiM29lNHBDSzdLLVh5UEhRbllzeFFTQ1MyZEtGSWRyV2pfRm5KZzUteDVudVpPUmxKUQ?oc=5"
+      "titulo": "Conta de luz segue com bandeira amarela em setembro e ganha cobrança extra a cada 100 kWh consumidos",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1NlQnpNMmZsczhneE9ON0F2eWpBeDdoLTdWaUExX2ZxR3pZSzVfdEpKQkNDSmFJQXAxYmI5ZnhfZHFMREtic3ZsSTh1SmQ4MHpTR3lSUlhtTGdJNFpPMVlqVGVQREtTTWpqT19QeFNMdmI3VjZYVDBXc2FqcHlWcmc0MllJVWJ0VEZqNEt2am9ZekRIU195cW1QWlMtRkw2bGY4RVdzVm5LQXUwOFlVUERYa2ZHb1A0WFJOWXpCSGhFVXhvM2pnWGtMX3dDdw?oc=5"
     }
   ]
 }

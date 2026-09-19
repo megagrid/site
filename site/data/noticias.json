@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-18T21:46:08Z",
+  "updated": "2026-09-19T14:58:28Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_19689",
+      "titulo": "Conta de luz segue com bandeira amarela em setembro e ganha cobrança extra a cada 100 kWh consumidos",
+      "lead": "Conta de luz segue com bandeira amarela em setembro e ganha cobrança extra a cada 100 kWh consumidos",
+      "fonte": "opovo.com.br",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1NlQnpNMmZsczhneE9ON0F2eWpBeDdoLTdWaUExX2ZxR3pZSzVfdEpKQkNDSmFJQXAxYmI5ZnhfZHFMREtic3ZsSTh1SmQ4MHpTR3lSUlhtTGdJNFpPMVlqVGVQREtTTWpqT19QeFNMdmI3VjZYVDBXc2FqcHlWcmc0MllJVWJ0VEZqNEt2am9ZekRIU195cW1QWlMtRkw2bGY4RVdzVm5LQXUwOFlVUERYa2ZHb1A0WFJOWXpCSGhFVXhvM2pnWGtMX3dDdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-19T09:50:00Z",
+      "dominio": "www.opovo.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "regulacao_65753",
       "titulo": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
@@ -15,24 +27,36 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_1336",
+      "titulo": "CCEE confirma AGE para eleição de diretoria em 25 de setembro",
+      "lead": "CCEE confirma AGE para eleição de diretoria em 25 de setembro",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGljelIyWmVESFlyeG1KNlJOSm1mX1puak1QR01DYzZLLXl6aG1mZVd0ejRuSTZFc1FkcWJyUHgzRi1WdmdVYWE4bE5UWm9ENmNkc0NCOU1XZEJFNkQxUTFHWndiWFFGdkxQdHhYcGN3dkkwVVZIOUtYRjlucGRyemMtazl0V2tsVWx1RDUwbGFjbzBPUXh2c2dnaDFfMVhFTGtSbFVPLU4tYk1VZmc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-18T13:19:22Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_33678",
       "titulo": "CCEE realiza 78ª Assembleia Geral Extraordinária na próxima sexta-feira (25/09), em formato online",
       "lead": "CCEE realiza 78ª Assembleia Geral Extraordinária na próxima sexta-feira (25/09), em formato online",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSm5CTFpTUG5Wcjg4T2gzdHpnUlloQWF0MGFUZ3RzZXBSUzZrNFBNRkNQMTU2dnRiUkRRWmVyMVBoVDl2QXl5WC1CMGg5OUx1VWx3cWJ6UlZ0Qy01QUNHQ2JxeXNDT1BRUUppRGFMZnZDeU5aRGVoYzhZLTBMYjNkUHdKdm1DcEhEaF8xVC1TSlNYTFNibllEdlFJa3l2R3pfa29YVi1TRHpjeVlNTGdXNEhTU0tmM0lKSk5VdURHbWVsN3l5UGJXblJR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-18T12:32:00Z",
       "dominio": "www.ccee.org.br",
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_35160",
+      "id": "mercado-livre_62538",
       "titulo": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
       "lead": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
-      "fonte": "bluestudio.estadao.com.br",
+      "fonte": "Estadão Blue Studio",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRU1yNUU4ZjhqYzlNNy15ems5OXRucGdsRzFWcFZ6ZWNma3NJaUM0c0xPTndVd0RjM0xIb3R0NlYtXy1KemtZUDNZdm5saVdBYmVPY1kyZXF6YVI2eW8zX3VYM29kWXFGQlEzREVlOVYxZEEwMTg2WW8tZlZjME5pV2p0Y1lHUWZPMFVVaVI3c2gzclA1Z0Z0R1Q1R1FXUm5LdV9mbjRPNWt5SXVULXFmY0pXN18zOVJPRVpWNlI4X2VyVmpUVU10RUtqS0hkWmtuNzh4elBZa3JmRXRlMXhySjZtZHlUVnVRSG0zVmJBVmRHUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-18T11:05:19Z",
       "dominio": "bluestudio.estadao.com.br",
@@ -107,6 +131,18 @@
       "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-16T15:21:13Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_35709",
+      "titulo": "Aneel autoriza conexão de data centers da Ascenty em São Paulo",
+      "lead": "Aneel autoriza conexão de data centers da Ascenty em São Paulo",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblJTWDZGazRCOU1vNThOQjQ4NEl0QnpfZW1yX2V3YTVoN3hBcHM3c1BmaGxvaDVha3ZIQ3FqOWU4TVNycWV0b2N0UUVYTjFPcnpYOTI4Sm82bVcxaGtsd2E1cFRMMDBJY0ZkZ1dJLThaVy1ndFRTdDB4QWlVUWg5dk4yMl9xRWptUVpDSFhWeDMxbk5iUGg3SzA0eF8wUWpuOE84?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-16T12:24:57Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "regulacao-institucional"
     },
@@ -693,42 +729,6 @@
       "editoria": "transicao",
       "data": "2026-09-05T14:34:00Z",
       "dominio": "clickpetroleoegas.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "tarifas_40490",
-      "titulo": "Bandeira tarifária de energia permanecerá amarela em setembro",
-      "lead": "Bandeira tarifária de energia permanecerá amarela em setembro",
-      "fonte": "Business Moment",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0FsWUszdVBpSHl4eVhBYzktOFJSc184T2k0Zlo3X3dzSmxUYTBteU4tcXpvV3Bvc1FrdVpFR1hiUVJOOXViS1dEcHMxei1saV9CM2ktVmc4akpFSG4tM24xOGx0bDBkTGU2MHZ4RHRIUUJNQUQtdy1BRXBFX2t1Qng1NDd0d9IBjgFBVV95cUxQSS1qaEt2S3VqZkVGTElhOTdGY0hPZGtkWXhrNGtaVU8tRE5JM3ZkaTVhVTNoeVoyUzZIVWhfVHExRWZwWXRfZVVBRS1MTUVkU2V1N19LUG5TR1ZKM3VfdmlpcVFJUzJxT2RGM3YtN0Y1SzNsZXlrVGJ3ZlhpdEltd0hsZmQ4eTFhemJtcjF3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-04T21:47:03Z",
-      "dominio": "businessmoment.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_21989",
-      "titulo": "Mato Grosso tem 2º maior aumento no consumo de energia elétrica do país",
-      "lead": "Mato Grosso tem 2º maior aumento no consumo de energia elétrica do país",
-      "fonte": "Rede da Notícia",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzhuZWlsTEMydS1WSWxhRVpfNzJqdW4zWlktbVlDbU1CbDFfUG9MNWVVUkt6WHYzUkc5XzRMWlFzTEllZi1VYjUwd1hEQjdHTEVSS29qZldUdllTazBzTXdrNzJLTFllTG80UUFieUJnaHdZd1FEUW9GZWtVRTludmtWcW5kZF9NQkJ4d2U2SHAxOEhiVHhFc2dLWVN2MUR0WFBv?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-04T21:32:06Z",
-      "dominio": "rededanoticia.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_66805",
-      "titulo": "Leilão de baterias vira campo minado para o setor elétrico",
-      "lead": "Leilão de baterias vira campo minado para o setor elétrico",
-      "fonte": "NeoFeed",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFdzaDJKYTdmLUFfYjdteF9FMlhjMlpRbHdLNEEzdFM1VFVQekYyUUNBcWpvNE45OFhHa2M4UHJROVhkQUUzVzlxMG5HaS02TFVRWVVQNEQ5TXdVbkxFU0RuekJzRVZWeVhacEZDaldnU2pqNDJ6bVVGakVIQ0xNNDRiT2RWUkJpQjB4U2tHSFNTa1J6R0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-04T20:22:00Z",
-      "dominio": "neofeed.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

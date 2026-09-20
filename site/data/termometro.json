@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T21:33:32Z",
-  "score": 31,
+  "updated": "2026-09-20T15:01:17Z",
+  "score": 32,
   "nivel": "normal",
   "nivel_desc": "Mercado em equilíbrio",
   "componentes": {
@@ -16,12 +16,12 @@
     },
     "pld_momentum": {
       "peso": 20,
-      "valor": 68.52,
-      "score": 0
+      "valor": 97.89,
+      "score": 2
     },
     "carga": {
       "peso": 10,
-      "valor": 82913,
+      "valor": 82420,
       "score": 50
     },
     "bandeira": {

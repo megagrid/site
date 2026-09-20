@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-19T21:33:40Z",
+  "updated": "2026-09-20T15:02:18Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_99497",
+      "titulo": "Aneel projeta alta de 9,4% nas tarifas de luz em 2026",
+      "lead": "Aneel projeta alta de 9,4% nas tarifas de luz em 2026",
+      "fonte": "Portal R10",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2c0ZWdlcFlOdWd3cHJHb09vTU5fU2prcWo2OXBEZTJxaS13X25CY2c4ZHVfb3F3TEIyWlRGM0hoX3hVNmZ4QWtRYy1sX3FvV3ZQeHZKVWtiaTlDbTVwekxPUUV2dXFpUW0zbExOQjhkYXNHRVNsdE04YlEzbEpzdkZKVkdnWDBPVTN5dW1iTnJYQURaZEpfb3VuSHUxb3p1Q2Rv0gGoAUFVX3lxTFBmQ21hOERYZEJselRGeDJQbHFBM0hWQjkyNlZVaVBLWFVDWDVOSV92SUVyeHhad0JVZWhjMVkxOW81UWt0QnhDSnZtNXFsR0RVR1hmemtkTURRRGJFZzhwS2hJbTYtcnpCQTN6dVlWSHVsaU8wV0NfR3hpTTZ5Q1F1bTVEenJEMTBWSW4wYVRSNFNsNHQ3T0NWQ19iZHVVNVptWWdmOU5tdA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-19T20:55:20Z",
+      "dominio": "www.portalr10.com",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "tarifas_19689",
       "titulo": "Conta de luz segue com bandeira amarela em setembro e ganha cobrança extra a cada 100 kWh consumidos",
@@ -20,7 +32,7 @@
       "lead": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVERIVXFvLVhwYXNGcDFFb0RjTWlWWlZpdm5xN1B3eG9iSjVTQVNSdUlPbnJfRTZ5TDB1V3RtSlpDeTFWVGVpWDBWUUF6cEQtcUotaEN1VUlzb3hINzFvaDJPb0xETUg2ZWs2QUpnb19Xd0I0aEpEdkFhOEp5RFFwTE9pa2oyZ2paNXN3cW9nWGdoaFdVNnRZaUJRYmpZRExoUmVZWlp4RGhURkZzUU92bDRBVVZJY05yUHhoanpkTzlUWThLQkNWcWMwRQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-18T21:05:57Z",
       "dominio": "www.gov.br",
@@ -51,16 +63,28 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_60753",
+      "id": "mercado-livre_92654",
       "titulo": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
       "lead": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
       "fonte": "Estadão Blue Studio",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRU1yNUU4ZjhqYzlNNy15ems5OXRucGdsRzFWcFZ6ZWNma3NJaUM0c0xPTndVd0RjM0xIb3R0NlYtXy1KemtZUDNZdm5saVdBYmVPY1kyZXF6YVI2eW8zX3VYM29kWXFGQlEzREVlOVYxZEEwMTg2WW8tZlZjME5pV2p0Y1lHUWZPMFVVaVI3c2gzclA1Z0Z0R1Q1R1FXUm5LdV9mbjRPNWt5SXVULXFmY0pXN18zOVJPRVpWNlI4X2VyVmpUVU10RUtqS0hkWmtuNzh4elBZa3JmRXRlMXhySjZtZHlUVnVRSG0zVmJBVmRHUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-18T11:05:19Z",
       "dominio": "bluestudio.estadao.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "tarifas_92298",
+      "titulo": "Abrace: proposta aos presidenciáveis busca retirar R$ 109 bilhões em custos na conta de luz",
+      "lead": "Abrace: proposta aos presidenciáveis busca retirar R$ 109 bilhões em custos na conta de luz",
+      "fonte": "acessa.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSUZTb1pJMGlBY3Ria1ZOTTk0OGpyYzFxY0hRcTFESkdDNG1pc2ttTnRsUUhCdE1hU2k0NDhFbDg2di1fVFBoUnlDVDB4RHRFN1VQcFRaMDZLUFQzSFlNb3F6cERfYVFwenY1Y25DVTl6VVByNTNIN2l6RUZWdG9NMkVVandkREFDemVuLURYOF81REEtMU5BMDRmcGljT2huZE5sckNKdWdpUWdSY1NMTWptek1BSWVSdm91YUNFQjNWOV9wS3dRRzJWTVpoUmFSb1M4Z0VidDRSUzI2X1Nv0gHfAUFVX3lxTE9JRlNvWkkwaUFjdGJrVk5NOTQ4anJjMXFjSFFxMURKR0M0bWlza21OdGxRSEJ0TWFTaTQ0OEVsODZ2LV9UUGhSeUNUMHhEdEU3VVBwVFowNktQVDNIWU1vcXpwRF9hUXB6djVjbkNVOXpVUHI1M0g3aXpFRlZ0b00yRVVqd2REQUN6ZW4tRFg4XzVEQS0xTkEwNGZwaWNPaG5kTmxyQ0p1Z2lRZ1JjU0xNam16TUFJZVJ2b3VhQ0VCM1Y5X3BLd1FHMlZNWmhSYVJvUzhnRWJ0NFJTMjZfU28?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-18T08:54:54Z",
+      "dominio": "www.acessa.com",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_67498",
@@ -68,7 +92,7 @@
       "lead": "CCEE lança campanha para aproximar brasileiros do mercado livre de energia",
       "fonte": "Grandes Nomes da Propaganda",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHdpTW43bGptcTIyRU9iZDVEVlpwbTZYRHZ2MC05Qk4yUnctbm9UTmpWLWNLYXU0cVRwTkhzclVINWl1SEo1cG91QUd0dmRQQmZyWWRORERTRGRZeDhaT3psbWhPWGFKYU93MndSU2F2eTVPdUltV0dIRFJsa0E1NjM5b2F3SkcwMS1FOWpkLWRCNTdEdWVZSWFBcC1OM08tbUxSc3ViLW9TN0h0eTZsaEFKcHBIdk9lbEhmcmV3NmcyUlhN?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-17T21:32:09Z",
       "dominio": "grandesnomesdapropaganda.com.br",
@@ -111,15 +135,18 @@
       "tema": "baterias-armazenamento"
     },
     {
-      "id": "mercado-livre_98406",
+      "id": "mercado-livre_65969",
       "titulo": "CCEE recebe Prêmio Empresas que Melhor se Comunicam com Jornalistas pelo quarto ano",
       "lead": "CCEE recebe Prêmio Empresas que Melhor se Comunicam com Jornalistas pelo quarto ano",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmIwNlhkZl9xV2pWRWQ3bERrZmlCNzRJeUd4RXA3TVdsUGs5RHIzRTZzb21PRHFIVkJPTURHb3VsQTFSZzcxMV9LVC1ocnc4akdraFZxaDR2NDNuTk1senRoV2M0RUxkY0dQSjVYZEtpN2EzQy15bzhPaDVDVERZQi1pdTBSTklBaktnWnlJcWdsRnlSUWw5ZEZDaGR1VkxkenVySHhhazJZaUNkeFFOZl9KbllXNV96RE1NbEVXR2ZtTFM4amhyb2gzdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNVJQQUMxWnBMeGhnTVl1Q21LUTR5VnlNbGRSQUVnTmo0RWx0bUFGV2Q2UzN4cW9ycVlZSTRKWVY3dWFlaHpUNUY3ckFzUWhoT21NcmhEUXVEV1pNbFNCWkNXZDF3NW5DNFBFMGtKODZfdVJtUE13czc5VmZkQjFYSjlqd2xmNE8ySEhyQjZxRGtQLVJMNV9jTElDM3JqVlc1VHA4YUI0QjBzSUIxSG5TdVBTN015dFR3ZUtLZGpR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-16T19:37:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -128,7 +155,7 @@
       "lead": "CCEE avança em proposta de fundo para cobrir perdas em casos de inadimplência no mercado",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlVDV2pkVENLaEUxcUc0dE92S2FOZ3Yya2taQVFjMktrRVNKdzY4UG5xSExfUjRrR0hRbUhuN2VrVHhtMzdjV0tnQlRYWkpRY0x2UzF4ZU9vc1RsTVVmZk5JOE9yRHVjOVhqcURUNDZVcXlBMWJqSEtRSTZvcWJtd1dPaTlBWUgzM21xTDMzc29YNzlENERoS0dqRnNGWEQyRDlvS1VJY3VwakRtZlptQXM3TU9QRHJWWXlQZEx1X3ladFhQWjh1OHM1bEVEOUpRMlE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-16T15:21:13Z",
       "dominio": "megawhat.uol.com.br",
@@ -188,7 +215,7 @@
       "lead": "Mercado livre de energia: abrir o mercado da baixa tensão é apenas o começo",
       "fonte": "Brazil Journal",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnpjeVdjTzhXdjgwSTAydXJtQWlsQVcwTlZaLWctQ05KYjFXdi1Gd0lOclNjakRmQTRQLXZoaWxDVkMtVWlXMTMybnBnNHN2Z09xdzYyYm1teGQ0STRfVXRDMWlmSzUtdnBQT3REb0dGNndWUXBYZ3AwNnZPS1J1ODdaUFlxMjRBUVlmV1pMaHF4SjRNZ1hxakJDTnRZLUJMX1hmdTE4RjZtdGozX19EZEF5QQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-15T13:17:13Z",
       "dominio": "braziljournal.com",
@@ -545,7 +572,9 @@
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento",
       "tambem_em": [
-        "Poder360"
+        "ajn1.com.br",
+        "Poder360",
+        "Agência eixos"
       ]
     },
     {
@@ -705,30 +734,6 @@
       "editoria": "transicao",
       "data": "2026-09-06T07:00:00Z",
       "dominio": "www.cnnbrasil.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_37642",
-      "titulo": "Megaleilão de energia do governo Lula é barrado pela Justiça",
-      "lead": "Megaleilão de energia do governo Lula é barrado pela Justiça",
-      "fonte": "Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0ZRdjludnVfMHlLUlFBNnVXanhYZTVORjh4aEVxNjZCcEdtT2t3cm5aQlBob1NCOHFMdlFxRTE2U0pTaDFyczh1VnVQZkhqUXFIbkVsRTM2by16dVRTQjVmT3NvUmxQMWRGTUhoTkUzQXgwM1lyV2R3dHJ0cHFEUVJDQXY0ZmFfZ1UyOVlweXhYUFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-05T17:34:40Z",
-      "dominio": "www.gazetadopovo.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_86517",
-      "titulo": "Alemanha começa a erguer bateria gigante de 1,6 GWh em antiga área de usina a carvão, capaz de guardar energia para 640 mil casas por quatro horas",
-      "lead": "Alemanha começa a erguer bateria gigante de 1,6 GWh em antiga área de usina a carvão, capaz de guardar energia para 640 mil casas por quatro horas",
-      "fonte": "CPG Click Petróleo e Gás",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BQbC1MWTZ3TmtLbWJ4dU9JYzVISWJyUWFHamVMWDFlNzFmUFJWRDBGc3hHNFpOdTVONjg0clBLNUxFcnF5UnM5UEE3a3BncTd2ZHFyT0FGVk9Rc1ktYnFVSFAwbWdkOWRTbzE0SXZrdU80clB3aWRPN2hwdmViQmRnN1ZuUkk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-05T14:34:00Z",
-      "dominio": "clickpetroleoegas.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-20T15:02:18Z",
+  "updated": "2026-09-20T21:42:50Z",
   "total": 60,
   "itens": [
+    {
+      "id": "dado-2026-09-20",
+      "titulo": "PLD sobe 42,9% na semana e fecha a R$ 97,89 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 97,89/MWh · reservatórios em 62,6% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "fonte": "Megagrid Dados",
+      "url": "https://megagrid.com.br/#precos",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-20T21:42:50Z",
+      "tema": "precos-mercado"
+    },
     {
       "id": "regulacao_99497",
       "titulo": "Aneel projeta alta de 9,4% nas tarifas de luz em 2026",
@@ -63,12 +74,12 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_92654",
+      "id": "mercado-livre_17300",
       "titulo": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
       "lead": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
       "fonte": "Estadão Blue Studio",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRU1yNUU4ZjhqYzlNNy15ems5OXRucGdsRzFWcFZ6ZWNma3NJaUM0c0xPTndVd0RjM0xIb3R0NlYtXy1KemtZUDNZdm5saVdBYmVPY1kyZXF6YVI2eW8zX3VYM29kWXFGQlEzREVlOVYxZEEwMTg2WW8tZlZjME5pV2p0Y1lHUWZPMFVVaVI3c2gzclA1Z0Z0R1Q1R1FXUm5LdV9mbjRPNWt5SXVULXFmY0pXN18zOVJPRVpWNlI4X2VyVmpUVU10RUtqS0hkWmtuNzh4elBZa3JmRXRlMXhySjZtZHlUVnVRSG0zVmJBVmRHUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-18T11:05:19Z",
       "dominio": "bluestudio.estadao.com.br",
@@ -232,6 +243,18 @@
       "data": "2026-09-15T12:52:15Z",
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_28576",
+      "titulo": "ANEEL propõe nova classificação para operação de usinas no sistema elétrico",
+      "lead": "ANEEL propõe nova classificação para operação de usinas no sistema elétrico",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jb2J2RGVBbGV3NElJN0JvbER5YmdFd0hJdXUtTHNxZjVicGpDSXRzbGhYcmVKNDJoTjVUUUEwM3RMWWpyU2NNSzRhek1OQUhFUXh3aXg3Wm5NYXQwRFlzeWE0WGRSSElONG9ac3Y2M0xoRjZMNkp6Z3U3NGtMQTA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1627052428109-576e839d100a?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-15T11:20:04Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "industria-generica"
     },
     {
       "id": "transicao_10837",
@@ -572,9 +595,9 @@
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento",
       "tambem_em": [
-        "ajn1.com.br",
-        "Poder360",
-        "Agência eixos"
+        "AJN1",
+        "Agência eixos",
+        "Poder360"
       ]
     },
     {
@@ -711,30 +734,6 @@
       "data": "2026-09-06T13:00:41Z",
       "dominio": "canalsolar.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_75062",
-      "titulo": "CCEE coloca mais quatro comercializadoras em operação balanceada e libera Anemus",
-      "lead": "CCEE coloca mais quatro comercializadoras em operação balanceada e libera Anemus",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDFkT2ZiNFdaSU9tR1NaR0xMUVcyTGNha2FpejFwejV3ZHhISHlmY19Kc3EzeVk0WW9SWDRhTzgwNHZUczJ3akh0NEdBcDFjSXQ2Ujg2dnotTTRGQlZWQ3djMHJURFh3eFViTTcwdHdaMktBLVNuaGpDcFVvRHhURTRFUHNSdVNkVGZQUWNQdjRMcWxtdjFTbDI2X19ESk80cjVzZ1Faa0V1Y2M5YUFTQTBOMXpGcXItbXZvamdwODA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-06T07:00:00Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_2002",
-      "titulo": "Joísa: Leilão de baterias gera debate sobre risco e retorno ao investidor",
-      "lead": "Joísa: Leilão de baterias gera debate sobre risco e retorno ao investidor",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOW5GSlgxbXhwOVlJdno2QkswOW9pNWV5Xy1HNktxeEhQaUVWdmNCM0gxdUxyd3Bza21iZnBmZU9CbTdxNTNXZXlibndoYlVXcWI5MmtkYjF6ajdmX25Qc2xZbm5icXkwOXplVWlZcnJmdkRJVS1pb183cGN2Zkp3eFpZNV90SkE1SkRhYml0T2VLdWhPT0tFMG81elJ4bzJ6VlR1MFlneWk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-06T07:00:00Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

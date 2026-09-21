@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-20T21:42:50Z",
+  "updated": "2026-09-21T17:19:20Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-09-20",
+      "id": "dado-2026-09-21",
       "titulo": "PLD sobe 42,9% na semana e fecha a R$ 97,89 no Sudeste/CO",
       "lead": "PLD SE/CO a R$ 97,89/MWh · reservatórios em 62,6% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
       "fonte": "Megagrid Dados",
       "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-09-20T21:42:50Z",
+      "data": "2026-09-21T17:19:20Z",
       "tema": "precos-mercado"
     },
     {
@@ -23,7 +23,10 @@
       "editoria": "regulacao",
       "data": "2026-09-19T20:55:20Z",
       "dominio": "www.portalr10.com",
-      "tema": "regulacao-institucional"
+      "tema": "regulacao-institucional",
+      "tambem_em": [
+        "Canaã Notícias"
+      ]
     },
     {
       "id": "tarifas_19689",
@@ -72,18 +75,6 @@
       "data": "2026-09-18T12:32:00Z",
       "dominio": "www.ccee.org.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_17300",
-      "titulo": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
-      "lead": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
-      "fonte": "Estadão Blue Studio",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRU1yNUU4ZjhqYzlNNy15ems5OXRucGdsRzFWcFZ6ZWNma3NJaUM0c0xPTndVd0RjM0xIb3R0NlYtXy1KemtZUDNZdm5saVdBYmVPY1kyZXF6YVI2eW8zX3VYM29kWXFGQlEzREVlOVYxZEEwMTg2WW8tZlZjME5pV2p0Y1lHUWZPMFVVaVI3c2gzclA1Z0Z0R1Q1R1FXUm5LdV9mbjRPNWt5SXVULXFmY0pXN18zOVJPRVpWNlI4X2VyVmpUVU10RUtqS0hkWmtuNzh4elBZa3JmRXRlMXhySjZtZHlUVnVRSG0zVmJBVmRHUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-18T11:05:19Z",
-      "dominio": "bluestudio.estadao.com.br",
-      "tema": "precos-mercado"
     },
     {
       "id": "tarifas_92298",
@@ -595,6 +586,7 @@
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento",
       "tambem_em": [
+        "Business Moment",
         "AJN1",
         "Agência eixos",
         "Poder360"
@@ -734,6 +726,18 @@
       "data": "2026-09-06T13:00:41Z",
       "dominio": "canalsolar.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_99287",
+      "titulo": "Cemig abre edital de R$ 50 milhões para solar e baterias no agro",
+      "lead": "Cemig abre edital de R$ 50 milhões para solar e baterias no agro",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGFfZWNlRTdnVlRDeHhpOEl0akFjUFIwRnI3U1d1SW5heDJOVXByeFJYOUNSVkZGekw4Tm9OVVpQejNHT0sxR0hOdi14OVJqOV9zSU02eWdVNjlpLVVRTmcyUXF6ZE1ORm9QRVpTWXI1cHZaSUFBQVNXMHJPZGh5b3hsYXB3UUpQNXFHOWxFa0R2eVpXRTNRR20zc0thZ2VkWUtJ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-06T07:00:00Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "solar"
     }
   ]
 }

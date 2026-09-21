@@ -1,17 +1,42 @@
 {
-  "updated": "2026-09-21T17:19:20Z",
+  "updated": "2026-09-21T22:41:18Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-09-21",
-      "titulo": "PLD sobe 42,9% na semana e fecha a R$ 97,89 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 97,89/MWh · reservatórios em 62,6% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
-      "fonte": "Megagrid Dados",
-      "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "id": "transicao_60645",
+      "titulo": "Apine apresenta prioridades para o setor elétrico a presidenciáveis",
+      "lead": "Apine apresenta prioridades para o setor elétrico a presidenciáveis",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGwwaUlZT2gzc2hGWVNJWktidTBXNTZiTTY2bWdBM19lNk1mQ2pnREhNSjRQdmVZdUZKTFMyeG5DZ01wZHRyV1Y5dktrX21LRkNiU2FaOXFZNUNhbGZadlpmRlRpcXR0V2RLX1M3dEg0T3lmUENZa0trLXAzV3gydWZ3VFE5TXhNMU9CSUlXSm5HQXJQQmt2eHB3cl9IMDA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-21T20:34:22Z",
+      "dominio": "agenciainfra.com",
+      "tema": "solar"
+    },
+    {
+      "id": "transicao_94675",
+      "titulo": "Europa acelera uso de baterias e prevê 57 GWh instalados em 2026",
+      "lead": "Europa acelera uso de baterias e prevê 57 GWh instalados em 2026",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kWnhTQVAwVkY3MjQ2RTc1TTE4TG8xbG1ZVFJoT0FIVVctUmdjbUo0dHFvNXdPUDQxTWhiOVFGLVlBWG9QOFNuOHlGTEp1SkdEX0xyckRRWjN1aFVZSE1xQjQtdzVFZDlwRk5Cbld6OFE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-21T18:03:18Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_56853",
+      "titulo": "CCEE disponibiliza nova ferramenta para consulta de dados de medição mais ágil",
+      "lead": "CCEE disponibiliza nova ferramenta para consulta de dados de medição mais ágil",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnEzdU1GUV9leE11cFNDV2pRbkdQNzNDN3JpX2R0WnBNTWRUejlxdmpJMlRlRlVKOUVvcDRDZ2J2dFcxVXh3eDFKVllLMnFRbzNseFZxTzJyTVgwUnBjM2tYNUpLN3UtUExjMzJzN3hEYm50dDk5ZjJCdWh2Q2lIV0txaHpMMzVRS29VTUV6SGRUTWZQMFo0M3UyaU5kbXIxX1BCbW9GYWx2Z2tDVjl2SnZSRHQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-09-21T17:19:20Z",
-      "tema": "precos-mercado"
+      "data": "2026-09-21T17:29:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_99497",
@@ -19,7 +44,7 @@
       "lead": "Aneel projeta alta de 9,4% nas tarifas de luz em 2026",
       "fonte": "Portal R10",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2c0ZWdlcFlOdWd3cHJHb09vTU5fU2prcWo2OXBEZTJxaS13X25CY2c4ZHVfb3F3TEIyWlRGM0hoX3hVNmZ4QWtRYy1sX3FvV3ZQeHZKVWtiaTlDbTVwekxPUUV2dXFpUW0zbExOQjhkYXNHRVNsdE04YlEzbEpzdkZKVkdnWDBPVTN5dW1iTnJYQURaZEpfb3VuSHUxb3p1Q2Rv0gGoAUFVX3lxTFBmQ21hOERYZEJselRGeDJQbHFBM0hWQjkyNlZVaVBLWFVDWDVOSV92SUVyeHhad0JVZWhjMVkxOW81UWt0QnhDSnZtNXFsR0RVR1hmemtkTURRRGJFZzhwS2hJbTYtcnpCQTN6dVlWSHVsaU8wV0NfR3hpTTZ5Q1F1bTVEenJEMTBWSW4wYVRSNFNsNHQ3T0NWQ19iZHVVNVptWWdmOU5tdA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-19T20:55:20Z",
       "dominio": "www.portalr10.com",
@@ -586,10 +611,8 @@
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento",
       "tambem_em": [
-        "Business Moment",
-        "AJN1",
         "Agência eixos",
-        "Poder360"
+        "poder360.com.br"
       ]
     },
     {
@@ -714,30 +737,6 @@
       "data": "2026-09-06T14:15:00Z",
       "dominio": "opovo.com.br",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_28626",
-      "titulo": "CCEE lança campanha nacional para apresentar mercado livre de energia",
-      "lead": "CCEE lança campanha nacional para apresentar mercado livre de energia",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKcU0zUm80cmFOTFVwb0FDMVYwNGJfeUUzTjBUaWVlMzZTV2tBWFRCd2FMMFhoYlByUFVfTmxCN2FTTFVOUTIyYW5Jam1lNmpQZ1BNUDVENzJtX2t2VVFNMlZ3OTM0QlB5N3ZkRF8xSURMYXlJekVwQU1Ecw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-06T13:00:41Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_99287",
-      "titulo": "Cemig abre edital de R$ 50 milhões para solar e baterias no agro",
-      "lead": "Cemig abre edital de R$ 50 milhões para solar e baterias no agro",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGFfZWNlRTdnVlRDeHhpOEl0akFjUFIwRnI3U1d1SW5heDJOVXByeFJYOUNSVkZGekw4Tm9OVVpQejNHT0sxR0hOdi14OVJqOV9zSU02eWdVNjlpLVVRTmcyUXF6ZE1ORm9QRVpTWXI1cHZaSUFBQVNXMHJPZGh5b3hsYXB3UUpQNXFHOWxFa0R2eVpXRTNRR20zc0thZ2VkWUtJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-06T07:00:00Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "solar"
     }
   ]
 }

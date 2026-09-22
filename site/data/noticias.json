@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-22T15:53:29Z",
+  "updated": "2026-09-22T22:21:52Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_42384",
+      "titulo": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada",
+      "lead": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada — Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcXpnaEJ0YWJrOG83TWJFUXhyRzdjeHBrZTdrQVRwN3VoX3g1TU5VLWRNUTF0QUpxamtQNW9RUURKRjVZczVpNnlTY0g4U0lhTDByT1FlT2VMX0laVlU4LS1penRpNTdVTzJPQW9IdVQtQjZEbjJUY1VmVE5PaFhMb2xndi15NXlndG1Yc1JaY0VVd1JBQVpkeTMyeGVSS2Zpb0lyUWlnb1p4UFFvbW13M3JQWnNaczVoU1AzcHAyVzVDQTNXNW5aaS1ncUVxUjY2Mk4zOHlvaXhpcVZkMVN6ODBn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-22T20:35:54Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_3498",
+      "titulo": "Agência adia aprovação da representação do programa de Resposta da Demanda",
+      "lead": "Agência adia aprovação da representação do programa de Resposta da Demanda www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2ZRdlFoM0FtdVAtX1ExaUVKdzM2TDdrY3FSaDBoTk9GM2RsOVFiRmZ0Q25lU1J4dl9FTjRXc3dHNGFEdjhXdG1jb0k3cjdsZUVhY0V4SktXUWhGa3NQU1ZGV0RTR3o2b29sUDg4Z3pJUDV0UW0zdGk5ZVpXRXc0V1hiT1IxVm9kNHJMTmF1X3FlSXpEZFRRNnYzbFJJTk5WZXlHSXF6ZWlGSVpwUm11ekpKZFIzZjU0OHh1c05uUUxkR25ySVhINVdTVUxJNV9zUFFiZmhCQnlLRjhTbEE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-22T19:17:10Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_31571",
+      "titulo": "Mercado Livre de Energia: como a escolha da fonte de energia impacta as metas ESG",
+      "lead": "Mercado Livre de Energia: como a escolha da fonte de energia impacta as metas ESG",
+      "fonte": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEI1Yk9oLUFZT0tKRE14RThqLWd2X28tYW0yeDV4VUlhSFpaR080N3BvMHoyTnVVeXBZM3lxX2ZOVGF0Ym1LN0JUWDZSV09sSjFkRWpEeEhBTEtvOFE3RWk1NHdEZWQzelA3RWlQdUJYX2FiVENhRVlKc3V5S1R3My1KRzVPYUJwdEl6aVZ4M0w2WXViNTQ1UXV3VHdLWHlCTHlVZkRoTThidlAtWXZlcWVXRdIBuAFBVV95cUxNWG9LNDN2MXRQak9ManhOUldGUDktVnBGUjJwOXNjbm4wS1ZZVFp0TzFiM3U4aWg0M3FVYTBxY0VFVmhGcFF1eTl1SURCNXVaeGNWQ0VzTm1MR0kydkRlVEh6NkFfLUh3ek8tSkw3eWw1S3RVUlBlYkRoWmVFY0ZOcWZVSThuSW5rZk03MnVITncybFhrMVhldWxPck5SamF2TWN1cndUZkYxRzlpSVlNYk5qT2xZZmhR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-22T18:23:34Z",
+      "dominio": "www.estadao.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_97439",
+      "titulo": "Primeiro leilão de baterias atrai mais de 6 mil projetos",
+      "lead": "Primeiro leilão de baterias atrai mais de 6 mil projetos",
+      "fonte": "Brasil 247",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGdrYUlZRFg5b3hiQi1ibzJSQm0zUmk5X1pZVG4zV09Za2ZPeGVQZ00zOFpLVUNqenY3SF9rN1Z1MHpUYzhPdDhkZ0hhQXZBVGJ2b0tEbjZNLVBRaklUcV9OcDlHQ0lpQXRfWFRGeU1kWjA3M2hXcVNmWkNVVWhUb3FfejVzZkR4bjNoMGo3NmhxcFk5dkgw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-22T17:50:00Z",
+      "dominio": "www.brasil247.com",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "regulacao_12321",
       "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
@@ -20,7 +68,7 @@
       "lead": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNGNibTdBQ0pfVGZUeEtoS2Zia3YtZThZTU9RZnI4SWlhYWlDS3Y0N21QRWNGbUlTTThJNHNONnAtdWI2dnZENzIycXFRRG53aGtTdllaLVhIYkRXWGZoS2gyMFNRZE53UWRNMXZKVE1OVWQwM2h5RmY2dE12dlZxYnRHRDZFUVNJaDNmeUFUaHA2T051eGk0QzRnUGI4MGJEeWdmOWFwS1JQYjYzZ1gxdmlpRkFHNFliZU1uMHNFZS1hU0F6Y2FNc3VSYmFGWTlzUFhLLURsLWxKWWJncG9lRlp5XzE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509390288171-ce2088f7d08e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509390032417-bd802f3fc669?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-22T14:45:08Z",
       "dominio": "www.gov.br",
@@ -36,7 +84,10 @@
       "editoria": "regulacao",
       "data": "2026-09-22T14:09:39Z",
       "dominio": "www.folhape.com.br",
-      "tema": "transmissao-rede"
+      "tema": "transmissao-rede",
+      "tambem_em": [
+        "BOL"
+      ]
     },
     {
       "id": "transicao_72928",
@@ -154,6 +205,18 @@
         "CCEE"
       ],
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_92119",
+      "titulo": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
+      "lead": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
+      "fonte": "Estadão Blue Studio",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRU1yNUU4ZjhqYzlNNy15ems5OXRucGdsRzFWcFZ6ZWNma3NJaUM0c0xPTndVd0RjM0xIb3R0NlYtXy1KemtZUDNZdm5saVdBYmVPY1kyZXF6YVI2eW8zX3VYM29kWXFGQlEzREVlOVYxZEEwMTg2WW8tZlZjME5pV2p0Y1lHUWZPMFVVaVI3c2gzclA1Z0Z0R1Q1R1FXUm5LdV9mbjRPNWt5SXVULXFmY0pXN18zOVJPRVpWNlI4X2VyVmpUVU10RUtqS0hkWmtuNzh4elBZa3JmRXRlMXhySjZtZHlUVnVRSG0zVmJBVmRHUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-18T11:05:19Z",
+      "dominio": "bluestudio.estadao.com.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "tarifas_92298",
@@ -665,7 +728,8 @@
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento",
       "tambem_em": [
-        "AJN1",
+        "Business Moment",
+        "ajn1.com.br",
         "Agência eixos",
         "Poder360"
       ]
@@ -680,69 +744,6 @@
       "editoria": "transicao",
       "data": "2026-09-08T20:04:56Z",
       "dominio": "contilnetnoticias.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "tarifas_14164",
-      "titulo": "EQUATORIAL ORIENTA CLIENTES SOBRE COMO ECONOMIZAR ENERGIA DURANTE PERÍODO COM BANDEIRA AMARELA",
-      "lead": "EQUATORIAL ORIENTA CLIENTES SOBRE COMO ECONOMIZAR ENERGIA DURANTE PERÍODO COM BANDEIRA AMARELA",
-      "fonte": "Jornal O Impacto",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXFRYkxydkM3Sm00WEpiWko2Z3F5NERkdm9hc0RMWGsxVDctU0FUekNwYWN3UTZfM0pqeGc2ZE9TeGxWYmh5Q1o3bWdvQ0VUTllDT2xfT3V6MWw2b3F4YnhiaE9FaE5ndWRvbVF6dEJjU2ljOUdwb3gwSEFnckROZV9KdkxacXlLUXBQcVM3MG1YWGdwRHZ3dWI5YUQzd3lpTENFN1NfLU5paWVodTVwUE9LdmMxYzRrSFJuVmMtamd3Ymp6eXc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-08T19:23:21Z",
-      "dominio": "oimpacto.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_79640",
-      "titulo": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos",
-      "lead": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV0o4UlV4YnJGWGxjaWkxZG5Pb2IzREY4cTJacjNhUFFteU1oTTlnUks1Y1dMVFM4NFNtdmdoQ1p0dlo3T29rT25fVVIzNWRNQkhNX0Y2WmVVT29qTGdva0VvUmtYbC11N1RFZmZOcVI4OV9FcnFwanI2MkFjUnYyX29rQVBpYzNXc092ZGo2clRMRTNUU2ljcUxXZmxEbFRqYjEtcDdJYmtoQzE5UUdKcl9JUlN1MlMxdG1YeFFJNlhGem9mUElXM05HbVUwSERSUXZkZTlRTHo3MktZODd3dnZUaWl5eEJZaXBlUng4YTFMZGo4bzA1eVNMS29NOEtuWTU3ZlB3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-08T18:58:14Z",
-      "dominio": "www.gov.br",
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_3137",
-      "titulo": "Leilão da Aneel: obras em MS ligam Brasil à Bolívia",
-      "lead": "Leilão da Aneel: obras em MS ligam Brasil à Bolívia",
-      "fonte": "Campo Grande News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0RndlkyTkNLUnRVQ21qM0k2eGQyd05CUE93czA3NnozMlVxYlM0M3phc1lvYnA4SnVYOV9qNFlMdkJpbXA3NXBkR2JwT2pRaFZGM1ZfWkJZUExrVDY1ejlxYlJOR054LVJ0Q2ZvVGlodGVBNi01WG1NenRtMkMwZko5NVk5azlXb3hWei05eEJvajhrY2Q1SmVfZ3c3OTd5RkxaM2lSMkpNbDdnbXJmZTAwalVXc3ZEbU1CX19OMNIBvwFBVV95cUxOZFdrNDVUWkNJT3g4bWpFTXV6SXZhRHhoWWY5Qnh0NnVpeTJqTVB5SV9peVM0WFlZSmZLclJxUEdKZXNyQUtPaHljQmptU3llV2JHUHpzNUIxNWNiNy1QYXk3YlZWeHNIQUpFZ0ZmakphWWhEZkxwNEY4aVIxaEstNEVYU3A1QkhVWjI1eTBaOTVaNUZwLThpZ3lHSWYzUWZSSmNVcHdwZGNMV0RjUk5INUdQNmowcjdvSTFuMTdzbw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-08T18:56:00Z",
-      "dominio": "www.campograndenews.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "empresas_18736",
-      "titulo": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos",
-      "lead": "Leilão de transmissão de 2027 prevê R$ 12,9 bilhões em investimentos",
-      "fonte": "Balada IN",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHM4ODBQRDhQU3ppdmdMVGYzMVZRMFdUa1dKZnR4TVBDbDJKSDZrZzdqUjlQMm8yaU9tNGJNSjhmeWYzNzFNOER1alk1a0RnOUZ0d2xJcl9EckExMXZpRkhEcWNoUE5qT1NjSnZySnFValRfZU1uOVAzeTk3TTRYc2RscU9obFdNOW94MXdPNlVTa0M3bXJibU9VWGEwRUE3bmJxUEZyVQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-09-08T18:28:00Z",
-      "dominio": "www.portalin.com.br",
-      "tambem_em": [
-        "Brasil 247"
-      ],
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_19352",
-      "titulo": "ANEEL avalia incentivos para baterias junto a usinas e prioridade no curtailment",
-      "lead": "ANEEL avalia incentivos para baterias junto a usinas e prioridade no curtailment",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wT3NHOTN0bUozZXItLS1YcDZNcHhrcUN0clJVZXZpZ0lXVFdkckI0NnN6VXRwTEhJdWR4V3JCb3ZHeHBqSmRNWGw2TzVyMmNObzZuRlBRU3dKWVNNS19WcnRudUhUQ1FRWUwySmdRbVFLdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-08T14:56:49Z",
-      "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

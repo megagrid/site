@@ -1,14 +1,50 @@
 {
-  "updated": "2026-09-22T22:21:52Z",
+  "updated": "2026-09-23T15:42:29Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_312",
+      "titulo": "Confira as últimas notícias do Paraná: leilão de energia, ranking de eficiência e patrimônio mundial",
+      "lead": "Confira as últimas notícias do Paraná: leilão de energia, ranking de eficiência e patrimônio mundial",
+      "fonte": "oparana.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DTFZMczdmWV9fUXpRbnZ0RDUxYXB0U1hrTjhZNlVHRHdzNEppdjJzeXlaVkNXZTBuR2ItWEY1UXREUlZET2MtTEdCZVlfZ3pSdC1PXzhTb00yclBnbXBmaw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-23T14:30:00Z",
+      "dominio": "oparana.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_55027",
+      "titulo": "ENGIE avalia disputar novos leilões do setor elétrico",
+      "lead": "ENGIE avalia disputar novos leilões do setor elétrico",
+      "fonte": "Além da Energia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcG0zQkhqcmZNdm5PN0VaX0pGRXJGYUZDVFpBTGs4Sm5sRkktYmViVnNFMWtDT0RrbGZMWWhCTzhXb0U4Tmd6WTdlbmxnU0V3Zk1wS0lIekt2SndrOXI1UnJ2REtRSEMxUE1UYjlRQkx0SzRUY2VJNmpkbzM4ek5fZWxJTDRwVUFwUnNIZ0hlZlU3dVFQQXpFbQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-23T10:22:31Z",
+      "dominio": "www.alemdaenergia.engie.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "mercado-livre_19568",
+      "titulo": "Pesquisa nacional, leilão de energia e qualidade total são alguns dos destaques de hoje na Coluna ADIPR",
+      "lead": "Pesquisa nacional, leilão de energia e qualidade total são alguns dos destaques de hoje na Coluna ADIPR",
+      "fonte": "O Presente",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdFZXVGoyNGRYNElXMWE2T3JKLU1saXVWeHMta1NFZ0dRM3EwM0ZfQzlEUHVRcTl2RFFCRkE5blhlWl9SSVlPbV9WS19pSHRQRWlKRkFqRzlIVVhRdTFUOVE4QlFFMjNjSkFadUluSVdtb1NHT2dlS2tyWUlDeGc2bVpzaEtITl9HZlVWRk5vcmRUYVJKdG1mSnA4ZjBKdTFfOUNna0ZvY2tydHhQZFNYOUtfQTVFVjVucjJ2R1RaTkk4M1N0ZTFJdGhXNGpXX0ZPSlM2VmZxQ0dfcUZXd29GNVdvX3pKbGdEemc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-23T10:00:00Z",
+      "dominio": "www.opresente.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "regulacao_42384",
       "titulo": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada",
       "lead": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcXpnaEJ0YWJrOG83TWJFUXhyRzdjeHBrZTdrQVRwN3VoX3g1TU5VLWRNUTF0QUpxamtQNW9RUURKRjVZczVpNnlTY0g4U0lhTDByT1FlT2VMX0laVlU4LS1penRpNTdVTzJPQW9IdVQtQjZEbjJUY1VmVE5PaFhMb2xndi15NXlndG1Yc1JaY0VVd1JBQVpkeTMyeGVSS2Zpb0lyUWlnb1p4UFFvbW13M3JQWnNaczVoU1AzcHAyVzVDQTNXNW5aaS1ncUVxUjY2Mk4zOHlvaXhpcVZkMVN6ODBn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-22T20:35:54Z",
       "dominio": "www.gov.br",
@@ -20,7 +56,7 @@
       "lead": "Agência adia aprovação da representação do programa de Resposta da Demanda www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2ZRdlFoM0FtdVAtX1ExaUVKdzM2TDdrY3FSaDBoTk9GM2RsOVFiRmZ0Q25lU1J4dl9FTjRXc3dHNGFEdjhXdG1jb0k3cjdsZUVhY0V4SktXUWhGa3NQU1ZGV0RTR3o2b29sUDg4Z3pJUDV0UW0zdGk5ZVpXRXc0V1hiT1IxVm9kNHJMTmF1X3FlSXpEZFRRNnYzbFJJTk5WZXlHSXF6ZWlGSVpwUm11ekpKZFIzZjU0OHh1c05uUUxkR25ySVhINVdTVUxJNV9zUFFiZmhCQnlLRjhTbEE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-22T19:17:10Z",
       "dominio": "www.gov.br",
@@ -90,15 +126,18 @@
       ]
     },
     {
-      "id": "transicao_72928",
+      "id": "transicao_14078",
       "titulo": "Leilão de baterias: agentes divergem sobre rateio de custos e colocalização e alertam para conteúdo local | eixos",
       "lead": "Leilão de baterias: agentes divergem sobre rateio de custos e colocalização e alertam para conteúdo local | eixos",
       "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0dJZndhWDMxTEdlbWFnVnJISzNlV1BIc1pMdlF4a25rU3VoWUpESWxxUEg2b280UnZycmtfU3k3dXdQUUZQdVpjdzBvRDZwZXVxa2pLdHNPQ3BRWTZ5Uk5HeENJTF82cEJSakRrbEtTdmMtcnM1NDI4T0EtNFVZSUVwNGI2YXpUczU3SVplQjhFdWFRczJrNmVuVXp5d2xoSDdRc2hLUFRQOUlMVjJwNEMyNVNCY2JnZXpEcEhZR3ZnWXN4bXZuUkZLc1lfOVNpX3dnNThJeVJDMWs?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGVfZTJrSkRCaHl2SkNUbzR5Y3pfZTdDbW9vNFVMVG9qV2FtVWMzaXNYUWtZVm9iMzJWNHdud0RiSE5Ga2o3WkdTMjYwN0hXdXhlczVWdGhMRHlrcjRNTWlKbF9ybXFRQzgxRVFWbFhpZ29uaFdxaXdSZlh1RTJ0SWF6Ym5mMnZTVHN5UmFBU3NJc0xCMUFld3VxdWtZbnZ6MGJLQ2pscWpCWDNiU1VxRkNibklRMmhwX3cxTERRSU9sck01SXlWbVFjOV9TNktU?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-21T21:18:34Z",
       "dominio": "eixos.com.br",
+      "tambem_em": [
+        "Agência eixos"
+      ],
       "tema": "baterias-armazenamento"
     },
     {
@@ -180,6 +219,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_23383",
+      "titulo": "CCEE vê espaço para N5X operar de forma complementar ao mercado",
+      "lead": "CCEE vê espaço para N5X operar de forma complementar ao mercado",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR01IOVdwWFBIUDVDVERwQVpQYm4wRXA2V2ZqWW9NbHFuV3FzOXN4eFAtaGJEd0hrSjd1dGN3ekIzX0t6dUROQU9SUzBzcnhJQ2FiZWxSU2ZpR3dRRTY2eHRpQk9fOUgwemNWTHRvM0NpVUhkSmQtdFhlbUpyUVA1VTRScUdabDJPNjI2cmVLSmxUX3dn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-18T18:36:07Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_1336",
       "titulo": "CCEE confirma AGE para eleição de diretoria em 25 de setembro",
       "lead": "CCEE confirma AGE para eleição de diretoria em 25 de setembro",
@@ -207,15 +258,15 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_92119",
-      "titulo": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
-      "lead": "Agência de Comunicação - O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
-      "fonte": "Estadão Blue Studio",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRU1yNUU4ZjhqYzlNNy15ems5OXRucGdsRzFWcFZ6ZWNma3NJaUM0c0xPTndVd0RjM0xIb3R0NlYtXy1KemtZUDNZdm5saVdBYmVPY1kyZXF6YVI2eW8zX3VYM29kWXFGQlEzREVlOVYxZEEwMTg2WW8tZlZjME5pV2p0Y1lHUWZPMFVVaVI3c2gzclA1Z0Z0R1Q1R1FXUm5LdV9mbjRPNWt5SXVULXFmY0pXN18zOVJPRVpWNlI4X2VyVmpUVU10RUtqS0hkWmtuNzh4elBZa3JmRXRlMXhySjZtZHlUVnVRSG0zVmJBVmRHUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "id": "mercado-livre_14982",
+      "titulo": "O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
+      "lead": "O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
+      "fonte": "Jornal do Commercio do Amazonas",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fY0hPbV90SzkyZlZ4NTVmeDI1SW1jM3NYQmgtaWJIWDA4aGltS1BiTTJRUjlQM1BTR2N5UVVNLTZkd1g2YmZGTzNrNG9IUGZ6ZVgtVDdkbm1GWjhYLW9WRnRLUDhUUlVzY083bVJ1LVVyNEw3MkVmVllGaFc0Sm8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-09-18T11:05:19Z",
-      "dominio": "bluestudio.estadao.com.br",
+      "data": "2026-09-18T12:21:55Z",
+      "dominio": "jcam.com.br",
       "tema": "precos-mercado"
     },
     {
@@ -691,60 +742,6 @@
       "data": "2026-09-09T18:03:54Z",
       "dominio": "observatorio3setor.org.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_30473",
-      "titulo": "CCEE realiza Jogos de Mercado e apresenta melhorias propostas na formação de preços",
-      "lead": "CCEE realiza Jogos de Mercado e apresenta melhorias propostas na formação de preços",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1NqS2t6OTEyeXFqdXQwNUxNNWJrb3lNdnRQQXJTOVNRaDR6eTlDN0h1cWpLaEdqUFdydGQ0Nk9zVVJqTXZSVGM2elhjc0pWYmNZYmM4YUoxc0xNaHdxYlljcGRQYXdXeEoxWHdMV2pjSU1xNU5DaFU1dkJxQUl5eGQ1eUZzTHhOOXpnbk9CcmVtNFl3Vjk1Vmc3eW1pSzE4bEdPM0NYY0luZEJTX1FZeHVoT2Q0M1JMaVRGd1gwa2JXRzAyVWxybXB2c2tFMjR0UWtkYzFHQWFmYlRZYTVpREV6NA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-09T18:02:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_19258",
-      "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
-      "lead": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027 www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaHdabk1yeWJrcDhUNzFQbUxhbjlrbmlGdzRkYUUzME5tdDVBTms1bFhsZFI2RkpPbENhZzR3TjE1YkdYdlRnYmtNLVB2UlYtN2lMd1dYTkRha01qMnM5VkItcmd4RkU4NzZ6VDZIUHkwdS1uZ0RjTE9nSXlFWG82QjN1V2tvWm9oaHdiZlBMTzJxcFpJZFpxX283d1kxbmhYcENna3NEc01HX2phemQ4UVpYalY4NE5kb2xNaXdUS2pNVHVOUE1KcWE1RlJCdk1hd2l6VGYwQ2laOFY0U0ZJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-09T11:54:39Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_98370",
-      "titulo": "Leilão de transmissão da ANEEL terá contratação de baterias pela 1ª vez",
-      "lead": "Leilão de transmissão da ANEEL terá contratação de baterias pela 1ª vez",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOGlsWlViWWJqREJxMTF1cEtjcGQ1eDl3RjFsNF93anpTNWZCWDh5Z3ZBbHRmWDdySWgzLVhPNnFqeTlLOUljNGFoOXdPQ2h6cUQyaXNKdEp2YkpneU9mUG14d1RoZE1oYzBKYS1ZZFBzc3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-08T20:45:30Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "baterias-armazenamento",
-      "tambem_em": [
-        "Business Moment",
-        "ajn1.com.br",
-        "Agência eixos",
-        "Poder360"
-      ]
-    },
-    {
-      "id": "transicao_73179",
-      "titulo": "Leilão bilionário: Acre terá 1º sistema de baterias para armazenar energia",
-      "lead": "Leilão bilionário: Acre terá 1º sistema de baterias para armazenar energia",
-      "fonte": "ContilNet",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaTFqa0dzcFd2aEZPMDdsdmpyUlplYnZITEhGZlRQRkNJRm1EVVZ2MF9jQ1pkd3dOb3p2LUdNdnk3YkRQbmNOZExkMXEzM095cFVuRFkydF9RaGVVZl9OXzZOMHZMeGFucW1GTTZwTzRpczRQV0J1OXJnckVwWlJMQ00zNjIwYVVNU3JUdUl5R1pXYjhyRFZZUTZnTjFmQlE4U1lXWW5qQ3c4NEFjZTBUcUNfVTFkMHRoTkHSAb8BQVVfeXFMTmlvZ0o2YlhQMGRBLTVQQjVSdk1iNDE5QjM2NzE0ZGdLYW1RaTk3Tzlvbll2N1lnOFZsQUpNY3haMWZTUHN6MnFYWWlvTWxOVTBMYzJIRmhVNlFCS0lhMEpJdkw1WmFBX2VBdzNPd1VSUmppTUEwdFRzT2JHNUZDYjFEd3BHREQ5Vjc4S21LTXBqamRNMENnbUUxZFdUNi00UDJ5UDZnNjN3VXVoSE5RMk5oaW5ad1NPSGRHQ1RqM00?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-08T20:04:56Z",
-      "dominio": "contilnetnoticias.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

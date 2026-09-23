@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T15:42:29Z",
+  "updated": "2026-09-23T22:24:42Z",
   "total": 60,
   "itens": [
     {
@@ -15,12 +15,27 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "regulacao_88140",
+      "titulo": "ANEEL aprova novas regras para custos de usinas termelétricas",
+      "lead": "ANEEL aprova novas regras para custos de usinas termelétricas",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PTURMWDhybVVYNGJkRHEweEhfb2JJWFhlQVVEVi1xOUxLV2FtOHprYXFLYnNoMDBvcktNUDIxN2p6a190NHptUjhlZ1RfOVRPSUlZTmNKZnJQX2R0UXJCVWlNbjNtNlZDVU1EWkxZS1dERDlfeDVhZjNRejFtUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509390288171-ce2088f7d08e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-23T11:59:30Z",
+      "dominio": "canalsolar.com.br",
+      "tambem_em": [
+        "ANEEL"
+      ],
+      "tema": "termica-gas"
+    },
+    {
       "id": "transicao_55027",
       "titulo": "ENGIE avalia disputar novos leilões do setor elétrico",
       "lead": "ENGIE avalia disputar novos leilões do setor elétrico",
       "fonte": "Além da Energia",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcG0zQkhqcmZNdm5PN0VaX0pGRXJGYUZDVFpBTGs4Sm5sRkktYmViVnNFMWtDT0RrbGZMWWhCTzhXb0U4Tmd6WTdlbmxnU0V3Zk1wS0lIekt2SndrOXI1UnJ2REtRSEMxUE1UYjlRQkx0SzRUY2VJNmpkbzM4ek5fZWxJTDRwVUFwUnNIZ0hlZlU3dVFQQXpFbQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-23T10:22:31Z",
       "dominio": "www.alemdaenergia.engie.com.br",
@@ -97,18 +112,6 @@
       "data": "2026-09-22T15:30:41Z",
       "dominio": "www.gov.br",
       "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_18555",
-      "titulo": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas",
-      "lead": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNGNibTdBQ0pfVGZUeEtoS2Zia3YtZThZTU9RZnI4SWlhYWlDS3Y0N21QRWNGbUlTTThJNHNONnAtdWI2dnZENzIycXFRRG53aGtTdllaLVhIYkRXWGZoS2gyMFNRZE53UWRNMXZKVE1OVWQwM2h5RmY2dE12dlZxYnRHRDZFUVNJaDNmeUFUaHA2T051eGk0QzRnUGI4MGJEeWdmOWFwS1JQYjYzZ1gxdmlpRkFHNFliZU1uMHNFZS1hU0F6Y2FNc3VSYmFGWTlzUFhLLURsLWxKWWJncG9lRlp5XzE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509390032417-bd802f3fc669?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-22T14:45:08Z",
-      "dominio": "www.gov.br",
-      "tema": "termica-gas"
     },
     {
       "id": "regulacao_99576",
@@ -267,7 +270,10 @@
       "editoria": "mercado-livre",
       "data": "2026-09-18T12:21:55Z",
       "dominio": "jcam.com.br",
-      "tema": "precos-mercado"
+      "tema": "precos-mercado",
+      "tambem_em": [
+        "Estadão Blue Studio"
+      ]
     },
     {
       "id": "tarifas_92298",

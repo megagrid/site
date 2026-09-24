@@ -1,14 +1,38 @@
 {
-  "updated": "2026-09-24T16:04:16Z",
+  "updated": "2026-09-24T22:35:55Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_82399",
+      "titulo": "CCEE: certificação de operador do mercado conta com novidades em 2026",
+      "lead": "CCEE: certificação de operador do mercado conta com novidades em 2026",
+      "fonte": "canalenergia.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTBXRE9zUXc2MnNXbVFYTDl1dUxlM2Rha3g0M2RHS1h0eE1STnM2RDhXUTJqUk9hWFdOaF9HLThveXF3WUtUWG50cExsS2lMNDhfb0NRZzc5dUNMakxKMzd0bzFvYnVwNjdUSnZwdmVPNnlqVU8xcUE1VkdkcldUdnpZYXZpR3FIMmw1ZDhSalNfSDVJbVozZUd3YjVNOEFhYTVYXzdMZEI1TW1VY3dQM1BRQXBCUXlUOHc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-24T21:24:33Z",
+      "dominio": "www.canalenergia.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_43198",
+      "titulo": "CCEE apoia EVEX Lisboa e Missão EVEx 2026",
+      "lead": "CCEE apoia EVEX Lisboa e Missão EVEx 2026",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWduWjQyRWczM0xPck96OWdILXBTR0I4TUdMMjBRZ01jTjhCX3I2Mk1aVHFSRDBQLWp2cFFDdE50bzk2WGtOUzhGMWdfOGEweFZlNWRhTTRWeG5VUGJpM21VenhDZ2pWWVI2anJtZDBQUDhMMTdYWnlETjVuSVdhcGNNYw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-24T17:39:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "tarifas_77876",
       "titulo": "Nova bandeira tarifária pode encarecer a conta de luz em outubro",
       "lead": "Nova bandeira tarifária pode encarecer a conta de luz em outubro",
       "fonte": "Diário do Comércio",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKNGsyVmpNbnR1RG9PUTBKMjAyX1RLbWt6Q3VfcTJoZ3kzMkZaY19KS2d3OHYxNnd2T3ZKMi1PeTBta1VReVZ2Z1NuNEtZUkxKMkZzRUttZ3BROE1CakJzZHVXTzg5c2RUQlFfbW96QQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-09-24T14:30:00Z",
       "dominio": "diariodocomercio.com.br",
@@ -20,7 +44,7 @@
       "lead": "Aneel avança em regra para UHEs sob desafio de valorar potência e flexibilidade",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzZubnd0ODZyZHF4eFJiLWRHeHUyVXRuUG1XY2NmLTV3MFhEUnFuRnJUdGh2eGNMaGgxN1hHTElQcmVpMlluTGhjTFUwcGdJQnRVOFgyQkFQNkpJLU0waDg4QVRKMC1WTFdfQkdNV0xKOXg5MzVvMmJwQlFVQzVkdE03ekJRYkxaTnUyWDNVdzJFNmIwTXNuYVhnUHFwdlhZRDVHcVFVYzlaT3lLWXJqYTVXakxyV1BWLWNvS3JVeEN1Zw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1569918190173-6a5792908184?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1772411650728-7c0ec207afb2?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-23T18:46:39Z",
       "dominio": "megawhat.uol.com.br",
@@ -114,6 +138,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_28404",
+      "titulo": "Regras de comercialização mudam atualização do CVU de térmicas",
+      "lead": "Regras de comercialização mudam atualização do CVU de térmicas",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1ZLZndMWGFBNzBJZ2dfZFQ2enNPTEI3TXBBN1k4Wlg1WDVCeXk2M1J6RVBGMUZHWGxadmlhSWpXaklFZE5NRWNTQnlGSFVvS2gxcmpQcWNBenl0RXNwMjFuRDhWOHBFV3NNS2M0OWpJcnc4LW0xMm9sVzlJR1lFN3pKcTJIaFJmWGRUcjBTdlBlQ2FZNER6dHhlVlBhZFRXUkFF?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509390032417-bd802f3fc669?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-22T18:23:54Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "termica-gas"
+    },
+    {
       "id": "mercado-livre_31571",
       "titulo": "Mercado Livre de Energia: como a escolha da fonte de energia impacta as metas ESG",
       "lead": "Mercado Livre de Energia: como a escolha da fonte de energia impacta as metas ESG",
@@ -190,6 +226,18 @@
       "data": "2026-09-21T20:34:22Z",
       "dominio": "agenciainfra.com",
       "tema": "solar"
+    },
+    {
+      "id": "politica-energetica_96711",
+      "titulo": "Apres 2ª RE CNPE 30.07.pdf",
+      "lead": "Apres 2ª RE CNPE 30.07.pdf",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOanFod2tsbTl1NXhla0JLRXAyN2dvdmdPbFpUN1Y2UmxJdEVvRTRsTjl0LS1tMUZsN0dCaUNmMDlXN3o5UzktSjBmM2lraHlnSTV2dmF2dm9zS05DRUQ5c3QwM3g0c2Q5ME1Jck1XN1JqdTUzaVFmUEpZX0RsRERacVYtM2x4NWFaTW5leGdzVjFxUVpRRjFYWWY4ZmdZWlR5R0x4TVdOU09WMTJFNHFfZTBYRzBWLXQ0TUE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-09-21T19:50:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_94675",
@@ -699,54 +747,6 @@
       "editoria": "transicao",
       "data": "2026-09-10T17:51:04Z",
       "dominio": "www.nsctotal.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_30314",
-      "titulo": "Minuta de resolução detalha repasse do encargo das baterias aos consumidores",
-      "lead": "Minuta de resolução detalha repasse do encargo das baterias aos consumidores",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUF9Va3A3QjYtc0c0S2FQVHB5S1E0em9GS1FNQ2Z2aTRWN0s1b3l2dTdsdEcwdm40Z0dnZW5LSmFxQ0RVNE8zVmgydGp6bmoyLWNmSkt6anlMQ3JFcHk3ZUZpSHROWUdiTk5RNXd4MWRxZDdBalNBaF9wQ1RuWUg4SlBzdWd6cUN1b0hhM0FrX004Z2U5YnUzVzJfSkVyM0tfeGdlUGlrSm5RMEhSQXpyY3RwajAxRXdxWXUw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-10T14:48:19Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_95529",
-      "titulo": "Axia vence três dos quatro lotes do leilão de transmissão e amplia carteira de projetos em 10%",
-      "lead": "Axia vence três dos quatro lotes do leilão de transmissão e amplia carteira de projetos em 10%",
-      "fonte": "Terra",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR1hGeTgtVGhUakVUSTVVZXB2RWVGRDc3QUtGQU9QWEM2bXNKRTh3c2hiOWs5SFhycFVIc1ZQdTNEVHh1eXUzUzVVNFlRZkFjbVBKQzZoVkZRSVRERlB0TF83VUlvVFNtMHJybDZXSk5fZGdKZFl5N3pkdGtGTGxUMExQRWd2OExWVllhNkNENS1jZ21ubVUzdjhmOEtmZUFuamg3TUcyaHlUb05mR181Y1NKZXNESEpGUmJ1OFA5Xzk2cFZvdnl6MGNmZlhUcmFOMGI3WU1XejlmaHBNcmxHbk1TOTdnTEo4RF9BT19yeHlCdUI1QUJPc1ZSWXdVR3VUMnIw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-10T14:21:00Z",
-      "dominio": "www.terra.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "tarifas_78447",
-      "titulo": "Conta de luz terá cobrança extra em setembro; veja quanto você vai pagar",
-      "lead": "Conta de luz terá cobrança extra em setembro; veja quanto você vai pagar",
-      "fonte": "Terra",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcFdGbkJCdFpoRzRzd1B6NTdQeGtpcjk1RFpScXRMRVZSTW5UVnFNRWNtcHhkNXNjX3pqWktFelJwaE04TEFKdHpSTEtoZVpHclZHdWw5Q2RKWGxXWkpJUG5XLUMzTE5IaGNBOTFIaFI2ZU5KeWpGaGJvWVNqS3lYN1VXWFJSeGRfUnpSY29sSEFINEhiZG9jWXo4NGJ1MFhyR05VMDdfWm5VRHFOc09Da2d1UG9nUG1zQXVnRmUwSmNjbzJtcXpPam5zVlN5MHlRd2p3aFRRcWtQcHByYi13a1BxT2tqUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-10T13:33:00Z",
-      "dominio": "www.terra.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_9737",
-      "titulo": "Brasil pode ter primeira contratação de bateria em leilão de transmissão em 2027",
-      "lead": "Brasil pode ter primeira contratação de bateria em leilão de transmissão em 2027",
-      "fonte": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOem4yd0FTeEhjTzl4NkY2c2dkVTFkdktTdkxwdUktYUExc1BWMDNBNl9NVGJSUTY0OUFGc2c3UmNnX3VGZ0haRUpfX05pMDU4NTF3Uk1leGxmZFVBd3BJenQwcWh5c25DcGEwVF9vUm1VS21FLUk3LVNmVEJTNkFiT1JET3BUOGhpOWM3QkRPWkVIODU1SHFLSFV4bFd2UGZiV3prQktZNFUyYkYyNkRvU0J0bi1ldmM1SUE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-09T20:23:58Z",
-      "dominio": "www.bnamericas.com",
       "tema": "baterias-armazenamento"
     }
   ]

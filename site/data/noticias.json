@@ -1,14 +1,62 @@
 {
-  "updated": "2026-09-24T22:35:55Z",
+  "updated": "2026-09-25T16:04:09Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_37471",
+      "titulo": "WEG (WEGE3) amplia projeto de fábrica de baterias em Itajaí (SC) e reforça aposta em armazenamento de energia",
+      "lead": "WEG (WEGE3) amplia projeto de fábrica de baterias em Itajaí (SC) e reforça aposta em armazenamento de energia",
+      "fonte": "Money Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXI5aGVhZl9UWmYzQWhySUNVcC1hV2d6M2FJSTR4cUNxMGNoVE9yWnFnX2J6eXlmc2Y5c0NJbkhqdUZtaUk3WUpEYUFFdzJlUE1SSlE4YU55RDlMUWxSNkh4Rjk2c1FlRkJnTXh3RExJZ3lmN2MxcGtZa2Jsb3B3UExaSDJTSDdpUmdUNUIyRmYtclBDRTVkdDdDekh0aW5zUi1rcjU5M1picDlSNzF6VElHc0NYSlNGcTZQMmJrRjU3emltNHpyVW5ULUlSckhkeGstWQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-25T11:53:00Z",
+      "dominio": "www.moneytimes.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_94447",
+      "titulo": "Mercado livre testa soluções antes de chegar ao consumidor residencial",
+      "lead": "Mercado livre testa soluções antes de chegar ao consumidor residencial",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmtCYW1HXzdnQjRMQ3had2tnREV4TGx1U2Q5dzY3UmZ5clkteWZ0OVFMZmpHWHZjaFJTaTEtLXJZRWd2MGNLSHRuamR4UUN3VXoyVFhqZ0pIZjlFQW10ZkxGZU8yTVNxQ21TYTdicllwNlZGRDhnM21ZaHVqeGhYS2hSUW42YnB6VHRZb2FidU0xRlNXQ2JTVXVYQW5HQkNmWXFnQU5kdnlQdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-25T01:45:06Z",
+      "dominio": "www.cnnbrasil.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_59618",
+      "titulo": "Baterias podem reduzir cortes de energia em até 50%, estima ONS",
+      "lead": "Baterias podem reduzir cortes de energia em até 50%, estima ONS",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVNpVk9RNDVJcWlRd0V3MXVmWkdVR0h6UUpfXzhobER4enNqQk9oSk9XM0tieEF6endjWk1uWGRDRFRBSmZJTkpfQmgwdjh4RE81anp4dlJvYmF6YS15a1Q3eWFaZWgwR0JWRllobWI1RnNzTVZZdV9FamktZ21IM21UTU52Yng5aE16QlRuRncyQ3RhcXpZMWNkM3BLZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-25T01:14:01Z",
+      "dominio": "www.cnnbrasil.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_79532",
+      "titulo": "Webinar gratuito debate riscos da migração para o ACL",
+      "lead": "Webinar gratuito debate riscos da migração para o ACL",
+      "fonte": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjBkVHVkRlRyT1F6azJ3N3NHcENxOXNnRHZSV0s1ZG4zMEJ0bGkzNEp5Y0tsQzFJaWwzU0djVnRXTGs1YjRkRkF2S1NWZXU4emJhcXBwUXRtbG1QeU1JcXRJd1d3R1pFMWd0VmhGQUpNZDdTNjk0a25fWkhPU1ZLZl92Q0RTY2VQVHF4d3drdVhWLVBxSDVLNWd3TXNLaURqX0haSk5LZmRrOXdGcmZMdDdZRE5vYXVYWE0xWDAxcjhTbzBIRkMwaUVhNnAwT0g2Qnc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-25T00:58:51Z",
+      "dominio": "www.canalenergia.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "mercado-livre_82399",
       "titulo": "CCEE: certificação de operador do mercado conta com novidades em 2026",
       "lead": "CCEE: certificação de operador do mercado conta com novidades em 2026",
       "fonte": "canalenergia.com.br",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTBXRE9zUXc2MnNXbVFYTDl1dUxlM2Rha3g0M2RHS1h0eE1STnM2RDhXUTJqUk9hWFdOaF9HLThveXF3WUtUWG50cExsS2lMNDhfb0NRZzc5dUNMakxKMzd0bzFvYnVwNjdUSnZwdmVPNnlqVU8xcUE1VkdkcldUdnpZYXZpR3FIMmw1ZDhSalNfSDVJbVozZUd3YjVNOEFhYTVYXzdMZEI1TW1VY3dQM1BRQXBCUXlUOHc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-24T21:24:33Z",
       "dominio": "www.canalenergia.com.br",
@@ -20,7 +68,7 @@
       "lead": "CCEE apoia EVEX Lisboa e Missão EVEx 2026",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWduWjQyRWczM0xPck96OWdILXBTR0I4TUdMMjBRZ01jTjhCX3I2Mk1aVHFSRDBQLWp2cFFDdE50bzk2WGtOUzhGMWdfOGEweFZlNWRhTTRWeG5VUGJpM21VenhDZ2pWWVI2anJtZDBQUDhMMTdYWnlETjVuSVdhcGNNYw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-24T17:39:00Z",
       "dominio": "www.ccee.org.br",
@@ -68,7 +116,7 @@
       "lead": "Baterias: o leilão é o primeiro passo, mercado precisa vir depois",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rOS1uVFBhWU83Ul9HSUNvNTU5TE9ucktsZDRiV3BxeExuSDRnYkJiSzRHemE3ZFlsQmRoVWsyVzhac085UVpVcVR2bE4zUkVtZ0FVVkpFeFlLcW91QmRSaE9mUTd6X0t4LVl5ZnE5VkVENTRya3ZWRnFaYXA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-23T12:41:21Z",
       "dominio": "canalsolar.com.br",
@@ -167,7 +215,7 @@
       "lead": "Primeiro leilão de baterias atrai mais de 6 mil projetos",
       "fonte": "Brasil 247",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGdrYUlZRFg5b3hiQi1ibzJSQm0zUmk5X1pZVG4zV09Za2ZPeGVQZ00zOFpLVUNqenY3SF9rN1Z1MHpUYzhPdDhkZ0hhQXZBVGJ2b0tEbjZNLVBRaklUcV9OcDlHQ0lpQXRfWFRGeU1kWjA3M2hXcVNmWkNVVWhUb3FfejVzZkR4bjNoMGo3NmhxcFk5dkgw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-22T17:50:00Z",
       "dominio": "www.brasil247.com",
@@ -206,7 +254,7 @@
       "lead": "Leilão de baterias: agentes divergem sobre rateio de custos e colocalização e alertam para conteúdo local | eixos",
       "fonte": "Agência eixos",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGVfZTJrSkRCaHl2SkNUbzR5Y3pfZTdDbW9vNFVMVG9qV2FtVWMzaXNYUWtZVm9iMzJWNHdud0RiSE5Ga2o3WkdTMjYwN0hXdXhlczVWdGhMRHlrcjRNTWlKbF9ybXFRQzgxRVFWbFhpZ29uaFdxaXdSZlh1RTJ0SWF6Ym5mMnZTVHN5UmFBU3NJc0xCMUFld3VxdWtZbnZ6MGJLQ2pscWpCWDNiU1VxRkNibklRMmhwX3cxTERRSU9sck01SXlWbVFjOV9TNktU?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-21T21:18:34Z",
       "dominio": "eixos.com.br",
@@ -697,57 +745,6 @@
       "data": "2026-09-11T12:27:25Z",
       "dominio": "www.gov.br",
       "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_47537",
-      "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
-      "lead": "ANEEL assina novos contratos de geração e transmissão de energia elétrica gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEllWEp2VWEwXzFxOFczYXRJdmVLek5jRDNqQzUtQzNBY3NQUzg0akVQNUZ6VzRYMGdOSmFfVS1USlBoblQzZzQyTzBvRG95VFdwdXBGOWItYlByd0FHNXBwdzJuZkdUMlppRXR5NGRlclhTTXRBeHZMV2IzblVDSWpjd050OWNmX2pBbl9xQ2N2YTI4WkUtbTNza0M0Q3B6emVKaExOckhpS29XdWpxT1NyYl8xOC1pNWI3Z3AzUzFWem5YZzRZTko0cGxfYTR4OV9OdlJFdklfTFNK?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-10T20:59:54Z",
-      "dominio": "www.gov.br",
-      "tambem_em": [
-        "ANEEL"
-      ],
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_42017",
-      "titulo": "Sandoval cita 'turbulência' no LRCap e defende atuação da Aneel",
-      "lead": "Sandoval cita 'turbulência' no LRCap e defende atuação da Aneel",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUlKQXp6THc2YktZYXZROEdGcjNIOHF1VHhpX05pdEUtY0RKOWdORFZ4YnRacmV0YTdQTXd3ZlpVTGhielpFV0tibUNTRGp2c1ByVFNTN3RPLUx6NFdaeUwxb2laemd6TEJrbmRjLWROaGNicHVrbVlRTEp3UFNSX3pSM0FSWlJTMTIzcmxRWmtqalNjSXlCSjJGeWpqQnM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-10T19:40:24Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_3971",
-      "titulo": "Aneel Propõe Repasse Do Encargo De Baterias Do LRCAP A Contratos Do Mercado Regulado",
-      "lead": "Aneel Propõe Repasse Do Encargo De Baterias Do LRCAP A Contratos Do Mercado Regulado",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXZCckFGZVlVT0k1RVlEMEV5SEllajgzWGQ5bjFDa0RMUDB1THl3bG1wR3RuNVM2QmJVUklYQUt6ckw2UzJQQ0VLM3lQVGg3alhKTHBNX2UzSHZjQ2hOT1VtbEo1QWN4WUE5ejREWkFwN3Qybmx6dTFTY2lCNXlKaUlNLWo1blFCOGpNWFlvZ2dMVGJWbXNSVlVud2pwVkF5SFZxZDZCc0RoU1JYQ3FRbUFyeE5hZmVGWHBjeW94YlA4UmFY?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-10T18:10:16Z",
-      "dominio": "cenarioenergia.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_53320",
-      "titulo": "WEG ganha sinal verde do BNDES para disputar corrida pelas \"baterias gigantes\" em novo leilão de energia",
-      "lead": "WEG ganha sinal verde do BNDES para disputar corrida pelas \"baterias gigantes\" em novo leilão de energia",
-      "fonte": "NSC Total",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFJwM0ZjZ2NlSG5HRTlXRkRVbWU3M0FESnU3VFF6NjJKMDRoVFBsckcwMnpSckt5VW5zZnNZWHpjaWpBQkZrZGdGYmV4R2x0dmtzcGh6Ujh0V2VSbW5HcHlkbTNzTnNlNV8xN2lIZHgybEZHa2RkWUY0OW4ybW4zSHY1T2FsWkhuZ19wVWt6dXFzSGJCSjhiY2psM3VVVHVQenV5M1VNUHY0aWNpRE8wVy1zcl9DWnNuTFpfbjhOT2E1bnJiNDRvamdQTmZGc2N4WW5pNWlkcTA0WXFuVkE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-10T17:51:04Z",
-      "dominio": "www.nsctotal.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

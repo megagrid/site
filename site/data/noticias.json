@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T22:34:30Z",
+  "updated": "2026-09-26T15:17:11Z",
   "total": 60,
   "itens": [
     {
@@ -13,17 +13,15 @@
       "data": "2026-09-25T20:51:00Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
+        "Portal NE9",
+        "Jornal Opção",
+        "Folha BV",
         "Exame",
-        "InfoMoney",
-        "cartacapital.com.br",
-        "imirante.com",
-        "Folha de S.Paulo",
-        "Estadão",
-        "Folha PE",
-        "- Bahia Economica",
-        "G1",
-        "ANEEL",
-        "Diário do Comércio"
+        "Tribuna do Sertão",
+        "Agência Brasil",
+        "Jornal da Paraíba",
+        "GPS Brasília",
+        "G1"
       ],
       "tema": "consumidor-residencial"
     },
@@ -40,16 +38,46 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "mercado-livre_79850",
+      "id": "tarifas_89513",
+      "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra — Agência Nacional de Energia Elétrica",
+      "lead": "Outubro terá bandeira verde: contas de luz sem custo extra",
+      "fonte": "www.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlp1Z2VtYTFycUhRLXVqSVNVa1V6YVUwVm40WFBNUUNiNkNhLWtYWW5OS2VrM0o4bTI5a3pURXpZZnRuTDB5OVBLRENUYzZSNHN0NzVjU1BJMllOYWRyOTJuQlN1Vk5LWkJYeFc4SDRlRWp4aUxwOElISWltYkhZcXZUQ0ROeDJTTnVKR1dENjh5VTJNSnFrWVR6SnZTa09xclQ5b21ocmRmaUJ1aGd4Y2hQZGV3OHhlcUlfbXhQOVhMUDdXdVl3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-25T20:04:00Z",
+      "dominio": "www.gov.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_38492",
       "titulo": "Em Assembleia, agentes da CCEE elegem Elisa Bastos como nova diretora",
       "lead": "Em Assembleia, agentes da CCEE elegem Elisa Bastos como nova diretora",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWcxeTJEaERHVGRRTmNmb3RKMVQzdGJBckNVVVJQVjZZNkJMOGIzaGxOTFp2dHJNZ0ZtN2M1MlFJb19vb0FTWDRWNzFlNWFrektDeDREcHFFS2FqSG5vcHZ5Vk5LM1RVSlBvcjJaVjY3SUdTUk9qVWp0cGV6UHJWV2R2ZDRrZ254bWRXVjc3SjJmbEZEeHF6SGNGeTN4TS11T0NiUGVYRQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTRSbll3NW9Gbk9UUUQ0eGpoZ2k4V0ZZWndpUm5weEdLRHl5WFltWmtQRTYyVDVUbEhqM2VGR1I5STRVQ2xjMDJvQ0E5dVdKbGh0MERXZE1iSXBGa2RhSy11QnFtbklLRjA3QUxCV1ZPdjJGbDhXbTFpZDlqbmowNDJIaFRZUzZNZmtHdjhyelcwNmtkYXEwaUVB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-25T17:42:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_9562",
+      "titulo": "Baterias podem reduzir curtailment em até 50%, diz ONS",
+      "lead": "Baterias podem reduzir curtailment em até 50%, diz ONS",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTdJRUJPY0E0Ml96NENtcUt2VVN3Q0JRN0g3dUVBWExTdnM4ZEZ6NjhkOFRRYVBwMUNSZklBTTEtQkJLUzBiSHpWOTRhSi1ESHZEV0Rnc0RxbTNkSG9CTlBtZnpVRXFSWlE0TWdEUmlkS2xXWjByMWgxeGluQ2NyeXYyMGNNSjZKRnJmRXh5ZDFUdkFOSHdPUkwwQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-25T13:32:50Z",
+      "dominio": "megawhat.uol.com.br",
+      "tambem_em": [
+        "CNN Brasil"
+      ],
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "transicao_37471",
@@ -57,7 +85,7 @@
       "lead": "WEG (WEGE3) amplia projeto de fábrica de baterias em Itajaí (SC) e reforça aposta em armazenamento de energia",
       "fonte": "Money Times",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXI5aGVhZl9UWmYzQWhySUNVcC1hV2d6M2FJSTR4cUNxMGNoVE9yWnFnX2J6eXlmc2Y5c0NJbkhqdUZtaUk3WUpEYUFFdzJlUE1SSlE4YU55RDlMUWxSNkh4Rjk2c1FlRkJnTXh3RExJZ3lmN2MxcGtZa2Jsb3B3UExaSDJTSDdpUmdUNUIyRmYtclBDRTVkdDdDekh0aW5zUi1rcjU5M1picDlSNzF6VElHc0NYSlNGcTZQMmJrRjU3emltNHpyVW5ULUlSckhkeGstWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-25T11:53:00Z",
       "dominio": "www.moneytimes.com.br",
@@ -69,23 +97,11 @@
       "lead": "Mercado livre testa soluções antes de chegar ao consumidor residencial",
       "fonte": "CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmtCYW1HXzdnQjRMQ3had2tnREV4TGx1U2Q5dzY3UmZ5clkteWZ0OVFMZmpHWHZjaFJTaTEtLXJZRWd2MGNLSHRuamR4UUN3VXoyVFhqZ0pIZjlFQW10ZkxGZU8yTVNxQ21TYTdicllwNlZGRDhnM21ZaHVqeGhYS2hSUW42YnB6VHRZb2FidU0xRlNXQ2JTVXVYQW5HQkNmWXFnQU5kdnlQdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-25T01:45:06Z",
       "dominio": "www.cnnbrasil.com.br",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_59618",
-      "titulo": "Baterias podem reduzir cortes de energia em até 50%, estima ONS",
-      "lead": "Baterias podem reduzir cortes de energia em até 50%, estima ONS",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVNpVk9RNDVJcWlRd0V3MXVmWkdVR0h6UUpfXzhobER4enNqQk9oSk9XM0tieEF6endjWk1uWGRDRFRBSmZJTkpfQmgwdjh4RE81anp4dlJvYmF6YS15a1Q3eWFaZWgwR0JWRllobWI1RnNzTVZZdV9FamktZ21IM21UTU52Yng5aE16QlRuRncyQ3RhcXpZMWNkM3BLZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-25T01:14:01Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_79532",
@@ -105,7 +121,7 @@
       "lead": "CCEE: certificação de operador do mercado conta com novidades em 2026",
       "fonte": "canalenergia.com.br",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTBXRE9zUXc2MnNXbVFYTDl1dUxlM2Rha3g0M2RHS1h0eE1STnM2RDhXUTJqUk9hWFdOaF9HLThveXF3WUtUWG50cExsS2lMNDhfb0NRZzc5dUNMakxKMzd0bzFvYnVwNjdUSnZwdmVPNnlqVU8xcUE1VkdkcldUdnpZYXZpR3FIMmw1ZDhSalNfSDVJbVozZUd3YjVNOEFhYTVYXzdMZEI1TW1VY3dQM1BRQXBCUXlUOHc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-24T21:24:33Z",
       "dominio": "www.canalenergia.com.br",
@@ -244,6 +260,18 @@
       "editoria": "mercado-livre",
       "data": "2026-09-22T18:23:34Z",
       "dominio": "www.estadao.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_68126",
+      "titulo": "Aneel adia entrada da resposta da demanda nos modelos de preços",
+      "lead": "Aneel adia entrada da resposta da demanda nos modelos de preços",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmxuWDF4X09GeTdtaWF4RlRRQUs2a2I3UDE3X2h4YzFmR0x1N2o5RFJyT0NxQzJrWVZPV0QzMTJaTDZENWQ0Qk5ISGZfUkQ0eHBxNmQxRm41RlJzdE9faGRkdU9SSjlMb2wxVGhwejF3MlEtX1lNRHAwS0xBNjJ0cVdLc3R4M3dNZ3pYYXB1UHU2c2N4SG5mUWczcUpjV3lScndnZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-22T18:17:47Z",
+      "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
     },
     {
@@ -734,30 +762,6 @@
       "data": "2026-09-11T20:30:10Z",
       "dominio": "prefeitura.sp.gov.br",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_50496",
-      "titulo": "Expansão da matriz elétrica em agosto é de quase 2 GW",
-      "lead": "Expansão da matriz elétrica em agosto é de quase 2 GW — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS25temxhTHV1SkwtQmpXRG5NNndyUEJJc0EzaG5fMzk1TllDckk0b3hHMFlTRno4bkJBMHRDVFBsbjB6WjFVMGN0UllMbXRGdzFaaDhBdE4tNS1DbHU3SXVsRDh2TW94bkxtU3Z1OUtlbnhqamdPZ3FWRXEtVjkweXVZbFRGblRzU2t1Vy1kYTZwOUcybGNyWFpnVEtzTkhZMkVQTjh3RlFmSnFtMG9nYmpjTWhGM09SVG5ydzlTYWRvUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-11T19:54:57Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_20756",
-      "titulo": "Setor elétrico brasileiro requer R$670bi até 2040 – quais são as demandas e desafios?",
-      "lead": "Setor elétrico brasileiro requer R$670bi até 2040 – quais são as demandas e desafios?",
-      "fonte": "bnamericas.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnZPWXh1YkNSclhnSFFyS29LMnVpemVHQXVad1VLeGYxSm5qcEM3NkdkOXliUUtqVGNIc3czbTQ2bDlBU0c4WnB3NExNTG0tdU1LNEx6REFLMnVGOF9XVVVJR1luY2xXeXdlTDZvMFM2djlWWG9QWWdsRWZiZ3Z1TldLc0dfandzSDEtaVVBd2NGMnNFUng4RnFrLTEzQUR2ejFFSDU0MHp4Slc0YkJiaFFfV3U1akRaZDluSw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-11T18:22:30Z",
-      "dominio": "www.bnamericas.com",
-      "tema": "solar"
     }
   ]
 }

@@ -1,10 +1,31 @@
 {
-  "updated": "2026-09-25T22:34:31Z",
+  "updated": "2026-09-26T15:17:12Z",
+  "fallback": true,
   "itens": [
     {
       "rank": 1,
       "titulo": "ANEEL anuncia bandeira verde para outubro após sequência de cinco meses com bandeira amarela",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rTThpNndmdndkQzEwTFFYTXRiZUtWUlJqSTNQMXF4dlU1TEZnSHNfVzJ6V3NFQkJnbDFTNXRYbXRZS1NtV1pUMGFCXzB4MVlSRUItaHdZMjd0MUd3SHRqYTVkMmhMSEtHUlp3M2pVcXI?oc=5"
+    },
+    {
+      "rank": 2,
+      "titulo": "ANEEL alerta para risco de concentração com abertura do mercado livre",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODN5blhoeExOeFpuY3lCc3EwZHFlbGFuUDdCVjRtcVl5amNqVmpSa0tZN0Z5MDdkWmR1LUNkeURRLTN2ZUxIUXl0bi1KSy1LYWdzdDdXdUlKTWJuNU0yQXhxd1RKUlBmWjFJbjBwZW1SZUJMSzA0RXVfMzdGV1B0LVVZZl9rcGtn?oc=5"
+    },
+    {
+      "rank": 3,
+      "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra — Agência Nacional de Energia Elétrica",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlp1Z2VtYTFycUhRLXVqSVNVa1V6YVUwVm40WFBNUUNiNkNhLWtYWW5OS2VrM0o4bTI5a3pURXpZZnRuTDB5OVBLRENUYzZSNHN0NzVjU1BJMllOYWRyOTJuQlN1Vk5LWkJYeFc4SDRlRWp4aUxwOElISWltYkhZcXZUQ0ROeDJTTnVKR1dENjh5VTJNSnFrWVR6SnZTa09xclQ5b21ocmRmaUJ1aGd4Y2hQZGV3OHhlcUlfbXhQOVhMUDdXdVl3?oc=5"
+    },
+    {
+      "rank": 4,
+      "titulo": "Em Assembleia, agentes da CCEE elegem Elisa Bastos como nova diretora",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTRSbll3NW9Gbk9UUUQ0eGpoZ2k4V0ZZWndpUm5weEdLRHl5WFltWmtQRTYyVDVUbEhqM2VGR1I5STRVQ2xjMDJvQ0E5dVdKbGh0MERXZE1iSXBGa2RhSy11QnFtbklLRjA3QUxCV1ZPdjJGbDhXbTFpZDlqbmowNDJIaFRZUzZNZmtHdjhyelcwNmtkYXEwaUVB?oc=5"
+    },
+    {
+      "rank": 5,
+      "titulo": "Baterias podem reduzir curtailment em até 50%, diz ONS",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTdJRUJPY0E0Ml96NENtcUt2VVN3Q0JRN0g3dUVBWExTdnM4ZEZ6NjhkOFRRYVBwMUNSZklBTTEtQkJLUzBiSHpWOTRhSi1ESHZEV0Rnc0RxbTNkSG9CTlBtZnpVRXFSWlE0TWdEUmlkS2xXWjByMWgxeGluQ2NyeXYyMGNNSjZKRnJmRXh5ZDFUdkFOSHdPUkwwQQ?oc=5"
     }
   ]
 }

@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-26T15:17:11Z",
+  "updated": "2026-09-26T22:02:41Z",
   "total": 60,
   "itens": [
+    {
+      "id": "dado-2026-09-26",
+      "titulo": "PLD sobe 42,9% na semana e fecha a R$ 97,89 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 97,89/MWh · reservatórios em 62,1% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "fonte": "Megagrid Dados",
+      "url": "https://megagrid.com.br/#precos",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-26T22:02:41Z",
+      "tema": "precos-mercado"
+    },
     {
       "id": "tarifas_92999",
       "titulo": "ANEEL anuncia bandeira verde para outubro após sequência de cinco meses com bandeira amarela",
@@ -13,15 +24,15 @@
       "data": "2026-09-25T20:51:00Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "Portal NE9",
-        "Jornal Opção",
-        "Folha BV",
-        "Exame",
-        "Tribuna do Sertão",
+        "Paranaíba Mais",
         "Agência Brasil",
-        "Jornal da Paraíba",
-        "GPS Brasília",
-        "G1"
+        "jornaldaparaiba.com.br",
+        "Olhar Digital",
+        "Extra online",
+        "Imirante.com",
+        "Folha PE",
+        "g1.globo.com",
+        "O GLOBO"
       ],
       "tema": "consumidor-residencial"
     },
@@ -31,7 +42,7 @@
       "lead": "ANEEL alerta para risco de concentração com abertura do mercado livre",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODN5blhoeExOeFpuY3lCc3EwZHFlbGFuUDdCVjRtcVl5amNqVmpSa0tZN0Z5MDdkWmR1LUNkeURRLTN2ZUxIUXl0bi1KSy1LYWdzdDdXdUlKTWJuNU0yQXhxd1RKUlBmWjFJbjBwZW1SZUJMSzA0RXVfMzdGV1B0LVVZZl9rcGtn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-25T20:21:41Z",
       "dominio": "canalsolar.com.br",
@@ -750,18 +761,6 @@
       "data": "2026-09-12T09:00:00Z",
       "dominio": "eixos.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "tarifas_41300",
-      "titulo": "Bandeira tarifária na conta de luz: você sabe o que muda? O Procon Paulistano explica",
-      "lead": "Bandeira tarifária na conta de luz: você sabe o que muda? O Procon Paulistano explica",
-      "fonte": "Prefeitura",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkpDTDNmemhxTURkNDkyTERWUHJBNUVjaW1iWmhQSG5UcXVWSjE3QzNFT1o0V1ZaeS05UDNqdWxDcFBNU0I2MDdEVTlZMDM1VTF3RDdQM1hyVGdmTFQzZW82TXF0TkZRckJwa3VOLUIwX2JSZUN1R0xVakJSODQxUjJLeGx3RThBUUc5N1p3N0h6eDIyS2ctTVg2TVFUMXBGT1lCZUpab2k5eGtOYnU2Uk1Sckc1VVNaTjJCQXhHVEVCbkpLdnBfNF9SUmJSWE90?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-11T20:30:10Z",
-      "dominio": "prefeitura.sp.gov.br",
-      "tema": "consumidor-residencial"
     }
   ]
 }

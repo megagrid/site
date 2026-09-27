@@ -1,17 +1,18 @@
 {
-  "updated": "2026-09-26T22:02:41Z",
+  "updated": "2026-09-27T15:56:02Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-09-26",
-      "titulo": "PLD sobe 42,9% na semana e fecha a R$ 97,89 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 97,89/MWh · reservatórios em 62,1% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
-      "fonte": "Megagrid Dados",
-      "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-26T22:02:41Z",
-      "tema": "precos-mercado"
+      "id": "regulacao_60533",
+      "titulo": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi",
+      "lead": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi",
+      "fonte": "Jornal Primeira Página",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakV2RGx4X3N4Z1VwRWZUNl80ZTdrNE5mLXJqaWxtcUNPY2FMYnpod3JETWVwSnlzbEpqZ0lYbWxMY2t5QTFWRk1vNHBmLWZCWnBWZVFrbVdLTXVIZWVzNVdmU2pJcmQ4N2xZbGMxQVRHcVRLaElLQUlLanVZbWNsbWJQQktXMV9iRHJfM3NUS0FNSzR6TUNYa3VsQnVMVzJ1bzJ6YlZNb0dsMWI3ZGZrVzlsQzlIM0VSN01pUldKYTJYM00yaHhZ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-27T00:41:54Z",
+      "dominio": "jornalpp.com.br",
+      "tema": "transmissao-rede"
     },
     {
       "id": "tarifas_92999",
@@ -24,14 +25,14 @@
       "data": "2026-09-25T20:51:00Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "Paranaíba Mais",
-        "Agência Brasil",
-        "jornaldaparaiba.com.br",
+        "cn7.com.br",
+        "CBN São José dos Campos e Vale",
+        "agenciabrasil.ebc.com.br",
+        "Jornal da Paraíba",
         "Olhar Digital",
         "Extra online",
-        "Imirante.com",
         "Folha PE",
-        "g1.globo.com",
+        "G1",
         "O GLOBO"
       ],
       "tema": "consumidor-residencial"
@@ -151,6 +152,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "regulacao_85660",
+      "titulo": "Procuradoria considera legal diferenciar encargo de baterias entre geradores",
+      "lead": "Procuradoria considera legal diferenciar encargo de baterias entre geradores",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0U5cXFjX0FnM0dOeHlBTllFbHBHb21MaExRQ1liREppU1NZdndXWUVvMm10QmctS19HOEtqRXpLUXM4Wl9aR2ZjRUFIel9rV0ZreDMxeXEzdDFiSWdSX1B2TExDeGlfb1hCbnFfY085eUVLTTA0b0RGNUc5TVVRVkJBejljNWJNOTFaXzY4ODFTdWlzdE83eTFHMXFaWk5XWGZpa1l6YlVvQ0tTNEtpRXJuNVNLTHBxWVVv?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-24T12:32:25Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "regulacao_5117",
       "titulo": "Aneel avança em regra para UHEs sob desafio de valorar potência e flexibilidade",
       "lead": "Aneel avança em regra para UHEs sob desafio de valorar potência e flexibilidade",
@@ -180,7 +193,7 @@
       "lead": "Baterias: o leilão é o primeiro passo, mercado precisa vir depois",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rOS1uVFBhWU83Ul9HSUNvNTU5TE9ucktsZDRiV3BxeExuSDRnYkJiSzRHemE3ZFlsQmRoVWsyVzhac085UVpVcVR2bE4zUkVtZ0FVVkpFeFlLcW91QmRSaE9mUTd6X0t4LVl5ZnE5VkVENTRya3ZWRnFaYXA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-23T12:41:21Z",
       "dominio": "canalsolar.com.br",
@@ -291,7 +304,7 @@
       "lead": "Primeiro leilão de baterias atrai mais de 6 mil projetos",
       "fonte": "Brasil 247",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGdrYUlZRFg5b3hiQi1ibzJSQm0zUmk5X1pZVG4zV09Za2ZPeGVQZ00zOFpLVUNqenY3SF9rN1Z1MHpUYzhPdDhkZ0hhQXZBVGJ2b0tEbjZNLVBRaklUcV9OcDlHQ0lpQXRfWFRGeU1kWjA3M2hXcVNmWkNVVWhUb3FfejVzZkR4bjNoMGo3NmhxcFk5dkgw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-22T17:50:00Z",
       "dominio": "www.brasil247.com",
@@ -303,7 +316,7 @@
       "lead": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYzNEcDdBNUFQWlROaERoNy05SFFXYWpQWXc4NkVfODhaT3RhOHk0YW1QWktxNXJoc19wUGk4WGh1ZkpDRmdiYXdIckladjhTSG9KM3Z1X3FHNDFNWWlrd3BvbXkzQm1SN1VEZTBuQVFzZVNObkQ3MEhRZmRjUWN6eklqQ3ZyRGN3VTc5N3JoV21EdGM0UUh6dUF0Mk16WmEteUJrenpRMkNTR24xRl9jVlFkSjBLbnJnaTNmT1paOUVVM3V5cExOZHJldTM4UXpkN0NjZkYtd25Ea2tjYjBPZHlKcThab2o4cFR2OVNkaUdxb2lVeU5FZ1c5SzZlSURV?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-22T15:30:41Z",
       "dominio": "www.gov.br",
@@ -330,7 +343,7 @@
       "lead": "Leilão de baterias: agentes divergem sobre rateio de custos e colocalização e alertam para conteúdo local | eixos",
       "fonte": "Agência eixos",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGVfZTJrSkRCaHl2SkNUbzR5Y3pfZTdDbW9vNFVMVG9qV2FtVWMzaXNYUWtZVm9iMzJWNHdud0RiSE5Ga2o3WkdTMjYwN0hXdXhlczVWdGhMRHlrcjRNTWlKbF9ybXFRQzgxRVFWbFhpZ29uaFdxaXdSZlh1RTJ0SWF6Ym5mMnZTVHN5UmFBU3NJc0xCMUFld3VxdWtZbnZ6MGJLQ2pscWpCWDNiU1VxRkNibklRMmhwX3cxTERRSU9sck01SXlWbVFjOV9TNktU?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-21T21:18:34Z",
       "dominio": "eixos.com.br",
@@ -748,18 +761,6 @@
       "editoria": "transicao",
       "data": "2026-09-12T09:05:52Z",
       "dominio": "www.poder360.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_82573",
-      "titulo": "O leilão de baterias e a nova fronteira regulatória do setor elétrico",
-      "lead": "O leilão de baterias e a nova fronteira regulatória do setor elétrico",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUJQWWdXWVRtYWZXY3ZNS0xhMXBVQW1tMHlYWUpyeks3eHBNdEg3Y3hnOUtScHJKNFo3YlhiOUh1dXl2MTFLMTFsYVlOUDNvQmFaV295a2RMZWl6eXF3ZjBBMFFRMEI2SkZiWFRZYWl4OV91M2lOV2tQT01IbXNyT0xUNnhDQzA0TGFUMDNnUmtOcEJIWmFNb0NXNHh6OWdQOVE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-12T09:00:00Z",
-      "dominio": "eixos.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

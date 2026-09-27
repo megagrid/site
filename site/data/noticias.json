@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T15:56:02Z",
+  "updated": "2026-09-27T22:24:52Z",
   "total": 60,
   "itens": [
     {
@@ -25,15 +25,15 @@
       "data": "2026-09-25T20:51:00Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "cn7.com.br",
+        "Blog do Esmael",
+        "Portal Piauí Hoje",
+        "Portal iG",
+        "CN7",
         "CBN São José dos Campos e Vale",
-        "agenciabrasil.ebc.com.br",
+        "Agência Brasil",
         "Jornal da Paraíba",
-        "Olhar Digital",
-        "Extra online",
-        "Folha PE",
         "G1",
-        "O GLOBO"
+        "www.gov.br"
       ],
       "tema": "consumidor-residencial"
     },
@@ -48,18 +48,6 @@
       "data": "2026-09-25T20:21:41Z",
       "dominio": "canalsolar.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_89513",
-      "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra — Agência Nacional de Energia Elétrica",
-      "lead": "Outubro terá bandeira verde: contas de luz sem custo extra",
-      "fonte": "www.gov.br",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlp1Z2VtYTFycUhRLXVqSVNVa1V6YVUwVm40WFBNUUNiNkNhLWtYWW5OS2VrM0o4bTI5a3pURXpZZnRuTDB5OVBLRENUYzZSNHN0NzVjU1BJMllOYWRyOTJuQlN1Vk5LWkJYeFc4SDRlRWp4aUxwOElISWltYkhZcXZUQ0ROeDJTTnVKR1dENjh5VTJNSnFrWVR6SnZTa09xclQ5b21ocmRmaUJ1aGd4Y2hQZGV3OHhlcUlfbXhQOVhMUDdXdVl3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-25T20:04:00Z",
-      "dominio": "www.gov.br",
-      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_38492",
@@ -109,7 +97,7 @@
       "lead": "Mercado livre testa soluções antes de chegar ao consumidor residencial",
       "fonte": "CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmtCYW1HXzdnQjRMQ3had2tnREV4TGx1U2Q5dzY3UmZ5clkteWZ0OVFMZmpHWHZjaFJTaTEtLXJZRWd2MGNLSHRuamR4UUN3VXoyVFhqZ0pIZjlFQW10ZkxGZU8yTVNxQ21TYTdicllwNlZGRDhnM21ZaHVqeGhYS2hSUW42YnB6VHRZb2FidU0xRlNXQ2JTVXVYQW5HQkNmWXFnQU5kdnlQdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-25T01:45:06Z",
       "dominio": "www.cnnbrasil.com.br",
@@ -761,6 +749,18 @@
       "editoria": "transicao",
       "data": "2026-09-12T09:05:52Z",
       "dominio": "www.poder360.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_12400",
+      "titulo": "O leilão de baterias e a nova fronteira regulatória do setor elétrico",
+      "lead": "O leilão de baterias e a nova fronteira regulatória do setor elétrico",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUJQWWdXWVRtYWZXY3ZNS0xhMXBVQW1tMHlYWUpyeks3eHBNdEg3Y3hnOUtScHJKNFo3YlhiOUh1dXl2MTFLMTFsYVlOUDNvQmFaV295a2RMZWl6eXF3ZjBBMFFRMEI2SkZiWFRZYWl4OV91M2lOV2tQT01IbXNyT0xUNnhDQzA0TGFUMDNnUmtOcEJIWmFNb0NXNHh6OWdQOVE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-12T09:00:00Z",
+      "dominio": "eixos.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

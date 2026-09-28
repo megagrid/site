@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-27T22:24:46Z",
+  "updated": "2026-09-28T18:53:00Z",
   "score": 32,
   "nivel": "normal",
   "nivel_desc": "Mercado em equilíbrio",
   "componentes": {
     "ear": {
       "peso": 35,
-      "valor": 61.9,
+      "valor": 61.8,
       "score": 38
     },
     "ena": {
       "peso": 25,
       "valor": "via EAR",
-      "score": 40
+      "score": 41
     },
     "pld_momentum": {
       "peso": 20,
@@ -21,7 +21,7 @@
     },
     "carga": {
       "peso": 10,
-      "valor": 84672,
+      "valor": 63185,
       "score": 50
     },
     "bandeira": {

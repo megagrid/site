@@ -1,14 +1,126 @@
 {
-  "updated": "2026-09-27T22:24:52Z",
+  "updated": "2026-09-28T18:53:08Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_27382",
+      "titulo": "Com IA própria, GHC economiza R$ 7,2 milhões após migração para o mercado livre de energia",
+      "lead": "Com IA própria, GHC economiza R$ 7,2 milhões após migração para o mercado livre de energia",
+      "fonte": "Jornal do Comércio",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRFpkX1p5eHV1aV95M1ZsMnFQX3YwQkt0X3MyMXZNck5fa1loRjZCY0xaMlAxNkJ0b0ZkV1JyN2llUFlwN2ZER0dVejUzN29oOGlQcm1tSWNUNEZlNWluNVpxMEluZVl1QmZYMkVoQ3lRMmZOamwyMTdGWVJvMk4tTklnaHVEMGd5U3NGNVpucHptaWYyNm5UR0ZpTWx3cXBfcUMxdXFxRG9rTzlybTVCV3pnLXpFMnVvMk5mbWZJZm1PUXVSWXMtbjB0TWF3ci1xN1lZVzVmbWNhRDVFdkRhWGlhUWlSZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-28T18:16:55Z",
+      "dominio": "www.jornaldocomercio.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_76802",
+      "titulo": "Análise: Leilões de baterias testam as regras do setor",
+      "lead": "Análise: Leilões de baterias testam as regras do setor",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTmhyVFF4eTZFVXkydG05RkdwMUlVZ0pZTkNsb0Y1SWh2ejBtY05KTjdyekNFdWVaWVRGZ04zanhlaEd0dHR2c1VfeTA0eHNxMTd0TS1LQlVNNWxVREQtYnk4VzVBR2d2UzJnUU10cjA5ZE53ajF3VzJ2THM1QVJ2aHZ4aENNNHhuSHZjMVl1d19GUGZOZW9ZTUNfR3g5OVJmVDFuYVdLdzdYQy1Uc1l5WklhU1hiaXdEd2VTNWszNkpOMVdQVjJSNGhvUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-28T15:53:12Z",
+      "dominio": "www.cnnbrasil.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_53429",
+      "titulo": "Por que a Tradener pediu recuperação judicial",
+      "lead": "Por que a Tradener pediu recuperação judicial",
+      "fonte": "plural.jor.br",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYTFPVDduTEp1MTg2aHVaVzBSRGNwaDZFWUUxZmQ3TFNpV0k1b3VNd3NVZjl2d1RqV19MZ1NlenNtd1FkMWRkMjhEV2dkRnR2MEdPSVFhRkxVWGJfbzVhUk1yY0FJMFVZMlFuS19zblFVbGowVjVXTnFHcEF5QWdWWUZzVWZJUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-28T15:28:16Z",
+      "dominio": "www.plural.jor.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "tarifas_59893",
+      "titulo": "Conta de luz terá bandeira verde em outubro, anuncia Aneel",
+      "lead": "Conta de luz terá bandeira verde em outubro, anuncia Aneel",
+      "fonte": "WebTerra",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVB5b01wVTFmQS1tMGhiUG1pX3BRSWdIVWJvSXJ2WHh0VzNKNGZmTW5OdExwYTFWcjRQSDAxR1ZzWFJOdWNZaE92b0w1QkRXQTdIanBjanNRNEdUVVVNa2N0LXBlN3UwelJRTmxKVDJSWExqdmhLQVpZTHk5Mk9nYjJmODlGOThseERkOC1iR3duRHo1NVpQNQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-28T15:23:54Z",
+      "dominio": "webterra.com.br",
+      "tambem_em": [
+        "Goiás365",
+        "98FM Curitiba"
+      ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_61284",
+      "titulo": "Quem está de olho nos primeiros leilões de baterias do Brasil?",
+      "lead": "Quem está de olho nos primeiros leilões de baterias do Brasil?",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzNCWmhRb3lWS2RIRUZWNTBRb05DY0ZjV0twcTZpZUFsWEdJNzduQm9vRHVXT2hSYVkyYXFVUllyM0dsNjlmeDZfTFlXSnJVdWl5TVNyQzluaU5wNWpMSGxZX3hESHNYbzZXa2lTUnVuQjdMaUszdjNVVDROT3JIQ2xXLW1PZU9kNm1JWm1GcXNIYWRNSzludHo1SG5namFw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-28T13:16:30Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_92634",
+      "titulo": "Inscrições abertas para o 2º Fórum Análise Setorial CCEE",
+      "lead": "Inscrições abertas para o 2º Fórum Análise Setorial CCEE",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2dKY25sVkt5YUxpUTdSMHRfaXZla2dwZUtBNFVMcHhTcWZYajJzTGFUWDlNY1JrcUVlMndfQkNMaE5SY2tyR0Fzam5vN1JEblN4SHFkZk9CaXBCU0pEZVE3Zk9mbTlURmhyMlU3ZGNMVVRXSng1cjB6Ym9iZHk0SEZhUTZOMlgx?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-28T12:37:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_17947",
+      "titulo": "Excedente da MMGD pode ser contabilizado na CCEE",
+      "lead": "Excedente da MMGD pode ser contabilizado na CCEE",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXIxNFBobTIzVEFSQXJKM3dNV3lSYlgteFVTekRoWGNZeXJJTzc3bmFVclp3Tlp2Ujlmck9zQXdiSVhpLWdPOGFYN05TVUZDUjBsX3R1TTZ0VXQySjFUbDhKMWZ5aWlhbVF0ZUNKMnpBN1c2dms0ZENNRlZkSDlHQUhaZnJHWTk4U25fTkpnM20?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-28T11:51:03Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "transicao_98433",
+      "titulo": "WEG investe R$ 330 mi em fábrica de baterias",
+      "lead": "WEG investe R$ 330 mi em fábrica de baterias",
+      "fonte": "aciara.com.br",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rM3NGbkVvdU9qRmc0SElWSktkRThtTy1IeV9wbTY0T2RMOWtQZjZsbU1QZVhHMzE2dDdVMng5eWRlbWZZN2Y3QThBM25jSm11NjM0TXV2Ykt6YzI4VTQyMDhDZ2llUV9CbU0tbjlxZ2ZNdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-28T07:36:23Z",
+      "dominio": "aciara.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_50475",
+      "titulo": "Opinião | Mercado Livre de Energia: como a escolha da fonte de energia impacta as metas ESG",
+      "lead": "Opinião | Mercado Livre de Energia: como a escolha da fonte de energia impacta as metas ESG",
+      "fonte": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3loV01BX0hXRXRtbTFCVUI3NlBhSzdKYUZ5RzBtMUVvQnJLbjM4Wk1QR25WZkx0VXQwcXdqQW54RWg3TF9DUXVKQU9adThIS0FiaTFhZnp6LXNmS0pyTFR3QWV3dWxiUE9odVBxQng3b0NrcnpYM2VEeFhpREFqb29Vdm0tSVNCRXdmYjFZTXZDVkh6YkU2LWdCOTNnWUowNWw5SHZ3YzVJWVZ4bk5pamlNSVBRcjRoYnRpNTZB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-27T20:01:13Z",
+      "dominio": "www.estadao.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "regulacao_60533",
       "titulo": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi",
       "lead": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi",
       "fonte": "Jornal Primeira Página",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakV2RGx4X3N4Z1VwRWZUNl80ZTdrNE5mLXJqaWxtcUNPY2FMYnpod3JETWVwSnlzbEpqZ0lYbWxMY2t5QTFWRk1vNHBmLWZCWnBWZVFrbVdLTXVIZWVzNVdmU2pJcmQ4N2xZbGMxQVRHcVRLaElLQUlLanVZbWNsbWJQQktXMV9iRHJfM3NUS0FNSzR6TUNYa3VsQnVMVzJ1bzJ6YlZNb0dsMWI3ZGZrVzlsQzlIM0VSN01pUldKYTJYM00yaHhZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-27T00:41:54Z",
       "dominio": "jornalpp.com.br",
@@ -20,20 +132,17 @@
       "lead": "ANEEL anuncia bandeira verde para outubro após sequência de cinco meses com bandeira amarela",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rTThpNndmdndkQzEwTFFYTXRiZUtWUlJqSTNQMXF4dlU1TEZnSHNfVzJ6V3NFQkJnbDFTNXRYbXRZS1NtV1pUMGFCXzB4MVlSRUItaHdZMjd0MUd3SHRqYTVkMmhMSEtHUlp3M2pVcXI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-09-25T20:51:00Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "Blog do Esmael",
-        "Portal Piauí Hoje",
-        "Portal iG",
-        "CN7",
-        "CBN São José dos Campos e Vale",
         "Agência Brasil",
         "Jornal da Paraíba",
+        "Olhar Digital",
+        "Extra online",
         "G1",
-        "www.gov.br"
+        "O GLOBO"
       ],
       "tema": "consumidor-residencial"
     },
@@ -48,6 +157,18 @@
       "data": "2026-09-25T20:21:41Z",
       "dominio": "canalsolar.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "tarifas_74948",
+      "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra — Agência Nacional de Energia Elétrica",
+      "lead": "Outubro terá bandeira verde: contas de luz sem custo extra",
+      "fonte": "gov.br",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlp1Z2VtYTFycUhRLXVqSVNVa1V6YVUwVm40WFBNUUNiNkNhLWtYWW5OS2VrM0o4bTI5a3pURXpZZnRuTDB5OVBLRENUYzZSNHN0NzVjU1BJMllOYWRyOTJuQlN1Vk5LWkJYeFc4SDRlRWp4aUxwOElISWltYkhZcXZUQ0ROeDJTTnVKR1dENjh5VTJNSnFrWVR6SnZTa09xclQ5b21ocmRmaUJ1aGd4Y2hQZGV3OHhlcUlfbXhQOVhMUDdXdVl3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-25T20:04:00Z",
+      "dominio": "www.gov.br",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_38492",
@@ -304,7 +425,7 @@
       "lead": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYzNEcDdBNUFQWlROaERoNy05SFFXYWpQWXc4NkVfODhaT3RhOHk0YW1QWktxNXJoc19wUGk4WGh1ZkpDRmdiYXdIckladjhTSG9KM3Z1X3FHNDFNWWlrd3BvbXkzQm1SN1VEZTBuQVFzZVNObkQ3MEhRZmRjUWN6eklqQ3ZyRGN3VTc5N3JoV21EdGM0UUh6dUF0Mk16WmEteUJrenpRMkNTR24xRl9jVlFkSjBLbnJnaTNmT1paOUVVM3V5cExOZHJldTM4UXpkN0NjZkYtd25Ea2tjYjBPZHlKcThab2o4cFR2OVNkaUdxb2lVeU5FZ1c5SzZlSURV?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-22T15:30:41Z",
       "dominio": "www.gov.br",
@@ -322,7 +443,7 @@
       "dominio": "www.folhape.com.br",
       "tema": "transmissao-rede",
       "tambem_em": [
-        "BOL"
+        "folhape.com.br"
       ]
     },
     {
@@ -641,126 +762,6 @@
       "editoria": "transicao",
       "data": "2026-09-15T12:52:15Z",
       "dominio": "canalsolar.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_28576",
-      "titulo": "ANEEL propõe nova classificação para operação de usinas no sistema elétrico",
-      "lead": "ANEEL propõe nova classificação para operação de usinas no sistema elétrico",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jb2J2RGVBbGV3NElJN0JvbER5YmdFd0hJdXUtTHNxZjVicGpDSXRzbGhYcmVKNDJoTjVUUUEwM3RMWWpyU2NNSzRhek1OQUhFUXh3aXg3Wm5NYXQwRFlzeWE0WGRSSElONG9ac3Y2M0xoRjZMNkp6Z3U3NGtMQTA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1627052428109-576e839d100a?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-15T11:20:04Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "transicao_10837",
-      "titulo": "Leilões de baterias atraem oferta recorde, mas ainda enfrentam incertezas regulatórias",
-      "lead": "Leilões de baterias atraem oferta recorde, mas ainda enfrentam incertezas regulatórias",
-      "fonte": "Além da Energia",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTE1dmNvSHVFZ2x5bERqaEtyTUI5dC1SMU9TNFAyd0dGckFTeklraFY1TjV0WmotaUN1THR5ZFh0MUFQRTZ1N0ZnajJmWWN2N0ktREh0cWw1V2ttbnIyTUp3VDh5cjNWX1pQUmlOLVNHa2JVWF8wVW9wMEdMRHFzU0M3d2RLRmJC?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-15T10:01:26Z",
-      "dominio": "www.alemdaenergia.engie.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_79447",
-      "titulo": "Mercado livre de energia: quando a migração começa a fazer sentido para o supermercado",
-      "lead": "Mercado livre de energia: quando a migração começa a fazer sentido para o supermercado",
-      "fonte": "SuperVarejo",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlN3S215cVVjdXRrR0F4S3hjQzNONDhNQmdZQ2RpU0s4RWtfQ3M4bVFlWnZ2V2dTQW9UMnljQnI0YWQxZ001azRfdDBUVUF2RFo1aEl2T0ZVWGxqaDVoZ1lNdDBteVF0UUIwZVZLZURkUGRxZzF0NTBHTkcxcGpTcXRnVnJfMDE1MTVVS0ZKNDJVV0Q0N2NUcHlCaVFiT2tGczBxajJMcWRaNDJOSFlPZ2ViSmhVYklrejZSekllcWk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-14T18:45:08Z",
-      "dominio": "www.supervarejo.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_56486",
-      "titulo": "Diretor da ANEEL vai debater regras dos primeiros leilões de baterias solares no Brasil em evento da ABSOLAR",
-      "lead": "Diretor da ANEEL vai debater regras dos primeiros leilões de baterias solares no Brasil em evento da ABSOLAR",
-      "fonte": "bra1.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWGhFRDkzMFJFVWNtNkpoZE81eWNpek5sVjhGM3pOY2RxYlo5MzVlMFgyUzA4Y0ZjOXh2SWZpeENQanlaMTZKb3lNZG1XN1lXRGFtVXpjNlZ5ekNoN0gwOWROQUJHX2Z1b0JoLWZyNXE2eElXZkVSVWFBQlUxRTJJTklRLWdjMUM1VDU5ZHRBTUkzM2dnakI2S19WbnhTN1FjOGZmVERLd2pVSW1PWm9aNnl5ZHFkZGI5SVhHT0VmZW9ZVTB1czl3WHNTZWc4UGVLdDJ5ZFpxNVBhSW1PN2FsQ1NWeUIyQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-14T12:30:00Z",
-      "dominio": "www.bra1.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "transicao_75054",
-      "titulo": "Mercado de baterias para armazenar energia é dominado pela China e vive era de euforia – Edição do dia",
-      "lead": "Mercado de baterias para armazenar energia é dominado pela China e vive era de euforia",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTnNsUi1xazh0OXdTYkRLVjNneEZJNnNIYW4tc3Z3RDhqaFFfUF96QXdwaUhuYjF6OUN2WmoyS3hvbE40cG5GbmloSlNydTBGaEQ1M0syYmd2THJLRkttdkYtMVJ3S29nR202Y3EzOEM3Skp6WnpCV2dNX2dPTGJDZS1oUFJEU1NCQWU4MGg3ZkxZLTc1X3czVHg4QlRlVFN0VDBDbkFqc3lTbmRPQzFWLVQzRUNTZjFwa1VJeFlEYXZXNU1HaFFRdF9PWm5yaE1hNzRuZDhMSG9DZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-14T12:02:10Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "tarifas_24436",
-      "titulo": "Alerta é feito e brasileiros devem se preparar para o que vai acontecer com o preço da conta de luz em setembro",
-      "lead": "Alerta é feito e brasileiros devem se preparar para o que vai acontecer com o preço da conta de luz em setembro",
-      "fonte": "diariodocomercio.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUUpqXzhkRlB1MTN3SjNhakdUYnBpQ3hnM1NPQ0lBajJnSlJsbzA2cDRYYTkzLW9sOGstc2l5eHBKVjZQcmY0OWNpT0xlbHZxNHhfM2dyRGFzR0gxSXQ5dDlyb0RSVUx6Sk1sZm0xQ2ZROGc3X0Q0ZTgyUGlmSkJKSDdYM0N3Zkt0ak9EbVFveFVKazdhVFVVZTgzOHFaVHpyaE43cTlKUncxLWRETWxwdlZSUGhrRzVKam5lN0xNb0ZKNTRRX01lS0VaVmZSX2NnbldWNThmMG9XSWQyMlZzTE53?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-13T23:04:00Z",
-      "dominio": "diariodocomercio.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_24125",
-      "titulo": "Leilão de baterias é ameaçado por impasse jurídico",
-      "lead": "Leilão de baterias é ameaçado por impasse jurídico",
-      "fonte": "Capital Aberto",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3NOd2xsZWhocW1QYjJkb3dyVkZRcjI5MW53bHA4MHV0UjkwM0J6SU1lbXFjX1JrVTBWd2NPeDVzWHQ5bjJ2REdqZzNlOUpOUkRkYjQzcklMVUJocWdkd3gyOGRWZk9RNlBab1k4SnhuTzB0Y2RHN1FGb1hOa3RUXzN4bzZWM0Z4RGNuY3E5S185MlJrRVpqUUxpQVhwdE1nQWJneXE0VUxCWnA1UlBXQUhqYW5FdzZZUjgxQTZndk0tUmJLZnc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-13T23:01:30Z",
-      "dominio": "capitalaberto.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_95674",
-      "titulo": "FIEMA reúne Conselhos Temáticos para discutir avanços e oportunidades no mercado livre de energia",
-      "lead": "FIEMA reúne Conselhos Temáticos para discutir avanços e oportunidades no mercado livre de energia",
-      "fonte": "O Maranhense",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1NjQmd4TW0zcndmUm1XV3VkbFR0VDMxRnhpSjVnbXV3aS1UMXBwT1VzYWFlVjVISnV0VWR4dmRRNFFDbzhLTnRWaFVLaF81ZU4xV0dqRFFTcTNpVDhYY1FyaURUcUlsWUt0aFg5NUlrMnpWeTNvTFI2RmtCWVVlV29zaDlWbDFVLXBQWVRmLWVwSFdhbW1oYVdLSjVpNmdSaVZMVjVuQUVsYWxMOW1zOFdrQkF1Wl9DWHRIUldPSQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-13T02:12:31Z",
-      "dominio": "omaranhense.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_96360",
-      "titulo": "Infra em 1 Minuto: quem paga a conta do leilão de baterias?",
-      "lead": "Infra em 1 Minuto: quem paga a conta do leilão de baterias?",
-      "fonte": "poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTENLemcwTkdkQVhMa0JiajMtVlZvZmRsRHRlZnhqTDZEU0tnMVhNSWRWMnN2MDlMVDVydHNUcEN2endCN29ZNWEzek10dl9BcFN0NFRucWk2SF9UZnh2Q0FWY1AyZEJWaFJvdjZyYlZvNW5nb3FzdmxVSVM5SEFvU0wyYU5fVk5OLVp1Z3RFdDhiYl9zN3picmtDQW9UT0d5d0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-12T09:05:52Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_12400",
-      "titulo": "O leilão de baterias e a nova fronteira regulatória do setor elétrico",
-      "lead": "O leilão de baterias e a nova fronteira regulatória do setor elétrico",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUJQWWdXWVRtYWZXY3ZNS0xhMXBVQW1tMHlYWUpyeks3eHBNdEg3Y3hnOUtScHJKNFo3YlhiOUh1dXl2MTFLMTFsYVlOUDNvQmFaV295a2RMZWl6eXF3ZjBBMFFRMEI2SkZiWFRZYWl4OV91M2lOV2tQT01IbXNyT0xUNnhDQzA0TGFUMDNnUmtOcEJIWmFNb0NXNHh6OWdQOVE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-12T09:00:00Z",
-      "dominio": "eixos.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

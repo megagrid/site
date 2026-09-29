@@ -1,14 +1,104 @@
 {
-  "updated": "2026-09-29T17:10:47Z",
+  "updated": "2026-09-29T23:05:00Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_28077",
+      "titulo": "Aneel define bandeira verde e retira cobrança extra da conta de luz em seis cidades do AM",
+      "lead": "Aneel define bandeira verde e retira cobrança extra da conta de luz em seis cidades do AM",
+      "fonte": "Portal - Rios de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWZ0UU9ibmd0eVRtNnFER3R2LUNZU3dOS3RTalVoaEZleGxhcURXa0lPbFEzRExkTjBleEFjekM1dDdNVlI0NVVzVUtQZ3hVTHlhdnJVczQtQXl4Zmk5WUltTF9fU0FlTVl6QUVIcjRsbnJoWkdnbGNGTGxDYnpKTmd4cjduRXQxRDlNZ2hBQ2tzM1FNWFZtMnBTWndObnp5OG5vXy1Ba3FHQkFCQkxHUnR6dVRRMEFjWTlTSHpIdDkzUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-29T21:33:04Z",
+      "dominio": "www.riosdenoticias.com.br",
+      "tambem_em": [
+        "RibeiraoDasNeves.net",
+        "D24AM",
+        "Hojemais.com.br"
+      ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "regulacao_71006",
+      "titulo": "ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos",
+      "lead": "ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWGlMTk44VEs0MXpPbXB3YkdUNGpkYzJIbmx6eDJ1SXFGYUd6b0hyYUVlT2ZIWnYxZElzc1MxVFcwNG1Qc3NTOUxKWFIxZEhBOWUtVy03aVd3Vk9RbU1pcnJWZlhrQlZVdjgwVk9RQ2pmOUozWmlmazFGZjEtbG5sWEt4ckFyWkNYX3NodjFMYWRoZVRqRFhicWNHMmtSdGZOcG5RbThjdXNDTGVpX21JNGN2MldpUmxhUWNTQVlDRGhSemZqZGp3SHBQV1A1T0xrMVZuUWRwYVJ3N2ZyR0RxWThQdENxQVVBcExkZ1hfRTNlVlBXUGpWbzQxUUhyZ0ZWd0Fxa1VVdnpvaVdlU1RGRWhjb1poaGEx?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-29T21:06:16Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_47205",
+      "titulo": "Smart Fit adota estratégia para migração ao mercado livre",
+      "lead": "Smart Fit adota estratégia para migração ao mercado livre",
+      "fonte": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVMxMHo3SjRIajFidDQzQWFrNDB3NklydW9NclpSUVB1WWNLTldycEpVVTlvYlh6ZXhwdzFfRWhzSlJXS1pGd21QTExMbjBvZ2oydmtmeWp6a1dCZWtCN1I1UWxRNHNDUUU0eEdrNnJGejg0M2lRMDdYb0wxODdBNGdjZzBhRUUxLTJJMkhnTWFURkwta1ZjU05QRUJvRGJYUmsxOC1XcjVFbWpaZzFtNXFNdUUyS0h2VnlVbW9xeTI1MnpQc0Z1NXpaNA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-29T20:30:00Z",
+      "dominio": "www.canalenergia.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_82982",
+      "titulo": "Leilão de Transmissão de 2027 marca estreia do armazenamento por baterias na rede elétrica brasileira |...",
+      "lead": "Leilão de Transmissão de 2027 marca estreia do armazenamento por baterias na rede elétrica brasileira |...",
+      "fonte": "SEGS Portal Nacional",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSjg4Z0JMZ1pVRXlTNlhkU3poZ0FKNFNEX3Q2RUlqbTJadDFMaDg0aGVqNi1jV3VoeVNzU2dMOUNqQ3hpNTRZQ3VQYUVKSkxxZlh6c3RlNTcwa0Z0aWd5LVd3TlRuMzNZOFowUXh4YmRzMHdmUWc1OXZuMEV2Yk9VQ0FHR21oZGJvTmM4N0J3OEh6Yzh0eVdtTEF3VlpYWmlXSUlyRXBBcUd4Y3E3Q1cwdFlGbkRvd1ZZZElNVHJtWEpqS2tkdUcyNGdXUGRJTFNOYk4wbDVR0gHbAUFVX3lxTFAwQ1RrY3FqdmFGZklJMExQcnBHUGhBY0ZqaW9haXd1RWx0V0F2SV9yZ1dPd0Q0Q2QtRkxCejFyQXU3M2xvVU12RWg1b2JhNlpUN1pHbWR0UEwtUkh4TFFqREU0UHZRYnlXZ2dCSGp5TzZwVUo0eG9IU3FRQmR2X1k1T3F4RDRPaTIwSURsZkVybm1IbU93YUczeEJ2aXVvNTlFNHVsWGtTd01KTGNFaDlEemZtZXlTWHZPaXE4YUtqZGI3d3Z5VDJ3WmlmTEtYY0lXYm8welZIczdQTQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-29T20:13:11Z",
+      "dominio": "www.segs.com.br",
+      "truncado": true,
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_27766",
+      "titulo": "Eleições 2026: ANEEL determina planos especiais de atendimento para garantir energia durante o período",
+      "lead": "Eleições 2026: ANEEL determina planos especiais de atendimento para garantir energia durante o período gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYW40YnQtNlRRa0dOUVJoWmRFbzc4WnQyRGpNTVg2elVqSGhDX1loZXZQNmVwSU45eGZIMXp4eGlHOXIwTUtvS0ZTdjZ1Y0RsNXRoY2RmbEhtMGdnRktRVWJ3Vk9kRU1VYUw2VUVJV3NpQWJ2bUQwSGNCMVhaVTN5eFJXcTFaX2pEWndNUWprZ0wtVWtwQ2lkeEwzZElJTmpzeFpyYlA5dUNoMWJ0VXN5U3k4bl9xZVFhS0RlQkJMcFZwS2ZJdmZnekN3cDc1REYzUV9iaEdCLWZ0Nl9BNXd2eHFjQnh1NDFLZS1udmFyMWcwX3VWRUgwNFQ0RFhZZmwySmc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-29T18:41:04Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_45331",
+      "titulo": "CCEE amplia módulo digital para processos de Monitoramento Intensivo",
+      "lead": "CCEE amplia módulo digital para processos de Monitoramento Intensivo",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWY2bDM0cC0tWEdaSDdsUmZNUl9SVTNTOENrRVlqZEJrSTJRTV9rNjl3Xzk3dU8ta3RPWnZuZ21qRlFBbE96LVdubWlodlR6ajNTUXRZNzdsc3FUcTVnWmZyM2E2alpVc2YyRmZoR2tmUzlIU1c3MGNmaTNubjFTZUxaWmV5RnYxYjFXVDhOMEwxcmdUR2dPYW5mZDlQU1M5RW1zQ0JRZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-29T17:01:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_2931",
+      "titulo": "Às vésperas das eleições, ANEEL determina plano especial às distribuidoras",
+      "lead": "Às vésperas das eleições, ANEEL determina plano especial às distribuidoras",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGM3WXhoQm1GS2p4QUpXRmZvZ055Z2NQNTExOE5NU3k2Mi12SjVmVC1OSlpCaWZfeGt6dU1wcnNHb2QyNnkzczVpaExpeTNkMzRxQy1sZjJUV0JHeDVGVmxNMDV0b3FjMjAzcDFjQ1hBYzRFRVBDMFpwaTJUN2FNU0U1Y0lfZ0xY?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-29T16:12:38Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "transicao_87715",
       "titulo": "ABSolar reúne autoridades para definir regras dos primeiros leilões de baterias no Brasil",
       "lead": "ABSolar reúne autoridades para definir regras dos primeiros leilões de baterias no Brasil",
       "fonte": "bra1.com.br",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmJxWjNmbmdNc3VUamF4ZHc4Ukd1V0s3SVVnRGJJOTFaTWFnOHZ2WS1JUUF1UnpiTVJNVVdkbmE1T21hYnBQOG00c2hMRVZFdTVJM2gzN3dacVp3SXoya0hEbDRORUtrWkdkeGZfcW1oOFBsbmFkNHg2M2czcFlNUHdRNFR1YW1aYS1XbklJNHhOR2luRjlvUEpzNVByMG56VkkyYl9oN1Nsc0l4a0JPcFExY3VGNm1sS1BYa0JHYXFkNDlsTC1IYVRDYzI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-29T15:59:00Z",
       "dominio": "www.bra1.com.br",
@@ -23,27 +113,11 @@
       "lead": "Liminar impede CCEE de efetivar desligamento da Electra aprovado pela diretoria",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkxCMExsUHd2N2l6cUd4Nl9tMlFFRkRvcVFYeUVWRk1OdDNud012cldHUjBKanQ1b0J3bG5vQlBxRWh6M2xyejBFNFBRaXliNl9OaFo0ejh6Z25RWThJWHJLREdwVGlaOHJzLW01Vi1KeWNKMTV0WkVzS1hQQmgwcUpmWEhSMmVUVkRwdWZpdkZEZ2FIdnU5QTBVam80WTc2b2g3NFZuUUFwWEpvd1JjWF9JeEtCM1otV3ExZWE0WWFiNnhVaFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-29T14:32:21Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_75008",
-      "titulo": "Bandeira verde em outubro: veja cidades do AM sem custo extra na conta de luz",
-      "lead": "Bandeira verde em outubro: veja cidades do AM sem custo extra na conta de luz",
-      "fonte": "D24AM",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORndqaFVremE1ajlnWldpcWZYMGlWT3BrSHZZNlRaeUNsUjN3VmFhamtsNFJiTFNXWF9SdFlGOC1nak1NVEJZLVY0ZGY5TDVhX25FM2R0R3gzdFpsSFgxYTZNZzM1NzJxZUFVUDRkem9mVHJhUUtucmpXTGpnek1qM3FzN0xfTHA3TDh5MUZkT0xkVG5nM0JLZFRZWlA3Rkw0WlNEbE16OA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-29T14:24:44Z",
-      "dominio": "d24am.com",
-      "tambem_em": [
-        "Hojemais.com.br",
-        "98FM Curitiba"
-      ],
-      "tema": "consumidor-residencial"
     },
     {
       "id": "tarifas_96987",
@@ -79,6 +153,30 @@
       "editoria": "transicao",
       "data": "2026-09-29T12:42:22Z",
       "dominio": "pt.euronews.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_96282",
+      "titulo": "Electra tem defesa negada e será desligada da CCEE em outubro",
+      "lead": "Electra tem defesa negada e será desligada da CCEE em outubro",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEpqUGNFZU9nNjZQRmo1dmptcDRLMjBhNnAxOURLSXlHY2o1X3J3bm5jZWM4MDhkUk1lWEF2VmhwOEg1UUtsbFJER0pfTmk0dURKQXJMeVp0ZWh1aG5CUURyNC1xR3B2ZVBkMmJwNm9qaEhRT3BORHdzNXRidFBUYWlVOUgwX3U3TW5wbU1IWlZyWXF5WGVHWnBiMEl0QUh3dTlTblpHQTFOWVh0TTNLV3cwZ3U5N29uOXBF?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-29T12:36:33Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_69794",
+      "titulo": "Das ‘baterias de água’ às novas soluções de armazenamento de energia",
+      "lead": "Das ‘baterias de água’ às novas soluções de armazenamento de energia",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmsxVEQxY2J4U2I5SVBaQ3NHeml1VnRkQkozdlZ6c0xna3ctZHU3ajduZUtsSWNiXzBjX2tOMUFZVDlkbDVkR21mdGh5VGJNZ3o4empsaGVBTDJSaTljU3pUUVhIQXMyTDZuQVRWaWc0UUFGajlwcnMyLW5PZEJUYzc3UkFrdVJmWWpWY2tDaEZYRXJMNFczZ3hJbzhBVEhZMW03dw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-29T11:35:17Z",
+      "dominio": "www.cnnbrasil.com.br",
       "tema": "baterias-armazenamento"
     },
     {
@@ -122,6 +220,18 @@
         "Goiás365",
         "98FM Curitiba"
       ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_61636",
+      "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
+      "lead": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
+      "fonte": "Cemig",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeTFWUXFuTXlYemZkdy1hRXhaTl9EMXh6VE43d1h1NXR0dkZheDBWVEJYeUxqREVsUFhvTThmYy16d3c1UjdqSmZVZkNXamF3eUxzWFc0bXhiNjFqLWVwQnJEZ2lVV05QZ2VweVE0bUdaMmtHenBOVzBqTm1mTTYwOGJPXzI1YmpzdmpJczdzZjZGcmNTeGQ2OGFoZDhQYV9qQWhELVBMQllaLVVNSWswb09HTkk1WWtiY3BneEtPZS1UQzJSRkZONWdZSDM1eW5sS0lNWFd1dkdVUVRrZDFaTzJxOGZKYVJHTC0wTTRJeUZlZWJzbDkzRU9RT0RVcjdMTUE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-28T20:46:00Z",
+      "dominio": "www.cemig.com.br",
       "tema": "consumidor-residencial"
     },
     {
@@ -256,7 +366,6 @@
       "dominio": "canalsolar.com.br",
       "tambem_em": [
         "Agência Brasil",
-        "Jornal da Paraíba",
         "G1"
       ],
       "tema": "consumidor-residencial"
@@ -650,123 +759,6 @@
         "CCEE"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_99497",
-      "titulo": "Aneel projeta alta de 9,4% nas tarifas de luz em 2026",
-      "lead": "Aneel projeta alta de 9,4% nas tarifas de luz em 2026",
-      "fonte": "Portal R10",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2c0ZWdlcFlOdWd3cHJHb09vTU5fU2prcWo2OXBEZTJxaS13X25CY2c4ZHVfb3F3TEIyWlRGM0hoX3hVNmZ4QWtRYy1sX3FvV3ZQeHZKVWtiaTlDbTVwekxPUUV2dXFpUW0zbExOQjhkYXNHRVNsdE04YlEzbEpzdkZKVkdnWDBPVTN5dW1iTnJYQURaZEpfb3VuSHUxb3p1Q2Rv0gGoAUFVX3lxTFBmQ21hOERYZEJselRGeDJQbHFBM0hWQjkyNlZVaVBLWFVDWDVOSV92SUVyeHhad0JVZWhjMVkxOW81UWt0QnhDSnZtNXFsR0RVR1hmemtkTURRRGJFZzhwS2hJbTYtcnpCQTN6dVlWSHVsaU8wV0NfR3hpTTZ5Q1F1bTVEenJEMTBWSW4wYVRSNFNsNHQ3T0NWQ19iZHVVNVptWWdmOU5tdA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-19T20:55:20Z",
-      "dominio": "www.portalr10.com",
-      "tema": "regulacao-institucional",
-      "tambem_em": [
-        "Canaã Notícias"
-      ]
-    },
-    {
-      "id": "tarifas_19689",
-      "titulo": "Conta de luz segue com bandeira amarela em setembro e ganha cobrança extra a cada 100 kWh consumidos",
-      "lead": "Conta de luz segue com bandeira amarela em setembro e ganha cobrança extra a cada 100 kWh consumidos",
-      "fonte": "opovo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1NlQnpNMmZsczhneE9ON0F2eWpBeDdoLTdWaUExX2ZxR3pZSzVfdEpKQkNDSmFJQXAxYmI5ZnhfZHFMREtic3ZsSTh1SmQ4MHpTR3lSUlhtTGdJNFpPMVlqVGVQREtTTWpqT19QeFNMdmI3VjZYVDBXc2FqcHlWcmc0MllJVWJ0VEZqNEt2am9ZekRIU195cW1QWlMtRkw2bGY4RVdzVm5LQXUwOFlVUERYa2ZHb1A0WFJOWXpCSGhFVXhvM2pnWGtMX3dDdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-19T09:50:00Z",
-      "dominio": "www.opovo.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_65753",
-      "titulo": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
-      "lead": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVERIVXFvLVhwYXNGcDFFb0RjTWlWWlZpdm5xN1B3eG9iSjVTQVNSdUlPbnJfRTZ5TDB1V3RtSlpDeTFWVGVpWDBWUUF6cEQtcUotaEN1VUlzb3hINzFvaDJPb0xETUg2ZWs2QUpnb19Xd0I0aEpEdkFhOEp5RFFwTE9pa2oyZ2paNXN3cW9nWGdoaFdVNnRZaUJRYmpZRExoUmVZWlp4RGhURkZzUU92bDRBVVZJY05yUHhoanpkTzlUWThLQkNWcWMwRQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-18T21:05:57Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_23383",
-      "titulo": "CCEE vê espaço para N5X operar de forma complementar ao mercado",
-      "lead": "CCEE vê espaço para N5X operar de forma complementar ao mercado",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR01IOVdwWFBIUDVDVERwQVpQYm4wRXA2V2ZqWW9NbHFuV3FzOXN4eFAtaGJEd0hrSjd1dGN3ekIzX0t6dUROQU9SUzBzcnhJQ2FiZWxSU2ZpR3dRRTY2eHRpQk9fOUgwemNWTHRvM0NpVUhkSmQtdFhlbUpyUVA1VTRScUdabDJPNjI2cmVLSmxUX3dn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-18T18:36:07Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_1336",
-      "titulo": "CCEE confirma AGE para eleição de diretoria em 25 de setembro",
-      "lead": "CCEE confirma AGE para eleição de diretoria em 25 de setembro",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGljelIyWmVESFlyeG1KNlJOSm1mX1puak1QR01DYzZLLXl6aG1mZVd0ejRuSTZFc1FkcWJyUHgzRi1WdmdVYWE4bE5UWm9ENmNkc0NCOU1XZEJFNkQxUTFHWndiWFFGdkxQdHhYcGN3dkkwVVZIOUtYRjlucGRyemMtazl0V2tsVWx1RDUwbGFjbzBPUXh2c2dnaDFfMVhFTGtSbFVPLU4tYk1VZmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-18T13:19:22Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_40267",
-      "titulo": "CCEE realiza 78ª Assembleia Geral Extraordinária na próxima sexta-feira (25/09), em formato online",
-      "lead": "CCEE realiza 78ª Assembleia Geral Extraordinária na próxima sexta-feira (25/09), em formato online ccee.org.br",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZlRoQndKRG0wX2VOcXdJWkg4RE1BR21fcnhBbXlQcmpGcm0wMzREbXJpYUYyMHoxMnc4M0kwUjR4VHNSUzQ4TE9IdlN6bTlKOHRuSFNBZGFOOUxkZTFzQXNMemliMDlpaEwzc1RhbFRMbXhTc1FsUGFzeGpiUG5neFlLZFAySmhka2JZYk1vZVA1Y3lYbjhhUElWYS1nSVRrNVM2S2xlcFJ5Szl2bDdIeGxaSkVfQWc4Q3p1Tg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-18T12:32:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_14982",
-      "titulo": "O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
-      "lead": "O boom do mercado livre de energia no Brasil e a busca por contratos verdes",
-      "fonte": "Jornal do Commercio do Amazonas",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fY0hPbV90SzkyZlZ4NTVmeDI1SW1jM3NYQmgtaWJIWDA4aGltS1BiTTJRUjlQM1BTR2N5UVVNLTZkd1g2YmZGTzNrNG9IUGZ6ZVgtVDdkbm1GWjhYLW9WRnRLUDhUUlVzY083bVJ1LVVyNEw3MkVmVllGaFc0Sm8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-18T12:21:55Z",
-      "dominio": "jcam.com.br",
-      "tema": "precos-mercado",
-      "tambem_em": [
-        "bluestudio.estadao.com.br"
-      ]
-    },
-    {
-      "id": "tarifas_92298",
-      "titulo": "Abrace: proposta aos presidenciáveis busca retirar R$ 109 bilhões em custos na conta de luz",
-      "lead": "Abrace: proposta aos presidenciáveis busca retirar R$ 109 bilhões em custos na conta de luz",
-      "fonte": "acessa.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSUZTb1pJMGlBY3Ria1ZOTTk0OGpyYzFxY0hRcTFESkdDNG1pc2ttTnRsUUhCdE1hU2k0NDhFbDg2di1fVFBoUnlDVDB4RHRFN1VQcFRaMDZLUFQzSFlNb3F6cERfYVFwenY1Y25DVTl6VVByNTNIN2l6RUZWdG9NMkVVandkREFDemVuLURYOF81REEtMU5BMDRmcGljT2huZE5sckNKdWdpUWdSY1NMTWptek1BSWVSdm91YUNFQjNWOV9wS3dRRzJWTVpoUmFSb1M4Z0VidDRSUzI2X1Nv0gHfAUFVX3lxTE9JRlNvWkkwaUFjdGJrVk5NOTQ4anJjMXFjSFFxMURKR0M0bWlza21OdGxRSEJ0TWFTaTQ0OEVsODZ2LV9UUGhSeUNUMHhEdEU3VVBwVFowNktQVDNIWU1vcXpwRF9hUXB6djVjbkNVOXpVUHI1M0g3aXpFRlZ0b00yRVVqd2REQUN6ZW4tRFg4XzVEQS0xTkEwNGZwaWNPaG5kTmxyQ0p1Z2lRZ1JjU0xNam16TUFJZVJ2b3VhQ0VCM1Y5X3BLd1FHMlZNWmhSYVJvUzhnRWJ0NFJTMjZfU28?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-18T08:54:54Z",
-      "dominio": "www.acessa.com",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_67498",
-      "titulo": "CCEE lança campanha para aproximar brasileiros do mercado livre de energia",
-      "lead": "CCEE lança campanha para aproximar brasileiros do mercado livre de energia",
-      "fonte": "Grandes Nomes da Propaganda",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHdpTW43bGptcTIyRU9iZDVEVlpwbTZYRHZ2MC05Qk4yUnctbm9UTmpWLWNLYXU0cVRwTkhzclVINWl1SEo1cG91QUd0dmRQQmZyWWRORERTRGRZeDhaT3psbWhPWGFKYU93MndSU2F2eTVPdUltV0dIRFJsa0E1NjM5b2F3SkcwMS1FOWpkLWRCNTdEdWVZSWFBcC1OM08tbUxSc3ViLW9TN0h0eTZsaEFKcHBIdk9lbEhmcmV3NmcyUlhN?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-17T21:32:09Z",
-      "dominio": "grandesnomesdapropaganda.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

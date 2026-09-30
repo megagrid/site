@@ -1,23 +1,175 @@
 {
-  "updated": "2026-09-30T17:10:26Z",
+  "updated": "2026-09-30T23:07:32Z",
   "total": 60,
   "itens": [
     {
-      "id": "tarifas_28077",
-      "titulo": "Aneel define bandeira verde e retira cobrança extra da conta de luz em seis cidades do AM",
-      "lead": "Aneel define bandeira verde e retira cobrança extra da conta de luz em seis cidades do AM",
-      "fonte": "Portal - Rios de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWZ0UU9ibmd0eVRtNnFER3R2LUNZU3dOS3RTalVoaEZleGxhcURXa0lPbFEzRExkTjBleEFjekM1dDdNVlI0NVVzVUtQZ3hVTHlhdnJVczQtQXl4Zmk5WUltTF9fU0FlTVl6QUVIcjRsbnJoWkdnbGNGTGxDYnpKTmd4cjduRXQxRDlNZ2hBQ2tzM1FNWFZtMnBTWndObnp5OG5vXy1Ba3FHQkFCQkxHUnR6dVRRMEFjWTlTSHpIdDkzUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "id": "politica-energetica_40967",
+      "titulo": "MME prevê leilões de reserva anuais até 2029 e abre espaço para hidrelétricas reversíveis",
+      "lead": "MME prevê leilões de reserva anuais até 2029 e abre espaço para hidrelétricas reversíveis",
+      "fonte": "JOTA Jornalismo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVNQcng2elhmZWxKZjJabGRRNFhMNWYtYVRIdVZOalN6eDNoR3BIcDNyRTk2Yi1iZlBkT1dzcmJqa1REQ2hRZ3Nta0p4Z2oyYlNReTBqdEtsbUk0QTk5TWFFOW1Eekh0Yks3dnFfNGl6S2hDQ0lhdzlvME03enQzWExNbHdXOGRCaUpPY3o1anpNUk5vNTVOSFl6Tlo5WEMzX0c1TjZERHJoQkpWdHAwaFNodTFuNEFKMWo0?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1705747894609-6a7d17a8cfb7?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-09-30T22:06:39Z",
+      "dominio": "www.jota.info",
+      "tema": "hidreletrica-reservatorio"
+    },
+    {
+      "id": "regulacao_73219",
+      "titulo": "ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal",
+      "lead": "ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOckx4LWE3Wl9Dd1lRdFp4TmNNSGdHYVUzeVhxQURvdE9BZE16YTAxc1NFT29tWGZaWjRQSVVCVXdtV2RCTjNUajZGZW1ZT3YzNjJoV2N4cmI1TWJ0UVF0QlZLZlBoQUs0N0gzMDI1QnVKelZHeXNqQy1SQjM4MmFTTEVEX2NKNFpsZURFSFpWbENsTWpWVEFlbzNkVHQxTTcyVzFFdzBiZXdRSXZyb2w0cFlVNWwzUmJkMmZuWG9TUHV3ajIwOUp0WURuLXI5YTF0dGlxMkF1bnd4dG1nMURYLUlzMHFIdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-30T21:47:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_88917",
+      "titulo": "Baterias entram no calendário de leilões de capacidade do Brasil até 2029",
+      "lead": "Baterias entram no calendário de leilões de capacidade do Brasil até 2029",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEJhV1ZaSjdDa1B5Y3d4U1NvUHFxQ0RSTjEzN1Q3ekdubkIycWVxOUNNUGI0TjdHdGJmU1llS2piR1hYc1lDcmFkbTJ5a21DRlJPdjlxUUxHRGxiajQybGs4U3NVU3gzd1VMcXRPdFl0UlVPak1lOXJ0bVNVNEdoZU5YQnBaaVY4Tm94djA3aUpvU21lUlVlQ3R3cHM5d1dPTVEtUENOU1dFTi1ZZElaSTRn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-30T17:31:44Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "tarifas_53399",
+      "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
+      "lead": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
+      "fonte": "Portal Diário do Aço",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNzRWRFgyMFB1X3p1UUUwZVJOcHEwTVBRcVZUa2dxSk9oVXhNT1M4N2N5QlhkMjV4VkRGd1lyeG45emdjNnB5WDlFRTJoN0xqajdnM0Y2cVVGVWNqamk5OF9fMkFPaXRxOXFPVmVMcjluekxTSDlIeVBXa1d2VjlfU19jbHBaeTh1Mnp4SnltLUk1cktmR0Y3dTNqeXZfTTBrU3g1MlNBQWhGZ0ZJNDNiWVcyRXJxREFxak8yUEFLaEpqaVQwcWF6aWdxcHZWTGlmY0wwcmJ4eG5ERElmUU1HVUctSXFKUHhQaDRxU05JZ3dOX05GWjZN?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
       "editoria": "tarifas",
-      "data": "2026-09-29T21:33:04Z",
-      "dominio": "www.riosdenoticias.com.br",
+      "data": "2026-09-30T17:09:00Z",
+      "dominio": "www.diariodoaco.com.br",
       "tambem_em": [
-        "RibeiraoDasNeves.net",
-        "D24AM",
-        "Hojemais.com.br"
+        "Cemig"
       ],
       "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_31863",
+      "titulo": "Outubro começa com bandeira verde e Equatorial Goiás traz dicas para usar energia nos dias quentes",
+      "lead": "Outubro começa com bandeira verde e Equatorial Goiás traz dicas para usar energia nos dias quentes",
+      "fonte": "Tribuna do Planalto",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSnBkX1BoOTUwMGlzUENlNnE1X2h4NFVsZEc2SlYzbmlJMUxSZTJpUmxhNHBLWlFGQzFiTGlLaEhXMVNENlY0NDlzelZxUFdpRjhZeEYxVTR2Nk1rTHVoUHhtTzZ6U2lHeHhaZFNVNmRNUDAwRkg2UlJlT193SHlrWGhiU0ptMXVQT0ViQTdKUXdhRHpqNWtyMDdQbGxXYTlzUEZGd3pUM1BZT0hlN0NMVDMxanVRS0N0NXNiV1Y4ODExNVhnOWVLazZOTGQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-30T17:08:00Z",
+      "dominio": "tribunadoplanalto.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_70861",
+      "titulo": "Mercado livre de energia deixa de ser tendência e vira estratégia para empresas e consumidores",
+      "lead": "Mercado livre de energia deixa de ser tendência e vira estratégia para empresas e consumidores",
+      "fonte": "acontecendoaqui.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDcyOHZnQVVocG9YVUEwdGpmbU9RN0FNSEV3S1pweEVnQm8wMzNUSll2ZmdlTzItalJVRHpZdU16REN1RGt4bWRzdjlwRU1BWVlKdjlFTmp6SmM3OXEtX1hSQ3RVck9UMS05ZXdRMF92bHQ0cnM5Y2RVUXB6czdLX2FIZFNoRWhDandCeEtGV3RQS0VFN3VQVTZhekoySnlYX0phbnY1d2FWZHdyM2ZPQnpBcVBPd3JlRmpuQUZSaXcyeU1sdmJyNTNKRFNNNTk4?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-30T16:35:08Z",
+      "dominio": "acontecendoaqui.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_30374",
+      "titulo": "Outubro terá bandeira verde na conta de energia, sem custo extra",
+      "lead": "Outubro terá bandeira verde na conta de energia, sem custo extra",
+      "fonte": "Portal Na Boca da Noite",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVlN0ajVmRk9YRHFlaGszSTIxMXIzcFhSeWg4UVVZUUEyb2t0dGdwU0VEek4tRHVLTW5zdENIakNva3BHdExqZ3NMMHkyNmxjdmRXNllSZU5aWUZJY3lJUFlSWFFkOEZYV1VNX1dZdEtFbzNETlZYVQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-30T16:09:26Z",
+      "dominio": "nabocadanoite.com.br",
+      "tambem_em": [
+        "transmissaopolitica.com.br",
+        "Ao Vivo de Brasília",
+        "Portal - Rios de Notícias",
+        "querenciaonline.com",
+        "liberdade.com.br"
+      ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_80064",
+      "titulo": "Engie fecha acordo de autoprodução em projeto solar no RN",
+      "lead": "Engie fecha acordo de autoprodução em projeto solar no RN",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXRsU3pVcUFFZEFOeE1UUS1zYlVQaXlnMmtaOFNfRGtwTkdPczdaaVlBMkppbGt3Si1vaUw2UlNtMlVsellaWGt0U2c1anRWYldLam5HWEs5bjR2U1FFSmtUaG55Z1RSMW1UVXNkODdPZGZJRUk3dWNhS3UyTVBpS3diQmZjc0x2X2w2Um5SUHhsZ01FeEEwT1M3V0NFRHFrd3NYRlJSQTlmQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-30T15:11:57Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "tarifas_2061",
+      "titulo": "Bandeira tarifária para outubro é verde: veja o que significa",
+      "lead": "Bandeira tarifária para outubro é verde: veja o que significa",
+      "fonte": "Enel",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmM3Q0FyVVQxd3ZNVXRIWGJpNFc3VTBEVW9qNi1Wb1hJckl4Ujgxa0I0WXRPb3pnMGw1bnI0TUF6UWF0Y181Z01kNUFaYlRscmFENW43ektvb3dsUEJPblhaV014VFljSVZ0TlJVNnJYQzdrYWNreElkNVEzZExuNFpGaHRBZlhEbDVHWFRXQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-30T14:56:08Z",
+      "dominio": "www.enel.com.br",
+      "tambem_em": [
+        "folhape.com.br"
+      ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_86184",
+      "titulo": "Brasil prepara leilão para criar mercado de baterias e evitar desperdício de energia limpa",
+      "lead": "Brasil prepara leilão para criar mercado de baterias e evitar desperdício de energia limpa",
+      "fonte": "bra1.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVFDYm02Vms1ZXJRM2YwMVJjUG5GeWVBUHFOMl9iRnd6NkZNQk5qRTZhdmRaNGRLWEhvQnNRRUhzZWw3aE1ZVEpUQjZFbmhCOVRTTWgzaHg3QUpjeWZFLW83RFdNVWFYYkhRSUs0UVdfWGxHbHByWXRlZHpHVFZYZUVjczNHYkp6TG1fQzVrRGRNVzVfX1VSM3NKNU9vOWRDMkQwcUV5SEZvMjRJMVFaVUsyLWZxUms4OEpuSHFaSFNlT3N2V01wNHJR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-30T14:03:00Z",
+      "dominio": "www.bra1.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_95938",
+      "titulo": "Expansão do mercado livre de energia resulta em margens mais estreitas e maior controle de riscos",
+      "lead": "Expansão do mercado livre de energia resulta em margens mais estreitas e maior controle de riscos",
+      "fonte": "Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYU5rUHZ5WEZMY1pyMVJleTgwcDFXVW9kRVhsT05HQ0hNQWc5TE8xWlJ2X3M5VU85MngzV1JoZkh1ZU9UV3lnRy1Ud21Vang5RGNOUkNOQVoyQ25ONUtkalhxYWNCMVhraEFuYkIzdGxWdm5hZkF3anZOS3dVVGNORzMySXdSS3lMU3lYRHZYSHlDUUZzLXFpQV9ScF9vN2lrRlVlVzZDekRfVUZVckdMX2VQOEQ2eXFNS3BKOXc1dUhUZ0dqT2N2SVdXRkYwOXFSaW9zY25RNUZqc1RnS19vSzg1UnpoM2NtNTZlNUxUWC0tbENQVTV6U1Q5NUZ1SXp3YWI4TTZLc9IBlgJBVV95cUxOcUl0Yy1HU1VfeF9neG1JY2lPT3BEVVpYRVdyYW9OX3Y5bVl4akZGRExhV1FMVHRabGxJWXd4OG0yOXpCMVBNSl9VNl9zU1ZMb1hTLWZwNWlRZHdOaE9tQkdtdzFIdjB5QTJaemlKMVBEV0VOT0FDd2RXMmozRHR4OE9NQnZYM2hzcHlxR2JhZ1Zjcnpwa2RrWFFrX01uY0V3YmlwUHJVLW40X3lId1lhSkctUV8tOXF3MEVFYWhKM3dBZ25abmgtMGNfakp3bmlvbV8xMm5tNnhDRUFndG9XclE1TURrOS1CQTR3R24xU0lGUVM5T1NSMjJEY2x1LXBGRzRiX2V5NGdEZG5SbXM0RFhpc0Y3dw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-09-30T09:00:00Z",
+      "dominio": "valor.globo.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_90037",
+      "titulo": "Cigarro paga menos imposto do que bateria para energia limpa no Brasil",
+      "lead": "Cigarro paga menos imposto do que bateria para energia limpa no Brasil",
+      "fonte": "primeira página sc",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmJFbU5KWTBaTHFIMFhDQlB4cjhVNDRmbXBhVXFVdVB1OFFqLVlxaXd3SnlMVEpjakk1alhaSVZDd1Y1SXljRTdlN1BnanZTSDBlMXZPZjRDd3RET3RPUF9TcDA5Q2QzT3lha0RFajZDYTdCOF9sdlJDRjFGUnAxQ0xJcF9MdkRveXdMSHB3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-30T04:36:05Z",
+      "dominio": "www.primeirapaginasc.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_10920",
+      "titulo": "MME fixa calendário estimado de leilões de energia para 2027 a 2029",
+      "lead": "MME fixa calendário estimado de leilões de energia para 2027 a 2029",
+      "fonte": "atlaspublico.com.br",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlctUXlaemRQNFdRUWpKc0JfbEs0aUNER3ZobmNmWkoxc0gxdGswNm5ZX09yWEwyMUVGQVB6ejR0eXhma3hibmxGN3hESEtmYlV2djh1Q0tqMHp6WDBBaVlQQkt4RWxTMDBXWHpCdU13MkRSMTFGTHpBbXRQTEMxVFhQZFhTdUM4ZXVQU2t4VVRzYXdkSThJeUhKZjJOcUU?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-09-30T01:33:00Z",
+      "dominio": "atlaspublico.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_71006",
@@ -25,7 +177,7 @@
       "lead": "ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWGlMTk44VEs0MXpPbXB3YkdUNGpkYzJIbmx6eDJ1SXFGYUd6b0hyYUVlT2ZIWnYxZElzc1MxVFcwNG1Qc3NTOUxKWFIxZEhBOWUtVy03aVd3Vk9RbU1pcnJWZlhrQlZVdjgwVk9RQ2pmOUozWmlmazFGZjEtbG5sWEt4ckFyWkNYX3NodjFMYWRoZVRqRFhicWNHMmtSdGZOcG5RbThjdXNDTGVpX21JNGN2MldpUmxhUWNTQVlDRGhSemZqZGp3SHBQV1A1T0xrMVZuUWRwYVJ3N2ZyR0RxWThQdENxQVVBcExkZ1hfRTNlVlBXUGpWbzQxUUhyZ0ZWd0Fxa1VVdnpvaVdlU1RGRWhjb1poaGEx?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-29T21:06:16Z",
       "dominio": "www.gov.br",
@@ -37,7 +189,7 @@
       "lead": "Smart Fit adota estratégia para migração ao mercado livre",
       "fonte": "CanalEnergia",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVMxMHo3SjRIajFidDQzQWFrNDB3NklydW9NclpSUVB1WWNLTldycEpVVTlvYlh6ZXhwdzFfRWhzSlJXS1pGd21QTExMbjBvZ2oydmtmeWp6a1dCZWtCN1I1UWxRNHNDUUU0eEdrNnJGejg0M2lRMDdYb0wxODdBNGdjZzBhRUUxLTJJMkhnTWFURkwta1ZjU05QRUJvRGJYUmsxOC1XcjVFbWpaZzFtNXFNdUUyS0h2VnlVbW9xeTI1MnpQc0Z1NXpaNA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-29T20:30:00Z",
       "dominio": "www.canalenergia.com.br",
@@ -62,22 +214,25 @@
       "lead": "Eleições 2026: ANEEL determina planos especiais de atendimento para garantir energia durante o período gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYW40YnQtNlRRa0dOUVJoWmRFbzc4WnQyRGpNTVg2elVqSGhDX1loZXZQNmVwSU45eGZIMXp4eGlHOXIwTUtvS0ZTdjZ1Y0RsNXRoY2RmbEhtMGdnRktRVWJ3Vk9kRU1VYUw2VUVJV3NpQWJ2bUQwSGNCMVhaVTN5eFJXcTFaX2pEWndNUWprZ0wtVWtwQ2lkeEwzZElJTmpzeFpyYlA5dUNoMWJ0VXN5U3k4bl9xZVFhS0RlQkJMcFZwS2ZJdmZnekN3cDc1REYzUV9iaEdCLWZ0Nl9BNXd2eHFjQnh1NDFLZS1udmFyMWcwX3VWRUgwNFQ0RFhZZmwySmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-09-29T18:41:04Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_45331",
+      "id": "mercado-livre_55024",
       "titulo": "CCEE amplia módulo digital para processos de Monitoramento Intensivo",
       "lead": "CCEE amplia módulo digital para processos de Monitoramento Intensivo",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWY2bDM0cC0tWEdaSDdsUmZNUl9SVTNTOENrRVlqZEJrSTJRTV9rNjl3Xzk3dU8ta3RPWnZuZ21qRlFBbE96LVdubWlodlR6ajNTUXRZNzdsc3FUcTVnWmZyM2E2alpVc2YyRmZoR2tmUzlIU1c3MGNmaTNubjFTZUxaWmV5RnYxYjFXVDhOMEwxcmdUR2dPYW5mZDlQU1M5RW1zQ0JRZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEotQ2FtZXRwLURrWDdhVUlWZEZyQ25uZzA3TXJuOVUtRkl2WUF4N0RJeW9kZmQyaTYtdjRtZzRXYnlyQnd2a3NzbEZ5X2RhREdwMmFOSURQSGNOZ0NkRUNVYVNnNF9tcUF5VzlRbW1DNW5INi1GZTlNWlowOW5wVENNTm1fWXdoOG9PbjdKdV9jVTZ3algtMzJ3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-09-29T17:01:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -118,18 +273,6 @@
       "data": "2026-09-29T14:32:21Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_96987",
-      "titulo": "Conta de luz terá bandeira verde em outubro e encerra ciclo de cobranças extras",
-      "lead": "Conta de luz terá bandeira verde em outubro e encerra ciclo de cobranças extras",
-      "fonte": "querenciaonline.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQak9DQUJ1eS12dFFZTE1QeF9JRzRzYlFITnNFT24wYXBwUkE5a05TaktUc1NhOTRIWFdjU2RMUVhVdzZ6NUZoRUtRLUoyRzJQOGZUSlRINVRXNjZsakpROFVxZHYzbmY3ZWx0dVlXc0c4RjFFVy1PQlNONmFqcWQtekwxX3l3aEJEN0tRQjdJUC1Rem8zdnMxLWdjbVZsSUY2aHlnUEJnb2lLTDlYZ190cUhDVWc3T3lTbk1FbFBR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-29T13:54:54Z",
-      "dominio": "querenciaonline.com",
-      "tema": "consumidor-residencial"
     },
     {
       "id": "tarifas_67318",
@@ -180,18 +323,6 @@
       "tema": "baterias-armazenamento"
     },
     {
-      "id": "tarifas_27027",
-      "titulo": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro",
-      "lead": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro",
-      "fonte": "folhape.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1UzNE1aVGwxRGFEY3EzY3E3ZGhLZkpaX2YtOVJIV0szYW1sZ2VNSTh3ZnZ0Y3BsdmVBOG5FU2trS3BCU0FYWTF1UC1BXzhPUjlUakhLaU5kX0hhUnNlY0hqVlNENnNOdk94OXR5REM4LWRKa0EyZDVwZ0k4SFNvSm5kOS1tQTZDeldXaFZ3dnY4Wnltc2FmRXZXcHpxWm5WN2N2SnY4d09QV3NnYUZTQjM2b1nSAbgBQVVfeXFMTzROSEFBQ1R0QmdmOEpabXhqR0UxaHFvaUdTV25fSnJXSGVFVFBDclluNXdKc1F2RGdvbGdKN1VrSEo1QXp2T041LXpWeWUxNGhZVlhkQUZLcHhNRmhKZEpEZ0g3Q1A2M3JfbTJmSkIwS082Z2hlQlQ4M1kybE9nWDBJaXdCU3Q3aXkxcC1FR0hLczhkeFZrR0ZIUkpTaWg2b2dpeEV3M0NpNGNzdUdnT1dyT2ZOVnlFWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-29T10:55:00Z",
-      "dominio": "www.folhape.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
       "id": "mercado-livre_72452",
       "titulo": "Escolha do fornecedor e contrato entram no radar da gestão de riscos no mercado livre de energia",
       "lead": "Escolha do fornecedor e contrato entram no radar da gestão de riscos no mercado livre de energia",
@@ -202,37 +333,6 @@
       "data": "2026-09-29T10:04:36Z",
       "dominio": "www.alemdaenergia.engie.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_28061",
-      "titulo": "Outubro terá bandeira verde e conta de energia fica sem cobrança adicional",
-      "lead": "Outubro terá bandeira verde e conta de energia fica sem cobrança adicional",
-      "fonte": "liberdade.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZmbVdXS0c0NDFEVVlhZWp5ekxBbDRieFJmdFFaSERfQ195MFNpTjZEaW5UMkpmdnk4SG9GVlFTWnVxOHF6QmlUbndiN1o0dnlhcG8xT0psVVlSU0FRTXJQcmpLQ19pR2cwSFFJY0VIYzE4V0ptMkdOM2pDaG1hNjgtNlZtNHVORk9BMTZEdTB1Y01Ca0ZCV0FmQ1dERG94V1E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-28T21:21:00Z",
-      "dominio": "liberdade.com.br",
-      "tambem_em": [
-        "Diário do Rio Doce",
-        "Jornal Extra Alagoas",
-        "WebTerra",
-        "Goiás365",
-        "98FM Curitiba"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "tarifas_61636",
-      "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
-      "lead": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
-      "fonte": "Cemig",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeTFWUXFuTXlYemZkdy1hRXhaTl9EMXh6VE43d1h1NXR0dkZheDBWVEJYeUxqREVsUFhvTThmYy16d3c1UjdqSmZVZkNXamF3eUxzWFc0bXhiNjFqLWVwQnJEZ2lVV05QZ2VweVE0bUdaMmtHenBOVzBqTm1mTTYwOGJPXzI1YmpzdmpJczdzZjZGcmNTeGQ2OGFoZDhQYV9qQWhELVBMQllaLVVNSWswb09HTkk1WWtiY3BneEtPZS1UQzJSRkZONWdZSDM1eW5sS0lNWFd1dkdVUVRrZDFaTzJxOGZKYVJHTC0wTTRJeUZlZWJzbDkzRU9RT0RVcjdMTUE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-28T20:46:00Z",
-      "dominio": "www.cemig.com.br",
-      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_56762",
@@ -366,6 +466,7 @@
       "dominio": "canalsolar.com.br",
       "tambem_em": [
         "Agência Brasil",
+        "Jornal da Paraíba",
         "G1"
       ],
       "tema": "consumidor-residencial"
@@ -654,111 +755,6 @@
       "data": "2026-09-22T18:17:47Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_97439",
-      "titulo": "Primeiro leilão de baterias atrai mais de 6 mil projetos",
-      "lead": "Primeiro leilão de baterias atrai mais de 6 mil projetos",
-      "fonte": "Brasil 247",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGdrYUlZRFg5b3hiQi1ibzJSQm0zUmk5X1pZVG4zV09Za2ZPeGVQZ00zOFpLVUNqenY3SF9rN1Z1MHpUYzhPdDhkZ0hhQXZBVGJ2b0tEbjZNLVBRaklUcV9OcDlHQ0lpQXRfWFRGeU1kWjA3M2hXcVNmWkNVVWhUb3FfejVzZkR4bjNoMGo3NmhxcFk5dkgw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-22T17:50:00Z",
-      "dominio": "www.brasil247.com",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_17441",
-      "titulo": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi",
-      "lead": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHN0cC14Zk9uSHVUeFpNT05NYWtGdnhpcXlTbGh5bDhQZ01aMl9VSlJNanp6VkhkX0FyWWx4RC0wVlk5XzllX0tZcW94cjY3aGl6SmtrWEpZTTIwQ1ltQWFUWHA3b19pb3VMR1RNbGM1aFpFNVA2SWJvMDkwNXlrNDdmdGtQbGtMTWZwNEZFY0QwTEx2cTUxWUhNaE5UMnpNcFFmcGNjNjkyWFhvRGRtaFBfRE1EaFlLUEVnVlA0dER5QQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389807183-f0fbe962761a?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-22T15:56:54Z",
-      "dominio": "eixos.com.br",
-      "tambem_em": [
-        "Folha PE"
-      ],
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_12321",
-      "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
-      "lead": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYzNEcDdBNUFQWlROaERoNy05SFFXYWpQWXc4NkVfODhaT3RhOHk0YW1QWktxNXJoc19wUGk4WGh1ZkpDRmdiYXdIckladjhTSG9KM3Z1X3FHNDFNWWlrd3BvbXkzQm1SN1VEZTBuQVFzZVNObkQ3MEhRZmRjUWN6eklqQ3ZyRGN3VTc5N3JoV21EdGM0UUh6dUF0Mk16WmEteUJrenpRMkNTR24xRl9jVlFkSjBLbnJnaTNmT1paOUVVM3V5cExOZHJldTM4UXpkN0NjZkYtd25Ea2tjYjBPZHlKcThab2o4cFR2OVNkaUdxb2lVeU5FZ1c5SzZlSURV?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-22T15:30:41Z",
-      "dominio": "www.gov.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "transicao_14078",
-      "titulo": "Leilão de baterias: agentes divergem sobre rateio de custos e colocalização e alertam para conteúdo local | eixos",
-      "lead": "Leilão de baterias: agentes divergem sobre rateio de custos e colocalização e alertam para conteúdo local | eixos",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGVfZTJrSkRCaHl2SkNUbzR5Y3pfZTdDbW9vNFVMVG9qV2FtVWMzaXNYUWtZVm9iMzJWNHdud0RiSE5Ga2o3WkdTMjYwN0hXdXhlczVWdGhMRHlrcjRNTWlKbF9ybXFRQzgxRVFWbFhpZ29uaFdxaXdSZlh1RTJ0SWF6Ym5mMnZTVHN5UmFBU3NJc0xCMUFld3VxdWtZbnZ6MGJLQ2pscWpCWDNiU1VxRkNibklRMmhwX3cxTERRSU9sck01SXlWbVFjOV9TNktU?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-21T21:18:34Z",
-      "dominio": "eixos.com.br",
-      "tambem_em": [
-        "Agência eixos"
-      ],
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_60645",
-      "titulo": "Apine apresenta prioridades para o setor elétrico a presidenciáveis",
-      "lead": "Apine apresenta prioridades para o setor elétrico a presidenciáveis",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGwwaUlZT2gzc2hGWVNJWktidTBXNTZiTTY2bWdBM19lNk1mQ2pnREhNSjRQdmVZdUZKTFMyeG5DZ01wZHRyV1Y5dktrX21LRkNiU2FaOXFZNUNhbGZadlpmRlRpcXR0V2RLX1M3dEg0T3lmUENZa0trLXAzV3gydWZ3VFE5TXhNMU9CSUlXSm5HQXJQQmt2eHB3cl9IMDA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-21T20:34:22Z",
-      "dominio": "agenciainfra.com",
-      "tema": "solar"
-    },
-    {
-      "id": "politica-energetica_96711",
-      "titulo": "Apres 2ª RE CNPE 30.07.pdf",
-      "lead": "Apres 2ª RE CNPE 30.07.pdf",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOanFod2tsbTl1NXhla0JLRXAyN2dvdmdPbFpUN1Y2UmxJdEVvRTRsTjl0LS1tMUZsN0dCaUNmMDlXN3o5UzktSjBmM2lraHlnSTV2dmF2dm9zS05DRUQ5c3QwM3g0c2Q5ME1Jck1XN1JqdTUzaVFmUEpZX0RsRERacVYtM2x4NWFaTW5leGdzVjFxUVpRRjFYWWY4ZmdZWlR5R0x4TVdOU09WMTJFNHFfZTBYRzBWLXQ0TUE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-09-21T19:50:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_94675",
-      "titulo": "Europa acelera uso de baterias e prevê 57 GWh instalados em 2026",
-      "lead": "Europa acelera uso de baterias e prevê 57 GWh instalados em 2026",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kWnhTQVAwVkY3MjQ2RTc1TTE4TG8xbG1ZVFJoT0FIVVctUmdjbUo0dHFvNXdPUDQxTWhiOVFGLVlBWG9QOFNuOHlGTEp1SkdEX0xyckRRWjN1aFVZSE1xQjQtdzVFZDlwRk5Cbld6OFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-21T18:03:18Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_37998",
-      "titulo": "CCEE disponibiliza nova ferramenta para consulta de dados de medição mais ágil",
-      "lead": "CCEE disponibiliza nova ferramenta para consulta de dados de medição mais ágil ccee.org.br",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGhQNHhTR3lkWEtTYl9ibzFHRVBJcm1la2FSN2p6TFZ3Ni1BOU1KeWFWVUxoX0JRdW1uNWFqNTZPV1dpMkNidVRKdFltSVo5eF9xdnFTWWVPVnZxd2lTVEE2dmZKa1MtNXlwOWhvR3NFYWFIZFVFY1ZJaEYwRE9DZ0pxaHAtMHJtMEdGZUN3LVd5RHdiazQ0QmJneTV2bkJMdHFfOUpHMA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-21T17:29:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
     }
   ]
 }

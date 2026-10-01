@@ -1,33 +1,77 @@
 {
-  "updated": "2026-10-01T17:38:42Z",
+  "updated": "2026-10-01T23:18:10Z",
   "total": 60,
   "itens": [
     {
-      "id": "tarifas_72665",
-      "titulo": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde",
-      "lead": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde",
-      "fonte": "Diário da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE5BSzBQUUh0TUl4eGZYcV9ZaXVPUmlJUm9hdzB6VFh6ektmYWVnUjZhWFpqMTgyRDAtUS04VURZN2VmWG80SlNCYWlDSmVJd0hpNHdnQ3RrakY3V25mVU1jaWUyLU5JZzFGODRqN21vOVF5WVh4ckZicDYyQkpzQ1BRNlpvbW1wdy1iRnI4Z1pGXzJuWVEwLXBSdkZOZVhTcnB0YmthMXJhd00?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-01T15:44:00Z",
-      "dominio": "www.dm.com.br",
+      "id": "regulacao_14372",
+      "titulo": "Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD",
+      "lead": "Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONDJRb0VBVGRoMXg0LTJydENObExuQ3BwdzVhZ2lVVTE1MkJVWTNIT2ZOcmNWZDY3NmwyYXhuUDMya2NPeU1HOE1yVHFRY2thTTdWMkxJaVpZOVZoa3FKR05GOWFLZDlMMGRBYnZ6SDFIVzFvM3BtSW80eTh1RGpVQmhnYVc3WW5hbDNDOU1yc2YxZXhER3ViM3VXNzVKUTk1R2FqeC1Rd0NNTFRyaFJkOG5fZWpIcnZiOUVDRS1WTEp1RnVMV2l5WFdYd24wZUNLOThRLW10cDFRUFZDQ0pn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-01T20:54:22Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_77217",
+      "titulo": "ONS identifica 380 pontos para conexão de baterias e aponta capacidade disponível em 85% da rede",
+      "lead": "ONS identifica 380 pontos para conexão de baterias e aponta capacidade disponível em 85% da rede",
+      "fonte": "Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTDZ0aEhuLXB4V2d4Wnp3ZThnbkszS0IyTGJTWWlNcm94dkJBWklkUkxvd0VFZXpZclBZZG9zLUhjNkNGVTZRbEV4S2RWdm1PVFdLSEFMdUdqLUw2T2w2TzV2ZDRFZERiSVdQNURVRU1jZVctMWVMZW9nUEFhb3pZZHNZNXYzbk9JeFZHM09nMHJRSUNLWTVrd25mT2lyWGFtdVVabWJRM0RLdTZldjNZNHl1MUFLaUp0REtKSjgybWpuMF8zN0MxdTd3Tk5IVjhVMUkyVTUzZ2dSZ2FDZTdxc2F0U0Rsdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-01T19:56:00Z",
+      "dominio": "timesbrasil.com.br",
       "tambem_em": [
-        "Portal Na Boca da Noite",
+        "Tribuna do Sertão"
+      ],
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_92370",
+      "titulo": "PLD acima de R$ 1.000 acende alerta na CCEE, segundo Anace",
+      "lead": "PLD acima de R$ 1.000 acende alerta na CCEE, segundo Anace",
+      "fonte": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZTBUQW9HcElBa3Y3ek5NbzBlOGphU1NTZzJRZ0pITHh0MFFFdDdtM3V1aFFkel9BWGhiZjdhQTgydjk0bk1XbEluY24zM0hwNXFQdkdYdXBLeDVzT0c1TVBFNllKbnk3VThVRE1MeHpTY3hiWTA5RldsU0pwWXRiMElOZEExZ1h4bWJzZXFQLWQzVnhqNWdWUHY4UEExd2FlZnphampnN1ZwY21yVG50S1c2VUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-01T19:02:43Z",
+      "dominio": "www.canalenergia.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "tarifas_62627",
+      "titulo": "Conta de energia terá bandeira verde em outubro após cinco meses de cobrança adicional",
+      "lead": "Conta de energia terá bandeira verde em outubro após cinco meses de cobrança adicional",
+      "fonte": "Jornal Opção | Tocantins",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2RNSHBZeG1rRTBSNVlVNEF1Y1JXNERyN1dEakowcF84M0FmdTB1Wmk3ZGVCRTdzOXNqb1BDa1ZtN1NiOExJdlAtQ2F4QmFZWjNBSjloUnJVUDhkblVSMjBKa0RDczRmX0RXZzktQjRtM21XOVBzNjNnOXBqeEl3aHBZbTFEcjhjVFVtUWFGNTgxZTc5SDJWSXBkUXlpTlJQUnBsYkdOTXpXWFNWTHNyNnllbEZqdHlFZnVSaVljYmJ4U2F0eGR4SG9XdXhJWkVLUENqY09nTQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-01T18:42:00Z",
+      "dominio": "tocantins.jornalopcao.com.br",
+      "tambem_em": [
+        "HoraMS",
+        "Diário da Manhã",
+        "agorarn.com.br",
         "Taboão em foco"
       ],
       "tema": "consumidor-residencial"
     },
     {
-      "id": "mercado-livre_85116",
+      "id": "mercado-livre_66382",
       "titulo": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
       "lead": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTm1aSU9TZmRWeHVZaExBaVA5TWw4QWQxbHBueFVIOGduQzY3WTBmMTJDOHpTUWRFazQ5Yl9RaHhTRy1lMkVCSHlyVkZ3UkFOSzhpT3hYUmxZZGZXOWNHdTVpaWxhSXVMRXhIQnc0RVh5ZnlJSGhwcnhENWZ5ZDBUNDQxZmt4VHh4NmlBV1h4QXJuLUZpaWVoTW5SLUplLWR4LWtKVF9udjM3Z2diS29aTkJ3ekJZamhiZlRKdl9GemRnTENONlNjYnV0WFJlSHpmZ00tTGR3SGZuVUhI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUDI2QlhQdDVTZmtSY0l6RlE4bHJ5aEhoZzFvNUpaeXFDV0gtTnNWU2VBb2RrdXJUTThXSzlsZmR1aWNVa0N3TV9WZ3ExS2JwRHkxNDlVNldfZ3RqY3JuczhBbjFTS01iVXhaZzhMbF9RY3puZnl1YjNjX0VseEc1eGM3b3B2eGVXc1p2NlhNemFqOUFWeTJQVm4zNTZQYnRsTjRyaC00bDNDeTRKaGowTzlwM1ViUHVEX1hsVzdVMkEzeWV6a2RzQjFXbkJLNHM?oc=5",
       "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-01T14:03:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -65,18 +109,6 @@
       "data": "2026-10-01T01:59:55Z",
       "dominio": "www.gov.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "tarifas_63123",
-      "titulo": "Bandeira verde tira o adicional da conta de energia em outubro, e a Cosern lista o que mais pesa na fatura",
-      "lead": "Bandeira verde tira o adicional da conta de energia em outubro, e a Cosern lista o que mais pesa na fatura",
-      "fonte": "agorarn.com.br",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ycnc5N1hOMEhyYlBSYXc2R0I5cVl0ZXhRSlRINW1vamhRNG9sbGFrYlphZFFJSk0yM0ctZm1CVW96RVhPVEpqa3ZTcnJvT0JEN19wVlFZLTlockFkd1hSU0JsWUtpcmJabUVJUG9NX2ZwVUFfYnhNUg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-01T01:25:40Z",
-      "dominio": "agorarn.com.br",
-      "tema": "consumidor-residencial"
     },
     {
       "id": "transicao_16051",
@@ -224,7 +256,7 @@
       "data": "2026-09-30T14:56:08Z",
       "dominio": "www.enel.com.br",
       "tambem_em": [
-        "Folha PE"
+        "folhape.com.br"
       ],
       "tema": "consumidor-residencial"
     },
@@ -572,7 +604,6 @@
       "tambem_em": [
         "Agência Brasil",
         "Jornal da Paraíba",
-        "- Bahia Economica",
         "G1"
       ],
       "tema": "consumidor-residencial"
@@ -726,30 +757,6 @@
       "data": "2026-09-24T12:32:25Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_5117",
-      "titulo": "Aneel avança em regra para UHEs sob desafio de valorar potência e flexibilidade",
-      "lead": "Aneel avança em regra para UHEs sob desafio de valorar potência e flexibilidade",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzZubnd0ODZyZHF4eFJiLWRHeHUyVXRuUG1XY2NmLTV3MFhEUnFuRnJUdGh2eGNMaGgxN1hHTElQcmVpMlluTGhjTFUwcGdJQnRVOFgyQkFQNkpJLU0waDg4QVRKMC1WTFdfQkdNV0xKOXg5MzVvMmJwQlFVQzVkdE03ekJRYkxaTnUyWDNVdzJFNmIwTXNuYVhnUHFwdlhZRDVHcVFVYzlaT3lLWXJqYTVXakxyV1BWLWNvS3JVeEN1Zw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1772411650728-7c0ec207afb2?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-23T18:46:39Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "hidreletrica-reservatorio"
-    },
-    {
-      "id": "mercado-livre_312",
-      "titulo": "Confira as últimas notícias do Paraná: leilão de energia, ranking de eficiência e patrimônio mundial",
-      "lead": "Confira as últimas notícias do Paraná: leilão de energia, ranking de eficiência e patrimônio mundial",
-      "fonte": "oparana.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DTFZMczdmWV9fUXpRbnZ0RDUxYXB0U1hrTjhZNlVHRHdzNEppdjJzeXlaVkNXZTBuR2ItWEY1UXREUlZET2MtTEdCZVlfZ3pSdC1PXzhTb00yclBnbXBmaw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-23T14:30:00Z",
-      "dominio": "oparana.com.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

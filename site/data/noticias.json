@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-01T23:18:10Z",
+  "updated": "2026-10-02T16:58:00Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_91282",
+      "titulo": "CCEE consolida avanço da abertura do mercado livre de energia com 811 novas adesões em agosto",
+      "lead": "CCEE consolida avanço da abertura do mercado livre de energia com 811 novas adesões em agosto",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWFGZzhFb1RKYUNLZUF0WTdpdGI3emVSdWxZTGRjNURNcDYwWmRIeUpyT1VxcWJTMm0weWlBZ3djbnNCSVBXOC1OcmRyU010cTg3dHhJNU5oSFVlVDJCQW1pMEg4UDh6RWRGaHRrcmhHTmNEQkxZZm40cFZGNjl5SXhGTXBvV0F6U0tBM2NpTGdqYWlDY2hFVGwxNHkyUkJtZ0JUb1MtTU05TGRBUnMtd3JNUVVYeEhyS0dz?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-02T12:16:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "regulacao_14372",
       "titulo": "Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD",
@@ -25,8 +37,20 @@
       "data": "2026-10-01T19:56:00Z",
       "dominio": "timesbrasil.com.br",
       "tambem_em": [
-        "Tribuna do Sertão"
+        "tribunadosertao.com.br"
       ],
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_60552",
+      "titulo": "Baterias podem gerar até R$ 6 bilhões por ano em benefícios ao sistema elétrico, aponta ABSAE",
+      "lead": "Baterias podem gerar até R$ 6 bilhões por ano em benefícios ao sistema elétrico, aponta ABSAE",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RWWtsdEFQbzg3aDlYaDd6cWkwUm90MThDU3BVUFh2dThfYzlJcVI2aDZFVWlYRUFuUWx5Q3F2cHlLLW05TVg3WkMzVW9WLW53dXN1ekEwWVhyVFFXZ0NFQXdPbk01RXhmZ1E2blEzX1RKdG8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-01T19:19:34Z",
+      "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
     },
     {
@@ -54,8 +78,11 @@
       "tambem_em": [
         "HoraMS",
         "Diário da Manhã",
-        "agorarn.com.br",
-        "Taboão em foco"
+        "nabocadanoite.com.br",
+        "Enel",
+        "Taboão em foco",
+        "RibeiraoDasNeves.net",
+        "Folha PE"
       ],
       "tema": "consumidor-residencial"
     },
@@ -246,21 +273,6 @@
       "tema": "solar"
     },
     {
-      "id": "tarifas_2061",
-      "titulo": "Bandeira tarifária para outubro é verde: veja o que significa",
-      "lead": "Bandeira tarifária para outubro é verde: veja o que significa",
-      "fonte": "Enel",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmM3Q0FyVVQxd3ZNVXRIWGJpNFc3VTBEVW9qNi1Wb1hJckl4Ujgxa0I0WXRPb3pnMGw1bnI0TUF6UWF0Y181Z01kNUFaYlRscmFENW43ektvb3dsUEJPblhaV014VFljSVZ0TlJVNnJYQzdrYWNreElkNVEzZExuNFpGaHRBZlhEbDVHWFRXQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-30T14:56:08Z",
-      "dominio": "www.enel.com.br",
-      "tambem_em": [
-        "folhape.com.br"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
       "id": "transicao_86184",
       "titulo": "Brasil prepara leilão para criar mercado de baterias e evitar desperdício de energia limpa",
       "lead": "Brasil prepara leilão para criar mercado de baterias e evitar desperdício de energia limpa",
@@ -270,6 +282,18 @@
       "editoria": "transicao",
       "data": "2026-09-30T14:03:00Z",
       "dominio": "www.bra1.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_63190",
+      "titulo": "Governo fará 3 leilões incluindo baterias de 2027 a 2029",
+      "lead": "Governo fará 3 leilões incluindo baterias de 2027 a 2029",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSE1YU2p5ZXdoQnh3WjFQanB2T2M5d0o1OUJoOEExc3I4bDhFYmtQMXBTZWF2b0FhcG5tVzhBNzJPOXhoT1hCb1BTMXV1QUl4aElvLVhEaVpPUDl6WW9HNnYzYmhWUUM1ajhRMkFHTHF1WGVxbUNKNHFaSmVmcHp6X2xhV2JIT2lrbmVqVjZiNFExY1EtX3FJZkpRQ1VrWjlU?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-09-30T13:06:20Z",
+      "dominio": "www.poder360.com.br",
       "tema": "baterias-armazenamento"
     },
     {
@@ -290,7 +314,7 @@
       "lead": "Cigarro paga menos imposto do que bateria para energia limpa no Brasil",
       "fonte": "primeira página sc",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmJFbU5KWTBaTHFIMFhDQlB4cjhVNDRmbXBhVXFVdVB1OFFqLVlxaXd3SnlMVEpjakk1alhaSVZDd1Y1SXljRTdlN1BnanZTSDBlMXZPZjRDd3RET3RPUF9TcDA5Q2QzT3lha0RFajZDYTdCOF9sdlJDRjFGUnAxQ0xJcF9MdkRveXdMSHB3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-30T04:36:05Z",
       "dominio": "www.primeirapaginasc.com",
@@ -395,7 +419,7 @@
       "data": "2026-09-29T15:59:00Z",
       "dominio": "www.bra1.com.br",
       "tambem_em": [
-        "BNamericas"
+        "bnamericas.com"
       ],
       "tema": "baterias-armazenamento"
     },
@@ -602,8 +626,7 @@
       "data": "2026-09-25T20:51:00Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "Agência Brasil",
-        "Jornal da Paraíba",
+        "agenciabrasil.ebc.com.br",
         "G1"
       ],
       "tema": "consumidor-residencial"
@@ -733,30 +756,6 @@
       "data": "2026-09-24T21:24:33Z",
       "dominio": "www.canalenergia.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_43198",
-      "titulo": "CCEE apoia EVEX Lisboa e Missão EVEx 2026",
-      "lead": "CCEE apoia EVEX Lisboa e Missão EVEx 2026",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWduWjQyRWczM0xPck96OWdILXBTR0I4TUdMMjBRZ01jTjhCX3I2Mk1aVHFSRDBQLWp2cFFDdE50bzk2WGtOUzhGMWdfOGEweFZlNWRhTTRWeG5VUGJpM21VenhDZ2pWWVI2anJtZDBQUDhMMTdYWnlETjVuSVdhcGNNYw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-24T17:39:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_85660",
-      "titulo": "Procuradoria considera legal diferenciar encargo de baterias entre geradores",
-      "lead": "Procuradoria considera legal diferenciar encargo de baterias entre geradores",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0U5cXFjX0FnM0dOeHlBTllFbHBHb21MaExRQ1liREppU1NZdndXWUVvMm10QmctS19HOEtqRXpLUXM4Wl9aR2ZjRUFIel9rV0ZreDMxeXEzdDFiSWdSX1B2TExDeGlfb1hCbnFfY085eUVLTTA0b0RGNUc5TVVRVkJBejljNWJNOTFaXzY4ODFTdWlzdE83eTFHMXFaWk5XWGZpa1l6YlVvQ0tTNEtpRXJuNVNLTHBxWVVv?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-24T12:32:25Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

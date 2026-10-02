@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-02T16:58:00Z",
+  "updated": "2026-10-02T23:07:10Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_5758",
+      "titulo": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras",
+      "lead": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeU5RS3dPbHBmVDJMeDZZVmN3OWZpNE5GcmtNdy1MYVZIX1hQY0JjWDZZNFZnNzNoWEpTNU1ZakdzR2tWRTFhY01HWmNEMEpEaHJ2Y1BiUzE1ZXJEU2JtcDdvd1ZlR3ZTSUV0MVFOTGxqcWtodWJETTZRZXJORzhtVGhGZVQ3WVA5WVJOb25KMUFiMmVuWjZXNzhHbWJ5YkF6UmM4WUlkLW0tMUhoSkVreVpIdG1qUG8xS2hOSlhUWHE5Umo3d2xndU5UT3dmZlZxaFFGWk9iTFRGcmZHTVZndzgydE8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-02T18:00:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_91282",
       "titulo": "CCEE consolida avanço da abertura do mercado livre de energia com 811 novas adesões em agosto",
@@ -20,7 +32,7 @@
       "lead": "Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONDJRb0VBVGRoMXg0LTJydENObExuQ3BwdzVhZ2lVVTE1MkJVWTNIT2ZOcmNWZDY3NmwyYXhuUDMya2NPeU1HOE1yVHFRY2thTTdWMkxJaVpZOVZoa3FKR05GOWFLZDlMMGRBYnZ6SDFIVzFvM3BtSW80eTh1RGpVQmhnYVc3WW5hbDNDOU1yc2YxZXhER3ViM3VXNzVKUTk1R2FqeC1Rd0NNTFRyaFJkOG5fZWpIcnZiOUVDRS1WTEp1RnVMV2l5WFdYd24wZUNLOThRLW10cDFRUFZDQ0pn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-01T20:54:22Z",
       "dominio": "www.gov.br",
@@ -37,7 +49,7 @@
       "data": "2026-10-01T19:56:00Z",
       "dominio": "timesbrasil.com.br",
       "tambem_em": [
-        "tribunadosertao.com.br"
+        "Tribuna do Sertão"
       ],
       "tema": "baterias-armazenamento"
     },
@@ -76,13 +88,10 @@
       "data": "2026-10-01T18:42:00Z",
       "dominio": "tocantins.jornalopcao.com.br",
       "tambem_em": [
-        "HoraMS",
-        "Diário da Manhã",
-        "nabocadanoite.com.br",
-        "Enel",
+        "dm.com.br",
+        "Portal Na Boca da Noite",
         "Taboão em foco",
-        "RibeiraoDasNeves.net",
-        "Folha PE"
+        "ribeiraodasneves.net"
       ],
       "tema": "consumidor-residencial"
     },
@@ -92,7 +101,7 @@
       "lead": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUDI2QlhQdDVTZmtSY0l6RlE4bHJ5aEhoZzFvNUpaeXFDV0gtTnNWU2VBb2RrdXJUTThXSzlsZmR1aWNVa0N3TV9WZ3ExS2JwRHkxNDlVNldfZ3RqY3JuczhBbjFTS01iVXhaZzhMbF9RY3puZnl1YjNjX0VseEc1eGM3b3B2eGVXc1p2NlhNemFqOUFWeTJQVm4zNTZQYnRsTjRyaC00bDNDeTRKaGowTzlwM1ViUHVEX1hsVzdVMkEzeWV6a2RzQjFXbkJLNHM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-01T14:03:00Z",
       "dominio": "www.ccee.org.br",
@@ -419,7 +428,7 @@
       "data": "2026-09-29T15:59:00Z",
       "dominio": "www.bra1.com.br",
       "tambem_em": [
-        "bnamericas.com"
+        "BNamericas"
       ],
       "tema": "baterias-armazenamento"
     },
@@ -445,6 +454,18 @@
       "editoria": "tarifas",
       "data": "2026-09-29T13:15:07Z",
       "dominio": "g1.globo.com",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_37789",
+      "titulo": "Bandeira verde deixa conta de luz sem cobrança extra",
+      "lead": "Bandeira verde deixa conta de luz sem cobrança extra",
+      "fonte": "Hojemais.com.br",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYU9aUGhFbVFYZUZ1M2x5d21jcWxhT1M5VTlDLTVkZHF6MGpJU212aGMxX2YtRWFHbWU1Zl9uenBTVnVuRC1mdXRGVGJnR0ZoTXd2MlgzMFluOUQ3T3FSRWRaQXk4OWRCa290VzlBR2hSVFBkQ3V4RkluVklVZEhsOFVkUmQ3dVVBUEFTMzNOeXpRb0t4dmNBdFcxdlhKQUxLQXZjTmFQd1BwNXJsU2c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-29T12:51:00Z",
+      "dominio": "www.hojemais.com.br",
       "tema": "consumidor-residencial"
     },
     {
@@ -482,6 +503,18 @@
       "data": "2026-09-29T11:35:17Z",
       "dominio": "www.cnnbrasil.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "tarifas_58971",
+      "titulo": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro",
+      "lead": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro",
+      "fonte": "Folha PE",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1UzNE1aVGwxRGFEY3EzY3E3ZGhLZkpaX2YtOVJIV0szYW1sZ2VNSTh3ZnZ0Y3BsdmVBOG5FU2trS3BCU0FYWTF1UC1BXzhPUjlUakhLaU5kX0hhUnNlY0hqVlNENnNOdk94OXR5REM4LWRKa0EyZDVwZ0k4SFNvSm5kOS1tQTZDeldXaFZ3dnY4Wnltc2FmRXZXcHpxWm5WN2N2SnY4d09QV3NnYUZTQjM2b1nSAbgBQVVfeXFMTzROSEFBQ1R0QmdmOEpabXhqR0UxaHFvaUdTV25fSnJXSGVFVFBDclluNXdKc1F2RGdvbGdKN1VrSEo1QXp2T041LXpWeWUxNGhZVlhkQUZLcHhNRmhKZEpEZ0g3Q1A2M3JfbTJmSkIwS082Z2hlQlQ4M1kybE9nWDBJaXdCU3Q3aXkxcC1FR0hLczhkeFZrR0ZIUkpTaWg2b2dpeEV3M0NpNGNzdUdnT1dyT2ZOVnlFWQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-29T10:55:00Z",
+      "dominio": "www.folhape.com.br",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_72452",
@@ -626,8 +659,8 @@
       "data": "2026-09-25T20:51:00Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "agenciabrasil.ebc.com.br",
-        "G1"
+        "Agência Brasil",
+        "g1.globo.com"
       ],
       "tema": "consumidor-residencial"
     },
@@ -720,42 +753,6 @@
       "data": "2026-09-25T11:53:00Z",
       "dominio": "www.moneytimes.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_94447",
-      "titulo": "Mercado livre testa soluções antes de chegar ao consumidor residencial",
-      "lead": "Mercado livre testa soluções antes de chegar ao consumidor residencial",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmtCYW1HXzdnQjRMQ3had2tnREV4TGx1U2Q5dzY3UmZ5clkteWZ0OVFMZmpHWHZjaFJTaTEtLXJZRWd2MGNLSHRuamR4UUN3VXoyVFhqZ0pIZjlFQW10ZkxGZU8yTVNxQ21TYTdicllwNlZGRDhnM21ZaHVqeGhYS2hSUW42YnB6VHRZb2FidU0xRlNXQ2JTVXVYQW5HQkNmWXFnQU5kdnlQdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-25T01:45:06Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_79532",
-      "titulo": "Webinar gratuito debate riscos da migração para o ACL",
-      "lead": "Webinar gratuito debate riscos da migração para o ACL",
-      "fonte": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjBkVHVkRlRyT1F6azJ3N3NHcENxOXNnRHZSV0s1ZG4zMEJ0bGkzNEp5Y0tsQzFJaWwzU0djVnRXTGs1YjRkRkF2S1NWZXU4emJhcXBwUXRtbG1QeU1JcXRJd1d3R1pFMWd0VmhGQUpNZDdTNjk0a25fWkhPU1ZLZl92Q0RTY2VQVHF4d3drdVhWLVBxSDVLNWd3TXNLaURqX0haSk5LZmRrOXdGcmZMdDdZRE5vYXVYWE0xWDAxcjhTbzBIRkMwaUVhNnAwT0g2Qnc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-25T00:58:51Z",
-      "dominio": "www.canalenergia.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_82399",
-      "titulo": "CCEE: certificação de operador do mercado conta com novidades em 2026",
-      "lead": "CCEE: certificação de operador do mercado conta com novidades em 2026",
-      "fonte": "canalenergia.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTBXRE9zUXc2MnNXbVFYTDl1dUxlM2Rha3g0M2RHS1h0eE1STnM2RDhXUTJqUk9hWFdOaF9HLThveXF3WUtUWG50cExsS2lMNDhfb0NRZzc5dUNMakxKMzd0bzFvYnVwNjdUSnZwdmVPNnlqVU8xcUE1VkdkcldUdnpZYXZpR3FIMmw1ZDhSalNfSDVJbVozZUd3YjVNOEFhYTVYXzdMZEI1TW1VY3dQM1BRQXBCUXlUOHc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-24T21:24:33Z",
-      "dominio": "www.canalenergia.com.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

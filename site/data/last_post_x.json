@@ -1,17 +1,17 @@
 {
-  "verificado_em": "2026-10-01T23:18:12Z",
-  "status": "pulado-sem-novidade",
-  "motivo": "sem novidade material desde o post de 5.7h atrás (janela de 20h) — iguais: PLD (SE/CO 57,31 · Sul 57,31 · NE 57,31 · Norte 461,46); bandeira amarela/setembro/2026; EAR 61%; termômetro em 'normal'",
+  "verificado_em": "2026-10-02T16:58:03Z",
+  "status": "publicado",
+  "motivo": "id 2106066192620196002",
   "fingerprints": {
     "X_API_KEY": "71f1882d",
     "X_API_SECRET": "962872f8",
     "X_ACCESS_TOKEN": "ffc2943f",
     "X_ACCESS_SECRET": "37faeb93"
   },
-  "postado_em": "2026-10-01T17:38:44Z",
-  "hash": "1f394d291ac5964226e08a32f84051861f5e412bf5a96b1366b5320fe0a3e0b9",
+  "postado_em": "2026-10-02T16:58:03Z",
+  "hash": "76eebf79891fd93621b23ba7d07dc8bb76c0cd5112b31dee9778ddd1420fe028",
   "chars": 189,
-  "texto": "⚡ Mercado agora — 01/10 · edição da manhã\n\nPLD (R$/MWh): SE/CO 57,31 · Sul 57,31 · NE 57,31 · Norte 461,46\nBandeira: amarela (setembro/2026) · Reservatórios: 61,4%\nTermômetro do MWh: 32/100",
+  "texto": "⚡ Mercado agora — 02/10 · edição da manhã\n\nPLD (R$/MWh): SE/CO 57,31 · Sul 57,31 · NE 57,31 · Norte 461,46\nBandeira: amarela (setembro/2026) · Reservatórios: 61,1%\nTermômetro do MWh: 32/100",
   "material": {
     "pld": {
       "SE/CO": 57.31,

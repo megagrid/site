@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-03T15:20:56Z",
+  "updated": "2026-10-03T22:16:28Z",
   "total": 60,
   "itens": [
+    {
+      "id": "dado-2026-10-03",
+      "titulo": "PLD cai 41,5% na semana e fecha a R$ 57,31 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 60,9% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "fonte": "Megagrid Dados",
+      "url": "https://megagrid.com.br/#precos",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-03T22:16:28Z",
+      "tema": "precos-mercado"
+    },
     {
       "id": "regulacao_5758",
       "titulo": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras",
@@ -20,7 +31,7 @@
       "lead": "CCEE consolida avanço da abertura do mercado livre de energia com 811 novas adesões em agosto",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWFGZzhFb1RKYUNLZUF0WTdpdGI3emVSdWxZTGRjNURNcDYwWmRIeUpyT1VxcWJTMm0weWlBZ3djbnNCSVBXOC1OcmRyU010cTg3dHhJNU5oSFVlVDJCQW1pMEg4UDh6RWRGaHRrcmhHTmNEQkxZZm40cFZGNjl5SXhGTXBvV0F6U0tBM2NpTGdqYWlDY2hFVGwxNHkyUkJtZ0JUb1MtTU05TGRBUnMtd3JNUVVYeEhyS0dz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-02T12:16:00Z",
       "dominio": "www.ccee.org.br",
@@ -101,9 +112,7 @@
       "dominio": "tocantins.jornalopcao.com.br",
       "tambem_em": [
         "Diário da Manhã",
-        "Portal Na Boca da Noite",
-        "Taboão em foco",
-        "RibeiraoDasNeves.net"
+        "Portal Na Boca da Noite"
       ],
       "tema": "consumidor-residencial"
     },
@@ -304,6 +313,21 @@
       "data": "2026-09-30T15:11:57Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "solar"
+    },
+    {
+      "id": "tarifas_48436",
+      "titulo": "Bandeira tarifária para outubro é verde: veja o que significa",
+      "lead": "Bandeira tarifária para outubro é verde: veja o que significa",
+      "fonte": "Enel",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmM3Q0FyVVQxd3ZNVXRIWGJpNFc3VTBEVW9qNi1Wb1hJckl4Ujgxa0I0WXRPb3pnMGw1bnI0TUF6UWF0Y181Z01kNUFaYlRscmFENW43ektvb3dsUEJPblhaV014VFljSVZ0TlJVNnJYQzdrYWNreElkNVEzZExuNFpGaHRBZlhEbDVHWFRXQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-09-30T14:56:08Z",
+      "dominio": "www.enel.com.br",
+      "tambem_em": [
+        "Folha PE"
+      ],
+      "tema": "consumidor-residencial"
     },
     {
       "id": "transicao_86184",
@@ -529,18 +553,6 @@
       "tema": "baterias-armazenamento"
     },
     {
-      "id": "tarifas_58971",
-      "titulo": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro",
-      "lead": "Neoenergia Pernambuco divulga retorno da bandeira tarifária verde para o mês de outubro",
-      "fonte": "Folha PE",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1UzNE1aVGwxRGFEY3EzY3E3ZGhLZkpaX2YtOVJIV0szYW1sZ2VNSTh3ZnZ0Y3BsdmVBOG5FU2trS3BCU0FYWTF1UC1BXzhPUjlUakhLaU5kX0hhUnNlY0hqVlNENnNOdk94OXR5REM4LWRKa0EyZDVwZ0k4SFNvSm5kOS1tQTZDeldXaFZ3dnY4Wnltc2FmRXZXcHpxWm5WN2N2SnY4d09QV3NnYUZTQjM2b1nSAbgBQVVfeXFMTzROSEFBQ1R0QmdmOEpabXhqR0UxaHFvaUdTV25fSnJXSGVFVFBDclluNXdKc1F2RGdvbGdKN1VrSEo1QXp2T041LXpWeWUxNGhZVlhkQUZLcHhNRmhKZEpEZ0g3Q1A2M3JfbTJmSkIwS082Z2hlQlQ4M1kybE9nWDBJaXdCU3Q3aXkxcC1FR0hLczhkeFZrR0ZIUkpTaWg2b2dpeEV3M0NpNGNzdUdnT1dyT2ZOVnlFWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-29T10:55:00Z",
-      "dominio": "www.folhape.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
       "id": "mercado-livre_72452",
       "titulo": "Escolha do fornecedor e contrato entram no radar da gestão de riscos no mercado livre de energia",
       "lead": "Escolha do fornecedor e contrato entram no radar da gestão de riscos no mercado livre de energia",
@@ -684,7 +696,8 @@
       "dominio": "canalsolar.com.br",
       "tambem_em": [
         "Agência Brasil",
-        "G1"
+        "G1",
+        "Jornal da Paraíba"
       ],
       "tema": "consumidor-residencial"
     },
@@ -735,21 +748,6 @@
       "data": "2026-09-25T17:44:25Z",
       "dominio": "tmc.com.br",
       "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_38492",
-      "titulo": "Em Assembleia, agentes da CCEE elegem Elisa Bastos como nova diretora",
-      "lead": "Em Assembleia, agentes da CCEE elegem Elisa Bastos como nova diretora",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTRSbll3NW9Gbk9UUUQ0eGpoZ2k4V0ZZWndpUm5weEdLRHl5WFltWmtQRTYyVDVUbEhqM2VGR1I5STRVQ2xjMDJvQ0E5dVdKbGh0MERXZE1iSXBGa2RhSy11QnFtbklLRjA3QUxCV1ZPdjJGbDhXbTFpZDlqbmowNDJIaFRZUzZNZmtHdjhyelcwNmtkYXEwaUVB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-25T17:42:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
     }
   ]
 }

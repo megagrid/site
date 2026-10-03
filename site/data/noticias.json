@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T23:07:10Z",
+  "updated": "2026-10-03T15:20:56Z",
   "total": 60,
   "itens": [
     {
@@ -37,6 +37,18 @@
       "data": "2026-10-01T20:54:22Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_65562",
+      "titulo": "O que o fim do sigilo revela sobre o processo da Eneva no TCU",
+      "lead": "O que o fim do sigilo revela sobre o processo da Eneva no TCU",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUHNRZHR5MFIxd2x2RXdqQUZfRDMyd3FTVG14WC0xazhlLUFMMmpBYklxSi1FQ1d5b3dvWjNYRUtfRWVJWGNWT2tBTlcxZ05oZV8tZWVTTF96a2ZHZjBaZlllQ1F1TDRrWnhOLUFTYUtoS2xjNEo0Zk5JV1gzY2ZPWXNocWJtU3p2VGh2S0pFNWZlVDVUY0JYUmljQkhDM2M?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-01T20:12:41Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "transicao_77217",
@@ -88,20 +100,20 @@
       "data": "2026-10-01T18:42:00Z",
       "dominio": "tocantins.jornalopcao.com.br",
       "tambem_em": [
-        "dm.com.br",
+        "Diário da Manhã",
         "Portal Na Boca da Noite",
         "Taboão em foco",
-        "ribeiraodasneves.net"
+        "RibeiraoDasNeves.net"
       ],
       "tema": "consumidor-residencial"
     },
     {
-      "id": "mercado-livre_66382",
+      "id": "mercado-livre_85144",
       "titulo": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
       "lead": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUDI2QlhQdDVTZmtSY0l6RlE4bHJ5aEhoZzFvNUpaeXFDV0gtTnNWU2VBb2RrdXJUTThXSzlsZmR1aWNVa0N3TV9WZ3ExS2JwRHkxNDlVNldfZ3RqY3JuczhBbjFTS01iVXhaZzhMbF9RY3puZnl1YjNjX0VseEc1eGM3b3B2eGVXc1p2NlhNemFqOUFWeTJQVm4zNTZQYnRsTjRyaC00bDNDeTRKaGowTzlwM1ViUHVEX1hsVzdVMkEzeWV6a2RzQjFXbkJLNHM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTm1aSU9TZmRWeHVZaExBaVA5TWw4QWQxbHBueFVIOGduQzY3WTBmMTJDOHpTUWRFazQ5Yl9RaHhTRy1lMkVCSHlyVkZ3UkFOSzhpT3hYUmxZZGZXOWNHdTVpaWxhSXVMRXhIQnc0RVh5ZnlJSGhwcnhENWZ5ZDBUNDQxZmt4VHh4NmlBV1h4QXJuLUZpaWVoTW5SLUplLWR4LWtKVF9udjM3Z2diS29aTkJ3ekJZamhiZlRKdl9GemRnTENONlNjYnV0WFJlSHpmZ00tTGR3SGZuVUhI?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-01T14:03:00Z",
       "dominio": "www.ccee.org.br",
@@ -123,12 +135,24 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "transicao_85682",
+      "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
+      "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
+      "fonte": "economiasp.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXJwNGR1dkJnS3lPcnhlazFRZWY5MW9BMi1DaVhnSE9mQjJvcml3dzR0cTNMOVEyLU5WT0x2eFVCVXd5UjRjT3ltZTdwVUNHVFNOY1FDcTFGa3MxTi14UUE2dTNtYzlsaTY4eFFTcV9MT2YxaDR2MGJ3U3dSRTNSVFp3ZHFTRWFpcGVCTTdkSXd0VVJnbHNoTFQ1S2F3bW5JWk9odnJ6TzFFTW81TTFZZ3pjMzBQZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-01T13:22:31Z",
+      "dominio": "economiasp.com",
+      "tema": "solar"
+    },
+    {
       "id": "transicao_25653",
       "titulo": "Brasil lidera em energia solar, mas precisa de baterias seguras: entenda o novo desafio",
       "lead": "Brasil lidera em energia solar, mas precisa de baterias seguras: entenda o novo desafio",
       "fonte": "bra1.com.br",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU1McVdjN0hhWWlSZkdKZWNxWG84OEMzdVlmemI1X3BXVHFnUWRaakxzb3Z0Wk9lM21SRW9sRjJGNHEtTTROTnE1eGVsTHlGVll5VjkwdG1FbHJCUlNKd2I5SlpUVXBkNDU1Yk5KVkNPSnFnWkNveGY3VHQtSV8zV0JIUk5MQ09OZU1kNkpvS1ZGb3ZabE5Pc21IQnM1WkNjOXFlRHlxMDFOZjgtOGdoRlpQRmN3VUoyZF9NSnhJWlpHWk5lR2luT18zUFo?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-01T12:57:00Z",
       "dominio": "www.bra1.com.br",
@@ -275,7 +299,7 @@
       "lead": "Engie fecha acordo de autoprodução em projeto solar no RN",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXRsU3pVcUFFZEFOeE1UUS1zYlVQaXlnMmtaOFNfRGtwTkdPczdaaVlBMkppbGt3Si1vaUw2UlNtMlVsellaWGt0U2c1anRWYldLam5HWEs5bjR2U1FFSmtUaG55Z1RSMW1UVXNkODdPZGZJRUk3dWNhS3UyTVBpS3diQmZjc0x2X2w2Um5SUHhsZ01FeEEwT1M3V0NFRHFrd3NYRlJSQTlmQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-09-30T15:11:57Z",
       "dominio": "megawhat.uol.com.br",
@@ -660,7 +684,7 @@
       "dominio": "canalsolar.com.br",
       "tambem_em": [
         "Agência Brasil",
-        "g1.globo.com"
+        "G1"
       ],
       "tema": "consumidor-residencial"
     },
@@ -726,33 +750,6 @@
         "CCEE"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_9562",
-      "titulo": "Baterias podem reduzir curtailment em até 50%, diz ONS",
-      "lead": "Baterias podem reduzir curtailment em até 50%, diz ONS",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTdJRUJPY0E0Ml96NENtcUt2VVN3Q0JRN0g3dUVBWExTdnM4ZEZ6NjhkOFRRYVBwMUNSZklBTTEtQkJLUzBiSHpWOTRhSi1ESHZEV0Rnc0RxbTNkSG9CTlBtZnpVRXFSWlE0TWdEUmlkS2xXWjByMWgxeGluQ2NyeXYyMGNNSjZKRnJmRXh5ZDFUdkFOSHdPUkwwQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-25T13:32:50Z",
-      "dominio": "megawhat.uol.com.br",
-      "tambem_em": [
-        "CNN Brasil"
-      ],
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_37471",
-      "titulo": "WEG (WEGE3) amplia projeto de fábrica de baterias em Itajaí (SC) e reforça aposta em armazenamento de energia",
-      "lead": "WEG (WEGE3) amplia projeto de fábrica de baterias em Itajaí (SC) e reforça aposta em armazenamento de energia",
-      "fonte": "Money Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXI5aGVhZl9UWmYzQWhySUNVcC1hV2d6M2FJSTR4cUNxMGNoVE9yWnFnX2J6eXlmc2Y5c0NJbkhqdUZtaUk3WUpEYUFFdzJlUE1SSlE4YU55RDlMUWxSNkh4Rjk2c1FlRkJnTXh3RExJZ3lmN2MxcGtZa2Jsb3B3UExaSDJTSDdpUmdUNUIyRmYtclBDRTVkdDdDekh0aW5zUi1rcjU5M1picDlSNzF6VElHc0NYSlNGcTZQMmJrRjU3emltNHpyVW5ULUlSckhkeGstWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-25T11:53:00Z",
-      "dominio": "www.moneytimes.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

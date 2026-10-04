@@ -1,17 +1,18 @@
 {
-  "updated": "2026-10-03T22:16:28Z",
+  "updated": "2026-10-04T16:05:29Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-10-03",
-      "titulo": "PLD cai 41,5% na semana e fecha a R$ 57,31 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 60,9% · bandeira amarela. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
-      "fonte": "Megagrid Dados",
-      "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-03T22:16:28Z",
-      "tema": "precos-mercado"
+      "id": "transicao_27862",
+      "titulo": "STATKRAFT RECEBE AUTORIZAÇÃO DA ANEEL PARA OPERAR SISTEMA DE BATERIAS EM USINA SOLAR NA BAHIA",
+      "lead": "STATKRAFT RECEBE AUTORIZAÇÃO DA ANEEL PARA OPERAR SISTEMA DE BATERIAS EM USINA SOLAR NA BAHIA",
+      "fonte": "Petronotícias",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTRVam1tRm8xM2FYTFJ6OUt1QmM0QV93cjlEaVZZSE1pZ25ZMHJtMzBmQ08xMmR3Nnd3dGJoUWxPMVYxNUdMc3pLMllBZmItWnM3bEVjVlhPVl9oaXJsSkRxR1JzVmtYeURYNGVuYnBzb1VDSzFuZno0VGVxWHVreDNWbk9fWUg3NFVZcU8welI5WktWcURIOEQyNnF3NjVFRDBoZWh6ZWpHek1oTkZtTUxVck03STJDMVlEZk5zWjI?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-04T07:00:00Z",
+      "dominio": "petronoticias.com.br",
+      "tema": "solar"
     },
     {
       "id": "regulacao_5758",
@@ -111,8 +112,10 @@
       "data": "2026-10-01T18:42:00Z",
       "dominio": "tocantins.jornalopcao.com.br",
       "tambem_em": [
-        "Diário da Manhã",
-        "Portal Na Boca da Noite"
+        "HoraMS",
+        "dm.com.br",
+        "Portal Na Boca da Noite",
+        "Taboão em foco"
       ],
       "tema": "consumidor-residencial"
     },
@@ -695,9 +698,8 @@
       "data": "2026-09-25T20:51:00Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "Agência Brasil",
         "G1",
-        "Jornal da Paraíba"
+        "Agência Brasil"
       ],
       "tema": "consumidor-residencial"
     },

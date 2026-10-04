@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T16:05:29Z",
+  "updated": "2026-10-04T22:24:35Z",
   "total": 60,
   "itens": [
     {
@@ -113,9 +113,9 @@
       "dominio": "tocantins.jornalopcao.com.br",
       "tambem_em": [
         "HoraMS",
-        "dm.com.br",
-        "Portal Na Boca da Noite",
-        "Taboão em foco"
+        "Diário da Manhã",
+        "Agora RN",
+        "Portal Na Boca da Noite"
       ],
       "tema": "consumidor-residencial"
     },
@@ -135,15 +135,18 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_22716",
+      "id": "mercado-livre_19956",
       "titulo": "CCEE marca presença no 18º Fórum SmartGrid e debate transformação do setor elétrico",
       "lead": "CCEE marca presença no 18º Fórum SmartGrid e debate transformação do setor elétrico",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeENCOXN3bjk0djRYZGpyRFpJeFJxU2d4UzBzazU5TVU0ZXdFb2lhVFVaZjhmVmJNRFp4RFVjdm4yRzVPcV9GNWlOS3hNNkY1WWlnWXNkQzVTc2hfbzA5dE01ZVkyU2xidlp4OXh3Y21UOE5PLUVLdWdRalR6SEJHQXI0aHpEekROQmlwb0t4LUpPWDVXcFgtU1J1YkFlX1h0THVkdVZjTUh3N0VxSEZ5NzFLNng5YldRWmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdENhUk5mVEZOcTF5a3lPZk5BZXhKaE9DZk9SYTFFUV9MNzRiOVdmTjRsZjhiejc4SDBubHJHUDZPZXdnd1A0Vm4zdW10UmpIRF9KSFVHYXozX1lBVjdIbk5ERVFqUnR0d0FIN3pVTmNzOU4tUlRqMmVEbVVhQVQ2RzhURnBKdWh5VGpIR0tPcnlhUWN4VnNuN0R4SDdPdzkzeW9DcmZ5bWdSends?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-01T13:30:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {

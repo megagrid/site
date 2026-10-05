@@ -1,14 +1,77 @@
 {
-  "updated": "2026-10-04T22:24:35Z",
+  "updated": "2026-10-05T20:02:42Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_89755",
+      "titulo": "Mercado Livre Registra 811 Migrações Em Agosto, Com Avanço Do Varejo Simplificado",
+      "lead": "Mercado Livre Registra 811 Migrações Em Agosto, Com Avanço Do Varejo Simplificado",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmQxUVJvLWRDNVg3TjMwQTRkbHowYUtiN0Q2aC1tQXVSc1NjRTlDeGpxWGNqT0xGdnlLSk54aW5iQUZaU3BCVFFSc2QwT2JLRTJVTU1iVS1Ianc4cVRtb0pvNDFGV3IyUGRYcTUzQUxETFJKdkNXaU1zRUpSeXUtSUxPd0tZY0Rad1poYjBuSkt0d3Ayd25PbTRfdG9Hd0Y3MllxaUMxd25aX25zblE5S0Fzdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-05T19:36:19Z",
+      "dominio": "cenarioenergia.com.br",
+      "tambem_em": [
+        "Agência iNFRA"
+      ],
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_34260",
+      "titulo": "MME autoriza Trafigura a importar energia do Paraguai",
+      "lead": "MME autoriza Trafigura a importar energia do Paraguai",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXBlU3YwR2NzX3B0alIwekVQWmwwd1d3NjhMa05LaTNucVBvc3UzUmxXSENfeVR1cE9VakVYUUl4cWdFd191S1lhT1BiVnFJSG5uZmZxTzhrODRvMkEwR0k4cmVDR2R2dUo3ODcxbmtDUW1xZXlSdzI1Q1pteERsY1UwYzNsRUtGNGl4QzJtNzBEV090RnM4?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-05T16:45:18Z",
+      "dominio": "eixos.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_55809",
+      "titulo": "CCEE Abre Inscrições Para Bootcamp De Cocriação Sobre Operação Do Mercado De Energia",
+      "lead": "CCEE Abre Inscrições Para Bootcamp De Cocriação Sobre Operação Do Mercado De Energia",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEkzRHlrYURjMVMwcC1aVFUzR0VXNUZuRU9PQmNLUTdtVVJXUWFvZ0pXaHY2TUkzUmxUOUhDeW05eG9SZV80bXYxblNfNkJaM2dma282VC1HbEFYQnRoejFUZ1B0bWhsTXZsamhNUFlwOWRZaDl5YnYtc1lzRWVuYjdtaVdIbVdrLWxXNlRKUV9DNEFWLVlSLWp6QUxHUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-05T13:53:01Z",
+      "dominio": "cenarioenergia.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_63016",
+      "titulo": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
+      "lead": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2Y5cTBUUjNnaDcyTFVIUEpaYU1LYjNsVDRNNE0xa3N1Sm9JLVdoQlBMRG5xWU96NWUzS054VnY5RHFVTDJBTUxUWXdVWlhzMGlBTHNlTmk5ODdzWGZGa25kNHR6VzhXR3h2OE5uZmhpRkpDWTZXNHhZdF9YdTZIdG9Xcmo5ZTVhaHNCOVhNeXJfZTFySHllckx2dDhzRENYT0pGUTA4TjRsckIxT3c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-05T13:22:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_554",
+      "titulo": "Rio Destrava Migração De Indústrias Para Mercado Livre De Gás Após Acordo",
+      "lead": "Rio Destrava Migração De Indústrias Para Mercado Livre De Gás Após Acordo",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFpGaFJMbGVNZlJuSC1famRvUk1YT0RyUDhXZk16MTFKVERWc3BMQkdVdWN3dXBFczhPOG1sWTV0ODdudHVkWmx2SE1iWE9DNzZ6MWRJNmk0NEJQTi1CdU9rb0NsS2p2UUV1alFiMmF1OVdBekhnX2xndVRfN0w3TnAzaVVQQ0hhYktIVTk5cjZjZGM4YnREeGdLel9VRzEyb3pKdDZvZHhid3hHaWhObGlOSlRWdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-05T12:27:36Z",
+      "dominio": "cenarioenergia.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_27862",
       "titulo": "STATKRAFT RECEBE AUTORIZAÇÃO DA ANEEL PARA OPERAR SISTEMA DE BATERIAS EM USINA SOLAR NA BAHIA",
       "lead": "STATKRAFT RECEBE AUTORIZAÇÃO DA ANEEL PARA OPERAR SISTEMA DE BATERIAS EM USINA SOLAR NA BAHIA",
       "fonte": "Petronotícias",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTRVam1tRm8xM2FYTFJ6OUt1QmM0QV93cjlEaVZZSE1pZ25ZMHJtMzBmQ08xMmR3Nnd3dGJoUWxPMVYxNUdMc3pLMllBZmItWnM3bEVjVlhPVl9oaXJsSkRxR1JzVmtYeURYNGVuYnBzb1VDSzFuZno0VGVxWHVreDNWbk9fWUg3NFVZcU8welI5WktWcURIOEQyNnF3NjVFRDBoZWh6ZWpHek1oTkZtTUxVck03STJDMVlEZk5zWjI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-04T07:00:00Z",
       "dominio": "petronoticias.com.br",
@@ -20,7 +83,7 @@
       "lead": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeU5RS3dPbHBmVDJMeDZZVmN3OWZpNE5GcmtNdy1MYVZIX1hQY0JjWDZZNFZnNzNoWEpTNU1ZakdzR2tWRTFhY01HWmNEMEpEaHJ2Y1BiUzE1ZXJEU2JtcDdvd1ZlR3ZTSUV0MVFOTGxqcWtodWJETTZRZXJORzhtVGhGZVQ3WVA5WVJOb25KMUFiMmVuWjZXNzhHbWJ5YkF6UmM4WUlkLW0tMUhoSkVreVpIdG1qUG8xS2hOSlhUWHE5Umo3d2xndU5UT3dmZlZxaFFGWk9iTFRGcmZHTVZndzgydE8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-02T18:00:00Z",
       "dominio": "www.gov.br",
@@ -114,8 +177,7 @@
       "tambem_em": [
         "HoraMS",
         "Diário da Manhã",
-        "Agora RN",
-        "Portal Na Boca da Noite"
+        "nabocadanoite.com.br"
       ],
       "tema": "consumidor-residencial"
     },
@@ -393,6 +455,18 @@
       "editoria": "politica-energetica",
       "data": "2026-09-30T01:33:00Z",
       "dominio": "atlaspublico.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_17438",
+      "titulo": "Sandoval retira Pnast de pauta para ajustes e adia regra de transição",
+      "lead": "Sandoval retira Pnast de pauta para ajustes e adia regra de transição",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGRwNmpYNFdiV25EbzdJSS1kM3ptaWx2OTB2Y3BreDhmZ0hNcGxxdDJXYVRGYU5nOTJGRTRhUWJCX3NhOEhhdDYxcE40LUdXdWxOUHJUUURoMTIybGd3SWVacWgtVTJwMmxvcVJrSzBQaUtjeWVpRDRmRFhYUHp5MXRzbHpKVEN1RGhROG1pZi1Bb1R1VUU5amhDbVZMejc5M0sxUmJwdzdwTkRO?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-09-29T22:21:13Z",
+      "dominio": "megawhat.uol.com.br",
       "tema": "regulacao-institucional"
     },
     {
@@ -677,82 +751,6 @@
       "data": "2026-09-27T20:01:13Z",
       "dominio": "www.estadao.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_60533",
-      "titulo": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi",
-      "lead": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi",
-      "fonte": "Jornal Primeira Página",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakV2RGx4X3N4Z1VwRWZUNl80ZTdrNE5mLXJqaWxtcUNPY2FMYnpod3JETWVwSnlzbEpqZ0lYbWxMY2t5QTFWRk1vNHBmLWZCWnBWZVFrbVdLTXVIZWVzNVdmU2pJcmQ4N2xZbGMxQVRHcVRLaElLQUlLanVZbWNsbWJQQktXMV9iRHJfM3NUS0FNSzR6TUNYa3VsQnVMVzJ1bzJ6YlZNb0dsMWI3ZGZrVzlsQzlIM0VSN01pUldKYTJYM00yaHhZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-27T00:41:54Z",
-      "dominio": "jornalpp.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "tarifas_92999",
-      "titulo": "ANEEL anuncia bandeira verde para outubro após sequência de cinco meses com bandeira amarela",
-      "lead": "ANEEL anuncia bandeira verde para outubro após sequência de cinco meses com bandeira amarela",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rTThpNndmdndkQzEwTFFYTXRiZUtWUlJqSTNQMXF4dlU1TEZnSHNfVzJ6V3NFQkJnbDFTNXRYbXRZS1NtV1pUMGFCXzB4MVlSRUItaHdZMjd0MUd3SHRqYTVkMmhMSEtHUlp3M2pVcXI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-25T20:51:00Z",
-      "dominio": "canalsolar.com.br",
-      "tambem_em": [
-        "G1",
-        "Agência Brasil"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_69984",
-      "titulo": "ANEEL alerta para risco de concentração com abertura do mercado livre",
-      "lead": "ANEEL alerta para risco de concentração com abertura do mercado livre",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODN5blhoeExOeFpuY3lCc3EwZHFlbGFuUDdCVjRtcVl5amNqVmpSa0tZN0Z5MDdkWmR1LUNkeURRLTN2ZUxIUXl0bi1KSy1LYWdzdDdXdUlKTWJuNU0yQXhxd1RKUlBmWjFJbjBwZW1SZUJMSzA0RXVfMzdGV1B0LVVZZl9rcGtn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-25T20:21:41Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_74948",
-      "titulo": "Outubro terá bandeira verde: contas de luz sem custo extra — Agência Nacional de Energia Elétrica",
-      "lead": "Outubro terá bandeira verde: contas de luz sem custo extra",
-      "fonte": "gov.br",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlp1Z2VtYTFycUhRLXVqSVNVa1V6YVUwVm40WFBNUUNiNkNhLWtYWW5OS2VrM0o4bTI5a3pURXpZZnRuTDB5OVBLRENUYzZSNHN0NzVjU1BJMllOYWRyOTJuQlN1Vk5LWkJYeFc4SDRlRWp4aUxwOElISWltYkhZcXZUQ0ROeDJTTnVKR1dENjh5VTJNSnFrWVR6SnZTa09xclQ5b21ocmRmaUJ1aGd4Y2hQZGV3OHhlcUlfbXhQOVhMUDdXdVl3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-25T20:04:00Z",
-      "dominio": "www.gov.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_13340",
-      "titulo": "Associações cobram da Aneel regras para frear impactos da expansão da MMGD",
-      "lead": "Associações cobram da Aneel regras para frear impactos da expansão da MMGD",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYnVwZE96V1lvQmh3LUUwdmt1c2U3Vy1lbDl6Z2RxSlJqUXcwU0hKc2JYYW1HVnp0T1ByVzl1SlNIOW9pWTlYU2NxcVZxR01Jb3dNTlZaTkdvNkRZT3pPMnJxRmRMQ0U3cXpOYnFNLWRrVjVZbkdDVENpVnh3TEVHZUxXckNfUjdSbVVveGJrSGdMREVhb2pVYzlUME9WZTczc2JHLWFqQUF3ZzNmT2FoQUs3NGsyc3VWYkkzTnFLWVRsWVMwbkRzWHQwMmY1Y1Z5S2NGQmQ3c1pBWnc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-25T18:36:17Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_78682",
-      "titulo": "ANEEL avalia permitir a ‘venda’ de energia solar excedente na rede",
-      "lead": "ANEEL avalia permitir a ‘venda’ de energia solar excedente na rede",
-      "fonte": "tmc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOenIzaVgtRXdmMzlZcWRPZTluM2RSZkZMX19OTjh4SWo0REJlTXBvQzJYR05TSUdFNGhMYjBUX1Q0bE5sVkRkdDQ3clVVc0lGUTA1MlhScHpYWnpEQjJwNVAxYzFBX2Y5ZU1zN2t0dHhGeVo1V1N1dWVENVBaNEs5RzFrMjJNUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-25T17:44:25Z",
-      "dominio": "tmc.com.br",
-      "tema": "solar"
     }
   ]
 }

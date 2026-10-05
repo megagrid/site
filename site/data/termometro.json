@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T22:24:26Z",
-  "score": 32,
+  "updated": "2026-10-05T20:02:35Z",
+  "score": 29,
   "nivel": "normal",
   "nivel_desc": "Mercado em equilíbrio",
   "componentes": {
@@ -21,13 +21,13 @@
     },
     "carga": {
       "peso": 10,
-      "valor": 82483,
+      "valor": 74144,
       "score": 50
     },
     "bandeira": {
       "peso": 10,
-      "valor": "amarela",
-      "score": 33
+      "valor": "verde",
+      "score": 0
     }
   },
   "metodologia": "EAR 35% · ENA 25% · Momentum PLD/CMO 20% · Carga 10% · Bandeira 10%"

@@ -1,14 +1,98 @@
 {
-  "updated": "2026-10-06T17:32:41Z",
+  "updated": "2026-10-06T23:10:40Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_90999",
+      "titulo": "Aneel aprova consulta pública sobre custeio da contratação de baterias no sistema elétrico",
+      "lead": "Aneel aprova consulta pública sobre custeio da contratação de baterias no sistema elétrico",
+      "fonte": "Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRHdSNnBjc3JKaDBNbFkzVzE3bjZINmVyemNPeHZiR2c4NlluZDQ2b1h3NzV2YVFfaWx0emRzN3JDLXNNVm12SVpvS0hVWGRvYUgxTzZxRGpuekRuX19OVmlqcnpWcTgyWmkyVXFGZlRzSzdkM3dXNENhUl9teENBYTlXQnNxOHo1VTh4eW1mclBKd25ObVU2amhXemVaa0JjbjE5OHFGU3lCRzdOY2d2cmExX0tvS0tFQ1hzREVhTzhrOHRXSWswc1RfaEt6bVRLa2FVVWdaMjhqWEtfWlMxQUQxbw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-06T21:24:00Z",
+      "dominio": "www.tribunadosertao.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_92212",
+      "titulo": "CCEE defende regras mais simples para migração ao mercado livre de energia",
+      "lead": "CCEE defende regras mais simples para migração ao mercado livre de energia",
+      "fonte": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVEtNHFuWFRPNXdyU1VRUkcyWnNDc3lxU0pKTWhuWm5PeFJ3clplTGhnQkpnZUxKQ08wWUpFNEdJdDZOZ1ZKYUdUSjhLdlFKYVNicnFwYXhxcW93Q045NnE2RXFoeGlxOW9jZ1dLWUw1VjFRci1VWDh6RXFyYldRT0xwZTE4S1pibXVwbGN0QXlCTW9ZcGxaZUxsTzJtTU05aGszdG5fYl9reTVhWnA4RXE2VmJjUG1JeEFNZ05rMElPQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-06T19:31:56Z",
+      "dominio": "www.canalenergia.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_78996",
+      "titulo": "Por que o setor de armazenamento em baterias no Brasil está ainda mais confiante",
+      "lead": "Por que o setor de armazenamento em baterias no Brasil está ainda mais confiante",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFU1d2hNTlZaanVrSTNkd1c5cVJmd0w2cmR0U2pzY2U5aGlVaDJlVVJIeXJvakZLd05ZdnpVN0tTOEdUTkhaQWUtUmtHLXdGb3N4ZDN3cG4waFI1QWs3Nlh4bnZwdWw5RWN5WXZqRmpmQ0VkNDlmbjYwdGNfaHJaTEJIRUU3TS1rZzBxVTAtNGRtRVVfZkpoREJFb0xpOVk4RlQyRDlualpaYmRycVJ5TVdmaHRONzJ2MGdwNXk2QmtqdnZ2cENVOXFUTHBidw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-06T19:28:27Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_70166",
+      "titulo": "Abertura do mercado livre exige solução para contratos e encargos, diz CCEE",
+      "lead": "Abertura do mercado livre exige solução para contratos e encargos, diz CCEE",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUhCb3Y0U3dtZnJkY2M0bWloQkVQYVhRZmZWcm1USnBVYm1rZE1YMXBoN3doMUNUSXNjdnotLW5kYlFRR01VdmtNVko1OVpEUjR6ZkxMLVFnaW5lOHhjcjF4TjhsRzNWQ3RpZDNuVjdEVVAyZk56MS03LXMyNUtzUE9ySWxRS2ZUSFdGVlI4V0ZKcThFWDZzX0UzTURWWEtFc21wUUlDSjU3WkkwbThmZGUwOTVLMllQTHhYcjVmdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-06T18:56:22Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_50649",
+      "titulo": "Agência reduz quotas de custeio do Proinfa para o ano de 2026",
+      "lead": "Agência reduz quotas de custeio do Proinfa para o ano de 2026 Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONU9ybzBROS1rNVlmUkF1QlUtcUEwaEFKWEpZTG40Q0w3QVhTY01HWHNzMHJLRmRnX3pZdk5NWTRoWURqeTFXdl9rTWpRU2I0clNMN3JqT0ZIWUEzeUpuSXlMUGpteXpxMW1aQ2dhY24ybHFLeXdJeWJKNnZwS1g5R21vemJReDlSSFNMdmNKSFpNR19VdHdmaHZleWVTckU2VExrVUdSdVpCcWFUNlZYQnhpcVhUOWZ0SEI0cWF5alBTZ1FTc2JFMm1wdWY?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-06T18:10:31Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_14574",
+      "titulo": "ANEEL aprova regra para organizar cortes de geração",
+      "lead": "ANEEL aprova regra para organizar cortes de geração — Agência Nacional de Energia Elétrica Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPejg0d1FEYnZzaWxMUjVDemgydFIzWC1GWHFDN21aM1FtSGFtNTRTeHFxNldXaEtZcVNNTEpVVTdSUXJUTF9WT3RSbDFnQ3ZIV2VVRmRhbjJ0eWpRVUF2cW8wbG81Tkp3UXVYWnloRzRfMnlkUVdHUFJOV1RNMmNTX2x5bFExUGE2cmhQSjVqamJLeWwtR0lzQ04xNV93aUZPelctOFVvOHlTdDZhY0ZKSC14M2tMZ055WGs3TTQ4NA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1546185058-592ead754d27?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-06T17:42:18Z",
+      "dominio": "www.gov.br",
+      "tema": "industria-generica"
+    },
+    {
+      "id": "mercado-livre_81867",
+      "titulo": "CCEE digitaliza experiência de varejistas e amplia transparência para agentes e consumidores",
+      "lead": "CCEE digitaliza experiência de varejistas e amplia transparência para agentes e consumidores",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN001U09EVlJEMjFkTGxjODBXOUZKckFTVGtoNjFJOWhNaVpRUnZtSGhYZEpRM3ZmT192WXVfajFIbDJ3a3M3WnZlV1lvd0J3SzdSZ25qM1hvdjVnQkNCcnBLSXBvYzhUOHpLcUJFbGRWTncxWWw4N1ZmbXJ0S0oxOXo3d0NmYnFYX2E2TGU1Y3ljRERYSFQ5d2xBb0FEYUZYdUZNb2VWQm1qYmhzVHptamdqNWhPdzFUdHkwam9RMk8tS2NzbEVn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-06T17:38:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "regulacao_2389",
       "titulo": "Aneel buscará Anatel para acelerar resolução conjunta sobre uso de postes",
       "lead": "Aneel buscará Anatel para acelerar resolução conjunta sobre uso de postes",
       "fonte": "Poder360",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHVmV3YtRkFnek9KY2xfQkhieTdReDdnelROTUVuQnVuSktfVnBmbzl0X1BsclVIand2aktIVm9YNXdZcklPRVBiSkFhLUhMdnBNd20ydkRwMUc5ZGd3Wlo5aXZMT0xzT0VsMEE3dU0ydFFfTXFhVGp2TDVfR0l5M3lJODI3eDhnUld4N3F0b25mZ0hpOW5ZdGRISk54dkE5NGFXSWNtYWZMRGpESVF5eW14azA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-06T17:04:14Z",
       "dominio": "www.poder360.com.br",
@@ -16,11 +100,11 @@
     },
     {
       "id": "regulacao_83748",
-      "titulo": "AGEMS compartilha experiência de 24 anos na fiscalização de energia - - Folha de Campo Grande",
+      "titulo": "AGEMS compartilha experiência de 24 anos na fiscalização de energia",
       "lead": "AGEMS compartilha experiência de 24 anos na fiscalização de energia",
       "fonte": "Folha de Campo Grande -",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnhpT3VISWN6VkU2U2JUcV8zNjBGTVhhSmJ0S1NvV0hiMkxYaTQ4Szd1Ti15M1Z0Y0NXTlIzNGhtOXNYdjVIZ3hVQzJRSWphRk50ZGp1Tzk0RHhLUTR3YndmQUZIenJaS09kajk2NW9EOTJib0g5MmRNOFVVOVhXSXJqbWx0N0dsa2RBVTB4eFl0NnN4LUhsQUtLb2ozUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-06T16:16:27Z",
       "dominio": "folhacg.com.br",
@@ -60,7 +144,10 @@
       "editoria": "regulacao",
       "data": "2026-10-06T14:03:45Z",
       "dominio": "agenciainfra.com",
-      "tema": "regulacao-institucional"
+      "tema": "regulacao-institucional",
+      "tambem_em": [
+        "ANEEL"
+      ]
     },
     {
       "id": "regulacao_91551",
@@ -175,6 +262,18 @@
       "data": "2026-10-04T07:00:00Z",
       "dominio": "petronoticias.com.br",
       "tema": "solar"
+    },
+    {
+      "id": "mercado-livre_28339",
+      "titulo": "CCEE abre inscrições para bootcamp focado em abertura de mercado e modernização operacional",
+      "lead": "CCEE abre inscrições para bootcamp focado em abertura de mercado e modernização operacional",
+      "fonte": "Brasil Inovador",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU25IdDdUaTJPS0NBajJocjVraWFlbGZlbm1uclowRWlONnhlRVYwN0I1aWpsNGlMUTdYdWlvU08zQjlsMlNvUFJiaTBwbmZvcWI1Z280RnB1bXotZ3FOR3dfdXR0eUtiNlFfeE9sV2xOS3p6WHo2TEhWRGs2S0FqX1k0TV9xdF9vb0djOUhhdzZid1RxWlI3VndHUEVOeHc2T3o0V0pkbUJxQ3hlWjJBNFVKWnNPZ2VYQmRrSzd1Yw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-02T18:28:14Z",
+      "dominio": "brasilinovador.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_5469",
@@ -369,8 +468,7 @@
       "data": "2026-10-01T10:15:00Z",
       "dominio": "guaiba.com.br",
       "tambem_em": [
-        "Enel",
-        "G1"
+        "Enel"
       ],
       "tema": "consumidor-residencial"
     },
@@ -656,105 +754,6 @@
         "CCEE"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_2931",
-      "titulo": "Às vésperas das eleições, ANEEL determina plano especial às distribuidoras",
-      "lead": "Às vésperas das eleições, ANEEL determina plano especial às distribuidoras",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGM3WXhoQm1GS2p4QUpXRmZvZ055Z2NQNTExOE5NU3k2Mi12SjVmVC1OSlpCaWZfeGt6dU1wcnNHb2QyNnkzczVpaExpeTNkMzRxQy1sZjJUV0JHeDVGVmxNMDV0b3FjMjAzcDFjQ1hBYzRFRVBDMFpwaTJUN2FNU0U1Y0lfZ0xY?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-29T16:12:38Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_87715",
-      "titulo": "ABSolar reúne autoridades para definir regras dos primeiros leilões de baterias no Brasil",
-      "lead": "ABSolar reúne autoridades para definir regras dos primeiros leilões de baterias no Brasil",
-      "fonte": "bra1.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmJxWjNmbmdNc3VUamF4ZHc4Ukd1V0s3SVVnRGJJOTFaTWFnOHZ2WS1JUUF1UnpiTVJNVVdkbmE1T21hYnBQOG00c2hMRVZFdTVJM2gzN3dacVp3SXoya0hEbDRORUtrWkdkeGZfcW1oOFBsbmFkNHg2M2czcFlNUHdRNFR1YW1aYS1XbklJNHhOR2luRjlvUEpzNVByMG56VkkyYl9oN1Nsc0l4a0JPcFExY3VGNm1sS1BYa0JHYXFkNDlsTC1IYVRDYzI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-29T15:59:00Z",
-      "dominio": "www.bra1.com.br",
-      "tambem_em": [
-        "BNamericas"
-      ],
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_52298",
-      "titulo": "Liminar impede CCEE de efetivar desligamento da Electra aprovado pela diretoria",
-      "lead": "Liminar impede CCEE de efetivar desligamento da Electra aprovado pela diretoria",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkxCMExsUHd2N2l6cUd4Nl9tMlFFRkRvcVFYeUVWRk1OdDNud012cldHUjBKanQ1b0J3bG5vQlBxRWh6M2xyejBFNFBRaXliNl9OaFo0ejh6Z25RWThJWHJLREdwVGlaOHJzLW01Vi1KeWNKMTV0WkVzS1hQQmgwcUpmWEhSMmVUVkRwdWZpdkZEZ2FIdnU5QTBVam80WTc2b2g3NFZuUUFwWEpvd1JjWF9JeEtCM1otV3ExZWE0WWFiNnhVaFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-29T14:32:21Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_37789",
-      "titulo": "Bandeira verde deixa conta de luz sem cobrança extra",
-      "lead": "Bandeira verde deixa conta de luz sem cobrança extra",
-      "fonte": "Hojemais.com.br",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYU9aUGhFbVFYZUZ1M2x5d21jcWxhT1M5VTlDLTVkZHF6MGpJU212aGMxX2YtRWFHbWU1Zl9uenBTVnVuRC1mdXRGVGJnR0ZoTXd2MlgzMFluOUQ3T3FSRWRaQXk4OWRCa290VzlBR2hSVFBkQ3V4RkluVklVZEhsOFVkUmQ3dVVBUEFTMzNOeXpRb0t4dmNBdFcxdlhKQUxLQXZjTmFQd1BwNXJsU2c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-29T12:51:00Z",
-      "dominio": "www.hojemais.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_79780",
-      "titulo": "Itália corre ao ouro das baterias: energia cria novo mercado",
-      "lead": "Itália corre ao ouro das baterias: energia cria novo mercado",
-      "fonte": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnRoZndNbzExa1o1czJNaEIxQVJxRHM5OHZsX2VQbWlRV3h0WjZ5N1NtM09oNWhveVNFbUEzajl1Sl9iUmFldXo4UEhlWmVYdXJIeXhnRmpDZHI5d0g4Y0lsLWRoTXBGY3JfRFFvdi1KenBIUlNEZ0txX1lubFZlYW5SODRjYmdsVi1ZLUVCdmhNVnB5RGl6ZEln?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-29T12:42:22Z",
-      "dominio": "pt.euronews.com",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_96282",
-      "titulo": "Electra tem defesa negada e será desligada da CCEE em outubro",
-      "lead": "Electra tem defesa negada e será desligada da CCEE em outubro",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEpqUGNFZU9nNjZQRmo1dmptcDRLMjBhNnAxOURLSXlHY2o1X3J3bm5jZWM4MDhkUk1lWEF2VmhwOEg1UUtsbFJER0pfTmk0dURKQXJMeVp0ZWh1aG5CUURyNC1xR3B2ZVBkMmJwNm9qaEhRT3BORHdzNXRidFBUYWlVOUgwX3U3TW5wbU1IWlZyWXF5WGVHWnBiMEl0QUh3dTlTblpHQTFOWVh0TTNLV3cwZ3U5N29uOXBF?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-29T12:36:33Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_69794",
-      "titulo": "Das ‘baterias de água’ às novas soluções de armazenamento de energia",
-      "lead": "Das ‘baterias de água’ às novas soluções de armazenamento de energia",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmsxVEQxY2J4U2I5SVBaQ3NHeml1VnRkQkozdlZ6c0xna3ctZHU3ajduZUtsSWNiXzBjX2tOMUFZVDlkbDVkR21mdGh5VGJNZ3o4empsaGVBTDJSaTljU3pUUVhIQXMyTDZuQVRWaWc0UUFGajlwcnMyLW5PZEJUYzc3UkFrdVJmWWpWY2tDaEZYRXJMNFczZ3hJbzhBVEhZMW03dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-29T11:35:17Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_72452",
-      "titulo": "Escolha do fornecedor e contrato entram no radar da gestão de riscos no mercado livre de energia",
-      "lead": "Escolha do fornecedor e contrato entram no radar da gestão de riscos no mercado livre de energia",
-      "fonte": "Além da Energia",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVBsWUhONE1JWlRDbmQ5ODJuWlBrN21RT1VOQ0hRZXlweTJNdEQ4QVgyckVpUzZmeWZLYkp6Q2p4QjZHaXJHWHAwdUgzU1BrcThPV3VGT2RKVy16eF9yM0JMLUlER0M1dHlILXRCNW1FV0tWQjNFQlplYk5hWl9ha1VvTEJDRTNQd0N1SjdRYU5SbDFRc2V3c3V2RGc4NEQxUXpz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-29T10:04:36Z",
-      "dominio": "www.alemdaenergia.engie.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

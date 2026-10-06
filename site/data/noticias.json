@@ -1,21 +1,117 @@
 {
-  "updated": "2026-10-06T00:53:59Z",
+  "updated": "2026-10-06T17:32:41Z",
   "total": 60,
   "itens": [
     {
-      "id": "mercado-livre_89755",
-      "titulo": "Mercado Livre Registra 811 Migrações Em Agosto, Com Avanço Do Varejo Simplificado",
-      "lead": "Mercado Livre Registra 811 Migrações Em Agosto, Com Avanço Do Varejo Simplificado",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmQxUVJvLWRDNVg3TjMwQTRkbHowYUtiN0Q2aC1tQXVSc1NjRTlDeGpxWGNqT0xGdnlLSk54aW5iQUZaU3BCVFFSc2QwT2JLRTJVTU1iVS1Ianc4cVRtb0pvNDFGV3IyUGRYcTUzQUxETFJKdkNXaU1zRUpSeXUtSUxPd0tZY0Rad1poYjBuSkt0d3Ayd25PbTRfdG9Hd0Y3MllxaUMxd25aX25zblE5S0Fzdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "id": "regulacao_2389",
+      "titulo": "Aneel buscará Anatel para acelerar resolução conjunta sobre uso de postes",
+      "lead": "Aneel buscará Anatel para acelerar resolução conjunta sobre uso de postes",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHVmV3YtRkFnek9KY2xfQkhieTdReDdnelROTUVuQnVuSktfVnBmbzl0X1BsclVIand2aktIVm9YNXdZcklPRVBiSkFhLUhMdnBNd20ydkRwMUc5ZGd3Wlo5aXZMT0xzT0VsMEE3dU0ydFFfTXFhVGp2TDVfR0l5M3lJODI3eDhnUld4N3F0b25mZ0hpOW5ZdGRISk54dkE5NGFXSWNtYWZMRGpESVF5eW14azA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-06T17:04:14Z",
+      "dominio": "www.poder360.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_83748",
+      "titulo": "AGEMS compartilha experiência de 24 anos na fiscalização de energia - - Folha de Campo Grande",
+      "lead": "AGEMS compartilha experiência de 24 anos na fiscalização de energia",
+      "fonte": "Folha de Campo Grande -",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnhpT3VISWN6VkU2U2JUcV8zNjBGTVhhSmJ0S1NvV0hiMkxYaTQ4Szd1Ti15M1Z0Y0NXTlIzNGhtOXNYdjVIZ3hVQzJRSWphRk50ZGp1Tzk0RHhLUTR3YndmQUZIenJaS09kajk2NW9EOTJib0g5MmRNOFVVOVhXSXJqbWx0N0dsa2RBVTB4eFl0NnN4LUhsQUtLb2ozUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-06T16:16:27Z",
+      "dominio": "folhacg.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "tarifas_13316",
+      "titulo": "Conta de luz não terá cobrança extra em outubro, define Aneel",
+      "lead": "Conta de luz não terá cobrança extra em outubro, define Aneel",
+      "fonte": "Portal Arauto",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGc2TzdocTByRllBLWFZYk1nbzQ1TEpEc3UwemlLUUs4YU1PQTRqZVhlbEQ0UDMxRGw5SkN2cnZNN0psRmZVR0M2blVyUmNGVi1zdkhnLVI4R2Jab1p0YUJBMTNYX3IyMkRZS19jeVkwSy04SWNMOEZpMXkwc1JQb3NnbTBVWFJqM2IxWW5BcXpqeDctZGZiMVBaallkajBtY2c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-06T16:02:00Z",
+      "dominio": "portalarauto.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "empresas_99879",
+      "titulo": "Leilões de energia existente mantêm risco de submercado com as distribuidoras",
+      "lead": "Leilões de energia existente mantêm risco de submercado com as distribuidoras",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRk9mNHRjYUJscFNaaVNlN0owekd0QUI1QTY2LUpMelhTLXZ1R1p4bkZNNjVhZ2I3ekVoUGNlek42cUg1Wmd0amNod281emVJcEluYkRBV1VpVTAyR0Rwdm9rUmVrazlsR3YtelRWTXhNRFhxNU8yNUNzckpZUWVqZTJScWIxQnhBcjNGQzhfbUJjajg0OGRTVG5IU2VQVVRnbThLWDY3akpqcG01LUx3amdkY3VrY1U?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1543304376-1ae7c2be5e59?w=600&q=70",
+      "editoria": "empresas",
+      "data": "2026-10-06T14:38:19Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "industria-generica"
+    },
+    {
+      "id": "regulacao_56960",
+      "titulo": "ANEEL aprova edital de leilões de energia existente de novembro",
+      "lead": "ANEEL aprova edital de leilões de energia existente de novembro",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0xtWkI0c2d1TUJqcTZWa3BZWE92VlRzbV90M21TWGNaMW5VV2ZNM0JlUnBaTUpURkg3UzdXQlNDbkl6REVJT0FodU5TZkhGOWZWZ1RyU2k5OGY3X2c2aEp6Q1lBNV9mTEhxd2dQM2RYM1pRYXNSUDIwejJ0VC1VYVh0S3JmM0VXZ2V3dnY1TkVPQzJXYldiRDIwTnNwaGJtZUN5aDhhdG1pU0E?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-06T14:03:45Z",
+      "dominio": "agenciainfra.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_91551",
+      "titulo": "ANEEL abre consulta para regulamentar regras de acesso à rede",
+      "lead": "ANEEL abre consulta para regulamentar regras de acesso à rede",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFJLMDdGVDQ0QjFqWHg4cU9QNW9IY1NTaHZRbFpRQ2kzZWNkb1VMcG1ha29OU3N4VHZJTjF4SXBEWVZPVFBtczN1VXd5ZXdYa3JZdGJXdzdSbTRhc2d5MUNleXZ0cFVva29TQW9kbkptWHBpYjFweU5zRXFEVlhCLUlTc0JWMnlYSjRvby04cDY0b1lmVi04?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-06T13:18:05Z",
+      "dominio": "agenciainfra.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_17299",
+      "titulo": "CCEE registra 811 novas migrações ao mercado livre em agosto",
+      "lead": "CCEE registra 811 novas migrações ao mercado livre em agosto",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV25DNlJ4LUpwdTVJMGtrWGc2YzNyaTZ6TlR0b0lBakhmd1FyZmpER1RkREFYRjRpRnJLeGlmU0NvZ2pwUncyMEdvUDctZGFnWUwwUVkzMUFzTGpKd2Q4RUlFdG9MbFVFNUNtUDRWZTQyR3FEUUVDZjdBVFFpTTl5bUdTY0JKcVB4dEFwUXA2bXI5TEhDY2c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-10-05T19:36:19Z",
-      "dominio": "cenarioenergia.com.br",
+      "data": "2026-10-06T01:15:48Z",
+      "dominio": "agenciainfra.com",
       "tambem_em": [
-        "Agência iNFRA"
+        "Cenário Energia"
       ],
       "tema": "precos-mercado"
+    },
+    {
+      "id": "politica-energetica_19490",
+      "titulo": "MME avança na compensação por cortes de geração com divulgação de lista de elegibilidade",
+      "lead": "MME avança na compensação por cortes de geração com divulgação de lista de elegibilidade www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa09KaTdyMkM0QVVvU2VMdDNxX3VhMk4tQXBFTEtXWXRBZnpEOFU2VF8teG5kdW5IX0hhUzdNSkNENTBrT0dOOUs2d3lHbFZzM2VPdlRMUVl6aGdKOFVIczNaYnNNNlFNOWpud0oxc0N1MXlhcDJVUU10R3BhVk5BbGVOcmphZ3d1Ty0wRDVVandRQ0JKcnJ4X0lZdXJnOWdZbmlfVktaVzNrcmhmb3I0OVFENWdiYjVGOUJQZHJZZVhrNWt2X3lJQ1cxT19fd2ln?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1546185058-592ead754d27?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-05T21:57:44Z",
+      "dominio": "www.gov.br",
+      "tema": "industria-generica"
+    },
+    {
+      "id": "transicao_92932",
+      "titulo": "ABEE-MT realiza FMEES 2026 com foco em sistemas de armazenamento de energia em baterias",
+      "lead": "ABEE-MT realiza FMEES 2026 com foco em sistemas de armazenamento de energia em baterias",
+      "fonte": "Crea-MT",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVhTMUZRYThpZ1RFLWNidEVCdGpSX1dZa0w4VW9hclh1QjJDZEl2YkxqTVFvUE9nSGdnNGxsdlo3Y2h4d3RQQmNmNWZRUDFCcmFoSF9NT1liZ3cxQUN1SGNJZnlSTEJTSm5WLTJBcndmXzBIR1JTMjdiUUdkdGFsMkhhWHFSMFdQZHdJLW4wdFFBcDB1bVQwVHV2Q1RORjVSVklTQkNab1BMOGZUZU1HYlh2Ulg2NldEdmhSTThsOA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-05T17:54:00Z",
+      "dominio": "www.crea-mt.org.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_34260",
@@ -23,7 +119,7 @@
       "lead": "MME autoriza Trafigura a importar energia do Paraguai",
       "fonte": "Agência eixos",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXBlU3YwR2NzX3B0alIwekVQWmwwd1d3NjhMa05LaTNucVBvc3UzUmxXSENfeVR1cE9VakVYUUl4cWdFd191S1lhT1BiVnFJSG5uZmZxTzhrODRvMkEwR0k4cmVDR2R2dUo3ODcxbmtDUW1xZXlSdzI1Q1pteERsY1UwYzNsRUtGNGl4QzJtNzBEV090RnM4?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-05T16:45:18Z",
       "dominio": "eixos.com.br",
@@ -42,12 +138,12 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_22932",
+      "id": "mercado-livre_84085",
       "titulo": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
       "lead": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzFsWThnMWRvUnN2OGIxRWhncldKcEw0c1pzVng2QkJ2V2Y5RzBzMXU2c0M5T0lMWkN3TWl2U1ZoaGNIV0w0cWotX2N4Ulg0cjRpQjVvYjlpbE1jZUZucGNuc1hLaW9HNkE2OXBIN1pNTC01RzVaYW0weVJlTXpRWFFNaHE3a0JHci14Y0JHWngya0s1WFA4eXVpNTVzOUlJS0lLWlZ5T1licUw2YjRGY1ZB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2Y5cTBUUjNnaDcyTFVIUEpaYU1LYjNsVDRNNE0xa3N1Sm9JLVdoQlBMRG5xWU96NWUzS054VnY5RHFVTDJBTUxUWXdVWlhzMGlBTHNlTmk5ODdzWGZGa25kNHR6VzhXR3h2OE5uZmhpRkpDWTZXNHhZdF9YdTZIdG9Xcmo5ZTVhaHNCOVhNeXJfZTFySHllckx2dDhzRENYT0pGUTA4TjRsckIxT3c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-05T13:22:00Z",
       "dominio": "www.ccee.org.br",
@@ -62,7 +158,7 @@
       "lead": "Rio Destrava Migração De Indústrias Para Mercado Livre De Gás Após Acordo",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFpGaFJMbGVNZlJuSC1famRvUk1YT0RyUDhXZk16MTFKVERWc3BMQkdVdWN3dXBFczhPOG1sWTV0ODdudHVkWmx2SE1iWE9DNzZ6MWRJNmk0NEJQTi1CdU9rb0NsS2p2UUV1alFiMmF1OVdBekhnX2xndVRfN0w3TnAzaVVQQ0hhYktIVTk5cjZjZGM4YnREeGdLel9VRzEyb3pKdDZvZHhid3hHaWhObGlOSlRWdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-05T12:27:36Z",
       "dominio": "cenarioenergia.com.br",
@@ -79,6 +175,18 @@
       "data": "2026-10-04T07:00:00Z",
       "dominio": "petronoticias.com.br",
       "tema": "solar"
+    },
+    {
+      "id": "regulacao_5469",
+      "titulo": "Aneel avalia corte de R$ 804 milhões no custeio do Proinfa em 2026",
+      "lead": "Aneel avalia corte de R$ 804 milhões no custeio do Proinfa em 2026",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGRjdDRJRUhjLWZ3T0tZaS1MVktiSTFSUU9OOUhpT21OWEhqSTZnRWpGS0hMTnNLSGl2VGwydk5QaFZkMmZtSUlzdnBVcDdnUXVEdjRoaGdIMEZBdTRiTjN3djZ0MEl5aC0zQkJsdkQyTEZRZW1ERDIyYTRONFhad01Nc2FmenJWWnZhVmJLaW5sYmMyNlplOXc2N3FZT0hEeUtrMEZ2Wk9zS2tvTE9RRU9iNTQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-02T18:26:18Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_5758",
@@ -185,6 +293,18 @@
       "tema": "consumidor-residencial"
     },
     {
+      "id": "tarifas_87373",
+      "titulo": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde",
+      "lead": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde",
+      "fonte": "Diário da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE5BSzBQUUh0TUl4eGZYcV9ZaXVPUmlJUm9hdzB6VFh6ektmYWVnUjZhWFpqMTgyRDAtUS04VURZN2VmWG80SlNCYWlDSmVJd0hpNHdnQ3RrakY3V25mVU1jaWUyLU5JZzFGODRqN21vOVF5WVh4ckZicDYyQkpzQ1BRNlpvbW1wdy1iRnI4Z1pGXzJuWVEwLXBSdkZOZVhTcnB0YmthMXJhd00?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-01T15:44:00Z",
+      "dominio": "www.dm.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
       "id": "mercado-livre_85144",
       "titulo": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
       "lead": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
@@ -237,6 +357,22 @@
       "data": "2026-10-01T12:57:00Z",
       "dominio": "www.bra1.com.br",
       "tema": "solar"
+    },
+    {
+      "id": "tarifas_33",
+      "titulo": "Bandeira tarifária será verde em outubro, diz Aneel",
+      "lead": "Bandeira tarifária será verde em outubro, diz Aneel",
+      "fonte": "Rádio Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11bWREdkNtaFRYTkVieEJKa0JmQmRnOVdsTnFrLU1NRjFUTi1UOEtSOGl1RF9YSExGMDE1OFpyblE1SHBPdTZnRGNxZHRmWjN6M0w3QTRvOUFsYVJ2R2xFSTRwbHVnMzdOSEI1OU81c3lnSWdSbVdYc05ZNm53UQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-01T10:15:00Z",
+      "dominio": "guaiba.com.br",
+      "tambem_em": [
+        "Enel",
+        "G1"
+      ],
+      "tema": "consumidor-residencial"
     },
     {
       "id": "regulacao_16597",
@@ -384,21 +520,6 @@
       "data": "2026-09-30T15:11:57Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "solar"
-    },
-    {
-      "id": "tarifas_48436",
-      "titulo": "Bandeira tarifária para outubro é verde: veja o que significa",
-      "lead": "Bandeira tarifária para outubro é verde: veja o que significa",
-      "fonte": "Enel",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmM3Q0FyVVQxd3ZNVXRIWGJpNFc3VTBEVW9qNi1Wb1hJckl4Ujgxa0I0WXRPb3pnMGw1bnI0TUF6UWF0Y181Z01kNUFaYlRscmFENW43ektvb3dsUEJPblhaV014VFljSVZ0TlJVNnJYQzdrYWNreElkNVEzZExuNFpGaHRBZlhEbDVHWFRXQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-30T14:56:08Z",
-      "dominio": "www.enel.com.br",
-      "tambem_em": [
-        "Folha PE"
-      ],
-      "tema": "consumidor-residencial"
     },
     {
       "id": "transicao_86184",
@@ -576,18 +697,6 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "tarifas_67318",
-      "titulo": "Aneel adota bandeira tarifária verde a partir de outubro; mudança vale para seis municípios do Amazonas",
-      "lead": "Aneel adota bandeira tarifária verde a partir de outubro; mudança vale para seis municípios do Amazonas",
-      "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT1FyRG1hT3VXUlJKb3ZRU2VuM1VaaFBGNkZOYVZBRDUtcVRPRWNFSVdOZGdxalFGaEZtQTR4Mm1QZnExQW5wdnNmRkxnQUFsYjZsNGxDQVY0TTJUcEtCbGJDYktUcGVNc0o0dTBCcHkzOGZ4ZWhiLVVfcGxEYV9zQXhWSmd3bVNXZ0JwYXhQNFFVMHVYRGlPMnh4YlZPSkFIeEstVkdHbXA1T2Rxd3FYVzZwdm1hNGVEM0RfSW1jMm40X0NMd09PbUJfcUVlN2RNMjRxOXRPQVBiMDZjckN2amNrdDkwanRGM3U1dF8tSW9BUdIBgAJBVV95cUxPVDJNNnhqRklkRjhUYmdrdlFzRHpnWHNoMlduWmVKZTBfYnBmRnloU1ZEZ0Q5ZjJTYy1CUk1HVGZPa3c5dDdzOUdRMVVHUVJnUGdGV0I4OGh4RzlEazc4Q0lCbzQyaGZRdEtGY1U3T2Jkc25mcl9TUDVDcmxHbTRuNXRIQkhqdFBXNjJ5cEUxZkFiMlU2VG1obE1VVGJqOVhZelp5eGJiaFhCX2pEMXhncVNqRTZVaGcyVDVyMzZkbm5zUVludE05NWFQVGtsbk11Q0tXcUxpNHBIRjFGN1p5S3NZSExhcFFRcWZGYUh4dkVJSlk4MUNQWmpaRDRFQ2hT?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-29T13:15:07Z",
-      "dominio": "g1.globo.com",
-      "tema": "consumidor-residencial"
-    },
-    {
       "id": "tarifas_37789",
       "titulo": "Bandeira verde deixa conta de luz sem cobrança extra",
       "lead": "Bandeira verde deixa conta de luz sem cobrança extra",
@@ -645,114 +754,6 @@
       "editoria": "mercado-livre",
       "data": "2026-09-29T10:04:36Z",
       "dominio": "www.alemdaenergia.engie.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_56762",
-      "titulo": "Excedente de MMGD pode entrar na contabilização do mercado de energia",
-      "lead": "Excedente de MMGD pode entrar na contabilização do mercado de energia",
-      "fonte": "canalsolar.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTJobUFNcGR2Y3hLUm05U0NteUdYa0lyMzhad2hralpETXNaZjQ3V3UzV2xKTHV5QUtlMVdYRnZwVVdDT1dkTW0xSUU4eEV0OVVTQ3NjcUcxYVlzanZyYjRtN2EyemhsejZqZUN0OWRBSTZpLVB3dVZWZDZDY1JSeTVB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-28T19:53:50Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_27382",
-      "titulo": "Com IA própria, GHC economiza R$ 7,2 milhões após migração para o mercado livre de energia",
-      "lead": "Com IA própria, GHC economiza R$ 7,2 milhões após migração para o mercado livre de energia",
-      "fonte": "Jornal do Comércio",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRFpkX1p5eHV1aV95M1ZsMnFQX3YwQkt0X3MyMXZNck5fa1loRjZCY0xaMlAxNkJ0b0ZkV1JyN2llUFlwN2ZER0dVejUzN29oOGlQcm1tSWNUNEZlNWluNVpxMEluZVl1QmZYMkVoQ3lRMmZOamwyMTdGWVJvMk4tTklnaHVEMGd5U3NGNVpucHptaWYyNm5UR0ZpTWx3cXBfcUMxdXFxRG9rTzlybTVCV3pnLXpFMnVvMk5mbWZJZm1PUXVSWXMtbjB0TWF3ci1xN1lZVzVmbWNhRDVFdkRhWGlhUWlSZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-28T18:16:55Z",
-      "dominio": "www.jornaldocomercio.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_76802",
-      "titulo": "Análise: Leilões de baterias testam as regras do setor",
-      "lead": "Análise: Leilões de baterias testam as regras do setor",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTmhyVFF4eTZFVXkydG05RkdwMUlVZ0pZTkNsb0Y1SWh2ejBtY05KTjdyekNFdWVaWVRGZ04zanhlaEd0dHR2c1VfeTA0eHNxMTd0TS1LQlVNNWxVREQtYnk4VzVBR2d2UzJnUU10cjA5ZE53ajF3VzJ2THM1QVJ2aHZ4aENNNHhuSHZjMVl1d19GUGZOZW9ZTUNfR3g5OVJmVDFuYVdLdzdYQy1Uc1l5WklhU1hiaXdEd2VTNWszNkpOMVdQVjJSNGhvUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-28T15:53:12Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_53429",
-      "titulo": "Por que a Tradener pediu recuperação judicial",
-      "lead": "Por que a Tradener pediu recuperação judicial",
-      "fonte": "plural.jor.br",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYTFPVDduTEp1MTg2aHVaVzBSRGNwaDZFWUUxZmQ3TFNpV0k1b3VNd3NVZjl2d1RqV19MZ1NlenNtd1FkMWRkMjhEV2dkRnR2MEdPSVFhRkxVWGJfbzVhUk1yY0FJMFVZMlFuS19zblFVbGowVjVXTnFHcEF5QWdWWUZzVWZJUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-28T15:28:16Z",
-      "dominio": "www.plural.jor.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_92634",
-      "titulo": "Inscrições abertas para o 2º Fórum Análise Setorial CCEE",
-      "lead": "Inscrições abertas para o 2º Fórum Análise Setorial",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2dKY25sVkt5YUxpUTdSMHRfaXZla2dwZUtBNFVMcHhTcWZYajJzTGFUWDlNY1JrcUVlMndfQkNMaE5SY2tyR0Fzam5vN1JEblN4SHFkZk9CaXBCU0pEZVE3Zk9mbTlURmhyMlU3ZGNMVVRXSng1cjB6Ym9iZHk0SEZhUTZOMlgx?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-28T12:37:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_10332",
-      "titulo": "Participe do Encontro do PLD, hoje segunda-feira (28), a partir das 15h",
-      "lead": "Participe do Encontro do PLD, hoje segunda-feira (28), a partir das 15h",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNSEhURWFzaDdkTlJkdGZiNGFudjdrUTIwb1hrWEtRQmxRc0hXd3pSRlFpbndGdXhfeHZVbmZHRzdISk5SX2pSNks3VnVxUEVLQmRGYjV3a3c3djdWVU1PWGgyay0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-28T12:13:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_17947",
-      "titulo": "Excedente da MMGD pode ser contabilizado na CCEE",
-      "lead": "Excedente da MMGD pode ser contabilizado na CCEE",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXIxNFBobTIzVEFSQXJKM3dNV3lSYlgteFVTekRoWGNZeXJJTzc3bmFVclp3Tlp2Ujlmck9zQXdiSVhpLWdPOGFYN05TVUZDUjBsX3R1TTZ0VXQySjFUbDhKMWZ5aWlhbVF0ZUNKMnpBN1c2dms0ZENNRlZkSDlHQUhaZnJHWTk4U25fTkpnM20?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-28T11:51:03Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "transicao_98433",
-      "titulo": "WEG investe R$ 330 mi em fábrica de baterias",
-      "lead": "WEG investe R$ 330 mi em fábrica de baterias",
-      "fonte": "aciara.com.br",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rM3NGbkVvdU9qRmc0SElWSktkRThtTy1IeV9wbTY0T2RMOWtQZjZsbU1QZVhHMzE2dDdVMng5eWRlbWZZN2Y3QThBM25jSm11NjM0TXV2Ykt6YzI4VTQyMDhDZ2llUV9CbU0tbjlxZ2ZNdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-28T07:36:23Z",
-      "dominio": "aciara.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_50475",
-      "titulo": "Opinião | Mercado Livre de Energia: como a escolha da fonte de energia impacta as metas ESG",
-      "lead": "Opinião | Mercado Livre de Energia: como a escolha da fonte de energia impacta as metas ESG",
-      "fonte": "Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3loV01BX0hXRXRtbTFCVUI3NlBhSzdKYUZ5RzBtMUVvQnJLbjM4Wk1QR25WZkx0VXQwcXdqQW54RWg3TF9DUXVKQU9adThIS0FiaTFhZnp6LXNmS0pyTFR3QWV3dWxiUE9odVBxQng3b0NrcnpYM2VEeFhpREFqb29Vdm0tSVNCRXdmYjFZTXZDVkh6YkU2LWdCOTNnWUowNWw5SHZ3YzVJWVZ4bk5pamlNSVBRcjRoYnRpNTZB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-09-27T20:01:13Z",
-      "dominio": "www.estadao.com.br",
       "tema": "precos-mercado"
     }
   ]

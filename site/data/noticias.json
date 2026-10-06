@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T20:02:42Z",
+  "updated": "2026-10-06T00:53:59Z",
   "total": 60,
   "itens": [
     {
@@ -42,15 +42,18 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_63016",
+      "id": "mercado-livre_22932",
       "titulo": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
       "lead": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2Y5cTBUUjNnaDcyTFVIUEpaYU1LYjNsVDRNNE0xa3N1Sm9JLVdoQlBMRG5xWU96NWUzS054VnY5RHFVTDJBTUxUWXdVWlhzMGlBTHNlTmk5ODdzWGZGa25kNHR6VzhXR3h2OE5uZmhpRkpDWTZXNHhZdF9YdTZIdG9Xcmo5ZTVhaHNCOVhNeXJfZTFySHllckx2dDhzRENYT0pGUTA4TjRsckIxT3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzFsWThnMWRvUnN2OGIxRWhncldKcEw0c1pzVng2QkJ2V2Y5RzBzMXU2c0M5T0lMWkN3TWl2U1ZoaGNIV0w0cWotX2N4Ulg0cjRpQjVvYjlpbE1jZUZucGNuc1hLaW9HNkE2OXBIN1pNTC01RzVaYW0weVJlTXpRWFFNaHE3a0JHci14Y0JHWngya0s1WFA4eXVpNTVzOUlJS0lLWlZ5T1licUw2YjRGY1ZB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-05T13:22:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -83,7 +86,7 @@
       "lead": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeU5RS3dPbHBmVDJMeDZZVmN3OWZpNE5GcmtNdy1MYVZIX1hQY0JjWDZZNFZnNzNoWEpTNU1ZakdzR2tWRTFhY01HWmNEMEpEaHJ2Y1BiUzE1ZXJEU2JtcDdvd1ZlR3ZTSUV0MVFOTGxqcWtodWJETTZRZXJORzhtVGhGZVQ3WVA5WVJOb25KMUFiMmVuWjZXNzhHbWJ5YkF6UmM4WUlkLW0tMUhoSkVreVpIdG1qUG8xS2hOSlhUWHE5Umo3d2xndU5UT3dmZlZxaFFGWk9iTFRGcmZHTVZndzgydE8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-02T18:00:00Z",
       "dominio": "www.gov.br",
@@ -177,7 +180,7 @@
       "tambem_em": [
         "HoraMS",
         "Diário da Manhã",
-        "nabocadanoite.com.br"
+        "Portal Na Boca da Noite"
       ],
       "tema": "consumidor-residencial"
     },

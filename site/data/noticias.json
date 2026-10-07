@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-07T18:04:17Z",
+  "updated": "2026-10-07T23:39:09Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_89193",
+      "titulo": "CCEE tem quatro projetos reconhecidos em prêmio nacional de melhores práticas jurídicas",
+      "lead": "CCEE tem quatro projetos reconhecidos em prêmio nacional de melhores práticas jurídicas",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMk1fdUxSbG11RWFuTWNYN0RRWFN3T0xLX1hVblRGQnpDOWlwN0lnUmRGOGJ3aGRwLVQ5cDNxVFB4TE9HU1o4ZkhsbHQ4VEtKSWFMSVNjRjVUZUNSWUx2UkdYSlM2MUVxMVgxUmFrMlZkeVFPall6N3VJbEloZTJpX0czUXU2WGxzRl9Rc01ZOFR0YlRpTGhNQkpybk80dmdOMmtmSkI5ZE9Dd1pIVlVfQUZkYk1SeXRubFFyc0NPN3A?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-07T20:58:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_84636",
       "titulo": "Vitru Educação reduz em 40% os custos com energia elétrica nos campi através da migração para o mercado livre",
@@ -747,18 +759,6 @@
       "tambem_em": [
         "Cemig"
       ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "tarifas_31863",
-      "titulo": "Outubro começa com bandeira verde e Equatorial Goiás traz dicas para usar energia nos dias quentes",
-      "lead": "Outubro começa com bandeira verde e Equatorial Goiás traz dicas para usar energia nos dias quentes",
-      "fonte": "Tribuna do Planalto",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSnBkX1BoOTUwMGlzUENlNnE1X2h4NFVsZEc2SlYzbmlJMUxSZTJpUmxhNHBLWlFGQzFiTGlLaEhXMVNENlY0NDlzelZxUFdpRjhZeEYxVTR2Nk1rTHVoUHhtTzZ6U2lHeHhaZFNVNmRNUDAwRkg2UlJlT193SHlrWGhiU0ptMXVQT0ViQTdKUXdhRHpqNWtyMDdQbGxXYTlzUEZGd3pUM1BZT0hlN0NMVDMxanVRS0N0NXNiV1Y4ODExNVhnOWVLazZOTGQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-30T17:08:00Z",
-      "dominio": "tribunadoplanalto.com.br",
       "tema": "consumidor-residencial"
     }
   ]

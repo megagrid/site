@@ -1,17 +1,68 @@
 {
-  "updated": "2026-10-07T23:39:09Z",
+  "updated": "2026-10-08T18:06:54Z",
   "total": 60,
   "itens": [
     {
-      "id": "mercado-livre_89193",
+      "id": "mercado-livre_21726",
+      "titulo": "Mercado livre de energia: crescimento da concorrência aumenta necessidade de informação para o consumidor",
+      "lead": "Mercado livre de energia: crescimento da concorrência aumenta necessidade de informação para o consumidor",
+      "fonte": "Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaUVtdjRoYWp6czlWb0xQVEdGUTN1MmhTX2VUeW5uRUNGT0RlSTVQRThycjRUU1RWNnlRcF9ZSy1YRG9KMGRXT2kyRnl3US1JdVJnZjNZNFJoWnM4d0JwbjNVcTVZd2JmOUpJX05udDFFN05JajJERjR1aE5RS01VNVBYUmtGdXJHMnVuOXhVUGd1eVQ3VldJQ2pUNlZrbW54NlJaZmVFRktqRWplMkFnT1U0Rk11MThramZXMHVlRk1JSTRXWENaeUpXYWw5Q2hSVW5OVXJKcnJ3Z25ndUtxMUZPSTFfRWVXWVdRNFFHemRUU2xIbHdmQmpMSjRadUhpMU1rTWo2SFFoR1dLUElldWtRMVZZZUU1eUHSAZoCQVVfeXFMT2lFbXY0aGFqenM5Vm9MUFRHRlEzdTJoU19lVHlubkVDRk9EZUk1UEU4cnI0VFNUVjZ5UXBfWUstWERvSjBkV09pMkZ5d1EtSXVSZ2YzWTRSaFpzOHdCcG4zVXE1WXdiZjlKSV9ObnQxRTdOSWoyREY0dWhOUUtNVTVQWFJrRnVyRzJ1bjl4VVBndXlUN1ZXSUNqVDZWa21ueDZSWmZlRUZLakVqZTJBZ09VNEZNdTE4a2pmVzB1ZUZNSUk0V1hDWnlKV2FsOUNoUlVuTlVySnJyd2duZ3VLcTFGT0kxX0VlV1lXUTRRR3pkVFNsSGx3ZkJqTEo0WnVIaTFNa01qNkhRaEdXS1BJZXVrUTFWWWVFNXlB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-08T14:43:08Z",
+      "dominio": "valor.globo.com",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_93077",
+      "titulo": "Cinco “fios soltos” do setor elétrico que levam à mesma pergunta: quem paga a conta?",
+      "lead": "Cinco “fios soltos” do setor elétrico que levam à mesma pergunta: quem paga a conta?",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWJJMzBTSUp4SEI2bkdDR0ZSM2dLUDNXWWRQQlJDb1c5ZVJlamRFaC0tR0VJZjUzMmc3T2ZrYXQ3S1pKQmV6YUI5STM3TGMwUjZvdXk5ODF2X2lyY3Q2d0R0c01NQlN4SVNyUERWbGlyTnJkWi1xa1paQ2g1T2NKU3F4eE5COFgtNTB1Nzh5alhpZmJWSk5QSm9MSEhMdFdJcnlGTGRaYnAwaEExQng0OQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-08T14:28:05Z",
+      "dominio": "eixos.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "transicao_35639",
+      "titulo": "Armazenamento: como baterias dão flexibilidade ao setor elétrico",
+      "lead": "Armazenamento: como baterias dão flexibilidade ao setor elétrico",
+      "fonte": "Além da Energia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHZSOWQ0Ti1yZm95bnlmZ1NTaHVxaHJaYnNJSGtOUkFqZl9BYk5zV0twS3gwM09qVFlQeWg0N01BTDc3dEE1ME9IMUo5Ykl4RGMyakdUVkVpS0hLZjZpVjhZN2VwYjBVQm5SUmhQLU8xMFhadGx1Zml6UVk2TzlNZExnbF84LXB5M1dXYmMtOE1ReVNzX0FWckdXQnZfUnV3Q0FZRDBn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-08T10:04:56Z",
+      "dominio": "www.alemdaenergia.engie.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_49680",
+      "titulo": "Ações do CMSE garantem encerramento do período seco com reservatórios em níveis superiores aos do ano passado, mesmo com o El Niño",
+      "lead": "Ações do CMSE garantem encerramento do período seco com reservatórios em níveis superiores aos do ano passado, mesmo com o El Niño",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVUcza3RSV0lfVDZrSUFsSC1kSmtaM3Bwa1Z4aXF6bDVTVmRmZTloeXNMNUJaeGs3YXpnZl9BbEMtOFZ4V0NZbGF6VGdYNkFtaEVzQVZJYXFWb0Z2dHp2N3h5RlB1dzdhTFc5QjkwZG9CYU1fYXUwTk1NeVBBNktBbEI0WGc1WDNFRlJIdEk2VDhFeGVWZ1Q3WTJMOWRQSVFuWmxVVm51TUF2TnIwclktQXV6RWZOV1pnQXlzZng3Z1Z6VFB4cUpxMmZlZHBBUTZHWFZtUWJLMzRhMGxsUF90R2dfdEhGeGN6RHJRZlRqbTdCalUyOUFjQ05laDlLaURnQnJaQ3lFaw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1705747894609-6a7d17a8cfb7?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-08T00:19:44Z",
+      "dominio": "www.gov.br",
+      "tema": "hidreletrica-reservatorio"
+    },
+    {
+      "id": "mercado-livre_13204",
       "titulo": "CCEE tem quatro projetos reconhecidos em prêmio nacional de melhores práticas jurídicas",
       "lead": "CCEE tem quatro projetos reconhecidos em prêmio nacional de melhores práticas jurídicas",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMk1fdUxSbG11RWFuTWNYN0RRWFN3T0xLX1hVblRGQnpDOWlwN0lnUmRGOGJ3aGRwLVQ5cDNxVFB4TE9HU1o4ZkhsbHQ4VEtKSWFMSVNjRjVUZUNSWUx2UkdYSlM2MUVxMVgxUmFrMlZkeVFPall6N3VJbEloZTJpX0czUXU2WGxzRl9Rc01ZOFR0YlRpTGhNQkpybk80dmdOMmtmSkI5ZE9Dd1pIVlVfQUZkYk1SeXRubFFyc0NPN3A?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGwzT29yY05Yd1FjNURsVGlzb3JEelV2VVZCS1pFc2gtQXpaWDdFS3lvc2JWTVlneGR3NFV4ekticU90amYycndJQy1mR3BQa1VFbzR6NEdBR2p6MllJT2ctcF9ZNVNzY3lEb3hYaEFWYV9Va3ZSYjNETkZwYk1ibGpJZzUxcWdrN1puM2ZKcVdPTzFhNjJhR0Z3cERiTFNGQlhWZEE0WXdiTFF6ZkJ0cWEtbw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-07T20:58:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -20,7 +71,7 @@
       "lead": "Vitru Educação reduz em 40% os custos com energia elétrica nos campi através da migração para o mercado livre",
       "fonte": "Business Moment",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOE9rRzh4U1NFMFlMYmNTOWJhdExyZ3Q5dDBtQ1hOZWxmUDAtYWVsejhGYlgzMGtkeVQtRkVsZWREM21rV254U0xRSnhfZ0JRb3hCNThid0dyVmRsalZHX3hVWUhJV1hzRTdIeURrTXhQUTgwX0dvMy14LUVXbjV1MXNOcE9sNTR3aV91bG9vV1J5UC1sR1hNamU0ZU5NQjBRcDBNNEd1YjNUSkYyRWx0bE82dzJCLVJqUmJJVDF2TTMwYkZJTnpXd3FSb1B1ODFSQlZwSEt30gHeAUFVX3lxTFAyemZjQmhNY2t2aVdwTUEtTkI5RWJRR0JfclFZXzQwODkxSGNwNlEyTVltWTVtUUVNaXJQcVM4X1ZkYnU3WlpiTTNUTnhDVE5NSDFHZmY4clN1UmRzQ1VaaENtZW1nT2VGYmt6UjJvN2x1dWk3VUpVQ1I4bkVFeUlLeHk0LS1BNTltMFJuaUZxdGo4M1lyZzc5OWVDNHdEQk5UM2VJek8tX3NnaTd4ZlN6S1NhWl96YTNmQnJ0aEduYjRjYlpmOWx3LUFQbFNfNGVadllkdlFybWV4dFJ0dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-07T15:33:40Z",
       "dominio": "businessmoment.com.br",
@@ -39,12 +90,24 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_78907",
+      "titulo": "CCEE desenvolve plataforma própria para a operacionalização do 1º Leilão de Gás Natural da União da PPSA",
+      "lead": "CCEE desenvolve plataforma própria para a operacionalização do 1º Leilão de Gás Natural da União da PPSA",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLS1QYjVqZXdKS0lqVFV1WDBpUGRWcjR3NElhUjdMQnpnVkVtbGpzMnhfcW1HTXk3MDMtZTgzMTU2VXdtNVBLQUl6UERaakhiSWdHT0lDdHVzLTg2WldoaF9jeTFzZGcwR1JqSW9xc21YQ3JEanhRYUxBZ3F6YmVVLTk0UmZEQ1lkc3hTUXZMWE9rLXRzaDIxVHNWcTJKMloxN2MwcUk2dWRodWZUUlc4anJEXzJFZkxGbmdFWS1TbU1qb05Md1ltNw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1585252155261-cff31944d781?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-07T15:18:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "termica-gas"
+    },
+    {
       "id": "tarifas_13990",
       "titulo": "CONTA MAIS BARATA – Equatorial alerta para consumo de energia mesmo com bandeira verde em outubro",
       "lead": "CONTA MAIS BARATA – Equatorial alerta para consumo de energia mesmo com bandeira verde em outubro",
       "fonte": "Excelência Notícias",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTUtKQzdSTHkyNkZUc1dvS3p6S0s3Mlo2d2J4ZlVybnZ2TTlKTmFtcC1Kd0ZKX0oySUo2QXR1cjE2OTBZUUZqSWNYNGU4d2VXbHNvb1BpWVNqRjVUVmQ2LXVjSlJxZndwV3RzcHI2b2h3bGptajJPS29TRjhUWmRqeGhncWd3UTB1TjctVnJmOGxGS05JejFubDVZd2h0VVNNZnpsOWk2QlVpNFhsaGc2UzdBYkFTaFdHbFMtY1RIU1JZbDBob2JoLUgxVUg4bzZ0bFF0VVFBWmI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-10-07T14:38:28Z",
       "dominio": "excelencianoticias.com.br",
@@ -582,11 +645,11 @@
       "tema": "consumidor-residencial"
     },
     {
-      "id": "mercado-livre_85144",
+      "id": "mercado-livre_22184",
       "titulo": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
       "lead": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTm1aSU9TZmRWeHVZaExBaVA5TWw4QWQxbHBueFVIOGduQzY3WTBmMTJDOHpTUWRFazQ5Yl9RaHhTRy1lMkVCSHlyVkZ3UkFOSzhpT3hYUmxZZGZXOWNHdTVpaWxhSXVMRXhIQnc0RVh5ZnlJSGhwcnhENWZ5ZDBUNDQxZmt4VHh4NmlBV1h4QXJuLUZpaWVoTW5SLUplLWR4LWtKVF9udjM3Z2diS29aTkJ3ekJZamhiZlRKdl9GemRnTENONlNjYnV0WFJlSHpmZ00tTGR3SGZuVUhI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUDI2QlhQdDVTZmtSY0l6RlE4bHJ5aEhoZzFvNUpaeXFDV0gtTnNWU2VBb2RrdXJUTThXSzlsZmR1aWNVa0N3TV9WZ3ExS2JwRHkxNDlVNldfZ3RqY3JuczhBbjFTS01iVXhaZzhMbF9RY3puZnl1YjNjX0VseEc1eGM3b3B2eGVXc1p2NlhNemFqOUFWeTJQVm4zNTZQYnRsTjRyaC00bDNDeTRKaGowTzlwM1ViUHVEX1hsVzdVMkEzeWV6a2RzQjFXbkJLNHM?oc=5",
       "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-01T14:03:00Z",
@@ -697,69 +760,6 @@
       "data": "2026-09-30T21:47:00Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_31530",
-      "titulo": "Reidi para baterias esbarra em teto de R$ 1 bi e reforma tributária",
-      "lead": "Reidi para baterias esbarra em teto de R$ 1 bi e reforma tributária",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHZHM0k2X3l3NGc1a1FKVXFSTXc0U1RnU2hreVJkbkVXNE4wSGJJMFNDNFh0eGNrTjZaOXg4R09SV2QwcE5CQXRkenpqQ3RsVDV5MVIySi1wZWJvQ3M4YzlrcmFjY2pyY2stdVdZU0dfUHhwNEQyb0drVVVJVXA4LTVQUEtYZTUwZENaNXQwTFlQS2w2U2tKVjVmUklZRGJELWduTEN3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-30T20:49:43Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "politica-energetica_1741",
-      "titulo": "MME define agenda de leilões de energia até 2029; veja o que está previsto",
-      "lead": "MME define agenda de leilões de energia até 2029; veja o que está previsto",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tQmFpV3lvSlJzSWIwM3IyWUhILUJNdXFsaW5yTi1ZbEF2UTJEMWhpaFNlbzVrNEJXUEpkT0ExZ05LcWduV0k4cVAxMl8xaXVreEQ1eHRfUlZiMkgxUTFUdEhSWEhxRmVtTWgwdVh2RQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-09-30T19:35:21Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_88917",
-      "titulo": "Baterias entram no calendário de leilões de capacidade do Brasil até 2029",
-      "lead": "Baterias entram no calendário de leilões de capacidade do Brasil até 2029",
-      "fonte": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEJhV1ZaSjdDa1B5Y3d4U1NvUHFxQ0RSTjEzN1Q3ekdubkIycWVxOUNNUGI0TjdHdGJmU1llS2piR1hYc1lDcmFkbTJ5a21DRlJPdjlxUUxHRGxiajQybGs4U3NVU3gzd1VMcXRPdFl0UlVPak1lOXJ0bVNVNEdoZU5YQnBaaVY4Tm94djA3aUpvU21lUlVlQ3R3cHM5d1dPTVEtUENOU1dFTi1ZZElaSTRn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-09-30T17:31:44Z",
-      "dominio": "www.bnamericas.com",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_57541",
-      "titulo": "ANEEL rejeita recurso da Enel SP e encerra fase de instrução sobre caducidade",
-      "lead": "ANEEL rejeita recurso da Enel SP e encerra fase de instrução sobre caducidade",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45ZDRZME0yYUNVemxQcmJHUnpnZHRpenZjZ2ZwWmdWeVpaV3VXbGFZUlZNWkc4YlBuRzUzcE9OOFdDb2dDVnhydk10VlJpOEppdkdhMWR3b2l2XzFFN2JtVUZTc1g1b1E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-30T17:27:53Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_53399",
-      "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
-      "lead": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
-      "fonte": "Portal Diário do Aço",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNzRWRFgyMFB1X3p1UUUwZVJOcHEwTVBRcVZUa2dxSk9oVXhNT1M4N2N5QlhkMjV4VkRGd1lyeG45emdjNnB5WDlFRTJoN0xqajdnM0Y2cVVGVWNqamk5OF9fMkFPaXRxOXFPVmVMcjluekxTSDlIeVBXa1d2VjlfU19jbHBaeTh1Mnp4SnltLUk1cktmR0Y3dTNqeXZfTTBrU3g1MlNBQWhGZ0ZJNDNiWVcyRXJxREFxak8yUEFLaEpqaVQwcWF6aWdxcHZWTGlmY0wwcmJ4eG5ERElmUU1HVUctSXFKUHhQaDRxU05JZ3dOX05GWjZN?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-09-30T17:09:00Z",
-      "dominio": "www.diariodoaco.com.br",
-      "tambem_em": [
-        "Cemig"
-      ],
-      "tema": "consumidor-residencial"
     }
   ]
 }

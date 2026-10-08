@@ -1,14 +1,50 @@
 {
-  "updated": "2026-10-08T18:06:54Z",
+  "updated": "2026-10-08T23:49:52Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_32089",
+      "titulo": "Operação do mercado livre de energia orienta programa de inovação aberta da CCEE",
+      "lead": "Operação do mercado livre de energia orienta programa de inovação aberta da CCEE",
+      "fonte": "Brasil Inovador",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3R1VlhMRzYzcU00OVFhOFlZNXpXcFprbVBwcFVsUlVDbzlEdnc4Q1ZnSEZNcnd4ZDJpcDhBVU1hWVl1Rl9QYXMySGFNZFJPdG8zbm13M0c0X1lYTlppVUxJMmFZZ2dmdm9hbjl5Q3EwWC1Wc3JzbWlmSFdReGhqWjZNYktOMFh5RTlONnhSUjBWNGtUWWZ0VWxrdks0aFFkTm10T2FsRExqcTR6NFMteA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-08T21:02:58Z",
+      "dominio": "brasilinovador.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_62747",
+      "titulo": "ANEEL estabelece novas regras para cortes de energia",
+      "lead": "ANEEL estabelece novas regras para cortes de energia",
+      "fonte": "Correio do Povo Penedo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSXBvX2xFLXV6R3R2NlB1NFpMcXo2S1Myc1pEb2ZKY3Vfa1o4MG1ZWlRwbW1sV0hOY1JyY1N4dEJjVzR5WHNyMmhvUFoyZm1FTEVzTXBieHhOb3pWUXZHX1g4MEdhWEJqZ210eVF1Rk9zWnR1cFlROG5kcFQtOGhmRzZkNTRHRzh3NjVpM1VlMGlndG5mekh5bGYyM0dqdVZqNkJOeTNB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-08T19:15:05Z",
+      "dominio": "correiodopovo-al.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "tarifas_55840",
+      "titulo": "Conta de energia não terá cobrança extra de bandeira tarifária em outubro",
+      "lead": "Conta de energia não terá cobrança extra de bandeira tarifária em outubro",
+      "fonte": "Portal ON",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajNWMndINWlUWk42bnJybFY3Y2hDSm1Lek9NcVhWeS15dkgyVURwbkV2cnJhNmVfc2ZuVWkyNjVXb285aGpXOHpuZnB2SFlRa0NvQnZ3MFBOMERTeVViS21xQjVSRHhxTFA3REdIc1p3NjhKYTlaMksteWRKSGFFNEFPMFNodVRMSl9XQVpvQUxScmRad3ZoaFFiTzR5R0RzaENYeHBicldLTDA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-08T18:02:45Z",
+      "dominio": "portalon.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "mercado-livre_21726",
       "titulo": "Mercado livre de energia: crescimento da concorrência aumenta necessidade de informação para o consumidor",
       "lead": "Mercado livre de energia: crescimento da concorrência aumenta necessidade de informação para o consumidor",
       "fonte": "Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaUVtdjRoYWp6czlWb0xQVEdGUTN1MmhTX2VUeW5uRUNGT0RlSTVQRThycjRUU1RWNnlRcF9ZSy1YRG9KMGRXT2kyRnl3US1JdVJnZjNZNFJoWnM4d0JwbjNVcTVZd2JmOUpJX05udDFFN05JajJERjR1aE5RS01VNVBYUmtGdXJHMnVuOXhVUGd1eVQ3VldJQ2pUNlZrbW54NlJaZmVFRktqRWplMkFnT1U0Rk11MThramZXMHVlRk1JSTRXWENaeUpXYWw5Q2hSVW5OVXJKcnJ3Z25ndUtxMUZPSTFfRWVXWVdRNFFHemRUU2xIbHdmQmpMSjRadUhpMU1rTWo2SFFoR1dLUElldWtRMVZZZUU1eUHSAZoCQVVfeXFMT2lFbXY0aGFqenM5Vm9MUFRHRlEzdTJoU19lVHlubkVDRk9EZUk1UEU4cnI0VFNUVjZ5UXBfWUstWERvSjBkV09pMkZ5d1EtSXVSZ2YzWTRSaFpzOHdCcG4zVXE1WXdiZjlKSV9ObnQxRTdOSWoyREY0dWhOUUtNVTVQWFJrRnVyRzJ1bjl4VVBndXlUN1ZXSUNqVDZWa21ueDZSWmZlRUZLakVqZTJBZ09VNEZNdTE4a2pmVzB1ZUZNSUk0V1hDWnlKV2FsOUNoUlVuTlVySnJyd2duZ3VLcTFGT0kxX0VlV1lXUTRRR3pkVFNsSGx3ZkJqTEo0WnVIaTFNa01qNkhRaEdXS1BJZXVrUTFWWWVFNXlB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-08T14:43:08Z",
       "dominio": "valor.globo.com",
@@ -20,11 +56,35 @@
       "lead": "Cinco “fios soltos” do setor elétrico que levam à mesma pergunta: quem paga a conta?",
       "fonte": "Agência eixos",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWJJMzBTSUp4SEI2bkdDR0ZSM2dLUDNXWWRQQlJDb1c5ZVJlamRFaC0tR0VJZjUzMmc3T2ZrYXQ3S1pKQmV6YUI5STM3TGMwUjZvdXk5ODF2X2lyY3Q2d0R0c01NQlN4SVNyUERWbGlyTnJkWi1xa1paQ2g1T2NKU3F4eE5COFgtNTB1Nzh5alhpZmJWSk5QSm9MSEhMdFdJcnlGTGRaYnAwaEExQng0OQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-08T14:28:05Z",
       "dominio": "eixos.com.br",
       "tema": "solar"
+    },
+    {
+      "id": "transicao_13379",
+      "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar?",
+      "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar?",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qUi1WeHd2VlM0dG9ESEVIcE9YblFCdS0ydzU5dC1iUnM3RWx2bmEwcmFPRkplSmgtaVFVRlUxRXo2R0lVU09Zdk40NGpfUHNKcExwQ3QtY1J4YUNxaHptaTdNMENKZExlanRUVlU3Zng4dw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-08T13:08:14Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "mercado-livre_30518",
+      "titulo": "Últimos dias: garanta sua vaga no bootcamp de cocriação com agentes",
+      "lead": "Últimos dias: garanta sua vaga no bootcamp de cocriação com agentes",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2w5cFZVWGtXLTVYQ1A3TmpsMjQ5Wks0SjFyV2drV0hiS3RnMklwY0VoNVQ1Rko3R1JXSjdKTnJEWEtBOF9BMzJ5VG5HU29SbWVvRzZPcXJaX2IxSzZCNFo2ZkNyYnZPbjZJbjh6OGpjeElnM0RhYXN6T1VMTTl3MWFSR2s3STl1MFZlMjhyNjBqbnlfLVdJUGJ3WHl1LXhjakh0cQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-08T13:02:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "transicao_35639",
@@ -107,7 +167,7 @@
       "lead": "CONTA MAIS BARATA – Equatorial alerta para consumo de energia mesmo com bandeira verde em outubro",
       "fonte": "Excelência Notícias",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTUtKQzdSTHkyNkZUc1dvS3p6S0s3Mlo2d2J4ZlVybnZ2TTlKTmFtcC1Kd0ZKX0oySUo2QXR1cjE2OTBZUUZqSWNYNGU4d2VXbHNvb1BpWVNqRjVUVmQ2LXVjSlJxZndwV3RzcHI2b2h3bGptajJPS29TRjhUWmRqeGhncWd3UTB1TjctVnJmOGxGS05JejFubDVZd2h0VVNNZnpsOWk2QlVpNFhsaGc2UzdBYkFTaFdHbFMtY1RIU1JZbDBob2JoLUgxVUg4bzZ0bFF0VVFBWmI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-10-07T14:38:28Z",
       "dominio": "excelencianoticias.com.br",
@@ -466,11 +526,11 @@
       ]
     },
     {
-      "id": "mercado-livre_84085",
+      "id": "mercado-livre_39065",
       "titulo": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
       "lead": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2Y5cTBUUjNnaDcyTFVIUEpaYU1LYjNsVDRNNE0xa3N1Sm9JLVdoQlBMRG5xWU96NWUzS054VnY5RHFVTDJBTUxUWXdVWlhzMGlBTHNlTmk5ODdzWGZGa25kNHR6VzhXR3h2OE5uZmhpRkpDWTZXNHhZdF9YdTZIdG9Xcmo5ZTVhaHNCOVhNeXJfZTFySHllckx2dDhzRENYT0pGUTA4TjRsckIxT3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBFV21uUzh0SGFnc3BUQXV2MEswWXRQdEF5QkFpX3kweVBvWDFVS0pwcEwyQ0hBU1FHZUhQYzYwM2laa3dOeTZJNzJpQWVUMl9hajVCcTZXUXM5MWdPM0lBTHNSNE05eWNfbktlbFl0eHBUMnRkRkZmRnY4TW1UaGEzcXRIeV9CZlc0ZEdkUFNzRDI3dGhwTDNzeE0xSEsy?oc=5",
       "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-05T13:22:00Z",
@@ -498,7 +558,7 @@
       "lead": "STATKRAFT RECEBE AUTORIZAÇÃO DA ANEEL PARA OPERAR SISTEMA DE BATERIAS EM USINA SOLAR NA BAHIA",
       "fonte": "Petronotícias",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTRVam1tRm8xM2FYTFJ6OUt1QmM0QV93cjlEaVZZSE1pZ25ZMHJtMzBmQ08xMmR3Nnd3dGJoUWxPMVYxNUdMc3pLMllBZmItWnM3bEVjVlhPVl9oaXJsSkRxR1JzVmtYeURYNGVuYnBzb1VDSzFuZno0VGVxWHVreDNWbk9fWUg3NFVZcU8welI5WktWcURIOEQyNnF3NjVFRDBoZWh6ZWpHek1oTkZtTUxVck03STJDMVlEZk5zWjI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-04T07:00:00Z",
       "dominio": "petronoticias.com.br",
@@ -697,69 +757,6 @@
       "data": "2026-10-01T12:57:00Z",
       "dominio": "www.bra1.com.br",
       "tema": "solar"
-    },
-    {
-      "id": "tarifas_33",
-      "titulo": "Bandeira tarifária será verde em outubro, diz Aneel",
-      "lead": "Bandeira tarifária será verde em outubro, diz Aneel",
-      "fonte": "Rádio Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11bWREdkNtaFRYTkVieEJKa0JmQmRnOVdsTnFrLU1NRjFUTi1UOEtSOGl1RF9YSExGMDE1OFpyblE1SHBPdTZnRGNxZHRmWjN6M0w3QTRvOUFsYVJ2R2xFSTRwbHVnMzdOSEI1OU81c3lnSWdSbVdYc05ZNm53UQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-01T10:15:00Z",
-      "dominio": "guaiba.com.br",
-      "tambem_em": [
-        "Enel"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_16597",
-      "titulo": "ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026",
-      "lead": "ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026 www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPeUVEbjZOV1RvZkNTcWdpQTYwb2hWdlB2NzZZeC0tdEhEcTBsbl82NWhLNEx5RUxYMG5mdmRQOEIwM0RIaVB1b0FRb040dkZSWjl5eFgyYi1DNURRLXBOaTVTeU82Q0U3clIwUUg3VVJYaS1jZnB6QU44UGhITi1Nc1ZXQzFWSk50c0FaRXZUWW1LMXlmWXJ2OFRyZHkzcy1rR2FXZVRwd3piV0VYRGdQUTJ5T0RpbDNPVnJsWW5QZUxsQWNuNFZRQWpFVFpfU0Y1RWh5Z3pScUlSRTM0TW1pYnlSZVJMNDdndVR5N0pUVkItUTg3TTdkU2g2eXRfRUJHTmlXTDU5czJmdEp1VDBLWmxBME0tQmg3MEp4RTRPczVtN0ZHMUR1Rk5pRzZGRDhlaEdn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-01T01:59:55Z",
-      "dominio": "www.gov.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_16051",
-      "titulo": "Leilão de baterias: um novo cenário no setor energético",
-      "lead": "Leilão de baterias: um novo cenário no setor energético",
-      "fonte": "kpmg.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONHoteUY0SzZLMWppamJZRENJZ3BDdGdidnYxMm5HOWJpYnVkWm5wUTNOWmk2RHNtRFN5bDNNOVRETU00NFN1d1daV1RQeUMxc0tmSjdJUVp0SW9sZEhPTWxfRTJaa3Q3aUZsNExpdzdUUjRseXRIVFJPOXIwTHhkMUc2WjlsOG80ZC1UYmxlN2RHZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-01T00:44:14Z",
-      "dominio": "kpmg.com",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "politica-energetica_40967",
-      "titulo": "MME prevê leilões de reserva anuais até 2029 e abre espaço para hidrelétricas reversíveis",
-      "lead": "MME prevê leilões de reserva anuais até 2029 e abre espaço para hidrelétricas reversíveis",
-      "fonte": "JOTA Jornalismo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVNQcng2elhmZWxKZjJabGRRNFhMNWYtYVRIdVZOalN6eDNoR3BIcDNyRTk2Yi1iZlBkT1dzcmJqa1REQ2hRZ3Nta0p4Z2oyYlNReTBqdEtsbUk0QTk5TWFFOW1Eekh0Yks3dnFfNGl6S2hDQ0lhdzlvME03enQzWExNbHdXOGRCaUpPY3o1anpNUk5vNTVOSFl6Tlo5WEMzX0c1TjZERHJoQkpWdHAwaFNodTFuNEFKMWo0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-09-30T22:06:39Z",
-      "dominio": "www.jota.info",
-      "tema": "hidreletrica-reservatorio"
-    },
-    {
-      "id": "regulacao_73219",
-      "titulo": "ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal",
-      "lead": "ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOckx4LWE3Wl9Dd1lRdFp4TmNNSGdHYVUzeVhxQURvdE9BZE16YTAxc1NFT29tWGZaWjRQSVVCVXdtV2RCTjNUajZGZW1ZT3YzNjJoV2N4cmI1TWJ0UVF0QlZLZlBoQUs0N0gzMDI1QnVKelZHeXNqQy1SQjM4MmFTTEVEX2NKNFpsZURFSFpWbENsTWpWVEFlbzNkVHQxTTcyVzFFdzBiZXdRSXZyb2w0cFlVNWwzUmJkMmZuWG9TUHV3ajIwOUp0WURuLXI5YTF0dGlxMkF1bnd4dG1nMURYLUlzMHFIdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-09-30T21:47:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

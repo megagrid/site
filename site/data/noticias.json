@@ -1,14 +1,98 @@
 {
-  "updated": "2026-10-08T23:49:52Z",
+  "updated": "2026-10-09T17:39:40Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_18576",
+      "titulo": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho?",
+      "lead": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho?",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRnBSQWxCUlVCT0RRd0lTX2U0Tkt6bmJ2WXdyNHFBbmdGNjE1emxadGkzaXlZYUljVUZvT0RoQUYzbnJ4Vm9oR1E1bHJiSWlDUEQwQV9jbDh3VWpyNzZBNkxidlFQVDlpd0pFSTBla01MS1FOQjJXLW9pelh4UQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-09T15:53:57Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_16984",
+      "titulo": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
+      "lead": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTS1wYlJfS3hjaUh5M0lJeXJJNzk4LVlHd2VVaTFfaUtrSk5vRUlLYWpPeFRFeXRVbWhBNUpkM3VodU1TdS1rNlNsTjh3cC03LXR6RE5FaTR0Vl9ScmpXOGpIb3VRTkFGMWpYQzlQVjNGd0wtU0NwbTFWSUVqOVFlUFpIV05JSldjMURkYy10N3hITkp1Nm43Q0VuelhtTUE2?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-09T14:41:43Z",
+      "dominio": "agenciainfra.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "empresas_31849",
+      "titulo": "Investimentos em autoprodução de energia avançam",
+      "lead": "Investimentos em autoprodução de energia avançam",
+      "fonte": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNm9iaWh5YlItcEZXZVdwd2RkWE91TWNfam52c045R0ZTMEJzLUM0QWN5NGNHWFZ0eXdKR09NSlg5RkFUM0k3Z0o0enBYTzJ0ak1GVVVsbVNVdGdidS12cEREZUlJaS1VSTZQcHZxaXROZ1ExUFloTDVjUGVkT2VhdzhjQm5Pak80OEswT3lEeVNXU3M2aFpCRElpQ3pUNlRk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1584169417032-d34e8d805e8b?w=600&q=70",
+      "editoria": "empresas",
+      "data": "2026-10-09T14:38:54Z",
+      "dominio": "www.canalenergia.com.br",
+      "tema": "industria-generica"
+    },
+    {
+      "id": "mercado-livre_11393",
+      "titulo": "Abertura do mercado livre de energia avança, mas migração será lenta",
+      "lead": "Abertura do mercado livre de energia avança, mas migração será lenta",
+      "fonte": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdXUzY3VzVGNFNBbEJ3cTg0b1RFQ2NLVndELWVLcjVnRkJ2TmxzWmd6VFJVM3dBREZZSE1nOENSWmp5TlUyc0VFQVVlV0szQ1ZiLU1OVFhJcHdYaEc3Rkk3bGtTVE12RWRrcFFMWlVmUU5GTWN5WmZMdEdGUThiUnpwTnZiVmlpRXFQQ1Vpd0p6OWRHTGJ2U2VDZmNWU1RFYmEyX2JoS1lhU3VBRGE4cFZfVEFBM1U?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-09T13:05:27Z",
+      "dominio": "www.canalenergia.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_74755",
+      "titulo": "Módulo digital para monitoramento alcança índice de qualidade superior a 90%",
+      "lead": "Módulo digital para monitoramento alcança índice de qualidade superior a 90%",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMF9nb0VTUkdIc0x6UXhrMXYxdXVHZ1ZPUVJlWGtRbWgzLWcwbDdtMHlZN1l5cHE0QzRVcTVGeDNEQWVYSEdSTXdzZ3BEdWtvMFdMWGh4TmdzSEpqNllCMHlVa2JqeDd1bTRkX3FJZVNfWVVqSTRpNWZScUhTR29td1I0aTdReThORXNwLUhRSlYwX0h3cG50ZV92Vy10YVZwa2FWdl9sc0dsVjZkX1VuMXRtbmRwTDZtSHBzVWdDamtkcVRLcGs1bXZVZ2d4V2IyMnp4Mzhvbm0zV0ZzZ3NWbQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-09T13:01:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_16239",
+      "titulo": "CCEE recebe inscrições para programa colaborativo de energia",
+      "lead": "CCEE recebe inscrições para programa colaborativo de energia",
+      "fonte": "- Misto Brasil",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTFRGNkFBUnJOUW5qQTlWQnR1NGJBc0RaSTd2Um5DX0Nvbi1mVEVlTkZMNi1JQ2NZVXBWSXBNYUljcERqQnFLYnJjWEdaaE5NUXJWV1ZXa2dRclY4MU5nLW1sS3lVTlJfcTMzaW5fTUJRQVZhSkNRaElHQjB4Zmdac3JmWXlBTW5BOEg2em9GamxkYVpCZlE4cVhRakFwdlJUY3RTRdIBpAFBVV95cUxPTFRGNkFBUnJOUW5qQTlWQnR1NGJBc0RaSTd2Um5DX0Nvbi1mVEVlTkZMNi1JQ2NZVXBWSXBNYUljcERqQnFLYnJjWEdaaE5NUXJWV1ZXa2dRclY4MU5nLW1sS3lVTlJfcTMzaW5fTUJRQVZhSkNRaElHQjB4Zmdac3JmWXlBTW5BOEg2em9GamxkYVpCZlE4cVhRakFwdlJUY3RTRQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-09T11:40:50Z",
+      "dominio": "mistobrasil.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_23008",
+      "titulo": "Siderúrgicas investem em autoprodução de energia",
+      "lead": "Siderúrgicas investem em autoprodução de energia",
+      "fonte": "Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcElsZ0pBVmh5VDdFNUNuWUE3bzB2SEwyYjVzNmZwRlZaaHhLNmNxN0U0OS1kQXBFc0lPM3dndTkxaEJ5TXFsM2NNZTY2QUNPaXBEWXg4eUYyX1hnR2N0Q1NjQVdLNHJBRVhaRnFNTU5OTHVXYmI5XzhKY3V3bGxWblNGdmFYbDZBXy1yVHV2YWc4bFBLaVhQMUFCMVBiVDZ0TGtNZGlYalR0LU1qQXpHX2NwY1BNcldVNzRvdHdLU3VsVEZxTzV6eEpn0gHYAUFVX3lxTE16LVBFRmlVUUVaM29yWG5HOVJybXA3dWR5Rnc2NUhMNGdKQXdqTWtoX0JZYnFEYkV4cEMxLWhqVkp0VGJJbUNyeUVfc0JEYXhwSFMwdUxWOHZISmlyX3VqRUl4R3BtT0Zzd3A1Yi01MFFrNnA1ZVd2czctU2o5X3ZwRklCMXFOQWl5cnpXVm52MllpcEdZV2IxT2RyZFVneHNFdElqSzFCOXZVVGd5OW1BaUh3QWJUbGpDOU9jSUVmbmtBbHByZmkyazhPang2SzFpVTYtUUJEdQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-09T08:00:00Z",
+      "dominio": "valor.globo.com",
+      "tema": "precos-mercado"
+    },
     {
       "id": "mercado-livre_32089",
       "titulo": "Operação do mercado livre de energia orienta programa de inovação aberta da CCEE",
       "lead": "Operação do mercado livre de energia orienta programa de inovação aberta da CCEE",
       "fonte": "Brasil Inovador",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3R1VlhMRzYzcU00OVFhOFlZNXpXcFprbVBwcFVsUlVDbzlEdnc4Q1ZnSEZNcnd4ZDJpcDhBVU1hWVl1Rl9QYXMySGFNZFJPdG8zbm13M0c0X1lYTlppVUxJMmFZZ2dmdm9hbjl5Q3EwWC1Wc3JzbWlmSFdReGhqWjZNYktOMFh5RTlONnhSUjBWNGtUWWZ0VWxrdks0aFFkTm10T2FsRExqcTR6NFMteA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-08T21:02:58Z",
       "dominio": "brasilinovador.com.br",
@@ -20,7 +104,7 @@
       "lead": "ANEEL estabelece novas regras para cortes de energia",
       "fonte": "Correio do Povo Penedo",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSXBvX2xFLXV6R3R2NlB1NFpMcXo2S1Myc1pEb2ZKY3Vfa1o4MG1ZWlRwbW1sV0hOY1JyY1N4dEJjVzR5WHNyMmhvUFoyZm1FTEVzTXBieHhOb3pWUXZHX1g4MEdhWEJqZ210eVF1Rk9zWnR1cFlROG5kcFQtOGhmRzZkNTRHRzh3NjVpM1VlMGlndG5mekh5bGYyM0dqdVZqNkJOeTNB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-08T19:15:05Z",
       "dominio": "correiodopovo-al.com.br",
@@ -32,7 +116,7 @@
       "lead": "Conta de energia não terá cobrança extra de bandeira tarifária em outubro",
       "fonte": "Portal ON",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajNWMndINWlUWk42bnJybFY3Y2hDSm1Lek9NcVhWeS15dkgyVURwbkV2cnJhNmVfc2ZuVWkyNjVXb285aGpXOHpuZnB2SFlRa0NvQnZ3MFBOMERTeVViS21xQjVSRHhxTFA3REdIc1p3NjhKYTlaMksteWRKSGFFNEFPMFNodVRMSl9XQVpvQUxScmRad3ZoaFFiTzR5R0RzaENYeHBicldLTDA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-10-08T18:02:45Z",
       "dominio": "portalon.com.br",
@@ -116,7 +200,7 @@
       "lead": "CCEE tem quatro projetos reconhecidos em prêmio nacional de melhores práticas jurídicas",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGwzT29yY05Yd1FjNURsVGlzb3JEelV2VVZCS1pFc2gtQXpaWDdFS3lvc2JWTVlneGR3NFV4ekticU90amYycndJQy1mR3BQa1VFbzR6NEdBR2p6MllJT2ctcF9ZNVNzY3lEb3hYaEFWYV9Va3ZSYjNETkZwYk1ibGpJZzUxcWdrN1puM2ZKcVdPTzFhNjJhR0Z3cERiTFNGQlhWZEE0WXdiTFF6ZkJ0cWEtbw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-07T20:58:00Z",
       "dominio": "www.ccee.org.br",
@@ -366,7 +450,7 @@
       "lead": "Aneel autoriza usina de 15,1 MW para autoprodução em Nova Ubiratã",
       "fonte": "Fatos de Mato Grosso",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHZWWXNWbHZJMHFxYmljcE9SRWpGMHFqWWNCLTdGdFBiYjNrR29iYUxtcEcyd0lhQTM4eDJ1YVpoalpxY1RON0dPVkZPSWZxUWZtWVNnMWVSSUZOZHBuU0YwdWNXaUExUlhIQUpudjl5OFU4SG9QdjJiWVRYWlpKVXlaY1lFOWF3eGtURnlmMkkzVHRXd19SWHpDT2Qza05Ia0RvRG1YSEVnd21HRzNUQzlzSlVVZkFYSEE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1584169417032-d34e8d805e8b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1543304376-1ae7c2be5e59?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-06T17:45:00Z",
       "dominio": "www.fatosdematogrosso.com.br",
@@ -662,101 +746,6 @@
       "data": "2026-10-01T19:19:34Z",
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_92370",
-      "titulo": "PLD acima de R$ 1.000 acende alerta na CCEE, segundo Anace",
-      "lead": "PLD acima de R$ 1.000 acende alerta na CCEE, segundo Anace",
-      "fonte": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZTBUQW9HcElBa3Y3ek5NbzBlOGphU1NTZzJRZ0pITHh0MFFFdDdtM3V1aFFkel9BWGhiZjdhQTgydjk0bk1XbEluY24zM0hwNXFQdkdYdXBLeDVzT0c1TVBFNllKbnk3VThVRE1MeHpTY3hiWTA5RldsU0pwWXRiMElOZEExZ1h4bWJzZXFQLWQzVnhqNWdWUHY4UEExd2FlZnphampnN1ZwY21yVG50S1c2VUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-01T19:02:43Z",
-      "dominio": "www.canalenergia.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_62627",
-      "titulo": "Conta de energia terá bandeira verde em outubro após cinco meses de cobrança adicional",
-      "lead": "Conta de energia terá bandeira verde em outubro após cinco meses de cobrança adicional",
-      "fonte": "Jornal Opção | Tocantins",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2RNSHBZeG1rRTBSNVlVNEF1Y1JXNERyN1dEakowcF84M0FmdTB1Wmk3ZGVCRTdzOXNqb1BDa1ZtN1NiOExJdlAtQ2F4QmFZWjNBSjloUnJVUDhkblVSMjBKa0RDczRmX0RXZzktQjRtM21XOVBzNjNnOXBqeEl3aHBZbTFEcjhjVFVtUWFGNTgxZTc5SDJWSXBkUXlpTlJQUnBsYkdOTXpXWFNWTHNyNnllbEZqdHlFZnVSaVljYmJ4U2F0eGR4SG9XdXhJWkVLUENqY09nTQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-01T18:42:00Z",
-      "dominio": "tocantins.jornalopcao.com.br",
-      "tambem_em": [
-        "HoraMS",
-        "Diário da Manhã",
-        "Portal Na Boca da Noite"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "tarifas_87373",
-      "titulo": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde",
-      "lead": "Conta de luz fica sem cobrança extra em outubro com retorno da bandeira verde",
-      "fonte": "Diário da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNE5BSzBQUUh0TUl4eGZYcV9ZaXVPUmlJUm9hdzB6VFh6ektmYWVnUjZhWFpqMTgyRDAtUS04VURZN2VmWG80SlNCYWlDSmVJd0hpNHdnQ3RrakY3V25mVU1jaWUyLU5JZzFGODRqN21vOVF5WVh4ckZicDYyQkpzQ1BRNlpvbW1wdy1iRnI4Z1pGXzJuWVEwLXBSdkZOZVhTcnB0YmthMXJhd00?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-01T15:44:00Z",
-      "dominio": "www.dm.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_22184",
-      "titulo": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
-      "lead": "CCEE abre inscrições de bootcamp, uma jornada de inovação e criação compartilhada com os agentes",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUDI2QlhQdDVTZmtSY0l6RlE4bHJ5aEhoZzFvNUpaeXFDV0gtTnNWU2VBb2RrdXJUTThXSzlsZmR1aWNVa0N3TV9WZ3ExS2JwRHkxNDlVNldfZ3RqY3JuczhBbjFTS01iVXhaZzhMbF9RY3puZnl1YjNjX0VseEc1eGM3b3B2eGVXc1p2NlhNemFqOUFWeTJQVm4zNTZQYnRsTjRyaC00bDNDeTRKaGowTzlwM1ViUHVEX1hsVzdVMkEzeWV6a2RzQjFXbkJLNHM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-01T14:03:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_19956",
-      "titulo": "CCEE marca presença no 18º Fórum SmartGrid e debate transformação do setor elétrico",
-      "lead": "CCEE marca presença no 18º Fórum SmartGrid e debate transformação do setor elétrico",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdENhUk5mVEZOcTF5a3lPZk5BZXhKaE9DZk9SYTFFUV9MNzRiOVdmTjRsZjhiejc4SDBubHJHUDZPZXdnd1A0Vm4zdW10UmpIRF9KSFVHYXozX1lBVjdIbk5ERVFqUnR0d0FIN3pVTmNzOU4tUlRqMmVEbVVhQVQ2RzhURnBKdWh5VGpIR0tPcnlhUWN4VnNuN0R4SDdPdzkzeW9DcmZ5bWdSends?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-01T13:30:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_85682",
-      "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
-      "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
-      "fonte": "economiasp.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXJwNGR1dkJnS3lPcnhlazFRZWY5MW9BMi1DaVhnSE9mQjJvcml3dzR0cTNMOVEyLU5WT0x2eFVCVXd5UjRjT3ltZTdwVUNHVFNOY1FDcTFGa3MxTi14UUE2dTNtYzlsaTY4eFFTcV9MT2YxaDR2MGJ3U3dSRTNSVFp3ZHFTRWFpcGVCTTdkSXd0VVJnbHNoTFQ1S2F3bW5JWk9odnJ6TzFFTW81TTFZZ3pjMzBQZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-01T13:22:31Z",
-      "dominio": "economiasp.com",
-      "tema": "solar"
-    },
-    {
-      "id": "transicao_25653",
-      "titulo": "Brasil lidera em energia solar, mas precisa de baterias seguras: entenda o novo desafio",
-      "lead": "Brasil lidera em energia solar, mas precisa de baterias seguras: entenda o novo desafio",
-      "fonte": "bra1.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU1McVdjN0hhWWlSZkdKZWNxWG84OEMzdVlmemI1X3BXVHFnUWRaakxzb3Z0Wk9lM21SRW9sRjJGNHEtTTROTnE1eGVsTHlGVll5VjkwdG1FbHJCUlNKd2I5SlpUVXBkNDU1Yk5KVkNPSnFnWkNveGY3VHQtSV8zV0JIUk5MQ09OZU1kNkpvS1ZGb3ZabE5Pc21IQnM1WkNjOXFlRHlxMDFOZjgtOGdoRlpQRmN3VUoyZF9NSnhJWlpHWk5lR2luT18zUFo?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-01T12:57:00Z",
-      "dominio": "www.bra1.com.br",
-      "tema": "solar"
     }
   ]
 }

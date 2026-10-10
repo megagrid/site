@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-09T23:23:17Z",
+  "updated": "2026-10-10T16:30:48Z",
   "total": 60,
   "itens": [
+    {
+      "id": "dado-2026-10-10",
+      "titulo": "Reservatórios do SIN em 60,1% e PLD estável a R$ 57,31 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 60,1% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "fonte": "Megagrid Dados",
+      "url": "https://megagrid.com.br/#precos",
+      "imagem": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-10T16:30:48Z",
+      "tema": "hidreletrica-reservatorio"
+    },
     {
       "id": "tarifas_18576",
       "titulo": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho?",
@@ -20,7 +31,7 @@
       "lead": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTS1wYlJfS3hjaUh5M0lJeXJJNzk4LVlHd2VVaTFfaUtrSk5vRUlLYWpPeFRFeXRVbWhBNUpkM3VodU1TdS1rNlNsTjh3cC03LXR6RE5FaTR0Vl9ScmpXOGpIb3VRTkFGMWpYQzlQVjNGd0wtU0NwbTFWSUVqOVFlUFpIV05JSldjMURkYy10N3hITkp1Nm43Q0VuelhtTUE2?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-09T14:41:43Z",
       "dominio": "agenciainfra.com",
@@ -282,15 +293,18 @@
       "tema": "baterias-armazenamento"
     },
     {
-      "id": "mercado-livre_28589",
+      "id": "mercado-livre_36693",
       "titulo": "CCEE é uma das Melhores Empresas para Trabalhar no Brasil em 2026",
       "lead": "CCEE é uma das Melhores Empresas para Trabalhar no Brasil em 2026",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYkNudDFPRHFZMWQ2TWtqWXF0clVzYUNIWmgzeHRzWWVvRFM3S3NJM3h4cGJTVFBhOEpESWVKcUctY0FuYWRuN2x4REpDdFBZejl1YXlySFBXWWtmNUhJV3dGLXFTMzlFVndJS08zYVkwWnRlMVY5UkRRM2pQZk9zcGtzRktEZGRsWlZ6VlVsVTZoV0tQMW1iTDZuMDBXbUJDZ2ZV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDREZFRPZ1BJVUxtVFBWajFqcWdQRjM4UDdRenltNVpadmVySzM2REhydlpHTUctZkFsWUtsM2ZPT0lQbUU0WGdJT1h4VWUteU00V1pKTzQtMlkyNGRUVXBBVlBpSFhNX095Ym1MVjRsVm55TG1nNkQtdGRZRUJnRWhDaERnU0VhS0RqOFlFMjVVMUhlQWc?oc=5",
       "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-07T13:47:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -610,12 +624,12 @@
       ]
     },
     {
-      "id": "mercado-livre_39065",
+      "id": "mercado-livre_944",
       "titulo": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
       "lead": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBFV21uUzh0SGFnc3BUQXV2MEswWXRQdEF5QkFpX3kweVBvWDFVS0pwcEwyQ0hBU1FHZUhQYzYwM2laa3dOeTZJNzJpQWVUMl9hajVCcTZXUXM5MWdPM0lBTHNSNE05eWNfbktlbFl0eHBUMnRkRkZmRnY4TW1UaGEzcXRIeV9CZlc0ZEdkUFNzRDI3dGhwTDNzeE0xSEsy?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzFsWThnMWRvUnN2OGIxRWhncldKcEw0c1pzVng2QkJ2V2Y5RzBzMXU2c0M5T0lMWkN3TWl2U1ZoaGNIV0w0cWotX2N4Ulg0cjRpQjVvYjlpbE1jZUZucGNuc1hLaW9HNkE2OXBIN1pNTC01RzVaYW0weVJlTXpRWFFNaHE3a0JHci14Y0JHWngya0s1WFA4eXVpNTVzOUlJS0lLWlZ5T1licUw2YjRGY1ZB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-05T13:22:00Z",
       "dominio": "www.ccee.org.br",
@@ -733,18 +747,6 @@
       "tambem_em": [
         "Tribuna do Sertão"
       ],
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_60552",
-      "titulo": "Baterias podem gerar até R$ 6 bilhões por ano em benefícios ao sistema elétrico, aponta ABSAE",
-      "lead": "Baterias podem gerar até R$ 6 bilhões por ano em benefícios ao sistema elétrico, aponta ABSAE",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RWWtsdEFQbzg3aDlYaDd6cWkwUm90MThDU3BVUFh2dThfYzlJcVI2aDZFVWlYRUFuUWx5Q3F2cHlLLW05TVg3WkMzVW9WLW53dXN1ekEwWVhyVFFXZ0NFQXdPbk01RXhmZ1E2blEzX1RKdG8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-01T19:19:34Z",
-      "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

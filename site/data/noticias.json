@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-11T23:01:25Z",
+  "updated": "2026-10-12T20:32:15Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-10-11",
-      "titulo": "Reservatórios do SIN em 60,0% e PLD estável a R$ 57,31 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 60,0% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "id": "dado-2026-10-12",
+      "titulo": "Reservatórios do SIN em 59,9% e PLD estável a R$ 57,31 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 59,9% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
       "fonte": "Megagrid Dados",
       "url": "https://megagrid.com.br/#precos",
       "imagem": "https://images.unsplash.com/photo-1705747894609-6a7d17a8cfb7?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-10-11T23:01:25Z",
+      "data": "2026-10-12T20:32:15Z",
       "tema": "hidreletrica-reservatorio"
     },
     {
@@ -83,7 +83,10 @@
       "editoria": "mercado-livre",
       "data": "2026-10-09T11:40:50Z",
       "dominio": "mistobrasil.com",
-      "tema": "regulacao-institucional"
+      "tema": "regulacao-institucional",
+      "tambem_em": [
+        "- Misto Brasil"
+      ]
     },
     {
       "id": "mercado-livre_23008",
@@ -121,7 +124,7 @@
       "dominio": "correiodopovo-al.com.br",
       "tema": "regulacao-institucional",
       "tambem_em": [
-        "Portal VV8"
+        "Jornal de Uberaba"
       ]
     },
     {

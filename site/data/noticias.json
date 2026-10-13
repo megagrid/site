@@ -1,14 +1,62 @@
 {
-  "updated": "2026-10-13T18:37:01Z",
+  "updated": "2026-10-13T23:21:21Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_56385",
+      "titulo": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL",
+      "lead": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL — Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObm5jTi1taTNoUTlYSUFES042aVdkOXZYWjJWUllBaldRN0J3MVZLQ1JNSUdYV2hoYkZIa3d3MGx1RkZhX1NGQ21VSVVuMWR4M2VCSlZ4SWFJcDVzdEFoTmFlUmhSSTB1ZTIzMWFjcG1QOVRXblRJLXVnM29lLXJOVVAtUXVDT1I3cVlPdG5wRzFZR29ITU5OSXVsVk5KZ1M0WTNTRFo5bUdoLWEtbGZNSW1nM3R3SGh5YUV5UmJqUWJubnl2MXp3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-13T21:27:33Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_51048",
+      "titulo": "Aprovadas novas tarifas para consumidores atendidos pela CPFL Piratininga",
+      "lead": "Aprovadas novas tarifas para consumidores atendidos pela CPFL Piratininga — Agência Nacional de Energia Elétrica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObEFiVWlibGhza2trRUFwZmJZaGkxX1RoMzRTVHViQ2xYXzktZ1BNVGdDVjFONmtNOThrUVk0b0ZKXzhEb2d3UVBGOHhTZUUzc1Bxc0N6MFN3TG52QnVfQ3R3OG5hZmJZVUJ6dm0xbno3NXk2SkxYdjlNRm5PY0M3WEgwQk1rc19kbFdnSklDUG9pRk1jZE5VWXhYMXJzeGlfMWVlcWxkTEJZcUFUVnhMWHZTSUxsNTROYWk4eExIMi12cjJtbC1UMmQtbGlKdHlBcXRqaV9hNHpHZllO?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-13T21:25:43Z",
+      "dominio": "www.gov.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "politica-energetica_2565",
+      "titulo": "MME: Recursos minerais são estratégicos para ampliar a produção nacional de fertilizantes e segurança alimentar no país",
+      "lead": "MME: Recursos minerais são estratégicos para ampliar a produção nacional de fertilizantes e segurança alimentar no país",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSUxLRGVOMEFIcnkweEJqY1RMazhnSDJiS0FRbzQ1ZnlwcjIzVlNVOGNzWi1XRnhGeUdJbGNBZmZydkdHUUJibF9YemZhd01lcDFtV2dKWF9LamMzRzI1WlRWWFJfUjdQTTBUN0RfX2pLVU1JVlNpb1RUbElRU1phMGpoRFpVX05OY2dOdFV6X2tNMlQwRHV0R1ZDZktOOWpIYWxaTHU4UDFYTzl3Y2EtN3AycVA1THhETXNPRFVfekxqbDltbi1ELVJpdm82R05XZmZYNVh0RU9PYk9VWjNZbUM0MGVWempXQjFfNFh6Ml9ZT2pTWjUtMg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-13T19:53:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_87174",
+      "titulo": "Mercado livre de energia em 2028: o que muda para quem paga a conta de luz em casa",
+      "lead": "Mercado livre de energia em 2028: o que muda para quem paga a conta de luz em casa",
+      "fonte": "Rede Atlântida",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOa1dtNDhpLXR4NFBTaHFObklSU1J4RGRuS0VORnFoM1MyZ2VPVzVxZlV3SmNzdXdBLUt5YUUtb0Jxd3d6T0lSVjdBelhjdy1oV1hfTkxBS3NSakZ1UUtxWEE4WHBfTWY0bVppRnRYbzJmeWNRV2VEemw1NTNRTEYtSVZYVjdEbkVjUHUzcEFOWlFWeXFDUGJReHl6cnJkWVBZVjhabnpMNDhnSUNNZ1BZTzdSZkNTY00wbUpwdVhZVzB0SE9qcWNyazN5UGV3Z0ZSRmphMnRmeWtyT19fQmRXby1FQmtJMDlCYS1KYWZlWDJ1RENEc2NYU1hxN3BGcE9iSXFDZjR2Qk1CNkpVbE9r?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-13T19:34:39Z",
+      "dominio": "atl.clicrbs.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "mercado-livre_20530",
       "titulo": "CCEE e ONS iniciam testes do Cobre, modelo que pode substituir Newave e Decomp",
       "lead": "CCEE e ONS iniciam testes do Cobre, modelo que pode substituir Newave e Decomp",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkhzNWFhd2JzWVJHX1hVWHhWaWJndExIRDZuSThkbWNILUR6a09oWGR6blVlZzdMa2l3MlU1ZFpEVmZPZlpFXzZPSFMwT1VaUzN6c2diX0xjbjJOSUZCVEliZ1dDMlY5NVVMZC1OWGpTaUxpaW90WmJRZ3pSallhVkZqVXU0cndFdlRIcUtlbml1S3NNZWNqZGwzNTk3VWNJMTlKX0RNY1BxV2FsU2I5aXJKNlhTUW9FWHJtUy1MWjI0MXM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-13T18:29:20Z",
       "dominio": "megawhat.uol.com.br",
@@ -20,11 +68,23 @@
       "lead": "Baterias gigantes vão proteger a energia elétrica do Acre e mudar o setor no Brasil",
       "fonte": "www.bra1.com.br",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZklIcVFlWnJIZFBwWTU0UFE2cTBmNXBIbnZ4THp6MUItQ3RNRnJzdWNib0J2ZERWX0J2c0pUbUdLY2xzT3lSb1pVV24wVUtaZFpxZHdoNmJUMnhHQlhYU2FQcmNicGF5TXRBaHVhMHV4TWZfank3WklWWmJtUE40WEx6emwzRUtzQ0ZSb0hoS0dQSW9IbDRXVnFOVHhlYmdpVlRTVzk1LV9mZWFQeE9vR3ZXazcybVVid2pIV01fVGRYZE5fSDU0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-13T16:51:00Z",
       "dominio": "www.bra1.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_14582",
+      "titulo": "MME propõe código aberto e desenvolvimento conjunto de modelos",
+      "lead": "MME propõe código aberto e desenvolvimento conjunto de modelos",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFY1dng2QTgzV2Y2clpzOTJaWnpUTi1tY0MzeGV1dlJudG1HZTBqeDByckhxUldMeVpwSFV1dEd1SXNWblhEZ0taY2RMakJDd2ZoTVpIMmF4RTZab2wtU21KWGMzQ3BaTkhkc0hxVFlWcmI0Ri1zd0c2MEFicE1Zdmxla0hzOXhKa2JJd1FwS25jdi1fUHJQbFpNWlR6X0k0cVNiSDBmQk96R1pRNEhPcA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-13T15:50:33Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_76505",
@@ -167,7 +227,7 @@
       "lead": "Brasil pode contar com 13 GW de flexibilidade no setor elétrico com baterias, reversíveis e resposta da demanda",
       "fonte": "Agência eixos",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSm5mMnNGUkZFbTV0UVROSHFDMnlXQTdLNDNoY3BVWGUxMTBvX0NUekJyNEVDQ0JzTnNoejFUdnl3U2FxbFVvVG82SW9VWFpvTFdGUlFqRkQyTUtDdFIxbXVxaUVnOXpBT1JqNUN3QmFoQkp1bGZrVE81MVk2eGRwbkNlSURxdUJibENQTVJlYm5FQ1dOUVZKMTZxMGQxblA4Ty1WZUpVeVFLWS0tR2F6djczeHVwWkF5VEFzakxtNzg2ZGczeldwN192LXJPa1kyVDBmT0gtTEcta2N6ZW5UaDRWY09ZZ1BWUlhKTjc4a28?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-09T10:18:22Z",
       "dominio": "eixos.com.br",
@@ -689,72 +749,6 @@
       "data": "2026-10-05T17:54:00Z",
       "dominio": "www.crea-mt.org.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_34260",
-      "titulo": "MME autoriza Trafigura a importar energia do Paraguai",
-      "lead": "MME autoriza Trafigura a importar energia do Paraguai",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXBlU3YwR2NzX3B0alIwekVQWmwwd1d3NjhMa05LaTNucVBvc3UzUmxXSENfeVR1cE9VakVYUUl4cWdFd191S1lhT1BiVnFJSG5uZmZxTzhrODRvMkEwR0k4cmVDR2R2dUo3ODcxbmtDUW1xZXlSdzI1Q1pteERsY1UwYzNsRUtGNGl4QzJtNzBEV090RnM4?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-05T16:45:18Z",
-      "dominio": "eixos.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_55809",
-      "titulo": "CCEE Abre Inscrições Para Bootcamp De Cocriação Sobre Operação Do Mercado De Energia",
-      "lead": "CCEE Abre Inscrições Para Bootcamp De Cocriação Sobre Operação Do Mercado De Energia",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEkzRHlrYURjMVMwcC1aVFUzR0VXNUZuRU9PQmNLUTdtVVJXUWFvZ0pXaHY2TUkzUmxUOUhDeW05eG9SZV80bXYxblNfNkJaM2dma282VC1HbEFYQnRoejFUZ1B0bWhsTXZsamhNUFlwOWRZaDl5YnYtc1lzRWVuYjdtaVdIbVdrLWxXNlRKUV9DNEFWLVlSLWp6QUxHUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-05T13:53:01Z",
-      "dominio": "cenarioenergia.com.br",
-      "tema": "regulacao-institucional",
-      "tambem_em": [
-        "Brasil Inovador"
-      ]
-    },
-    {
-      "id": "mercado-livre_87044",
-      "titulo": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
-      "lead": "Você opina, a CCEE evolui: participe da edição 2026 da Pesquisa de Satisfação dos Clientes",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBFV21uUzh0SGFnc3BUQXV2MEswWXRQdEF5QkFpX3kweVBvWDFVS0pwcEwyQ0hBU1FHZUhQYzYwM2laa3dOeTZJNzJpQWVUMl9hajVCcTZXUXM5MWdPM0lBTHNSNE05eWNfbktlbFl0eHBUMnRkRkZmRnY4TW1UaGEzcXRIeV9CZlc0ZEdkUFNzRDI3dGhwTDNzeE0xSEsy?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-05T13:22:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_554",
-      "titulo": "Rio Destrava Migração De Indústrias Para Mercado Livre De Gás Após Acordo",
-      "lead": "Rio Destrava Migração De Indústrias Para Mercado Livre De Gás Após Acordo",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFpGaFJMbGVNZlJuSC1famRvUk1YT0RyUDhXZk16MTFKVERWc3BMQkdVdWN3dXBFczhPOG1sWTV0ODdudHVkWmx2SE1iWE9DNzZ6MWRJNmk0NEJQTi1CdU9rb0NsS2p2UUV1alFiMmF1OVdBekhnX2xndVRfN0w3TnAzaVVQQ0hhYktIVTk5cjZjZGM4YnREeGdLel9VRzEyb3pKdDZvZHhid3hHaWhObGlOSlRWdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-05T12:27:36Z",
-      "dominio": "cenarioenergia.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_27862",
-      "titulo": "STATKRAFT RECEBE AUTORIZAÇÃO DA ANEEL PARA OPERAR SISTEMA DE BATERIAS EM USINA SOLAR NA BAHIA",
-      "lead": "STATKRAFT RECEBE AUTORIZAÇÃO DA ANEEL PARA OPERAR SISTEMA DE BATERIAS EM USINA SOLAR NA BAHIA",
-      "fonte": "Petronotícias",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTRVam1tRm8xM2FYTFJ6OUt1QmM0QV93cjlEaVZZSE1pZ25ZMHJtMzBmQ08xMmR3Nnd3dGJoUWxPMVYxNUdMc3pLMllBZmItWnM3bEVjVlhPVl9oaXJsSkRxR1JzVmtYeURYNGVuYnBzb1VDSzFuZno0VGVxWHVreDNWbk9fWUg3NFVZcU8welI5WktWcURIOEQyNnF3NjVFRDBoZWh6ZWpHek1oTkZtTUxVck03STJDMVlEZk5zWjI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-04T07:00:00Z",
-      "dominio": "petronoticias.com.br",
-      "tema": "solar"
     }
   ]
 }

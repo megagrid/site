@@ -1,14 +1,74 @@
 {
-  "updated": "2026-10-13T01:30:24Z",
+  "updated": "2026-10-13T18:37:01Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_20530",
+      "titulo": "CCEE e ONS iniciam testes do Cobre, modelo que pode substituir Newave e Decomp",
+      "lead": "CCEE e ONS iniciam testes do Cobre, modelo que pode substituir Newave e Decomp",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkhzNWFhd2JzWVJHX1hVWHhWaWJndExIRDZuSThkbWNILUR6a09oWGR6blVlZzdMa2l3MlU1ZFpEVmZPZlpFXzZPSFMwT1VaUzN6c2diX0xjbjJOSUZCVEliZ1dDMlY5NVVMZC1OWGpTaUxpaW90WmJRZ3pSallhVkZqVXU0cndFdlRIcUtlbml1S3NNZWNqZGwzNTk3VWNJMTlKX0RNY1BxV2FsU2I5aXJKNlhTUW9FWHJtUy1MWjI0MXM?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-13T18:29:20Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_66937",
+      "titulo": "Baterias gigantes vão proteger a energia elétrica do Acre e mudar o setor no Brasil",
+      "lead": "Baterias gigantes vão proteger a energia elétrica do Acre e mudar o setor no Brasil",
+      "fonte": "www.bra1.com.br",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZklIcVFlWnJIZFBwWTU0UFE2cTBmNXBIbnZ4THp6MUItQ3RNRnJzdWNib0J2ZERWX0J2c0pUbUdLY2xzT3lSb1pVV24wVUtaZFpxZHdoNmJUMnhHQlhYU2FQcmNicGF5TXRBaHVhMHV4TWZfank3WklWWmJtUE40WEx6emwzRUtzQ0ZSb0hoS0dQSW9IbDRXVnFOVHhlYmdpVlRTVzk1LV9mZWFQeE9vR3ZXazcybVVid2pIV01fVGRYZE5fSDU0?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-13T16:51:00Z",
+      "dominio": "www.bra1.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_76505",
+      "titulo": "Luciana Machado | Leilão de energia pode custar R$ 200 bilhões ao consumidor",
+      "lead": "Luciana Machado | Leilão de energia pode custar R$ 200 bilhões ao consumidor",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdy1UbHZDeGdkWFZtVDRkWjlmNG1SLURadjh3dUlRYnl2bXFQUGlJTXVzSjJ1UG50R2JxSmJScmdMMnlfSHl5X1p5b18xQXE5eGd5clNtSlZwTFdsSzRlVjk4S1E0RDl0TE5YWk9IbkxMdmFXN3I5UWtWenl2VUpWdnNYZjZUUVByMHFOR29iaE1sRURaUG83UW13?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-13T12:48:40Z",
+      "dominio": "www.poder360.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_37338",
+      "titulo": "Confira a programação do 2º Fórum Análise Setorial CCEE e faça sua inscrição",
+      "lead": "Confira a programação do 2º Fórum Análise Setorial CCEE e faça sua inscrição",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHluOUVWaVZVVk1lTEFlbHVqUld1clJ0TS1sXzlRbFlOYWloNmUyd0JEdUhtN1Rlb1NNMVFlN1VqYmlMQW1mM0d0ck5qRkhTRnE4ZVRNdFJTMmNDU29qNjVWZ2g2MjM5dy1qTERsdDVIR2JBNWExVWY5Z2sxSEhMZC1IVWVJM0dVamdKZXNHZTE1ZDg1Q3NfR1hSdkJ5bW95Q1RZ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-13T12:17:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "tarifas_91918",
+      "titulo": "Bandeira verde alivia conta, mas calor pode aumentar gasto de energia nas casas",
+      "lead": "Bandeira verde alivia conta, mas calor pode aumentar gasto de energia nas casas",
+      "fonte": "Diário da Guanabara",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnBpLU9scUgzVmtGY1RXaFFOZ0RiZmpUdDMzODZ0WTNLYnV1UThmM19RVTJTY2RVdTUyb2RES0J2bl8yYUJ4dnpMSDFLemQ3QWNwMWk0LVowRnIwZTYtV1lOdjRrclJoclFsN0k0eFhjUVRUWW9veXFHWU9uVXNjUl9iSDdUdUI3MXpmX0hLRkhHazJ3MXdMYkZZSjAwLTFxYnlWUDdONVFnM0k?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-13T10:15:55Z",
+      "dominio": "dgrj.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "transicao_31596",
       "titulo": "Bahia testa sistema inédito de baterias para armazenar energia solar",
       "lead": "Bahia testa sistema inédito de baterias para armazenar energia solar",
       "fonte": "Times Brasil | CNBC",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEZxbzBscHhTM3U4X2VVUnBGWV9LWXdfSU5ycG1zQ3p0QmFUY2NpMlRKVnd0ZWJYYWd3M2JjQV95ak1mZXZYQlJLamZybVhQRGFPNGhLbUlYNkFvNUV4b04waE9BWllQU1I5SkdrallOYkI4SDYxXzRpT3J6ZnhKU21MU2NXLW5td2tiTHhQSzVTRzAta045bV8zTzRFSTdwV1dhUjNNellQQl9lYTRDVmZFZmFjTGYxclhjdi1xanFTUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-12T22:30:00Z",
       "dominio": "timesbrasil.com.br",
@@ -20,7 +80,7 @@
       "lead": "Inadimplência do MCP sobe 44% em agosto, para R$ 142,65 milhões",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb056R0VqNHNITDlLM0YxMFRmS0taa3JYMzdjdFcxQ2gweU56Q0JVTVZCWjMwYVd3ZENWS2ZDWlg3NUU4cnBDQ2VxenBrVnpoS2lYcU41bHVrMEhQZmJGdDhtMWtrdnFFT0JQbG9qX0txaHF4Ym5kWFFqYWhfTDRibEZUUlZpODdfNjc0S1E0R0E2djAwVFoxLWJQeXhKVm9wTi1ScDlldzQwM3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-09T18:44:10Z",
       "dominio": "megawhat.uol.com.br",
@@ -68,7 +128,7 @@
       "lead": "Abertura do mercado livre de energia avança, mas migração será lenta",
       "fonte": "CanalEnergia",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdXUzY3VzVGNFNBbEJ3cTg0b1RFQ2NLVndELWVLcjVnRkJ2TmxzWmd6VFJVM3dBREZZSE1nOENSWmp5TlUyc0VFQVVlV0szQ1ZiLU1OVFhJcHdYaEc3Rkk3bGtTVE12RWRrcFFMWlVmUU5GTWN5WmZMdEdGUThiUnpwTnZiVmlpRXFQQ1Vpd0p6OWRHTGJ2U2VDZmNWU1RFYmEyX2JoS1lhU3VBRGE4cFZfVEFBM1U?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-09T13:05:27Z",
       "dominio": "www.canalenergia.com.br",
@@ -80,7 +140,7 @@
       "lead": "Módulo digital para monitoramento alcança índice de qualidade superior a 90%",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMF9nb0VTUkdIc0x6UXhrMXYxdXVHZ1ZPUVJlWGtRbWgzLWcwbDdtMHlZN1l5cHE0QzRVcTVGeDNEQWVYSEdSTXdzZ3BEdWtvMFdMWGh4TmdzSEpqNllCMHlVa2JqeDd1bTRkX3FJZVNfWVVqSTRpNWZScUhTR29td1I0aTdReThORXNwLUhRSlYwX0h3cG50ZV92Vy10YVZwa2FWdl9sc0dsVjZkX1VuMXRtbmRwTDZtSHBzVWdDamtkcVRLcGs1bXZVZ2d4V2IyMnp4Mzhvbm0zV0ZzZ3NWbQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-09T13:01:00Z",
       "dominio": "www.ccee.org.br",
@@ -100,6 +160,18 @@
       "tambem_em": [
         "- Misto Brasil"
       ]
+    },
+    {
+      "id": "transicao_79128",
+      "titulo": "Brasil pode contar com 13 GW de flexibilidade no setor elétrico com baterias, reversíveis e resposta da demanda",
+      "lead": "Brasil pode contar com 13 GW de flexibilidade no setor elétrico com baterias, reversíveis e resposta da demanda",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSm5mMnNGUkZFbTV0UVROSHFDMnlXQTdLNDNoY3BVWGUxMTBvX0NUekJyNEVDQ0JzTnNoejFUdnl3U2FxbFVvVG82SW9VWFpvTFdGUlFqRkQyTUtDdFIxbXVxaUVnOXpBT1JqNUN3QmFoQkp1bGZrVE81MVk2eGRwbkNlSURxdUJibENQTVJlYm5FQ1dOUVZKMTZxMGQxblA4Ty1WZUpVeVFLWS0tR2F6djczeHVwWkF5VEFzakxtNzg2ZGczeldwN192LXJPa1kyVDBmT0gtTEcta2N6ZW5UaDRWY09ZZ1BWUlhKTjc4a28?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-09T10:18:22Z",
+      "dominio": "eixos.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_23008",
@@ -137,7 +209,7 @@
       "dominio": "correiodopovo-al.com.br",
       "tema": "regulacao-institucional",
       "tambem_em": [
-        "Jornal de Uberaba"
+        ":: Bahia Jornal ::"
       ]
     },
     {
@@ -337,6 +409,7 @@
       "data": "2026-10-07T13:44:55Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
+        "ANEEL",
         "Agência iNFRA"
       ],
       "tema": "precos-mercado"
@@ -682,78 +755,6 @@
       "data": "2026-10-04T07:00:00Z",
       "dominio": "petronoticias.com.br",
       "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_28339",
-      "titulo": "CCEE abre inscrições para bootcamp focado em abertura de mercado e modernização operacional",
-      "lead": "CCEE abre inscrições para bootcamp focado em abertura de mercado e modernização operacional",
-      "fonte": "Brasil Inovador",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU25IdDdUaTJPS0NBajJocjVraWFlbGZlbm1uclowRWlONnhlRVYwN0I1aWpsNGlMUTdYdWlvU08zQjlsMlNvUFJiaTBwbmZvcWI1Z280RnB1bXotZ3FOR3dfdXR0eUtiNlFfeE9sV2xOS3p6WHo2TEhWRGs2S0FqX1k0TV9xdF9vb0djOUhhdzZid1RxWlI3VndHUEVOeHc2T3o0V0pkbUJxQ3hlWjJBNFVKWnNPZ2VYQmRrSzd1Yw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-02T18:28:14Z",
-      "dominio": "brasilinovador.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_5469",
-      "titulo": "Aneel avalia corte de R$ 804 milhões no custeio do Proinfa em 2026",
-      "lead": "Aneel avalia corte de R$ 804 milhões no custeio do Proinfa em 2026",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGRjdDRJRUhjLWZ3T0tZaS1MVktiSTFSUU9OOUhpT21OWEhqSTZnRWpGS0hMTnNLSGl2VGwydk5QaFZkMmZtSUlzdnBVcDdnUXVEdjRoaGdIMEZBdTRiTjN3djZ0MEl5aC0zQkJsdkQyTEZRZW1ERDIyYTRONFhad01Nc2FmenJWWnZhVmJLaW5sYmMyNlplOXc2N3FZT0hEeUtrMEZ2Wk9zS2tvTE9RRU9iNTQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-02T18:26:18Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_5758",
-      "titulo": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras",
-      "lead": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeU5RS3dPbHBmVDJMeDZZVmN3OWZpNE5GcmtNdy1MYVZIX1hQY0JjWDZZNFZnNzNoWEpTNU1ZakdzR2tWRTFhY01HWmNEMEpEaHJ2Y1BiUzE1ZXJEU2JtcDdvd1ZlR3ZTSUV0MVFOTGxqcWtodWJETTZRZXJORzhtVGhGZVQ3WVA5WVJOb25KMUFiMmVuWjZXNzhHbWJ5YkF6UmM4WUlkLW0tMUhoSkVreVpIdG1qUG8xS2hOSlhUWHE5Umo3d2xndU5UT3dmZlZxaFFGWk9iTFRGcmZHTVZndzgydE8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-02T18:00:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_91282",
-      "titulo": "CCEE consolida avanço da abertura do mercado livre de energia com 811 novas adesões em agosto",
-      "lead": "CCEE consolida avanço da abertura do mercado livre de energia com 811 novas adesões em agosto",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWFGZzhFb1RKYUNLZUF0WTdpdGI3emVSdWxZTGRjNURNcDYwWmRIeUpyT1VxcWJTMm0weWlBZ3djbnNCSVBXOC1OcmRyU010cTg3dHhJNU5oSFVlVDJCQW1pMEg4UDh6RWRGaHRrcmhHTmNEQkxZZm40cFZGNjl5SXhGTXBvV0F6U0tBM2NpTGdqYWlDY2hFVGwxNHkyUkJtZ0JUb1MtTU05TGRBUnMtd3JNUVVYeEhyS0dz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-02T12:16:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_14372",
-      "titulo": "Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD",
-      "lead": "Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONDJRb0VBVGRoMXg0LTJydENObExuQ3BwdzVhZ2lVVTE1MkJVWTNIT2ZOcmNWZDY3NmwyYXhuUDMya2NPeU1HOE1yVHFRY2thTTdWMkxJaVpZOVZoa3FKR05GOWFLZDlMMGRBYnZ6SDFIVzFvM3BtSW80eTh1RGpVQmhnYVc3WW5hbDNDOU1yc2YxZXhER3ViM3VXNzVKUTk1R2FqeC1Rd0NNTFRyaFJkOG5fZWpIcnZiOUVDRS1WTEp1RnVMV2l5WFdYd24wZUNLOThRLW10cDFRUFZDQ0pn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-01T20:54:22Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_65562",
-      "titulo": "O que o fim do sigilo revela sobre o processo da Eneva no TCU",
-      "lead": "O que o fim do sigilo revela sobre o processo da Eneva no TCU",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUHNRZHR5MFIxd2x2RXdqQUZfRDMyd3FTVG14WC0xazhlLUFMMmpBYklxSi1FQ1d5b3dvWjNYRUtfRWVJWGNWT2tBTlcxZ05oZV8tZWVTTF96a2ZHZjBaZlllQ1F1TDRrWnhOLUFTYUtoS2xjNEo0Zk5JV1gzY2ZPWXNocWJtU3p2VGh2S0pFNWZlVDVUY0JYUmljQkhDM2M?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-01T20:12:41Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

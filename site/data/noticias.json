@@ -1,17 +1,30 @@
 {
-  "updated": "2026-10-12T20:32:15Z",
+  "updated": "2026-10-13T01:30:24Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-10-12",
-      "titulo": "Reservatórios do SIN em 59,9% e PLD estável a R$ 57,31 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 59,9% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
-      "fonte": "Megagrid Dados",
-      "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1705747894609-6a7d17a8cfb7?w=600&q=70",
+      "id": "transicao_31596",
+      "titulo": "Bahia testa sistema inédito de baterias para armazenar energia solar",
+      "lead": "Bahia testa sistema inédito de baterias para armazenar energia solar",
+      "fonte": "Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEZxbzBscHhTM3U4X2VVUnBGWV9LWXdfSU5ycG1zQ3p0QmFUY2NpMlRKVnd0ZWJYYWd3M2JjQV95ak1mZXZYQlJLamZybVhQRGFPNGhLbUlYNkFvNUV4b04waE9BWllQU1I5SkdrallOYkI4SDYxXzRpT3J6ZnhKU21MU2NXLW5td2tiTHhQSzVTRzAta045bV8zTzRFSTdwV1dhUjNNellQQl9lYTRDVmZFZmFjTGYxclhjdi1xanFTUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-12T22:30:00Z",
+      "dominio": "timesbrasil.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "mercado-livre_18070",
+      "titulo": "Inadimplência do MCP sobe 44% em agosto, para R$ 142,65 milhões",
+      "lead": "Inadimplência do MCP sobe 44% em agosto, para R$ 142,65 milhões",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb056R0VqNHNITDlLM0YxMFRmS0taa3JYMzdjdFcxQ2gweU56Q0JVTVZCWjMwYVd3ZENWS2ZDWlg3NUU4cnBDQ2VxenBrVnpoS2lYcU41bHVrMEhQZmJGdDhtMWtrdnFFT0JQbG9qX0txaHF4Ym5kWFFqYWhfTDRibEZUUlZpODdfNjc0S1E0R0E2djAwVFoxLWJQeXhKVm9wTi1ScDlldzQwM3c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-10-12T20:32:15Z",
-      "tema": "hidreletrica-reservatorio"
+      "data": "2026-10-09T18:44:10Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "tarifas_18576",
@@ -19,7 +32,7 @@
       "lead": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho?",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRnBSQWxCUlVCT0RRd0lTX2U0Tkt6bmJ2WXdyNHFBbmdGNjE1emxadGkzaXlZYUljVUZvT0RoQUYzbnJ4Vm9oR1E1bHJiSWlDUEQwQV9jbDh3VWpyNzZBNkxidlFQVDlpd0pFSTBla01MS1FOQjJXLW9pelh4UQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-10-09T15:53:57Z",
       "dominio": "canalsolar.com.br",
@@ -55,7 +68,7 @@
       "lead": "Abertura do mercado livre de energia avança, mas migração será lenta",
       "fonte": "CanalEnergia",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdXUzY3VzVGNFNBbEJ3cTg0b1RFQ2NLVndELWVLcjVnRkJ2TmxzWmd6VFJVM3dBREZZSE1nOENSWmp5TlUyc0VFQVVlV0szQ1ZiLU1OVFhJcHdYaEc3Rkk3bGtTVE12RWRrcFFMWlVmUU5GTWN5WmZMdEdGUThiUnpwTnZiVmlpRXFQQ1Vpd0p6OWRHTGJ2U2VDZmNWU1RFYmEyX2JoS1lhU3VBRGE4cFZfVEFBM1U?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-09T13:05:27Z",
       "dominio": "www.canalenergia.com.br",
@@ -67,7 +80,7 @@
       "lead": "Módulo digital para monitoramento alcança índice de qualidade superior a 90%",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMF9nb0VTUkdIc0x6UXhrMXYxdXVHZ1ZPUVJlWGtRbWgzLWcwbDdtMHlZN1l5cHE0QzRVcTVGeDNEQWVYSEdSTXdzZ3BEdWtvMFdMWGh4TmdzSEpqNllCMHlVa2JqeDd1bTRkX3FJZVNfWVVqSTRpNWZScUhTR29td1I0aTdReThORXNwLUhRSlYwX0h3cG50ZV92Vy10YVZwa2FWdl9sc0dsVjZkX1VuMXRtbmRwTDZtSHBzVWdDamtkcVRLcGs1bXZVZ2d4V2IyMnp4Mzhvbm0zV0ZzZ3NWbQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-09T13:01:00Z",
       "dominio": "www.ccee.org.br",
@@ -133,7 +146,7 @@
       "lead": "Conta de energia não terá cobrança extra de bandeira tarifária em outubro",
       "fonte": "Portal ON",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajNWMndINWlUWk42bnJybFY3Y2hDSm1Lek9NcVhWeS15dkgyVURwbkV2cnJhNmVfc2ZuVWkyNjVXb285aGpXOHpuZnB2SFlRa0NvQnZ3MFBOMERTeVViS21xQjVSRHhxTFA3REdIc1p3NjhKYTlaMksteWRKSGFFNEFPMFNodVRMSl9XQVpvQUxScmRad3ZoaFFiTzR5R0RzaENYeHBicldLTDA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-10-08T18:02:45Z",
       "dominio": "portalon.com.br",
@@ -205,7 +218,7 @@
       "lead": "Ações do CMSE garantem encerramento do período seco com reservatórios em níveis superiores aos do ano passado, mesmo com o El Niño",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVUcza3RSV0lfVDZrSUFsSC1kSmtaM3Bwa1Z4aXF6bDVTVmRmZTloeXNMNUJaeGs3YXpnZl9BbEMtOFZ4V0NZbGF6VGdYNkFtaEVzQVZJYXFWb0Z2dHp2N3h5RlB1dzdhTFc5QjkwZG9CYU1fYXUwTk1NeVBBNktBbEI0WGc1WDNFRlJIdEk2VDhFeGVWZ1Q3WTJMOWRQSVFuWmxVVm51TUF2TnIwclktQXV6RWZOV1pnQXlzZng3Z1Z6VFB4cUpxMmZlZHBBUTZHWFZtUWJLMzRhMGxsUF90R2dfdEhGeGN6RHJRZlRqbTdCalUyOUFjQ05laDlLaURnQnJaQ3lFaw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1569918190173-6a5792908184?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1705747894609-6a7d17a8cfb7?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-10-08T00:19:44Z",
       "dominio": "www.gov.br",
@@ -324,7 +337,6 @@
       "data": "2026-10-07T13:44:55Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
-        "ANEEL",
         "Agência iNFRA"
       ],
       "tema": "precos-mercado"
@@ -742,21 +754,6 @@
       "data": "2026-10-01T20:12:41Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_77217",
-      "titulo": "ONS identifica 380 pontos para conexão de baterias e aponta capacidade disponível em 85% da rede",
-      "lead": "ONS identifica 380 pontos para conexão de baterias e aponta capacidade disponível em 85% da rede",
-      "fonte": "Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTDZ0aEhuLXB4V2d4Wnp3ZThnbkszS0IyTGJTWWlNcm94dkJBWklkUkxvd0VFZXpZclBZZG9zLUhjNkNGVTZRbEV4S2RWdm1PVFdLSEFMdUdqLUw2T2w2TzV2ZDRFZERiSVdQNURVRU1jZVctMWVMZW9nUEFhb3pZZHNZNXYzbk9JeFZHM09nMHJRSUNLWTVrd25mT2lyWGFtdVVabWJRM0RLdTZldjNZNHl1MUFLaUp0REtKSjgybWpuMF8zN0MxdTd3Tk5IVjhVMUkyVTUzZ2dSZ2FDZTdxc2F0U0Rsdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-01T19:56:00Z",
-      "dominio": "timesbrasil.com.br",
-      "tambem_em": [
-        "Tribuna do Sertão"
-      ],
-      "tema": "baterias-armazenamento"
     }
   ]
 }

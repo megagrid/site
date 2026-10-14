@@ -1,14 +1,53 @@
 {
-  "updated": "2026-10-13T23:21:21Z",
+  "updated": "2026-10-14T16:06:29Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_14016",
+      "titulo": "Bateria gigante ligada a usina solar na Bahia abre nova era para energia limpa no Brasil",
+      "lead": "Bateria gigante ligada a usina solar na Bahia abre nova era para energia limpa no Brasil",
+      "fonte": "www.bra1.com.br",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ09leXRRNTFUNFdscDI4M3JrcEpfT0JwU1FTdW9ibzVleDFXXzFvM0s1dndTdTdIa3VzUkpxampvdVlyanV4dUo1enF0WnBzUmRfS2ZjY3VCMFh2cTJiOF9zMy10Vno2Vk5acDRnVG56MC1zWTJWTHJzNWdxSDBHTFI4aHplMkcweE9Bc3k2eDRxbTVQUWdaRExaOHlHT2EyZXNZMVhsR2k0ODBGbko0QS1YdnFJdEtqaDd6aFJaOGhLbkhOV0lUaFI3SkUzUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-14T13:50:00Z",
+      "dominio": "www.bra1.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "transicao_71065",
+      "titulo": "Câmara aprova urgência de PL sobre divisão de custos de baterias",
+      "lead": "Câmara aprova urgência de PL sobre divisão de custos de baterias",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemloNFF2SXV0Rl80cnA1Z3k2OU9RRjZoSkZ4bU1mdDNBeGljWHhGQVhPWEVUMTM4TWF1WjJMeG5ZTk9INEtzSk5IWGpxWk1Iekl5dGFSYWlHWVVOWTl6R0c2ZXhLam9pLTM1dTZldUx4cDItaVVRTG4yTHBLWFZkQjVWbGNYWUVxMFZLUkxwZXpYZFhia2pVWk9vMDlzWjJnYjJtbC1NZzJCdnRoZlE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-13T23:30:50Z",
+      "dominio": "www.poder360.com.br",
+      "tambem_em": [
+        "Valor Econômico"
+      ],
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_98219",
+      "titulo": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
+      "lead": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWtxSkJrUkhCZjRrc2lIcGFTdFVfaVRDeHJ0ZWItTFVvV3dLRmRuZUM5TFVGNzFIVjEtbnZxY1BuaVV4alE2d2dsb1hBbUlWZUhsVVRpRENQeU04XzAtZXhKMk9meDJ1R3dnNUN3YzJ2T050R1pmNkk4ODJFYXFBWllNT3dyV1J1R2tMZktkS0RzOWI1bkNtYjdqd0tfUVJuSlpKeUdpdVNuQ1BOdmtR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-13T23:24:40Z",
+      "dominio": "www.cnnbrasil.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "regulacao_56385",
       "titulo": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL",
       "lead": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObm5jTi1taTNoUTlYSUFES042aVdkOXZYWjJWUllBaldRN0J3MVZLQ1JNSUdYV2hoYkZIa3d3MGx1RkZhX1NGQ21VSVVuMWR4M2VCSlZ4SWFJcDVzdEFoTmFlUmhSSTB1ZTIzMWFjcG1QOVRXblRJLXVnM29lLXJOVVAtUXVDT1I3cVlPdG5wRzFZR29ITU5OSXVsVk5KZ1M0WTNTRFo5bUdoLWEtbGZNSW1nM3R3SGh5YUV5UmJqUWJubnl2MXp3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-13T21:27:33Z",
       "dominio": "www.gov.br",
@@ -20,7 +59,7 @@
       "lead": "Aprovadas novas tarifas para consumidores atendidos pela CPFL Piratininga — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObEFiVWlibGhza2trRUFwZmJZaGkxX1RoMzRTVHViQ2xYXzktZ1BNVGdDVjFONmtNOThrUVk0b0ZKXzhEb2d3UVBGOHhTZUUzc1Bxc0N6MFN3TG52QnVfQ3R3OG5hZmJZVUJ6dm0xbno3NXk2SkxYdjlNRm5PY0M3WEgwQk1rc19kbFdnSklDUG9pRk1jZE5VWXhYMXJzeGlfMWVlcWxkTEJZcUFUVnhMWHZTSUxsNTROYWk4eExIMi12cjJtbC1UMmQtbGlKdHlBcXRqaV9hNHpHZllO?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-13T21:25:43Z",
       "dominio": "www.gov.br",
@@ -96,6 +135,18 @@
       "editoria": "mercado-livre",
       "data": "2026-10-13T12:48:40Z",
       "dominio": "www.poder360.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_88045",
+      "titulo": "Consumidores poderão escolher fornecedor de energia a partir de 2027; residências entram em 2028",
+      "lead": "Consumidores poderão escolher fornecedor de energia a partir de 2027; residências entram em 2028",
+      "fonte": "Varginha Online",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWh2emdWaFlBRjVCanZ1d1hfcHh2TTI0enV2YVYwVWN5MzlwT05mbkE2N0ZZanNHVTROX0ktV0t0bEpHRnNMTHYxTmdZN0RZNFJhMXBRMUp1T092d1h2Z3hoWHo4Zm0wOWVDN3FVUlFaNDVTd2tER0JrbDdhb1BkRjhlX2VDSjROTkpvdzlKNU12UmpWcnVuWmF3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-13T12:38:26Z",
+      "dominio": "www.varginhaonline.com.br",
       "tema": "consumidor-residencial"
     },
     {
@@ -698,57 +749,6 @@
       "data": "2026-10-06T14:38:19Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "industria-generica"
-    },
-    {
-      "id": "regulacao_91551",
-      "titulo": "ANEEL abre consulta para regulamentar regras de acesso à rede",
-      "lead": "ANEEL abre consulta para regulamentar regras de acesso à rede",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFJLMDdGVDQ0QjFqWHg4cU9QNW9IY1NTaHZRbFpRQ2kzZWNkb1VMcG1ha29OU3N4VHZJTjF4SXBEWVZPVFBtczN1VXd5ZXdYa3JZdGJXdzdSbTRhc2d5MUNleXZ0cFVva29TQW9kbkptWHBpYjFweU5zRXFEVlhCLUlTc0JWMnlYSjRvby04cDY0b1lmVi04?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-06T13:18:05Z",
-      "dominio": "agenciainfra.com",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_17299",
-      "titulo": "CCEE registra 811 novas migrações ao mercado livre em agosto",
-      "lead": "CCEE registra 811 novas migrações ao mercado livre em agosto",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV25DNlJ4LUpwdTVJMGtrWGc2YzNyaTZ6TlR0b0lBakhmd1FyZmpER1RkREFYRjRpRnJLeGlmU0NvZ2pwUncyMEdvUDctZGFnWUwwUVkzMUFzTGpKd2Q4RUlFdG9MbFVFNUNtUDRWZTQyR3FEUUVDZjdBVFFpTTl5bUdTY0JKcVB4dEFwUXA2bXI5TEhDY2c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-06T01:15:48Z",
-      "dominio": "agenciainfra.com",
-      "tambem_em": [
-        "Cenário Energia"
-      ],
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "politica-energetica_19490",
-      "titulo": "MME avança na compensação por cortes de geração com divulgação de lista de elegibilidade",
-      "lead": "MME avança na compensação por cortes de geração com divulgação de lista de elegibilidade www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa09KaTdyMkM0QVVvU2VMdDNxX3VhMk4tQXBFTEtXWXRBZnpEOFU2VF8teG5kdW5IX0hhUzdNSkNENTBrT0dOOUs2d3lHbFZzM2VPdlRMUVl6aGdKOFVIczNaYnNNNlFNOWpud0oxc0N1MXlhcDJVUU10R3BhVk5BbGVOcmphZ3d1Ty0wRDVVandRQ0JKcnJ4X0lZdXJnOWdZbmlfVktaVzNrcmhmb3I0OVFENWdiYjVGOUJQZHJZZVhrNWt2X3lJQ1cxT19fd2ln?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1546185058-592ead754d27?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-05T21:57:44Z",
-      "dominio": "www.gov.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "transicao_92932",
-      "titulo": "ABEE-MT realiza FMEES 2026 com foco em sistemas de armazenamento de energia em baterias",
-      "lead": "ABEE-MT realiza FMEES 2026 com foco em sistemas de armazenamento de energia em baterias",
-      "fonte": "Crea-MT",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVhTMUZRYThpZ1RFLWNidEVCdGpSX1dZa0w4VW9hclh1QjJDZEl2YkxqTVFvUE9nSGdnNGxsdlo3Y2h4d3RQQmNmNWZRUDFCcmFoSF9NT1liZ3cxQUN1SGNJZnlSTEJTSm5WLTJBcndmXzBIR1JTMjdiUUdkdGFsMkhhWHFSMFdQZHdJLW4wdFFBcDB1bVQwVHV2Q1RORjVSVklTQkNab1BMOGZUZU1HYlh2Ulg2NldEdmhSTThsOA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-05T17:54:00Z",
-      "dominio": "www.crea-mt.org.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

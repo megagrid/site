@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-15T15:53:53Z",
+  "updated": "2026-10-15T22:33:00Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_2032",
+      "titulo": "PLD vai de R$ 57,31 a R$ 1,4 mil/MWh nesta quinta",
+      "lead": "PLD vai de R$ 57,31 a R$ 1,4 mil/MWh nesta quinta",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUZ0NjFLSk92bUdNXzNnZmtJdEpGQU5CdkJ1MlNHQ3NZMHlzaWlLbEN0VGNua0RhZzJBWGxhQzZQOGo3ai0yMGdoLUZLRmhNZVFUNl8xZ1A0ZGpOemxKcHUyRzZGX2JmMVdRaUhCUEljTWZ5ZU0ya2V0SUNDSmp6R05n?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-15T21:56:15Z",
+      "dominio": "agenciainfra.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_8047",
+      "titulo": "Cemig fornecerá energia renovável a 160 unidades do Exército Brasileiro em dez estados",
+      "lead": "Cemig fornecerá energia renovável a 160 unidades do Exército Brasileiro em dez estados",
+      "fonte": "Agência Minas",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUVicXBBR0xvbTRwV1l1YllJWURfd09UTEwzMnhNMGE1cGdmX1NrZWRCcGdtVUIxNy1zN1BhWFZxWkl6MlZMLWQ1ZGpCMVBhTU9kU0MzdGMtWkxRX1hLbUpjS0FPMmdHMEJBQVpqd0NEdFhxQllLcE1hTmpoNGJnNTRqQ0otblY1a2dIUlZFSkhiZWFjNjIyeGN4djhvQ1o5Z2tZRmlpNGc0cDZIX0xWOEdrZjdKY3RySndwRlk4S0Z1SEdSQmI0OQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-15T19:05:23Z",
+      "dominio": "www.agenciaminas.mg.gov.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_28389",
+      "titulo": "CCEE, ONS e EPE avançam no desenvolvimento de Novo Modelo computacional em código aberto",
+      "lead": "CCEE, ONS e EPE avançam no desenvolvimento de Novo Modelo computacional em código aberto",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEZsQ05FUlF4a1JQQm1GbnZfYUdwUmdkaWNtZmhNaDZoSEpMWEtZUlVzeTltOXBrV25pV2VxaGMtNXJaYmI4TnFNLXdpVjZPcXJ2dHRKeGtRdjkzWVc5RmgxY2V6RUdqVUlydVl3U2FfeldudTNYLVprYk9pUkMwdTlxelBBODJzWlkyZjIxRnloT1R5cUJKd1BpSE5jZUZxdVI2c1hfVXhlN1BnUjJNQjl0UDBRN1hWcmE1Z0E1ZUE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-15T18:58:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "tarifas_25771",
+      "titulo": "Bandeira verde reduz custo da conta de energia em outubro; Neoenergia orienta sobre consumo consciente",
+      "lead": "Bandeira verde reduz custo da conta de energia em outubro; Neoenergia orienta sobre consumo consciente",
+      "fonte": "Blog Nossa Voz",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05YWxNNkhPM0tzdjF1SW9EaXc0NmNZQlo0TXJBblRyMjBka1VnZTEtbXExa3c4dXBzcWMwdU1WRTluazAyOGJkc1NlVVhnUzhmbDhwQg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-15T17:51:53Z",
+      "dominio": "www.blognossavoz.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_27966",
+      "titulo": "Com calor, preço da energia dispara 2.408% no fim da tarde desta quinta-feira",
+      "lead": "Com calor, preço da energia dispara 2.408% no fim da tarde desta quinta-feira",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEo1LV9TQkJiaVM1Y0RjQmsxbmdBSTRLRFp3NlkwenlCRVRkWXM4YkhmNUFJMFM5cnFERmhCY2l6cTgtU1dSdVFZVldRM2ZLdldMdDM1ZmlSWEYxdk5waENEazFaSFh2TGVMRDhpbDM2RkQyYjNYcUJpT1UxazlKYUlYNXJtdmZ6d25OTTlSRG8xaUZIQm4tTjNseDZjaU9xZEFkWHFja1BaVEg2MFcwM081M1hxWWJEZ1E?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-15T17:23:26Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "regulacao_97312",
       "titulo": "AGRESE E ANEEL REFORÇAM PARCERIA PARA AMPLIAR FISCALIZAÇÃO DOS SERVIÇOS DE ENERGIA ELÉTRICA EM SERGIPE",
@@ -15,12 +75,27 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_48302",
+      "titulo": "Não há abertura do mercado livre de energia sem segurança",
+      "lead": "Não há abertura do mercado livre de energia sem segurança",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObHNfNl9wY0RmZGFkRVcyQ09nR1lQZmlHdzhOVWJfaW5GMUdJWGRqVmRqT1VZZVZWZWsxWnp4dDBvNFZ3WGwyNkc4TF9oNFFFRENBVG5ZMnZsZjVvRWotMkM3NzEyZ29QeTBEcmRTcDRkT09ETmlaQ2RWMThWME84Ry02TkVaX3lMZ3ZhT3pBWWpUYklDemJUMnF1WWI?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-15T11:00:39Z",
+      "dominio": "www.cnnbrasil.com.br",
+      "tambem_em": [
+        "CNN Brasil"
+      ],
+      "tema": "precos-mercado"
+    },
+    {
       "id": "mercado-livre_26360",
       "titulo": "Como duas vencedoras do maior leilão elétrico brasileiro estão assegurando o cronograma",
       "lead": "Como duas vencedoras do maior leilão elétrico brasileiro estão assegurando o cronograma",
       "fonte": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNFZGRnVtM2FmLWFlcS1WN3dQNW9LcE1lMmFPUVNQNXd2dnNCQmVscXBnRUNrNWV5T1FiZDlUYWd3OHo5eHNCTDBFd2lzMmtGSmY5cE1nNW1fZFlTXzI4M1VqaW05RGRLRnRwbGRHVVJrenk1ZWpnOHFiamdYT0hCSFZHRU5YSVdiVDl4ZEl2cmZmY2ZaUU5XSXFlYmZsaFIzRkgxaDIxMV9wWk1pQ3gtSmVmTTAwQXg0XzIyTEwzSzNNQ2c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-15T09:09:05Z",
       "dominio": "www.bnamericas.com",
@@ -162,18 +237,6 @@
       "tema": "transmissao-rede"
     },
     {
-      "id": "mercado-livre_98219",
-      "titulo": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
-      "lead": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWtxSkJrUkhCZjRrc2lIcGFTdFVfaVRDeHJ0ZWItTFVvV3dLRmRuZUM5TFVGNzFIVjEtbnZxY1BuaVV4alE2d2dsb1hBbUlWZUhsVVRpRENQeU04XzAtZXhKMk9meDJ1R3dnNUN3YzJ2T050R1pmNkk4ODJFYXFBWllNT3dyV1J1R2tMZktkS0RzOWI1bkNtYjdqd0tfUVJuSlpKeUdpdVNuQ1BOdmtR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-13T23:24:40Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
       "id": "regulacao_56385",
       "titulo": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL",
       "lead": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL — Agência Nacional de Energia Elétrica www.gov.br",
@@ -191,7 +254,7 @@
       "lead": "Aprovadas novas tarifas para consumidores atendidos pela CPFL Piratininga — Agência Nacional de Energia Elétrica www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObEFiVWlibGhza2trRUFwZmJZaGkxX1RoMzRTVHViQ2xYXzktZ1BNVGdDVjFONmtNOThrUVk0b0ZKXzhEb2d3UVBGOHhTZUUzc1Bxc0N6MFN3TG52QnVfQ3R3OG5hZmJZVUJ6dm0xbno3NXk2SkxYdjlNRm5PY0M3WEgwQk1rc19kbFdnSklDUG9pRk1jZE5VWXhYMXJzeGlfMWVlcWxkTEJZcUFUVnhMWHZTSUxsNTROYWk4eExIMi12cjJtbC1UMmQtbGlKdHlBcXRqaV9hNHpHZllO?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-13T21:25:43Z",
       "dominio": "www.gov.br",
@@ -680,72 +743,6 @@
         "CCEE"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_25637",
-      "titulo": "ANEEL aprova leilões de energia existente com preços-teto de até R$ 290/MWh",
-      "lead": "ANEEL aprova leilões de energia existente com preços-teto de até R$ 290/MWh",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZ2d4Qk1UaEl1bEtTOWJKanNycjhPSlFqSEZoT0dxc25QWXp1Q28zc3RYNlpmM05jZWpWZHFSZnR5QXZBd3Y0cy1pSENNWjZvZ3ZtcFV2SnVkel9MTmpxV09RVTQ3S21KMkdIUGJndWFFblZUQ1Fn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-07T13:44:55Z",
-      "dominio": "canalsolar.com.br",
-      "tambem_em": [
-        "Agência iNFRA"
-      ],
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_96890",
-      "titulo": "Bandeira verde deixa conta de luz sem cobrança adicional em outubro",
-      "lead": "Bandeira verde deixa conta de luz sem cobrança adicional em outubro",
-      "fonte": "Portal ON",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT24wUDFXWGdoQ0ZsZm9CaXJkM0c0ZHNBRnUtZUppNUdXT0hGRlRSS2FVU3YzVXQwMXJGUkluc043bGZwbmxKX3ZKU3B1ekplS05wTEJVVTJWNjMxMHl5a0JUSEJYVFB0Z3ZuazVpLTBQeTdQenBtdjB5THRrVEF6LW9CVHNxMU0tdDhQSmZtVmNDQ0tnSHlfRTVJOFR4SHpWUkY5UWlR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-07T12:54:23Z",
-      "dominio": "portalon.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_78062",
-      "titulo": "ANEEL aprova regras para cadastro de agentes e representantes nos Procedimentos de Rede",
-      "lead": "ANEEL aprova regras para cadastro de agentes e representantes nos Procedimentos de Rede Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ1RvMGR4b3NXQWExTngtZS1GVkJHSWxFOWM0MW5wTnhuSTBGbUNYLWMzSW1uN1FLd2w2bVBjUG5qOVZKaTdvNkZhZGtjZzNaS0hmRDNPQnFjclAzcEpNT05HSU5ibmFfVS1XV194b2stSjA0a2JIYWQ1Q19wRXdkSU5mcGw2bmNjWWVWZHhhRVl4WC1EY3VJUWNCR3dOOFR0Z1ZVLVFMU18tdlU1Nll6TWJSS19QcjZ1M2E0dDZsSW5DOGRyOEZRLUlORFpxeGlUUkR1UjJfT1J6cm1SQW11aUdmYTVfcG1TMHRaTGdfcw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-07T12:08:06Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_17508",
-      "titulo": "Aneel deve pautar medição inteligente em outubro",
-      "lead": "Aneel deve pautar medição inteligente em outubro",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFlfNmtUcHdPYWNKYlZPZHMwNENialphUUxaMmRFUm9qNnA3UE44S0R5RUlrUnNnamtUQzdjYnFRdkdNU1hSRkZSYnBwQXNHekwtNGJGWjQzeTFIVjNiZldRME1UV2RoSWE0b1NqLUkwQlNjUHd1VTZXeHM4NnNiN1NfMmVHczcwOGw2OUNlcHE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-07T12:03:40Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_50688",
-      "titulo": "Aneel aprova consulta pública sobre custeio da contratação de baterias no sistema elétrico",
-      "lead": "Aneel aprova consulta pública sobre custeio da contratação de baterias no sistema elétrico",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1J4dk50MWM2WThHWExNRTFiUFU1NXJRRUZFcUFlWDhVZTJHam9vdG92cTYyUUROaTNDOFNNcXFWWlFRRTdXNXdiYlJvel9QazE0alYwQjhLLThNSTl3cnp4TzhtTWtOZm1sTmhyNXRMWkl1Rjl6YmZzbThnd215R2tROXZ5LWZ3aDlMMFBnM19hYVdxZVBWV3Q5UG1pclNHUk00R3lLb1JmRjNGZjlCU0w5S3lTU1lHNVdySFZMeHNGLWtIRlBseg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-06T22:35:52Z",
-      "dominio": "eixos.com.br",
-      "tambem_em": [
-        "Tribuna do Sertão"
-      ],
-      "tema": "baterias-armazenamento"
     }
   ]
 }

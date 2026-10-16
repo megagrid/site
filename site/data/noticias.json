@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-16T15:42:24Z",
+  "updated": "2026-10-16T22:09:38Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_63554",
+      "titulo": "Cemig fornecerá energia renovável ao Exército Brasileiro em dez estados",
+      "lead": "Cemig fornecerá energia renovável ao Exército Brasileiro em dez estados",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNendzcldOMDRQcE02QkRtakt0YUhQLTFvcDNTOGZJNmlLci04bS1rQ3MzNFpvWmN6dnpieFk4cG9QczhneHdyc3JRbjFCZzR0MEtXSU1DZHJhc081TUlWX2kxaUU2b2xvamJzVXQ1QXV2VFNacTY5bUQtM3MtOEItVTZ2SFA1WGVYdHc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-16T15:41:56Z",
+      "dominio": "canalsolar.com.br",
+      "tambem_em": [
+        "Agência Minas"
+      ],
+      "tema": "precos-mercado"
+    },
     {
       "id": "mercado-livre_54049",
       "titulo": "Em Simpósio Jurídico da ABCE, CCEE apresenta palestra sobre suspensão de regras pelo Judiciário",
@@ -20,7 +35,7 @@
       "lead": "CCEE reduz em mais de 75% o prazo médio para processar pedidos de recontabilização",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTXRyNndpY2Nna0RnZzlLOE54Y2EyY0tXM3ZoUEYwRThsd0o2eHRqb0VHQV9VZ2lxRkFUZEpaWFFlRUdvdm9YX0tyLTdPVGQtWWVKeTU4bFRYT2l5LXlVOFpNU01BcDg5aGc0VjhCZnp6VzFoN2Y0TUxQdTFudVdPcmZ5Q2J0NjhnOFhwVXJtREJIMU9sSkFsMjBVRlNlYlNXMF8wcFo1dVlWRnJZeDZNRTRfMHFIZjB1?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-16T12:11:00Z",
       "dominio": "www.ccee.org.br",
@@ -48,18 +63,6 @@
       "editoria": "mercado-livre",
       "data": "2026-10-15T21:56:15Z",
       "dominio": "agenciainfra.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_8047",
-      "titulo": "Cemig fornecerá energia renovável a 160 unidades do Exército Brasileiro em dez estados",
-      "lead": "Cemig fornecerá energia renovável a 160 unidades do Exército Brasileiro em dez estados",
-      "fonte": "Agência Minas",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUVicXBBR0xvbTRwV1l1YllJWURfd09UTEwzMnhNMGE1cGdmX1NrZWRCcGdtVUIxNy1zN1BhWFZxWkl6MlZMLWQ1ZGpCMVBhTU9kU0MzdGMtWkxRX1hLbUpjS0FPMmdHMEJBQVpqd0NEdFhxQllLcE1hTmpoNGJnNTRqQ0otblY1a2dIUlZFSkhiZWFjNjIyeGN4djhvQ1o5Z2tZRmlpNGc0cDZIX0xWOEdrZjdKY3RySndwRlk4S0Z1SEdSQmI0OQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-15T19:05:23Z",
-      "dominio": "www.agenciaminas.mg.gov.br",
       "tema": "precos-mercado"
     },
     {

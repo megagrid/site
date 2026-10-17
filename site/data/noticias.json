@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-16T22:09:38Z",
+  "updated": "2026-10-17T14:34:10Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_85292",
+      "titulo": "2º Fórum Análise Setorial",
+      "lead": "2º Fórum Análise Setorial",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbEdPTXBHTDA3Vmp1Ym96aDQ4UWdBODFoY0Q0Ui1wdFVxYjBucU1tVkd1dkE1RkxYSHlhRFppbTJHR1NqVUQ1bUdtSEh3SmdqVXA0Uy1pTklIaml2SUF1SXJ1WQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-17T06:11:15Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "mercado-livre_63554",
       "titulo": "Cemig fornecerá energia renovável ao Exército Brasileiro em dez estados",
@@ -16,6 +28,18 @@
         "Agência Minas"
       ],
       "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_37477",
+      "titulo": "Reforma tributária: ANEEL propõe consultas sobre PIS/Cofins e créditos no setor elétrico",
+      "lead": "Reforma tributária: ANEEL propõe consultas sobre PIS/Cofins e créditos no setor elétrico",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmtkbXZrZEpXVllIT0VJZ1FzN1VHMk10Y05hSGZPRXJWNG5TdlVZQUo4cVZHemowZFRWZ0E2UXNWRDh2aDhPM2hRMU5OV2tlX281VGt6dng1X0N5ckFqQlctUXZVX2htLUsyZE9ya2t6UVhkcjRwVzlRNHhvNjM2MmNyYV8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-16T13:51:18Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_54049",
@@ -291,6 +315,18 @@
       "tema": "transmissao-rede"
     },
     {
+      "id": "transicao_24388",
+      "titulo": "Câmara aprova urgência de PL sobre divisão de custos de baterias",
+      "lead": "Câmara aprova urgência de PL sobre divisão de custos de baterias",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemloNFF2SXV0Rl80cnA1Z3k2OU9RRjZoSkZ4bU1mdDNBeGljWHhGQVhPWEVUMTM4TWF1WjJMeG5ZTk9INEtzSk5IWGpxWk1Iekl5dGFSYWlHWVVOWTl6R0c2ZXhLam9pLTM1dTZldUx4cDItaVVRTG4yTHBLWFZkQjVWbGNYWUVxMFZLUkxwZXpYZFhia2pVWk9vMDlzWjJnYjJtbC1NZzJCdnRoZlE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-13T23:30:50Z",
+      "dominio": "www.poder360.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "regulacao_56385",
       "titulo": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL",
       "lead": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL — Agência Nacional de Energia Elétrica www.gov.br",
@@ -356,7 +392,7 @@
       "lead": "Baterias gigantes vão proteger a energia elétrica do Acre e mudar o setor no Brasil",
       "fonte": "www.bra1.com.br",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZklIcVFlWnJIZFBwWTU0UFE2cTBmNXBIbnZ4THp6MUItQ3RNRnJzdWNib0J2ZERWX0J2c0pUbUdLY2xzT3lSb1pVV24wVUtaZFpxZHdoNmJUMnhHQlhYU2FQcmNicGF5TXRBaHVhMHV4TWZfank3WklWWmJtUE40WEx6emwzRUtzQ0ZSb0hoS0dQSW9IbDRXVnFOVHhlYmdpVlRTVzk1LV9mZWFQeE9vR3ZXazcybVVid2pIV01fVGRYZE5fSDU0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-13T16:51:00Z",
       "dominio": "www.bra1.com.br",
@@ -710,42 +746,6 @@
         "CCEE"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_84636",
-      "titulo": "Vitru Educação reduz em 40% os custos com energia elétrica nos campi através da migração para o mercado livre",
-      "lead": "Vitru Educação reduz em 40% os custos com energia elétrica nos campi através da migração para o mercado livre",
-      "fonte": "Business Moment",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOE9rRzh4U1NFMFlMYmNTOWJhdExyZ3Q5dDBtQ1hOZWxmUDAtYWVsejhGYlgzMGtkeVQtRkVsZWREM21rV254U0xRSnhfZ0JRb3hCNThid0dyVmRsalZHX3hVWUhJV1hzRTdIeURrTXhQUTgwX0dvMy14LUVXbjV1MXNOcE9sNTR3aV91bG9vV1J5UC1sR1hNamU0ZU5NQjBRcDBNNEd1YjNUSkYyRWx0bE82dzJCLVJqUmJJVDF2TTMwYkZJTnpXd3FSb1B1ODFSQlZwSEt30gHeAUFVX3lxTFAyemZjQmhNY2t2aVdwTUEtTkI5RWJRR0JfclFZXzQwODkxSGNwNlEyTVltWTVtUUVNaXJQcVM4X1ZkYnU3WlpiTTNUTnhDVE5NSDFHZmY4clN1UmRzQ1VaaENtZW1nT2VGYmt6UjJvN2x1dWk3VUpVQ1I4bkVFeUlLeHk0LS1BNTltMFJuaUZxdGo4M1lyZzc5OWVDNHdEQk5UM2VJek8tX3NnaTd4ZlN6S1NhWl96YTNmQnJ0aEduYjRjYlpmOWx3LUFQbFNfNGVadllkdlFybWV4dFJ0dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-07T15:33:40Z",
-      "dominio": "businessmoment.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_33485",
-      "titulo": "CCEE vê risco iminente na Thopen e inabilita Gama como varejista",
-      "lead": "CCEE vê risco iminente na Thopen e inabilita Gama como varejista",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlpGR1ZodnBOa3cyVm1rS1R0NkpDeHZ4NVlISzRoaGVQaF9NWWJfcHNmS3A4d3o2VFpXVGU0OVY2Yl9xT2EzbEJPQnlRelg1SGVKME9PbmgzdFlINjkwWkhrZTNPSnZpQktPRmI5S2hGNndNdXlBMmdObXdwRTNPdlVZc3hON2FHclZpczgtTldYQ180angwMXBfb1RtbmR6emZrNnpKS05weUE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-07T15:31:56Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_78907",
-      "titulo": "CCEE desenvolve plataforma própria para a operacionalização do 1º Leilão de Gás Natural da União da PPSA",
-      "lead": "CCEE desenvolve plataforma própria para a operacionalização do 1º Leilão de Gás Natural da União da PPSA",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLS1QYjVqZXdKS0lqVFV1WDBpUGRWcjR3NElhUjdMQnpnVkVtbGpzMnhfcW1HTXk3MDMtZTgzMTU2VXdtNVBLQUl6UERaakhiSWdHT0lDdHVzLTg2WldoaF9jeTFzZGcwR1JqSW9xc21YQ3JEanhRYUxBZ3F6YmVVLTk0UmZEQ1lkc3hTUXZMWE9rLXRzaDIxVHNWcTJKMloxN2MwcUk2dWRodWZUUlc4anJEXzJFZkxGbmdFWS1TbU1qb05Md1ltNw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1585252155261-cff31944d781?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-07T15:18:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "termica-gas"
     }
   ]
 }

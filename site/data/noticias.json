@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T14:34:10Z",
+  "updated": "2026-10-17T21:34:16Z",
   "total": 60,
   "itens": [
     {
@@ -219,15 +219,18 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "mercado-livre_6077",
+      "id": "mercado-livre_55859",
       "titulo": "CCEE, ONS e EPE promovem workshop sobre processos de previsão de carga",
       "lead": "CCEE, ONS e EPE promovem workshop sobre processos de previsão de carga",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVVvcXVWU1AxRXhVNDNWUnFVUFdYcEtWdjlQeXlGUWhPODNLczdIS0lYOWw0NzZiMnozdV9QbURBWE5CSHRsOGU1OEs1djNXQ0FXaFMyV2hYUnl0YUt1dlUwdVZsZUI3MFFvRGJBQzdQTU5PQUlBLWh5anpHamVGVWk0TnFrMnRNRVQ3OEhZbkc3al9BenBZX3FvX3BIMi1IVjRNQXA1NnM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGdMMnRITGplR2haek1QZ1ZaRkRJWENmSjlLWVBUTHhEZjhIdDNxdk1DMDREV0Vscm9YSmJZbWhTeUlBUzhhRUJ0dGl0WElwQ1RoRHBRaU1PRy1QQUYtM082d2hWLW5qZzhUN0JfNHVvellkMnk1dUFmTjh6UUFpUVcxVlJPdVh6TWlINF9fTGRIZERGaGlqczJMdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-14T21:30:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -523,6 +526,18 @@
       "tema": "precos-mercado"
     },
     {
+      "id": "tarifas_77185",
+      "titulo": "É oficial: Aneel aciona bandeira verde em outubro e a conta de luz deixa de pagar R$ 1,885 extra a cada 100 kWh",
+      "lead": "É oficial: Aneel aciona bandeira verde em outubro e a conta de luz deixa de pagar R$ 1,885 extra a cada 100 kWh",
+      "fonte": "Jornal do Brasil",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWpNSXYtYy0wb0taUkdNd0FpLVJYZUtFUVhYZFlHc24yekN1NGdoc1hRU0xPM01Wd05yYlpIckFSZzF0OUJCbTB2Y2o0T2RxZmtJSjNRWDlUU2RSX3N3WS1CMDdtT1l5YzRXUm9ybDdXd3Zxc1AyaXdoXzdfMTVjT0ZEVl9Idw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-09T18:00:00Z",
+      "dominio": "www.jb.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
       "id": "tarifas_18576",
       "titulo": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho?",
       "lead": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho?",
@@ -731,21 +746,6 @@
       "data": "2026-10-08T00:19:44Z",
       "dominio": "www.gov.br",
       "tema": "hidreletrica-reservatorio"
-    },
-    {
-      "id": "mercado-livre_13204",
-      "titulo": "CCEE tem quatro projetos reconhecidos em prêmio nacional de melhores práticas jurídicas",
-      "lead": "CCEE tem quatro projetos reconhecidos em prêmio nacional de melhores práticas jurídicas",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGwzT29yY05Yd1FjNURsVGlzb3JEelV2VVZCS1pFc2gtQXpaWDdFS3lvc2JWTVlneGR3NFV4ekticU90amYycndJQy1mR3BQa1VFbzR6NEdBR2p6MllJT2ctcF9ZNVNzY3lEb3hYaEFWYV9Va3ZSYjNETkZwYk1ibGpJZzUxcWdrN1puM2ZKcVdPTzFhNjJhR0Z3cERiTFNGQlhWZEE0WXdiTFF6ZkJ0cWEtbw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-07T20:58:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
     }
   ]
 }

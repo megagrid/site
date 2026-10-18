@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T15:00:52Z",
-  "semana_ref": "2026-10-16",
+  "updated": "2026-10-18T21:38:20Z",
+  "semana_ref": "2026-10-23",
   "fonte": "ONS — CMO semanal (PLD = CMO com teto/piso ANEEL)",
   "submercados": {
     "SE/CO": {
@@ -16,18 +16,11 @@
       "variacao": 0.0
     },
     "N": {
-      "preco": 289.25,
-      "variacao": 0.0
+      "preco": 461.46,
+      "variacao": 59.5
     }
   },
   "historico": [
-    {
-      "semana": "2026-05-08",
-      "SE_CO": 312.74,
-      "S": 312.74,
-      "NE": 57.31,
-      "N": 289.25
-    },
     {
       "semana": "2026-05-15",
       "SE_CO": 189.11,
@@ -188,6 +181,13 @@
       "S": 57.31,
       "NE": 57.31,
       "N": 289.25
+    },
+    {
+      "semana": "2026-10-23",
+      "SE_CO": 57.31,
+      "S": 57.31,
+      "NE": 57.31,
+      "N": 461.46
     }
   ]
 }

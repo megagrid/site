@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-18T15:01:01Z",
+  "updated": "2026-10-18T21:38:29Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_32859",
+      "titulo": "Leilão da Aneel: R$ 4,1 bi em transmissão para MS, PR e GO",
+      "lead": "Leilão da Aneel: R$ 4,1 bi em transmissão para MS, PR e GO",
+      "fonte": "Campo Grande News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkJGa0NCdzVxZ2tyNHdpQnp2Rk5HbzBSbG9ZNDVFaUx4RWdwZ1NReUNpaUlfc3ZGTkpmRDNwbkhEcGFRNVRoU25odFdhS0x4OEQxOWdjZTBrNnpyUk5ZR09PS1ZXV3JVdWVSY0lkOUtjV09KMjFyNGhJU1N6bDVUUUs1VUg2MV92TFNhQ3FHazBIXzlhbEdXaGh2WlViOS1wRXoya3NWekR0OGoyYTJ0dTVGUWtRQmvSAbcBQVVfeXFMTlJ2Vnl6NS1yNWZrMzBmXy13alhPbS1ORURTSGFBVzdaTTROQ1duSWRSMjg0QmxjTUFkLVJjZWQta0ZaQ1dIOEw1dUR3NWg2enVtdnVvZi1ROGtWajM1NjNBRDIwN2tWaElFU2I0dXYyMzJQd095bFJFSWF4VWNaaWdrYXFmMUpPUFREMG00dXhpbERfTG5UdUpmQl9wd081R0NRQlhLR09TaWNOMEUxZVFyMklRbmRn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-18T17:55:00Z",
+      "dominio": "www.campograndenews.com.br",
+      "tema": "transmissao-rede"
+    },
     {
       "id": "transicao_13710",
       "titulo": "Bateria integrada à usina solar: novo caminho para gestão de ativos renováveis",
@@ -20,7 +32,7 @@
       "lead": "2º Fórum Análise Setorial",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbEdPTXBHTDA3Vmp1Ym96aDQ4UWdBODFoY0Q0Ui1wdFVxYjBucU1tVkd1dkE1RkxYSHlhRFppbTJHR1NqVUQ1bUdtSEh3SmdqVXA0Uy1pTklIaml2SUF1SXJ1WQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-17T06:11:15Z",
       "dominio": "www.ccee.org.br",
@@ -32,7 +44,7 @@
       "lead": "Cemig fornecerá energia renovável ao Exército Brasileiro em dez estados",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNendzcldOMDRQcE02QkRtakt0YUhQLTFvcDNTOGZJNmlLci04bS1rQ3MzNFpvWmN6dnpieFk4cG9QczhneHdyc3JRbjFCZzR0MEtXSU1DZHJhc081TUlWX2kxaUU2b2xvamJzVXQ1QXV2VFNacTY5bUQtM3MtOEItVTZ2SFA1WGVYdHc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-16T15:41:56Z",
       "dominio": "canalsolar.com.br",
@@ -204,6 +216,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_70997",
+      "titulo": "O que é mercado livre de energia e por que mais empresas estão entrando nele?",
+      "lead": "O que é mercado livre de energia e por que mais empresas estão entrando nele?",
+      "fonte": "Insane Championship Wrestling",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGNlajdIZHU2Y0RSdGdlemlZYVNUUnl1TkNBRk5jTjM2SjlGY21NZVk2aHZEM1dhODg5dUREM2RBaW9XOGpkZk92a2FjczdOSmtEM2lsTGFCblNZYzFoVW5lamU2NFA2Rl84ZUVCa0NEanNzTEtDcEI3Y2lCaGJBVEIyWENrdnZIMjZYZkF1U1lfSG9Qd0ZrZ1U0Y3E4V3JkZHp5TTFyaFdyLWVENXlZdg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-15T07:00:00Z",
+      "dominio": "economiasc.com",
+      "tema": "precos-mercado"
+    },
+    {
       "id": "transicao_27854",
       "titulo": "Empresa brasileira fecha parceria com gigante chinesa que já instalou mais de 70 GWh em baterias e mira leilões de dezembro para disputar novo mercado de armazenamento de energia no Brasil",
       "lead": "Empresa brasileira fecha parceria com gigante chinesa que já instalou mais de 70 GWh em baterias e mira leilões de dezembro para disputar novo mercado de armazenamento de energia no Brasil",
@@ -233,7 +257,7 @@
       "lead": "Vitru Educação reduz em 40% os custos com energia elétrica nos campi através da migração para o mercado livre",
       "fonte": "Gazeta da Semana",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGlTc3NndUVPRG5WUUN6X3VRSHVWOWVMQlJXU2VHZVhpNVJjRmxSMFRFQUR5c1hTWDU2VHJSSlNWNHEtOVBWX3ZHcDNIZjYyYVlxa05TVERQeXVEdGg1dEFYNzd5SFNhMUxuWEJPRXcxdnBxaUdEQUdmUzd0OTR6cmVrdjh0LWlhSWYzY2VCRlBYcEp2NVo4TkFFUWFqTFZTZXg1cHNLdE1lZ1Nab3JMV0c0ZWtYaWRvZnNhU3dzTTlhYkFkTXNRU3BNUk1wSjBWejZpLW5vYXY3dWFabDRJMkZNYjYzVm5P?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-14T23:50:16Z",
       "dominio": "gazetadasemana.com.br",
@@ -722,30 +746,6 @@
       "data": "2026-10-08T14:28:05Z",
       "dominio": "eixos.com.br",
       "tema": "solar"
-    },
-    {
-      "id": "transicao_13379",
-      "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar?",
-      "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar?",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qUi1WeHd2VlM0dG9ESEVIcE9YblFCdS0ydzU5dC1iUnM3RWx2bmEwcmFPRkplSmgtaVFVRlUxRXo2R0lVU09Zdk40NGpfUHNKcExwQ3QtY1J4YUNxaHptaTdNMENKZExlanRUVlU3Zng4dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-08T13:08:14Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_30518",
-      "titulo": "Últimos dias: garanta sua vaga no bootcamp de cocriação com agentes",
-      "lead": "Últimos dias: garanta sua vaga no bootcamp de cocriação com agentes",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2w5cFZVWGtXLTVYQ1A3TmpsMjQ5Wks0SjFyV2drV0hiS3RnMklwY0VoNVQ1Rko3R1JXSjdKTnJEWEtBOF9BMzJ5VG5HU29SbWVvRzZPcXJaX2IxSzZCNFo2ZkNyYnZPbjZJbjh6OGpjeElnM0RhYXN6T1VMTTl3MWFSR2s3STl1MFZlMjhyNjBqbnlfLVdJUGJ3WHl1LXhjakh0cQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-08T13:02:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "precos-mercado"
     }
   ]
 }

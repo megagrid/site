@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-17T21:34:16Z",
+  "updated": "2026-10-18T15:01:01Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_13710",
+      "titulo": "Bateria integrada à usina solar: novo caminho para gestão de ativos renováveis",
+      "lead": "Bateria integrada à usina solar: novo caminho para gestão de ativos renováveis",
+      "fonte": "Novo Momento",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakdvMEFwWWlyN0c2QkVNVk5NUlJNMmRyb3ZRT1JJeFZwRVZCVEtheFBNVTVJS2VHU0xKQ0Zpc1R2RWQ5b0dRQko5emhHcHdsLTdaNkFGNVdNNkxIUlI3aUtRSmtrSTl3ZVMwTHF4ZFpaeW12cDZpVWVRSkc0My1ELQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-18T08:16:26Z",
+      "dominio": "novomomento.com.br",
+      "tema": "solar"
+    },
     {
       "id": "mercado-livre_85292",
       "titulo": "2º Fórum Análise Setorial",
@@ -20,7 +32,7 @@
       "lead": "Cemig fornecerá energia renovável ao Exército Brasileiro em dez estados",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNendzcldOMDRQcE02QkRtakt0YUhQLTFvcDNTOGZJNmlLci04bS1rQ3MzNFpvWmN6dnpieFk4cG9QczhneHdyc3JRbjFCZzR0MEtXSU1DZHJhc081TUlWX2kxaUU2b2xvamJzVXQ1QXV2VFNacTY5bUQtM3MtOEItVTZ2SFA1WGVYdHc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-16T15:41:56Z",
       "dominio": "canalsolar.com.br",
@@ -151,6 +163,18 @@
       "tambem_em": [
         "REDE BRASIL DE TELEVISÃO"
       ]
+    },
+    {
+      "id": "regulacao_19876",
+      "titulo": "ANEEL confirma que edital do leilão de baterias deve ser analisado em 27 de outubro, com publicação prevista para dia 29",
+      "lead": "ANEEL confirma que edital do leilão de baterias deve ser analisado em 27 de outubro, com publicação prevista para dia 29",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VbTB4Rm85R0ROSGg3djY2d0stTnhoSTVDcUxNSzFXSXJTWDJzSnlsdmpYZGpmWWZxaU5rN0thQ09oQ01aQ20wcFRfUUdlSFFvQ3lPMXNWeEpNZDBxZy1ISzdUclNwTmQyU3MyYUt6clRRb0I5Z0JjLUsxMU0?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-15T11:46:31Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_48302",
@@ -649,19 +673,19 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "regulacao_62747",
+      "id": "regulacao_86201",
       "titulo": "ANEEL estabelece novas regras para cortes de energia",
       "lead": "ANEEL estabelece novas regras para cortes de energia",
       "fonte": "Correio do Povo Penedo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSXBvX2xFLXV6R3R2NlB1NFpMcXo2S1Myc1pEb2ZKY3Vfa1o4MG1ZWlRwbW1sV0hOY1JyY1N4dEJjVzR5WHNyMmhvUFoyZm1FTEVzTXBieHhOb3pWUXZHX1g4MEdhWEJqZ210eVF1Rk9zWnR1cFlROG5kcFQtOGhmRzZkNTRHRzh3NjVpM1VlMGlndG5mekh5bGYyM0dqdVZqNkJOeTNB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkMtSkV4RlQxVUQ4Wk9QLWtsX3YzMU1TWnk4am4wbUlzOTVOWE1ESW5RZW1TY1IyOFYxNHpxYlRVLUp2V3otV05vM0dGbkp3dnVGSG5sMzBPZ08tcGFMcENfdVVOaGxwTE5PSjNSak9BcEN6a3U2MldpTlZIZzNNeTAzcWN1T1R2cGV2aXVkVjE2RUZfaGxHS2t1QTlybERwYmNPRzVhVGpFUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-08T19:15:05Z",
-      "dominio": "correiodopovo-al.com.br",
-      "tema": "regulacao-institucional",
+      "dominio": "correiodopovopenedo.com.br",
       "tambem_em": [
-        ":: Bahia Jornal ::"
-      ]
+        "Correio do Povo Penedo"
+      ],
+      "tema": "regulacao-institucional"
     },
     {
       "id": "tarifas_55840",
@@ -722,30 +746,6 @@
       "data": "2026-10-08T13:02:00Z",
       "dominio": "www.ccee.org.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_35639",
-      "titulo": "Armazenamento: como baterias dão flexibilidade ao setor elétrico",
-      "lead": "Armazenamento: como baterias dão flexibilidade ao setor elétrico",
-      "fonte": "Além da Energia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHZSOWQ0Ti1yZm95bnlmZ1NTaHVxaHJaYnNJSGtOUkFqZl9BYk5zV0twS3gwM09qVFlQeWg0N01BTDc3dEE1ME9IMUo5Ykl4RGMyakdUVkVpS0hLZjZpVjhZN2VwYjBVQm5SUmhQLU8xMFhadGx1Zml6UVk2TzlNZExnbF84LXB5M1dXYmMtOE1ReVNzX0FWckdXQnZfUnV3Q0FZRDBn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-08T10:04:56Z",
-      "dominio": "www.alemdaenergia.engie.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "politica-energetica_49680",
-      "titulo": "Ações do CMSE garantem encerramento do período seco com reservatórios em níveis superiores aos do ano passado, mesmo com o El Niño",
-      "lead": "Ações do CMSE garantem encerramento do período seco com reservatórios em níveis superiores aos do ano passado, mesmo com o El Niño",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVUcza3RSV0lfVDZrSUFsSC1kSmtaM3Bwa1Z4aXF6bDVTVmRmZTloeXNMNUJaeGs3YXpnZl9BbEMtOFZ4V0NZbGF6VGdYNkFtaEVzQVZJYXFWb0Z2dHp2N3h5RlB1dzdhTFc5QjkwZG9CYU1fYXUwTk1NeVBBNktBbEI0WGc1WDNFRlJIdEk2VDhFeGVWZ1Q3WTJMOWRQSVFuWmxVVm51TUF2TnIwclktQXV6RWZOV1pnQXlzZng3Z1Z6VFB4cUpxMmZlZHBBUTZHWFZtUWJLMzRhMGxsUF90R2dfdEhGeGN6RHJRZlRqbTdCalUyOUFjQ05laDlLaURnQnJaQ3lFaw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1705747894609-6a7d17a8cfb7?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-08T00:19:44Z",
-      "dominio": "www.gov.br",
-      "tema": "hidreletrica-reservatorio"
     }
   ]
 }

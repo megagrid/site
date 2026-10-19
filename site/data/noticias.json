@@ -1,14 +1,38 @@
 {
-  "updated": "2026-10-18T21:38:29Z",
+  "updated": "2026-10-19T17:53:44Z",
   "total": 60,
   "itens": [
+    {
+      "id": "politica-energetica_35628",
+      "titulo": "MME divulga prazo para envio de declarações dos Leilões de Energia Existente de 2026",
+      "lead": "MME divulga prazo para envio de declarações dos Leilões de Energia Existente de 2026",
+      "fonte": "TV Prefeito",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGdMR1F5OFdwRnpwTm53YU1wdGgzY1o2Y19RWFJpalFQb003U3dCNFVXOXBrMTBBMVBWT2RQRnB6c25QM091ek1YcVJXY0xGelFhUG1acWVpY29LNFktbklEc242ZFFlakF0Z0U3bWNnUUh6Q2ZXakdzSERmQzNfUmp6dWZjcEVPaC1JRUxhaU9JTUFGdXJSeURRRDNfSGU1LTBtZC04TTFqQWdh?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-19T17:33:26Z",
+      "dominio": "tvprefeito.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_61956",
+      "titulo": "CCEE Reduz Para Um Mês Prazo Médio De Efeito Financeiro De Recontabilizações",
+      "lead": "CCEE Reduz Para Um Mês Prazo Médio De Efeito Financeiro De Recontabilizações",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHlvMHpnY2xRLVdHYi01RG1BaUVmTXA4QWdoQm5lNFZPaDctSDFWQkdJNmhkUFRKV2JEVElCcDB2NU1WelJqRFpUUThDc3BRODh5ZGdTVEl2cnNjOGdlS3AtWHM3dkhXbnBiNkwtRUJQQkd1bTAzTF94VnZTWGhwMXJWSkE5QVBTekhVTXRmSVIxLWhvNjh2em1FWTFhUkw1WElpSzljT1lsYVZJNGc4MFRIaEljYVcxZGc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-19T12:16:18Z",
+      "dominio": "cenarioenergia.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "regulacao_32859",
       "titulo": "Leilão da Aneel: R$ 4,1 bi em transmissão para MS, PR e GO",
       "lead": "Leilão da Aneel: R$ 4,1 bi em transmissão para MS, PR e GO",
       "fonte": "Campo Grande News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkJGa0NCdzVxZ2tyNHdpQnp2Rk5HbzBSbG9ZNDVFaUx4RWdwZ1NReUNpaUlfc3ZGTkpmRDNwbkhEcGFRNVRoU25odFdhS0x4OEQxOWdjZTBrNnpyUk5ZR09PS1ZXV3JVdWVSY0lkOUtjV09KMjFyNGhJU1N6bDVUUUs1VUg2MV92TFNhQ3FHazBIXzlhbEdXaGh2WlViOS1wRXoya3NWekR0OGoyYTJ0dTVGUWtRQmvSAbcBQVVfeXFMTlJ2Vnl6NS1yNWZrMzBmXy13alhPbS1ORURTSGFBVzdaTTROQ1duSWRSMjg0QmxjTUFkLVJjZWQta0ZaQ1dIOEw1dUR3NWg2enVtdnVvZi1ROGtWajM1NjNBRDIwN2tWaElFU2I0dXYyMzJQd095bFJFSWF4VWNaaWdrYXFmMUpPUFREMG00dXhpbERfTG5UdUpmQl9wd081R0NRQlhLR09TaWNOMEUxZVFyMklRbmRn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-18T17:55:00Z",
       "dominio": "www.campograndenews.com.br",
@@ -20,7 +44,7 @@
       "lead": "Bateria integrada à usina solar: novo caminho para gestão de ativos renováveis",
       "fonte": "Novo Momento",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakdvMEFwWWlyN0c2QkVNVk5NUlJNMmRyb3ZRT1JJeFZwRVZCVEtheFBNVTVJS2VHU0xKQ0Zpc1R2RWQ5b0dRQko5emhHcHdsLTdaNkFGNVdNNkxIUlI3aUtRSmtrSTl3ZVMwTHF4ZFpaeW12cDZpVWVRSkc0My1ELQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-18T08:16:26Z",
       "dominio": "novomomento.com.br",
@@ -66,15 +90,18 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_54049",
+      "id": "mercado-livre_18349",
       "titulo": "Em Simpósio Jurídico da ABCE, CCEE apresenta palestra sobre suspensão de regras pelo Judiciário",
       "lead": "Em Simpósio Jurídico da ABCE, CCEE apresenta palestra sobre suspensão de regras pelo Judiciário",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMDY4bmJUaE1RNHcteFV6Vk5VdlVTS1VwYzFJN0NEQmR0VElxRHp0c3BDVk9NM1loZnJhWTMyU0NKNG8xSmR3V19yMWFMRXZMdEtuVXV6QmFPUkdqMzNJMkxwMld2SmFDbUx4eV9GYjM3TXpKdnZkS0xnTnJ1TzQ3Ynh3eHZWRHZMek1uOFY5S1JjbEQ1SUlaeFB3THJuSUV1bGI5WnlUWHo2R2NoMldDamhIUjZBOGFGNUM0V0hJVDlSbmVoUWxQcUg3RW13QnhnUTR0RmZqUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUVZU2FGenZJRHVCQmdMLTNTbDk5YS1lS0VRb0FxS3JFVGtjbXFyZE9mbE9udXBNTEMtVUUxRFFyZHJKZnRhOWZ0WU1LN3dNby1rcEVUQXcyaDNiNDBCWmVOM3lKMzFiYW1RdTExeF9Jb2tWTEQtOEtVZGJmWFVicGVnRnlPTUFKQm5sa2pWcVEzaWY3dWZiZXVLdDVUbDRJTDc1bHBLY2kwWDktVTBCVzVzZy1NTlRvTjJ6WmYwalN3WFJFZlpUdlpB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-16T12:53:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -722,30 +749,6 @@
       "data": "2026-10-08T18:02:45Z",
       "dominio": "portalon.com.br",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_21726",
-      "titulo": "Mercado livre de energia: crescimento da concorrência aumenta necessidade de informação para o consumidor",
-      "lead": "Mercado livre de energia: crescimento da concorrência aumenta necessidade de informação para o consumidor",
-      "fonte": "Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaUVtdjRoYWp6czlWb0xQVEdGUTN1MmhTX2VUeW5uRUNGT0RlSTVQRThycjRUU1RWNnlRcF9ZSy1YRG9KMGRXT2kyRnl3US1JdVJnZjNZNFJoWnM4d0JwbjNVcTVZd2JmOUpJX05udDFFN05JajJERjR1aE5RS01VNVBYUmtGdXJHMnVuOXhVUGd1eVQ3VldJQ2pUNlZrbW54NlJaZmVFRktqRWplMkFnT1U0Rk11MThramZXMHVlRk1JSTRXWENaeUpXYWw5Q2hSVW5OVXJKcnJ3Z25ndUtxMUZPSTFfRWVXWVdRNFFHemRUU2xIbHdmQmpMSjRadUhpMU1rTWo2SFFoR1dLUElldWtRMVZZZUU1eUHSAZoCQVVfeXFMT2lFbXY0aGFqenM5Vm9MUFRHRlEzdTJoU19lVHlubkVDRk9EZUk1UEU4cnI0VFNUVjZ5UXBfWUstWERvSjBkV09pMkZ5d1EtSXVSZ2YzWTRSaFpzOHdCcG4zVXE1WXdiZjlKSV9ObnQxRTdOSWoyREY0dWhOUUtNVTVQWFJrRnVyRzJ1bjl4VVBndXlUN1ZXSUNqVDZWa21ueDZSWmZlRUZLakVqZTJBZ09VNEZNdTE4a2pmVzB1ZUZNSUk0V1hDWnlKV2FsOUNoUlVuTlVySnJyd2duZ3VLcTFGT0kxX0VlV1lXUTRRR3pkVFNsSGx3ZkJqTEo0WnVIaTFNa01qNkhRaEdXS1BJZXVrUTFWWWVFNXlB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-08T14:43:08Z",
-      "dominio": "valor.globo.com",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_93077",
-      "titulo": "Cinco “fios soltos” do setor elétrico que levam à mesma pergunta: quem paga a conta?",
-      "lead": "Cinco “fios soltos” do setor elétrico que levam à mesma pergunta: quem paga a conta?",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWJJMzBTSUp4SEI2bkdDR0ZSM2dLUDNXWWRQQlJDb1c5ZVJlamRFaC0tR0VJZjUzMmc3T2ZrYXQ3S1pKQmV6YUI5STM3TGMwUjZvdXk5ODF2X2lyY3Q2d0R0c01NQlN4SVNyUERWbGlyTnJkWi1xa1paQ2g1T2NKU3F4eE5COFgtNTB1Nzh5alhpZmJWSk5QSm9MSEhMdFdJcnlGTGRaYnAwaEExQng0OQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-08T14:28:05Z",
-      "dominio": "eixos.com.br",
-      "tema": "solar"
     }
   ]
 }

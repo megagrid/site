@@ -1,18 +1,46 @@
 {
-  "updated": "2026-10-19T17:53:44Z",
+  "updated": "2026-10-19T22:59:20Z",
   "total": 60,
   "itens": [
     {
-      "id": "politica-energetica_35628",
-      "titulo": "MME divulga prazo para envio de declarações dos Leilões de Energia Existente de 2026",
-      "lead": "MME divulga prazo para envio de declarações dos Leilões de Energia Existente de 2026",
-      "fonte": "TV Prefeito",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGdMR1F5OFdwRnpwTm53YU1wdGgzY1o2Y19RWFJpalFQb003U3dCNFVXOXBrMTBBMVBWT2RQRnB6c25QM091ek1YcVJXY0xGelFhUG1acWVpY29LNFktbklEc242ZFFlakF0Z0U3bWNnUUh6Q2ZXakdzSERmQzNfUmp6dWZjcEVPaC1JRUxhaU9JTUFGdXJSeURRRDNfSGU1LTBtZC04TTFqQWdh?oc=5",
+      "id": "mercado-livre_67924",
+      "titulo": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
+      "lead": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWtxSkJrUkhCZjRrc2lIcGFTdFVfaVRDeHJ0ZWItTFVvV3dLRmRuZUM5TFVGNzFIVjEtbnZxY1BuaVV4alE2d2dsb1hBbUlWZUhsVVRpRENQeU04XzAtZXhKMk9meDJ1R3dnNUN3YzJ2T050R1pmNkk4ODJFYXFBWllNT3dyV1J1R2tMZktkS0RzOWI1bkNtYjdqd0tfUVJuSlpKeUdpdVNuQ1BOdmtR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-19T21:42:54Z",
+      "dominio": "www.cnnbrasil.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "politica-energetica_78267",
+      "titulo": "MME define prazo para declarações de compra de energia nos leilões de 2026",
+      "lead": "MME define prazo para declarações de compra de energia nos leilões de 2026",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVIzZ3dYVlJkYnhaOTNNVWw0bzBaRTBTS0t0Qy1FMFU3cjNaWmd2RHBrSFg2T293dHc5SUhTVzR2VkV0ZTY3R2hhakgyQ0RKMkc0YXJqQXBzM3lBa0VCQ01JcXFHR0tuU3lWVDYxbEdqQzFiaGs0UTNRci1BbERndjdKUks3UExlQ2RpX2hJYzRPU1ktcFJqc0owQ05PdjN1dWdUbGtRbjc?oc=5",
       "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
       "editoria": "politica-energetica",
-      "data": "2026-10-19T17:33:26Z",
-      "dominio": "tvprefeito.com",
+      "data": "2026-10-19T20:15:07Z",
+      "dominio": "agenciainfra.com",
+      "tambem_em": [
+        "TV Prefeito",
+        "Agência Gov"
+      ],
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_28865",
+      "titulo": "PPAs solares: estatal uruguaia UTE prepara leilão de energia",
+      "lead": "PPAs solares: estatal uruguaia UTE prepara leilão de energia",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzc0TlpFMlIxOTNzaUQzbXhXMWhnb1EyeTFkT19JUjBuUFZWZVpzLXpXZEZId2Y2OUhWMGdtZmxQX0tpQkdRbXlFcXVJQVFxeHd4NDFyNVFyRTBGdUNFcW1pbHNMVk1WSnFyUzFpa1dKOEh2M0ZYOFlKeWdkWDFVN2tScWNVTUlZM3BtMWdZS21Mc3lSdzQtQ1VBTmJ2YzA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-19T14:06:51Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "solar"
     },
     {
       "id": "mercado-livre_61956",
@@ -20,7 +48,7 @@
       "lead": "CCEE Reduz Para Um Mês Prazo Médio De Efeito Financeiro De Recontabilizações",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHlvMHpnY2xRLVdHYi01RG1BaUVmTXA4QWdoQm5lNFZPaDctSDFWQkdJNmhkUFRKV2JEVElCcDB2NU1WelJqRFpUUThDc3BRODh5ZGdTVEl2cnNjOGdlS3AtWHM3dkhXbnBiNkwtRUJQQkd1bTAzTF94VnZTWGhwMXJWSkE5QVBTekhVTXRmSVIxLWhvNjh2em1FWTFhUkw1WElpSzljT1lsYVZJNGc4MFRIaEljYVcxZGc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-19T12:16:18Z",
       "dominio": "cenarioenergia.com.br",
@@ -83,7 +111,7 @@
       "lead": "Reforma tributária: ANEEL propõe consultas sobre PIS/Cofins e créditos no setor elétrico",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmtkbXZrZEpXVllIT0VJZ1FzN1VHMk10Y05hSGZPRXJWNG5TdlVZQUo4cVZHemowZFRWZ0E2UXNWRDh2aDhPM2hRMU5OV2tlX281VGt6dng1X0N5ckFqQlctUXZVX2htLUsyZE9ya2t6UVhkcjRwVzlRNHhvNjM2MmNyYV8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-16T13:51:18Z",
       "dominio": "canalsolar.com.br",
@@ -105,15 +133,18 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "mercado-livre_339",
+      "id": "mercado-livre_88129",
       "titulo": "CCEE reduz em mais de 75% o prazo médio para processar pedidos de recontabilização",
       "lead": "CCEE reduz em mais de 75% o prazo médio para processar pedidos de recontabilização",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTXRyNndpY2Nna0RnZzlLOE54Y2EyY0tXM3ZoUEYwRThsd0o2eHRqb0VHQV9VZ2lxRkFUZEpaWFFlRUdvdm9YX0tyLTdPVGQtWWVKeTU4bFRYT2l5LXlVOFpNU01BcDg5aGc0VjhCZnp6VzFoN2Y0TUxQdTFudVdPcmZ5Q2J0NjhnOFhwVXJtREJIMU9sSkFsMjBVRlNlYlNXMF8wcFo1dVlWRnJZeDZNRTRfMHFIZjB1?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2JYQmtHallROFFrMHdFcVhiOUVwUEl4eDBpOVdIMlgyalhCTEFRZUtMemhSc0xqYmdpdnZ2aUNHcnlZTWROWWZIbE80NHhsZ212UGNmTUpxOHRKZnhzOHhiOWdkbTYxeW1xM1VaV1pVd3YzY01FRDFkdEVEUDhjOEowVmtRMWpPYURGSERtV3gwUUZVT3dseGxLRjRoUHVHTnJCYzljbXYwSjQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-16T12:11:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -722,33 +753,6 @@
       "data": "2026-10-08T21:02:58Z",
       "dominio": "brasilinovador.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_86201",
-      "titulo": "ANEEL estabelece novas regras para cortes de energia",
-      "lead": "ANEEL estabelece novas regras para cortes de energia",
-      "fonte": "Correio do Povo Penedo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkMtSkV4RlQxVUQ4Wk9QLWtsX3YzMU1TWnk4am4wbUlzOTVOWE1ESW5RZW1TY1IyOFYxNHpxYlRVLUp2V3otV05vM0dGbkp3dnVGSG5sMzBPZ08tcGFMcENfdVVOaGxwTE5PSjNSak9BcEN6a3U2MldpTlZIZzNNeTAzcWN1T1R2cGV2aXVkVjE2RUZfaGxHS2t1QTlybERwYmNPRzVhVGpFUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-08T19:15:05Z",
-      "dominio": "correiodopovopenedo.com.br",
-      "tambem_em": [
-        "Correio do Povo Penedo"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_55840",
-      "titulo": "Conta de energia não terá cobrança extra de bandeira tarifária em outubro",
-      "lead": "Conta de energia não terá cobrança extra de bandeira tarifária em outubro",
-      "fonte": "Portal ON",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajNWMndINWlUWk42bnJybFY3Y2hDSm1Lek9NcVhWeS15dkgyVURwbkV2cnJhNmVfc2ZuVWkyNjVXb285aGpXOHpuZnB2SFlRa0NvQnZ3MFBOMERTeVViS21xQjVSRHhxTFA3REdIc1p3NjhKYTlaMksteWRKSGFFNEFPMFNodVRMSl9XQVpvQUxScmRad3ZoaFFiTzR5R0RzaENYeHBicldLTDA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-08T18:02:45Z",
-      "dominio": "portalon.com.br",
-      "tema": "consumidor-residencial"
     }
   ]
 }

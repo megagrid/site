@@ -1,14 +1,26 @@
 {
-  "updated": "2026-10-20T15:57:50Z",
+  "updated": "2026-10-20T22:28:29Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_49085",
+      "titulo": "CDE De 2027 Prevê Encargo De R$ 6,37 Bilhões Para Cobrir Subsídios Acima Do Teto",
+      "lead": "CDE De 2027 Prevê Encargo De R$ 6,37 Bilhões Para Cobrir Subsídios Acima Do Teto",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnpHOUwtRWNaWThIQmxOaDVpb2dGdE9ELV9NaldXOG1Md0ptb3lubDltVGxuYkY0aUNHVHlhczl0TmxmNXhrSlktTVFWRE93a2FjVVpTWWNXSURtS0hCSTY0WnZqUnpwdTdna0tod3NhUHlGMzNhUXdRN1pVMXJfSDMwb24yakRfRm5idmxIME45cnd3Zi16bk5ydHN4d213OEtQV1hPZGhVX1BnN0MyMjRKN1dWNHFkczV1LQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-20T20:08:56Z",
+      "dominio": "cenarioenergia.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "regulacao_70525",
       "titulo": "ANEEL abre consultas públicas para regulamentar reforma tributária",
       "lead": "ANEEL abre consultas públicas para regulamentar reforma tributária",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDVxaWszNGRRNmNUdW0zU0FfS2xxaG9Dd2lZdUpsck9RemlWa2U1YkxWbjVndHhpNDBuemcwSUZjQ2tWTldfSkZ5eEpwcVFOMnhNeEZGd05YbXBtRkFWSnJfbWE3SkVWYXRKQ052YTN6ZFlaUm94TTl3ZmlVaFRUdm5YbUk3STViRHRjZTZUZDJucFR0ZGp6MjZUVE9DUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-20T15:33:45Z",
       "dominio": "agenciainfra.com",
@@ -20,7 +32,7 @@
       "lead": "Como vai funcionar a migração para o mercado livre de baixa tensão? CCEE explica",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDdyOHRTLTlydVBERkhNZUdoTVR6TFAwZ3NKeGlZREh3RlJrTWFsSXU3MDdYQjhLSmZ2enZDdFB6VjRmRWVsNWZuaVN6Y25veVRIRVJuSks4SkVPaTQwWXVPcnl5TVVfTWljZXdoVkhrRWI2Z0ktTllBRUVUelA3WUp1TjJPNjZx?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-20T15:05:08Z",
       "dominio": "canalsolar.com.br",
@@ -37,6 +49,18 @@
       "data": "2026-10-20T14:46:04Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "solar"
+    },
+    {
+      "id": "transicao_47182",
+      "titulo": "Ampliação do acesso à energia e do armazenamento na América Latina e no Caribe: foco em Belize",
+      "lead": "Ampliação do acesso à energia e do armazenamento na América Latina e no Caribe: foco em Belize",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbXpnSEx3YWt1YWl0Uy1lWXBvYmdhZ2ZubDBXNkVXME5XS0oydmJfdXpjajhjc2d6dU5hOEtXRHpXOTU0cU9JZTRjYjdocDFlVW5IbXczQXhncDJDcUtZSmwtSmY3NDBHelNoUDJzdjJlR0hIeWF1elJFdFVpVmxGOWtEdzExa3R1UVhxenZ6eWlaM2xYTjFWSlRqQXUzb3kyYTlUWklWZk82MUg3SUVkWnl2QmZTb204eU5MT0hJLTluQTRDdDk2Q0pZWTZZc3pu?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-20T13:27:21Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_24671",
@@ -61,6 +85,30 @@
       "data": "2026-10-20T12:01:45Z",
       "dominio": "www.revistafatorbrasil.com.br",
       "tema": "solar"
+    },
+    {
+      "id": "regulacao_11683",
+      "titulo": "Revisão tarifária periódica da Neoenergia Brasília é aprovada pela ANEEL",
+      "lead": "Revisão tarifária periódica da Neoenergia Brasília é aprovada pela ANEEL Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM3B4UWRMbktjSU40WEtDNVBoVFhER0FxNk9zcXlPTndWSTI5UUw0b1NfZkpydzJYN1FnSW83aGRNRWpkbFhYWXFIRVVyWERJd0tFZlJMamZENElyS2N2MUtla09uOExhTUNydmh6MG52aXFiUHdXeGtWZ0FlNmE1a2dldGJpRGFqaWxvd293WnN1aFlKMnlLRlo0enpHeUNEM2hwVTc1MkxnUDdPaldOcUp3NG93bHVtYzVQNm1Yd1k1RzBjWlp6QXBuOXFjMXFwTk4tMXlETUVvUXc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-20T09:47:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_96463",
+      "titulo": "Novas tarifas da Equatorial Goiás são aprovadas pela ANEEL",
+      "lead": "Novas tarifas da Equatorial Goiás são aprovadas pela ANEEL Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWRZZEYtaWFSSHZZc1BrNjZmYUQ4ZHlVbGJlaUh1OURQVTdkbVB0RE9OeEdNTm5RX3M2VERiSy1MQkhhb2NkWnlmRE96VGVpN05mMFo1aFgxZEVETzZaay1rOEJueFFlYlB0UUI2Q3ZqUUtYaVU0TDZDOTltc0hIU3FKWTI1djFnNlFLdjhCZjR5ZFA2QVdTand5N1ByWHo5N2NHeXpMMlZrUDZ1QWFvQV81Zm8ySVk5RjVRemgwVFYyMm9RcGJ1RA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-20T09:20:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_67924",
@@ -96,7 +144,7 @@
       "lead": "MINAS E ENERGIA ABRE PRAZO PARA DECLARAÇÃO DE DEMANDA NOS LEILÕES DE ENERGIA EXISTENTE DE 2026",
       "fonte": "Petronotícias",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWFJoSTFMeUp2WHh3aXdsSl9xMFlROUh1YlB5RW90b05jbWFzMWwzS3Vmd3VvMF9HS2xSZ0Y2WGFhMkFLcXFSSFVoUjJZTkRfS3Rjc2dvYXNnQTY1R2d5WkFHZDYxbXpNdWNGV25KLU9lZ0pmMTczNWF5MlpMd3AxVllWalZMdTZyd1NSeDRvTXNmbjFhWmh5dGJxTVFMbDFFYnE3T09hZ3ZiQVRaLWJUcUF6UUwzLXRoSmJzNnZraklLZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-19T20:00:00Z",
       "dominio": "petronoticias.com.br",
@@ -192,7 +240,7 @@
       "lead": "2º Fórum Análise Setorial",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbEdPTXBHTDA3Vmp1Ym96aDQ4UWdBODFoY0Q0Ui1wdFVxYjBucU1tVkd1dkE1RkxYSHlhRFppbTJHR1NqVUQ1bUdtSEh3SmdqVXA0Uy1pTklIaml2SUF1SXJ1WQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-17T06:11:15Z",
       "dominio": "www.ccee.org.br",
@@ -204,7 +252,7 @@
       "lead": "Cemig fornecerá energia renovável ao Exército Brasileiro em dez estados",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNendzcldOMDRQcE02QkRtakt0YUhQLTFvcDNTOGZJNmlLci04bS1rQ3MzNFpvWmN6dnpieFk4cG9QczhneHdyc3JRbjFCZzR0MEtXSU1DZHJhc081TUlWX2kxaUU2b2xvamJzVXQ1QXV2VFNacTY5bUQtM3MtOEItVTZ2SFA1WGVYdHc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-16T15:41:56Z",
       "dominio": "canalsolar.com.br",
@@ -683,6 +731,21 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "mercado-livre_77694",
+      "titulo": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
+      "lead": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTS1wYlJfS3hjaUh5M0lJeXJJNzk4LVlHd2VVaTFfaUtrSk5vRUlLYWpPeFRFeXRVbWhBNUpkM3VodU1TdS1rNlNsTjh3cC03LXR6RE5FaTR0Vl9ScmpXOGpIb3VRTkFGMWpYQzlQVjNGd0wtU0NwbTFWSUVqOVFlUFpIV05JSldjMURkYy10N3hITkp1Nm43Q0VuelhtTUE2?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-13T12:02:00Z",
+      "dominio": "agenciainfra.com",
+      "tambem_em": [
+        "TAGD Advogados"
+      ],
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "tarifas_91918",
       "titulo": "Bandeira verde alivia conta, mas calor pode aumentar gasto de energia nas casas",
       "lead": "Bandeira verde alivia conta, mas calor pode aumentar gasto de energia nas casas",
@@ -692,66 +755,6 @@
       "editoria": "tarifas",
       "data": "2026-10-13T10:15:55Z",
       "dominio": "dgrj.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_90081",
-      "titulo": "Novas regras para o curtailment: quem ganha e quem perde?",
-      "lead": "Novas regras para o curtailment: quem ganha e quem perde?",
-      "fonte": "Brazil Journal",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVl1TkUzRERpV21vUERzSmpVUXZGQmxtYUF5ZV96SFRrbnNZb3VCOGJ5alVZVjQyTldLeGozdHE4NHp2Y08zRTN5Nks4dDlWaVFGUndYZTd5YTBNeW1vcUtmTHlwbkZZY1htQm1UQUJnR3R4V0czWUQ2aEhabVJzRVdZX0dUcjB1?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-13T09:50:00Z",
-      "dominio": "braziljournal.com",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_27225",
-      "titulo": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
-      "lead": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
-      "fonte": "TAGD Advogados",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzFpWnN3VlYzR0FQSkV3VGs3NjR6SG5FYjRUN29xa0NlcjhNVVl5R3prNHhIY1U2a1JIak54RU5oVjBOcU52d25VTTFCOV9TSkQ5dHZRUlF3Z2JxOFh6aGNyTjd4elhQUTl5UUNoTHRiZVdSM2IwT2RKQ1BSWGdId2RYaHhaVjM4ZU8wdnJ2dHk1NXJBd1g4?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-13T07:00:00Z",
-      "dominio": "tagdlaw.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_31596",
-      "titulo": "Bahia testa sistema inédito de baterias para armazenar energia solar",
-      "lead": "Bahia testa sistema inédito de baterias para armazenar energia solar",
-      "fonte": "Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEZxbzBscHhTM3U4X2VVUnBGWV9LWXdfSU5ycG1zQ3p0QmFUY2NpMlRKVnd0ZWJYYWd3M2JjQV95ak1mZXZYQlJLamZybVhQRGFPNGhLbUlYNkFvNUV4b04waE9BWllQU1I5SkdrallOYkI4SDYxXzRpT3J6ZnhKU21MU2NXLW5td2tiTHhQSzVTRzAta045bV8zTzRFSTdwV1dhUjNNellQQl9lYTRDVmZFZmFjTGYxclhjdi1xanFTUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-12T22:30:00Z",
-      "dominio": "timesbrasil.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_18070",
-      "titulo": "Inadimplência do MCP sobe 44% em agosto, para R$ 142,65 milhões",
-      "lead": "Inadimplência do MCP sobe 44% em agosto, para R$ 142,65 milhões",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb056R0VqNHNITDlLM0YxMFRmS0taa3JYMzdjdFcxQ2gweU56Q0JVTVZCWjMwYVd3ZENWS2ZDWlg3NUU4cnBDQ2VxenBrVnpoS2lYcU41bHVrMEhQZmJGdDhtMWtrdnFFT0JQbG9qX0txaHF4Ym5kWFFqYWhfTDRibEZUUlZpODdfNjc0S1E0R0E2djAwVFoxLWJQeXhKVm9wTi1ScDlldzQwM3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-09T18:44:10Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_77185",
-      "titulo": "É oficial: Aneel aciona bandeira verde em outubro e a conta de luz deixa de pagar R$ 1,885 extra a cada 100 kWh",
-      "lead": "É oficial: Aneel aciona bandeira verde em outubro e a conta de luz deixa de pagar R$ 1,885 extra a cada 100 kWh",
-      "fonte": "Jornal do Brasil",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWpNSXYtYy0wb0taUkdNd0FpLVJYZUtFUVhYZFlHc24yekN1NGdoc1hRU0xPM01Wd05yYlpIckFSZzF0OUJCbTB2Y2o0T2RxZmtJSjNRWDlUU2RSX3N3WS1CMDdtT1l5YzRXUm9ybDdXd3Zxc1AyaXdoXzdfMTVjT0ZEVl9Idw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-09T18:00:00Z",
-      "dominio": "www.jb.com.br",
       "tema": "consumidor-residencial"
     }
   ]

@@ -1,14 +1,74 @@
 {
-  "updated": "2026-10-19T22:59:20Z",
+  "updated": "2026-10-20T15:57:50Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_70525",
+      "titulo": "ANEEL abre consultas públicas para regulamentar reforma tributária",
+      "lead": "ANEEL abre consultas públicas para regulamentar reforma tributária",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDVxaWszNGRRNmNUdW0zU0FfS2xxaG9Dd2lZdUpsck9RemlWa2U1YkxWbjVndHhpNDBuemcwSUZjQ2tWTldfSkZ5eEpwcVFOMnhNeEZGd05YbXBtRkFWSnJfbWE3SkVWYXRKQ052YTN6ZFlaUm94TTl3ZmlVaFRUdm5YbUk3STViRHRjZTZUZDJucFR0ZGp6MjZUVE9DUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-20T15:33:45Z",
+      "dominio": "agenciainfra.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_1335",
+      "titulo": "Como vai funcionar a migração para o mercado livre de baixa tensão? CCEE explica",
+      "lead": "Como vai funcionar a migração para o mercado livre de baixa tensão? CCEE explica",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDdyOHRTLTlydVBERkhNZUdoTVR6TFAwZ3NKeGlZREh3RlJrTWFsSXU3MDdYQjhLSmZ2enZDdFB6VjRmRWVsNWZuaVN6Y25veVRIRVJuSks4SkVPaTQwWXVPcnl5TVVfTWljZXdoVkhrRWI2Z0ktTllBRUVUelA3WUp1TjJPNjZx?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-20T15:05:08Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_35159",
+      "titulo": "Teto da CDE pode reduzir em 52% subsídios à MMGD em 2027",
+      "lead": "Teto da CDE pode reduzir em 52% subsídios à MMGD em 2027",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVE9yVy1tZkVpcGJsRUlDSWJPSU85Q01YWFE3SGhGX2c0cXUyWnhoeUtpUjMtT01obXBFb1VkQ2JRS21LR0Q3RVFKbEg3M3ZRT29ZQzhlLUdQX1dIQzRuUzd4TTdrcWZrekw3el9zQXJ0YkExRzhNOE0ydGlnU2RVaDFjbjRfbEdpYmJVVjRiYkdqUDFwUGFjNXRn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-20T14:46:04Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "mercado-livre_24671",
+      "titulo": "CCEE moderniza Plataforma Cadastral e aprimora gestão de representações dos agentes",
+      "lead": "CCEE moderniza Plataforma Cadastral e aprimora gestão de representações dos agentes",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVk9DaHVWR2VydjZnM1JqMERKSzhMTHZKVV9oQmhqN2Z3bjBhc2xqemd2Mzhic0ZOUV9aTkczeGJDNFRJZVN0UUlrQmdHTEh1NUNCTzlLNnJuS2x4ZXRIZkxKcG9sQjFqaUVMNkxPZWtIZWpBSkhaa1kyczd6WlpqcGZOdWpNdnd4M2ZJOHNOcDgxYWFqOWxoRW9nRzhJSUs5dmlqa3dybXRaVnFqSHE5NUNKN2xUdU9mVXhR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-20T13:15:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_59213",
+      "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
+      "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
+      "fonte": "Fator Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERiNTR1Skg0VEFNQmJfaGMweDdmREU0STR3NXlObTFpQVU0eHpuYWRXbVVtOUFiX0JpcGJOZDB1eVFpWlNndVpCb0t0eFc5Nm5haW82bWZKQWpERG1lNW9adGpjX2p5MWFDTmM1R2x4YnVCNnRITWxweXo3VUZ6QWxUQVN0clpFR2J1NWtJd2o3Wm45czB3SGxhX2FFaF9tdFdjY0ZTWmFwejhmckd5aFBoUFY5c2RTdWFQeV8ybzlBcUVfTWdJWERR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-20T12:01:45Z",
+      "dominio": "www.revistafatorbrasil.com.br",
+      "tema": "solar"
+    },
     {
       "id": "mercado-livre_67924",
       "titulo": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
       "lead": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
       "fonte": "CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWtxSkJrUkhCZjRrc2lIcGFTdFVfaVRDeHJ0ZWItTFVvV3dLRmRuZUM5TFVGNzFIVjEtbnZxY1BuaVV4alE2d2dsb1hBbUlWZUhsVVRpRENQeU04XzAtZXhKMk9meDJ1R3dnNUN3YzJ2T050R1pmNkk4ODJFYXFBWllNT3dyV1J1R2tMZktkS0RzOWI1bkNtYjdqd0tfUVJuSlpKeUdpdVNuQ1BOdmtR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-19T21:42:54Z",
       "dominio": "www.cnnbrasil.com.br",
@@ -20,15 +80,51 @@
       "lead": "MME define prazo para declarações de compra de energia nos leilões de 2026",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVIzZ3dYVlJkYnhaOTNNVWw0bzBaRTBTS0t0Qy1FMFU3cjNaWmd2RHBrSFg2T293dHc5SUhTVzR2VkV0ZTY3R2hhakgyQ0RKMkc0YXJqQXBzM3lBa0VCQ01JcXFHR0tuU3lWVDYxbEdqQzFiaGs0UTNRci1BbERndjdKUks3UExlQ2RpX2hJYzRPU1ktcFJqc0owQ05PdjN1dWdUbGtRbjc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-10-19T20:15:07Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "TV Prefeito",
-        "Agência Gov"
+        "Agência Gov",
+        "MME"
       ],
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_79768",
+      "titulo": "MINAS E ENERGIA ABRE PRAZO PARA DECLARAÇÃO DE DEMANDA NOS LEILÕES DE ENERGIA EXISTENTE DE 2026",
+      "lead": "MINAS E ENERGIA ABRE PRAZO PARA DECLARAÇÃO DE DEMANDA NOS LEILÕES DE ENERGIA EXISTENTE DE 2026",
+      "fonte": "Petronotícias",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWFJoSTFMeUp2WHh3aXdsSl9xMFlROUh1YlB5RW90b05jbWFzMWwzS3Vmd3VvMF9HS2xSZ0Y2WGFhMkFLcXFSSFVoUjJZTkRfS3Rjc2dvYXNnQTY1R2d5WkFHZDYxbXpNdWNGV25KLU9lZ0pmMTczNWF5MlpMd3AxVllWalZMdTZyd1NSeDRvTXNmbjFhWmh5dGJxTVFMbDFFYnE3T09hZ3ZiQVRaLWJUcUF6UUwzLXRoSmJzNnZraklLZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-19T20:00:00Z",
+      "dominio": "petronoticias.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_88836",
+      "titulo": "Programa de Eficiência Energética apresenta os resultados do terceiro trimestre de 2026",
+      "lead": "Programa de Eficiência Energética apresenta os resultados do terceiro trimestre de 2026 Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSUVJdGIyOEhlLVR0THFJaUtrVUY4UUhaakZuaUZNT1FtbDU5cDJoUjBudFVDdDgzRnBjOGxYcllmbDFoVFF1RHg0bkFydEVqTVBodTRxb3VuWW9iS2ZTdXYySE04RkRoSTZHVDhOaE5CMDlwamNuSTRHUkxjajFOLVVDY1hpR0JqeDNZUGFqeGo3cmpHRk1JOU1VazRxcjhzQU9fOU1DTXJtdE5HUU9iZnVNZ25nSUlXLVZUeE5rRW95SnVDVnZQeWowUlhZSThRTnJheTJOSGhHenprbUJOMjFOVEkyeF9tQkJRQW81WQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-19T17:58:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_29336",
+      "titulo": "Workshop de Esclarecimentos sobre o Leilão de Transmissão será nesta quarta-feira (21)",
+      "lead": "Workshop de Esclarecimentos sobre o Leilão de Transmissão será nesta quarta-feira (21) Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY05sVzNMZmJFZkg2dlBKdU51RXVFMU40T1lrMm1xVWZMSUFldEdSd3c2WkprSGJQb2p4MXhlajdUQVZodzV5VWVKMVlXTGw4R2M5TEt6WkpEa1dJS3hkdnFYaFNmUW5QMTNSdHpMNk5Yajd3eWtwWWNQeEMwamVxMzFyWWFlQUxxaWlWZjdJM19xMDg5ZTh2QkJYbHRCZnVxS2ZkdERRM0FpUkh6bkN5UXBVbWlDWFU5QkcwNml1TEZRcGdsTW1nbTNabDR3eW43MGUzdzNMRHZnTzhBbTR2cVU0SXl4SUFXY3lz?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-19T16:11:00Z",
+      "dominio": "www.gov.br",
+      "tema": "transmissao-rede"
     },
     {
       "id": "transicao_28865",
@@ -55,12 +151,24 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "regulacao_15240",
+      "titulo": "Aneel muda regra e oficializa sustentação oral por vídeo nos circuitos",
+      "lead": "Aneel muda regra e oficializa sustentação oral por vídeo nos circuitos",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmRNMVNWWXRwSjUzVTJaeDVaNVRHeXpmbHRRaUlwSFZPeTNnbFFtbWFjTVR1aVZLdFYtdlo1bTJoRHVpYjl0bXlDT3RJT01URHgyNFNja1dMUEx0Z1d6djRtVGxOVjZfeWNQNWcwTnNUaHk5Q0V2VmlGZEZrVVMyZzduOVpPTnV6dGFsM0tVcG41UlFTX1FwTTdiemhERFVablpqMWQ3a25wNWJIYmc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-19T11:37:40Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "regulacao_32859",
       "titulo": "Leilão da Aneel: R$ 4,1 bi em transmissão para MS, PR e GO",
       "lead": "Leilão da Aneel: R$ 4,1 bi em transmissão para MS, PR e GO",
       "fonte": "Campo Grande News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkJGa0NCdzVxZ2tyNHdpQnp2Rk5HbzBSbG9ZNDVFaUx4RWdwZ1NReUNpaUlfc3ZGTkpmRDNwbkhEcGFRNVRoU25odFdhS0x4OEQxOWdjZTBrNnpyUk5ZR09PS1ZXV3JVdWVSY0lkOUtjV09KMjFyNGhJU1N6bDVUUUs1VUg2MV92TFNhQ3FHazBIXzlhbEdXaGh2WlViOS1wRXoya3NWekR0OGoyYTJ0dTVGUWtRQmvSAbcBQVVfeXFMTlJ2Vnl6NS1yNWZrMzBmXy13alhPbS1ORURTSGFBVzdaTTROQ1duSWRSMjg0QmxjTUFkLVJjZWQta0ZaQ1dIOEw1dUR3NWg2enVtdnVvZi1ROGtWajM1NjNBRDIwN2tWaElFU2I0dXYyMzJQd095bFJFSWF4VWNaaWdrYXFmMUpPUFREMG00dXhpbERfTG5UdUpmQl9wd081R0NRQlhLR09TaWNOMEUxZVFyMklRbmRn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-18T17:55:00Z",
       "dominio": "www.campograndenews.com.br",
@@ -84,7 +192,7 @@
       "lead": "2º Fórum Análise Setorial",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbEdPTXBHTDA3Vmp1Ym96aDQ4UWdBODFoY0Q0Ui1wdFVxYjBucU1tVkd1dkE1RkxYSHlhRFppbTJHR1NqVUQ1bUdtSEh3SmdqVXA0Uy1pTklIaml2SUF1SXJ1WQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-17T06:11:15Z",
       "dominio": "www.ccee.org.br",
@@ -96,7 +204,7 @@
       "lead": "Cemig fornecerá energia renovável ao Exército Brasileiro em dez estados",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNendzcldOMDRQcE02QkRtakt0YUhQLTFvcDNTOGZJNmlLci04bS1rQ3MzNFpvWmN6dnpieFk4cG9QczhneHdyc3JRbjFCZzR0MEtXSU1DZHJhc081TUlWX2kxaUU2b2xvamJzVXQ1QXV2VFNacTY5bUQtM3MtOEItVTZ2SFA1WGVYdHc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-16T15:41:56Z",
       "dominio": "canalsolar.com.br",
@@ -111,7 +219,7 @@
       "lead": "Reforma tributária: ANEEL propõe consultas sobre PIS/Cofins e créditos no setor elétrico",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmtkbXZrZEpXVllIT0VJZ1FzN1VHMk10Y05hSGZPRXJWNG5TdlVZQUo4cVZHemowZFRWZ0E2UXNWRDh2aDhPM2hRMU5OV2tlX281VGt6dng1X0N5ckFqQlctUXZVX2htLUsyZE9ya2t6UVhkcjRwVzlRNHhvNjM2MmNyYV8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-16T13:51:18Z",
       "dominio": "canalsolar.com.br",
@@ -172,15 +280,18 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "mercado-livre_28389",
+      "id": "mercado-livre_11460",
       "titulo": "CCEE, ONS e EPE avançam no desenvolvimento de Novo Modelo computacional em código aberto",
       "lead": "CCEE, ONS e EPE avançam no desenvolvimento de Novo Modelo computacional em código aberto",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEZsQ05FUlF4a1JQQm1GbnZfYUdwUmdkaWNtZmhNaDZoSEpMWEtZUlVzeTltOXBrV25pV2VxaGMtNXJaYmI4TnFNLXdpVjZPcXJ2dHRKeGtRdjkzWVc5RmgxY2V6RUdqVUlydVl3U2FfeldudTNYLVprYk9pUkMwdTlxelBBODJzWlkyZjIxRnloT1R5cUJKd1BpSE5jZUZxdVI2c1hfVXhlN1BnUjJNQjl0UDBRN1hWcmE1Z0E1ZUE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2N2QUNsdkRGSU9OTFk5V2N4aDR4Yk0weUw1YVNJRjZSWFFiYkZWbEx5QVpjcjBGckd4bGRPWEZ1ODBUUGJaQ1lNRGhGREhKcDNmTlJBdHVRTGFvYUJWbmFsX3ZkYUZNZ2JwQ3lWZHFlV0tYNVpKaldYSEs5NzlsYkhDMlVITzFTcHhpcWJwSjBBZVJWcnVuYjZiTms4M3ZUWEtNU0dmdXE5VGd6OW15c09sUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-15T18:58:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -642,117 +753,6 @@
       "data": "2026-10-09T18:00:00Z",
       "dominio": "www.jb.com.br",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "tarifas_18576",
-      "titulo": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho?",
-      "lead": "O que mudou para outubro ter bandeira verde após 2 anos no vermelho?",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRnBSQWxCUlVCT0RRd0lTX2U0Tkt6bmJ2WXdyNHFBbmdGNjE1emxadGkzaXlZYUljVUZvT0RoQUYzbnJ4Vm9oR1E1bHJiSWlDUEQwQV9jbDh3VWpyNzZBNkxidlFQVDlpd0pFSTBla01MS1FOQjJXLW9pelh4UQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-09T15:53:57Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_16984",
-      "titulo": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
-      "lead": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTS1wYlJfS3hjaUh5M0lJeXJJNzk4LVlHd2VVaTFfaUtrSk5vRUlLYWpPeFRFeXRVbWhBNUpkM3VodU1TdS1rNlNsTjh3cC03LXR6RE5FaTR0Vl9ScmpXOGpIb3VRTkFGMWpYQzlQVjNGd0wtU0NwbTFWSUVqOVFlUFpIV05JSldjMURkYy10N3hITkp1Nm43Q0VuelhtTUE2?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-09T14:41:43Z",
-      "dominio": "agenciainfra.com",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "empresas_31849",
-      "titulo": "Investimentos em autoprodução de energia avançam",
-      "lead": "Investimentos em autoprodução de energia avançam",
-      "fonte": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNm9iaWh5YlItcEZXZVdwd2RkWE91TWNfam52c045R0ZTMEJzLUM0QWN5NGNHWFZ0eXdKR09NSlg5RkFUM0k3Z0o0enBYTzJ0ak1GVVVsbVNVdGdidS12cEREZUlJaS1VSTZQcHZxaXROZ1ExUFloTDVjUGVkT2VhdzhjQm5Pak80OEswT3lEeVNXU3M2aFpCRElpQ3pUNlRk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1584169417032-d34e8d805e8b?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-10-09T14:38:54Z",
-      "dominio": "www.canalenergia.com.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "mercado-livre_11393",
-      "titulo": "Abertura do mercado livre de energia avança, mas migração será lenta",
-      "lead": "Abertura do mercado livre de energia avança, mas migração será lenta",
-      "fonte": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdXUzY3VzVGNFNBbEJ3cTg0b1RFQ2NLVndELWVLcjVnRkJ2TmxzWmd6VFJVM3dBREZZSE1nOENSWmp5TlUyc0VFQVVlV0szQ1ZiLU1OVFhJcHdYaEc3Rkk3bGtTVE12RWRrcFFMWlVmUU5GTWN5WmZMdEdGUThiUnpwTnZiVmlpRXFQQ1Vpd0p6OWRHTGJ2U2VDZmNWU1RFYmEyX2JoS1lhU3VBRGE4cFZfVEFBM1U?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-09T13:05:27Z",
-      "dominio": "www.canalenergia.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_74755",
-      "titulo": "Módulo digital para monitoramento alcança índice de qualidade superior a 90%",
-      "lead": "Módulo digital para monitoramento alcança índice de qualidade superior a 90%",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMF9nb0VTUkdIc0x6UXhrMXYxdXVHZ1ZPUVJlWGtRbWgzLWcwbDdtMHlZN1l5cHE0QzRVcTVGeDNEQWVYSEdSTXdzZ3BEdWtvMFdMWGh4TmdzSEpqNllCMHlVa2JqeDd1bTRkX3FJZVNfWVVqSTRpNWZScUhTR29td1I0aTdReThORXNwLUhRSlYwX0h3cG50ZV92Vy10YVZwa2FWdl9sc0dsVjZkX1VuMXRtbmRwTDZtSHBzVWdDamtkcVRLcGs1bXZVZ2d4V2IyMnp4Mzhvbm0zV0ZzZ3NWbQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-09T13:01:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_16239",
-      "titulo": "CCEE recebe inscrições para programa colaborativo de energia",
-      "lead": "CCEE recebe inscrições para programa colaborativo de energia",
-      "fonte": "- Misto Brasil",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTFRGNkFBUnJOUW5qQTlWQnR1NGJBc0RaSTd2Um5DX0Nvbi1mVEVlTkZMNi1JQ2NZVXBWSXBNYUljcERqQnFLYnJjWEdaaE5NUXJWV1ZXa2dRclY4MU5nLW1sS3lVTlJfcTMzaW5fTUJRQVZhSkNRaElHQjB4Zmdac3JmWXlBTW5BOEg2em9GamxkYVpCZlE4cVhRakFwdlJUY3RTRdIBpAFBVV95cUxPTFRGNkFBUnJOUW5qQTlWQnR1NGJBc0RaSTd2Um5DX0Nvbi1mVEVlTkZMNi1JQ2NZVXBWSXBNYUljcERqQnFLYnJjWEdaaE5NUXJWV1ZXa2dRclY4MU5nLW1sS3lVTlJfcTMzaW5fTUJRQVZhSkNRaElHQjB4Zmdac3JmWXlBTW5BOEg2em9GamxkYVpCZlE4cVhRakFwdlJUY3RTRQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-09T11:40:50Z",
-      "dominio": "mistobrasil.com",
-      "tema": "regulacao-institucional",
-      "tambem_em": [
-        "- Misto Brasil"
-      ]
-    },
-    {
-      "id": "transicao_79128",
-      "titulo": "Brasil pode contar com 13 GW de flexibilidade no setor elétrico com baterias, reversíveis e resposta da demanda",
-      "lead": "Brasil pode contar com 13 GW de flexibilidade no setor elétrico com baterias, reversíveis e resposta da demanda",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSm5mMnNGUkZFbTV0UVROSHFDMnlXQTdLNDNoY3BVWGUxMTBvX0NUekJyNEVDQ0JzTnNoejFUdnl3U2FxbFVvVG82SW9VWFpvTFdGUlFqRkQyTUtDdFIxbXVxaUVnOXpBT1JqNUN3QmFoQkp1bGZrVE81MVk2eGRwbkNlSURxdUJibENQTVJlYm5FQ1dOUVZKMTZxMGQxblA4Ty1WZUpVeVFLWS0tR2F6djczeHVwWkF5VEFzakxtNzg2ZGczeldwN192LXJPa1kyVDBmT0gtTEcta2N6ZW5UaDRWY09ZZ1BWUlhKTjc4a28?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-09T10:18:22Z",
-      "dominio": "eixos.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_23008",
-      "titulo": "Siderúrgicas investem em autoprodução de energia",
-      "lead": "Siderúrgicas investem em autoprodução de energia",
-      "fonte": "Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcElsZ0pBVmh5VDdFNUNuWUE3bzB2SEwyYjVzNmZwRlZaaHhLNmNxN0U0OS1kQXBFc0lPM3dndTkxaEJ5TXFsM2NNZTY2QUNPaXBEWXg4eUYyX1hnR2N0Q1NjQVdLNHJBRVhaRnFNTU5OTHVXYmI5XzhKY3V3bGxWblNGdmFYbDZBXy1yVHV2YWc4bFBLaVhQMUFCMVBiVDZ0TGtNZGlYalR0LU1qQXpHX2NwY1BNcldVNzRvdHdLU3VsVEZxTzV6eEpn0gHYAUFVX3lxTE16LVBFRmlVUUVaM29yWG5HOVJybXA3dWR5Rnc2NUhMNGdKQXdqTWtoX0JZYnFEYkV4cEMxLWhqVkp0VGJJbUNyeUVfc0JEYXhwSFMwdUxWOHZISmlyX3VqRUl4R3BtT0Zzd3A1Yi01MFFrNnA1ZVd2czctU2o5X3ZwRklCMXFOQWl5cnpXVm52MllpcEdZV2IxT2RyZFVneHNFdElqSzFCOXZVVGd5OW1BaUh3QWJUbGpDOU9jSUVmbmtBbHByZmkyazhPang2SzFpVTYtUUJEdQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-09T08:00:00Z",
-      "dominio": "valor.globo.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_32089",
-      "titulo": "Operação do mercado livre de energia orienta programa de inovação aberta da CCEE",
-      "lead": "Operação do mercado livre de energia orienta programa de inovação aberta da CCEE",
-      "fonte": "Brasil Inovador",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3R1VlhMRzYzcU00OVFhOFlZNXpXcFprbVBwcFVsUlVDbzlEdnc4Q1ZnSEZNcnd4ZDJpcDhBVU1hWVl1Rl9QYXMySGFNZFJPdG8zbm13M0c0X1lYTlppVUxJMmFZZ2dmdm9hbjl5Q3EwWC1Wc3JzbWlmSFdReGhqWjZNYktOMFh5RTlONnhSUjBWNGtUWWZ0VWxrdks0aFFkTm10T2FsRExqcTR6NFMteA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-08T21:02:58Z",
-      "dominio": "brasilinovador.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

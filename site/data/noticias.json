@@ -1,14 +1,53 @@
 {
-  "updated": "2026-10-20T22:28:29Z",
+  "updated": "2026-10-21T16:14:48Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_63300",
+      "titulo": "Leilão de energia prevê megabaterias no Acre e tecnologia inédita na rede com a Bolívia",
+      "lead": "Leilão de energia prevê megabaterias no Acre e tecnologia inédita na rede com a Bolívia",
+      "fonte": "ContilNet",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYjVjRi1uNzhrSFpFdTFxTnZsclVTMUc5VUJrMkxmVm14dXJTYVBOQ001OUpJc2c4QnBWQlJBVjhvV3VxdHhXaWpOb0ozUnYtZkZBSFBpUFZHQWRMZ0ZjN0tOVFFrdDNlZU4zYm9oM1Jtdi1SWGRYNWhNQnB4OEF5akoxNlZqQlhOeWZnQzZoTDhCcGpJTTdoNWU1bzR1TE03ZF8xSFdjRFN5MEw2WDdiZzBBZHdXWE9mUWVkaGhaY2Z0bVlSeTNPWQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-21T15:53:33Z",
+      "dominio": "contilnetnoticias.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "tarifas_70395",
+      "titulo": "Subsídio na conta de luz custará R$ 47,8 bi em 2027 – Edição do dia",
+      "lead": "Subsídio na conta de luz custará R$ 47,8 bi em 2027",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1BFbUJpbml6bXJuMmhCQ2VFdmVJQlhaRFhmU0JIdmJpcWxnWDZkQ3RSWVFWaVJPSG13YWUtdHJrT2kzT2xQcVFlZVZYaFJFX0pOcU5GN0xveFdEMF9YdTl3bVpIY18zd0drM0UwRWI0NlZlM1d6QlBXOXYyZ2ZSQ2RBRkNSc2FYZFFKSXRRRjJkYmpwWS1zUUxaMkxGMjVxdFFseU9ic2w?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-21T12:07:49Z",
+      "dominio": "megawhat.uol.com.br",
+      "tambem_em": [
+        "Valor Econômico"
+      ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_27492",
+      "titulo": "Mercado de baterias depende de novas receitas além de leilões, defende WEG",
+      "lead": "Mercado de baterias depende de novas receitas além de leilões, defende WEG",
+      "fonte": "NSC Total",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVRhVzR5ZTlsZGo4MkFPS2pLVjRFaFBpQlJ3NXhmWTFaTHNyUy1tdmItYzExUVdNYWtWLVd4QkFkZ0xsbm1wVzhsaWFKWG91cEFTSXVDYXVyWmZtZ1E0aXVBSmktMUFDOGxweWZSR2NqRUZyVnJZczRHZEc5ZXc4RG5LaElBb19BcmllLWI1OEFZOV90VjZFNzF2TmJjZ0ZuNjFJVFV3Y3czZkdqYkdF?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-20T22:52:07Z",
+      "dominio": "www.nsctotal.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "mercado-livre_49085",
       "titulo": "CDE De 2027 Prevê Encargo De R$ 6,37 Bilhões Para Cobrir Subsídios Acima Do Teto",
       "lead": "CDE De 2027 Prevê Encargo De R$ 6,37 Bilhões Para Cobrir Subsídios Acima Do Teto",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnpHOUwtRWNaWThIQmxOaDVpb2dGdE9ELV9NaldXOG1Md0ptb3lubDltVGxuYkY0aUNHVHlhczl0TmxmNXhrSlktTVFWRE93a2FjVVpTWWNXSURtS0hCSTY0WnZqUnpwdTdna0tod3NhUHlGMzNhUXdRN1pVMXJfSDMwb24yakRfRm5idmxIME45cnd3Zi16bk5ydHN4d213OEtQV1hPZGhVX1BnN0MyMjRKN1dWNHFkczV1LQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-20T20:08:56Z",
       "dominio": "cenarioenergia.com.br",
@@ -20,7 +59,7 @@
       "lead": "ANEEL abre consultas públicas para regulamentar reforma tributária",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDVxaWszNGRRNmNUdW0zU0FfS2xxaG9Dd2lZdUpsck9RemlWa2U1YkxWbjVndHhpNDBuemcwSUZjQ2tWTldfSkZ5eEpwcVFOMnhNeEZGd05YbXBtRkFWSnJfbWE3SkVWYXRKQ052YTN6ZFlaUm94TTl3ZmlVaFRUdm5YbUk3STViRHRjZTZUZDJucFR0ZGp6MjZUVE9DUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-20T15:33:45Z",
       "dominio": "agenciainfra.com",
@@ -56,11 +95,23 @@
       "lead": "Ampliação do acesso à energia e do armazenamento na América Latina e no Caribe: foco em Belize",
       "fonte": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbXpnSEx3YWt1YWl0Uy1lWXBvYmdhZ2ZubDBXNkVXME5XS0oydmJfdXpjajhjc2d6dU5hOEtXRHpXOTU0cU9JZTRjYjdocDFlVW5IbXczQXhncDJDcUtZSmwtSmY3NDBHelNoUDJzdjJlR0hIeWF1elJFdFVpVmxGOWtEdzExa3R1UVhxenZ6eWlaM2xYTjFWSlRqQXUzb3kyYTlUWklWZk82MUg3SUVkWnl2QmZTb204eU5MT0hJLTluQTRDdDk2Q0pZWTZZc3pu?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-20T13:27:21Z",
       "dominio": "www.bnamericas.com",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_57776",
+      "titulo": "ANEEL avalia liberar venda de excedente solar pelas distribuidoras já a partir de 2027",
+      "lead": "ANEEL avalia liberar venda de excedente solar pelas distribuidoras já a partir de 2027",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12ZFNDNFF6OFlPOXlXaEI5Z3JXREJ4N3FLV3ctLVAzaFhEeEJtN1hvX3l4cGN2MlBLc1p3SnQwdS1WQTVYOWxHY05mdE5hYzU1YzJhY0lBcGJXeVhjN3lhQklVWkdYZzBmX1k0UUxPdGhTSHRXTDlr?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-20T13:16:00Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "solar"
     },
     {
       "id": "mercado-livre_24671",
@@ -196,6 +247,18 @@
       "editoria": "mercado-livre",
       "data": "2026-10-19T12:16:18Z",
       "dominio": "cenarioenergia.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_30253",
+      "titulo": "Mudança de entendimento da AGU pode afetar sucessão na Aneel em 2027",
+      "lead": "Mudança de entendimento da AGU pode afetar sucessão na Aneel em 2027",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1hZTlFENkx1aXhzTjcxbmg0UmIzTG9XcEpaWEkzdzU5X3ZaN3BwQ0pXWV9qUDdqYnFTeUNkWjJ6OFZrTElYQllCWXVIZWdNUGQySU1uVjloLUVFXzV5d203V1dYZjhERlgwYVFvb0V5NmlTamJycVNBV3F1aWo1V1YzbUVtTU1FQWJjanhXclczSGJyaG9tc2Z1VTlpeTNJQkRrZzBXU1FkWDA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-19T11:51:35Z",
+      "dominio": "megawhat.uol.com.br",
       "tema": "regulacao-institucional"
     },
     {
@@ -693,69 +756,6 @@
         "Valor Econômico"
       ],
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_76505",
-      "titulo": "Luciana Machado | Leilão de energia pode custar R$ 200 bilhões ao consumidor",
-      "lead": "Luciana Machado | Leilão de energia pode custar R$ 200 bilhões ao consumidor",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdy1UbHZDeGdkWFZtVDRkWjlmNG1SLURadjh3dUlRYnl2bXFQUGlJTXVzSjJ1UG50R2JxSmJScmdMMnlfSHl5X1p5b18xQXE5eGd5clNtSlZwTFdsSzRlVjk4S1E0RDl0TE5YWk9IbkxMdmFXN3I5UWtWenl2VUpWdnNYZjZUUVByMHFOR29iaE1sRURaUG83UW13?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-13T12:48:40Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_88045",
-      "titulo": "Consumidores poderão escolher fornecedor de energia a partir de 2027; residências entram em 2028",
-      "lead": "Consumidores poderão escolher fornecedor de energia a partir de 2027; residências entram em 2028",
-      "fonte": "Varginha Online",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWh2emdWaFlBRjVCanZ1d1hfcHh2TTI0enV2YVYwVWN5MzlwT05mbkE2N0ZZanNHVTROX0ktV0t0bEpHRnNMTHYxTmdZN0RZNFJhMXBRMUp1T092d1h2Z3hoWHo4Zm0wOWVDN3FVUlFaNDVTd2tER0JrbDdhb1BkRjhlX2VDSjROTkpvdzlKNU12UmpWcnVuWmF3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-13T12:38:26Z",
-      "dominio": "www.varginhaonline.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_37338",
-      "titulo": "Confira a programação do 2º Fórum Análise Setorial CCEE e faça sua inscrição",
-      "lead": "Confira a programação do 2º Fórum Análise Setorial CCEE e faça sua inscrição",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHluOUVWaVZVVk1lTEFlbHVqUld1clJ0TS1sXzlRbFlOYWloNmUyd0JEdUhtN1Rlb1NNMVFlN1VqYmlMQW1mM0d0ck5qRkhTRnE4ZVRNdFJTMmNDU29qNjVWZ2g2MjM5dy1qTERsdDVIR2JBNWExVWY5Z2sxSEhMZC1IVWVJM0dVamdKZXNHZTE1ZDg1Q3NfR1hSdkJ5bW95Q1RZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-13T12:17:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_77694",
-      "titulo": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
-      "lead": "Novo modelo de precificação da energia deve estrear em 2028, diz CCEE",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTS1wYlJfS3hjaUh5M0lJeXJJNzk4LVlHd2VVaTFfaUtrSk5vRUlLYWpPeFRFeXRVbWhBNUpkM3VodU1TdS1rNlNsTjh3cC03LXR6RE5FaTR0Vl9ScmpXOGpIb3VRTkFGMWpYQzlQVjNGd0wtU0NwbTFWSUVqOVFlUFpIV05JSldjMURkYy10N3hITkp1Nm43Q0VuelhtTUE2?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-13T12:02:00Z",
-      "dominio": "agenciainfra.com",
-      "tambem_em": [
-        "TAGD Advogados"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_91918",
-      "titulo": "Bandeira verde alivia conta, mas calor pode aumentar gasto de energia nas casas",
-      "lead": "Bandeira verde alivia conta, mas calor pode aumentar gasto de energia nas casas",
-      "fonte": "Diário da Guanabara",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnBpLU9scUgzVmtGY1RXaFFOZ0RiZmpUdDMzODZ0WTNLYnV1UThmM19RVTJTY2RVdTUyb2RES0J2bl8yYUJ4dnpMSDFLemQ3QWNwMWk0LVowRnIwZTYtV1lOdjRrclJoclFsN0k0eFhjUVRUWW9veXFHWU9uVXNjUl9iSDdUdUI3MXpmX0hLRkhHazJ3MXdMYkZZSjAwLTFxYnlWUDdONVFnM0k?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-13T10:15:55Z",
-      "dominio": "dgrj.com.br",
-      "tema": "consumidor-residencial"
     }
   ]
 }

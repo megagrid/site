@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-21T16:14:48Z",
+  "updated": "2026-10-21T22:33:25Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_83474",
+      "titulo": "Valor excedente ao teto da CDE deve impactar subsídio à geração solar em 52% e muda rateio regional até 2030",
+      "lead": "Valor excedente ao teto da CDE deve impactar subsídio à geração solar em 52% e muda rateio regional até 2030",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6WWZYN0hXU1F1NXJwakwxU3ZNd0hBYzZ2V013c0JxSEtkTlpuZHRmMFVjZTlOaVg0cWJqMEVtUTlKNHhUOHNYMmRoaVRTQTBpZVFuMmVzRllreTJlaWExR3poQmZLNUM5dzBCVlJlelNJM1ZDS0FVdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-21T20:41:24Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "mercado-livre_49364",
+      "titulo": "Abertura do mercado livre exige nova forma de vender energia, diz Neoenergia",
+      "lead": "Abertura do mercado livre exige nova forma de vender energia, diz Neoenergia",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFhxM29hdTI2Y19rTVhvLUstLURVaTcyQnpSVGZfc1VtcS1DR1BBMEpoR2t3X2sxZFpQRlp1d3VBSkQ0YmpWY0ZjM1poZDJRYjhrRFZzcENDVUNtT0U3bGhJZGt6VmVYY3ZqY2E0eUxjNm5rTVFBSWJ1WmpFSEV6dw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-21T19:02:03Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_63300",
       "titulo": "Leilão de energia prevê megabaterias no Acre e tecnologia inédita na rede com a Bolívia",
@@ -727,34 +751,6 @@
       "editoria": "transicao",
       "data": "2026-10-13T16:51:00Z",
       "dominio": "www.bra1.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "politica-energetica_14582",
-      "titulo": "MME propõe código aberto e desenvolvimento conjunto de modelos",
-      "lead": "MME propõe código aberto e desenvolvimento conjunto de modelos",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFY1dng2QTgzV2Y2clpzOTJaWnpUTi1tY0MzeGV1dlJudG1HZTBqeDByckhxUldMeVpwSFV1dEd1SXNWblhEZ0taY2RMakJDd2ZoTVpIMmF4RTZab2wtU21KWGMzQ3BaTkhkc0hxVFlWcmI0Ri1zd0c2MEFicE1Zdmxla0hzOXhKa2JJd1FwS25jdi1fUHJQbFpNWlR6X0k0cVNiSDBmQk96R1pRNEhPcA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-13T15:50:33Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_37078",
-      "titulo": "Câmara pode votar hoje urgência de projeto que muda rateio das baterias",
-      "lead": "Câmara pode votar hoje urgência de projeto que muda rateio das baterias",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN1ZIR0NJX3lWTnpNU2xycVE5dTNSZTEzc2RWSnJBMUFtc3E3SmZJcXhNSEFfdGJIVWVjZGtfWUU1T1VDWDdiZ0ZwbzZFbEo0TTJWVUFmMFJTZ1ptZVptcDdtUldZWUtaNjBKcWMwWW16OFNyWFlfRXBJRHlmTlRscWNIbDVGQmFWVE1MVm1ES2phV0VkN1Q4UllVLTAwNXh6STdyQ0gtNTQ5ZkhkZnRseFp0N2E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-13T13:14:47Z",
-      "dominio": "megawhat.uol.com.br",
-      "tambem_em": [
-        "Poder360",
-        "Valor Econômico"
-      ],
       "tema": "baterias-armazenamento"
     }
   ]

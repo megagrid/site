@@ -1,18 +1,54 @@
 {
-  "updated": "2026-10-22T16:13:23Z",
+  "updated": "2026-10-22T22:33:21Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_44541",
+      "titulo": "ANEEL E CCEE Estudam Liquidação Semanal No Mercado De Curto Prazo De Energia",
+      "lead": "ANEEL E CCEE Estudam Liquidação Semanal No Mercado De Curto Prazo De Energia",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdllNOHNkWmNEbV9TSmk0NENGenNJNy00eklOcHY0WTVWeDZ5ZGVtZ0tNelRzTGE0ZHFRSzlOSklyeW80ckNBcTRFTHlPWElVbXJyMHdhZG4telVoMHFyWWl1a3pGY1VDLUY2QlpoLUM4QmhybXRlcXVGbG9pV2hoT0NFNWh2VU1MNmcwUEx6Tjc4XzNqWVhzQmVSUFFDNGg5OEJOTXRpaEFwdWVacThGS28ySlluOGt6LWc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-22T20:49:45Z",
+      "dominio": "cenarioenergia.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_5737",
+      "titulo": "ANEEL estuda medidas para reduzir risco de alavancagem no mercado livre",
+      "lead": "ANEEL estuda medidas para reduzir risco de alavancagem no mercado livre",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXFQM3dWRXY0NEdTd0RtVDFKMVZ3TUhHVDlsRVFIb1dZenlfZEFFMWozOXdjTFNHY1FPcFVWT0w2WG9KSlpJcXNYMEpfVmF5LVo3VkEwOXRORHltVFlhOE1QTG1nZmtxNFN1NnJlWE1rQXoySVZXS1dxczU4cElEcmxuUUx6VHFORGlrREtYQ0ZGZUZ2d29Objl6RThEUjN0SFVRdA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-22T18:30:00Z",
+      "dominio": "agenciainfra.com",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_69738",
       "titulo": "Por que os primeiros leilões de baterias do Brasil correm risco de adiamento?",
       "lead": "Por que os primeiros leilões de baterias do Brasil correm risco de adiamento?",
       "fonte": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDBDNE9NemVNQmRSTGdFQ1hXTloyM1lKQmg3d3NtUGI4eU9fNnMyZzI3R3N1VUlpSGVxME83UmJNSnM0Mlo4dGtzZzBIZm5CcDE4WVJxMkQtdEZTakxtZUphN2ZNTWhEQW04RGtfZ05La0k4dy1ib1NCOFdjVnNSMUJ6OFFYWVR2SndZRGZRQ3h4NFR3Y0lBUnkzVkFpbmV5QUpQQ1hkbHdrQjZVTHZYMjhicWM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-22T15:21:38Z",
       "dominio": "www.bnamericas.com",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_33129",
+      "titulo": "ANEEL aprimora regras para sustentação oral",
+      "lead": "ANEEL aprimora regras para sustentação oral Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMW5CY0sySno3ZDBBN0Y3cEp2OGZhTGdlTm9OVWx6N0g0Q0pWTnBjNEEyMUlxcF9IOUZCOGw4R0dZU1F1NC1OczRNMVJ0eEZiYjJzMnpSQWxzYlhYMnpvNFFTNU5EckdoYm40NEM5aExGazBvc2t6MlB6aUl5YmRMclVOOHBuUTBXQ0FkMDZtOHFLaFA4WUF3VGtZYllkVW52VHYxa1RKQnJHQW5tVmJnT19nT2k?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-22T10:04:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_82792",
@@ -20,7 +56,7 @@
       "lead": "GitLab ficará indisponível nesta quinta-feira (22) para atualização Governo Federal",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbTJrQnBqWDlPWGVhS2hEdEJrZDdHeXpacm1nOTJjSllkbS1VYXMxYWx2eHZyRkFNSEtfYnJvU2N0VlBlTjFkQlhYSDBZZEN0am5OV3Z5WVdQOExOb3d1WVdTdGJ4MG8xdGpiYkdUVGFhd09EN3d5SGliVS1vZUp1M3NkbUVtOElXbVVSaGpua2RYWWlHcm5WV2lZNmZKVWhPU0NVSXd3bFl2Q1M5Mnl0Z0VFR1MtS1NVYUFCbTZUeFlUNG96OEhCNExVWVFYcDkyMFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-22T09:56:00Z",
       "dominio": "www.gov.br",
@@ -83,7 +119,7 @@
       "lead": "Abertura do mercado livre exige nova forma de vender energia, diz Neoenergia",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFhxM29hdTI2Y19rTVhvLUstLURVaTcyQnpSVGZfc1VtcS1DR1BBMEpoR2t3X2sxZFpQRlp1d3VBSkQ0YmpWY0ZjM1poZDJRYjhrRFZzcENDVUNtT0U3bGhJZGt6VmVYY3ZqY2E0eUxjNm5rTVFBSWJ1WmpFSEV6dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-21T19:02:03Z",
       "dominio": "canalsolar.com.br",
@@ -117,6 +153,18 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "mercado-livre_46574",
+      "titulo": "🎙️O primeiro orçamento da CDE com teto para os subsídios",
+      "lead": "🎙️O primeiro orçamento da CDE com teto para os subsídios",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0tPcjdkQ2QwTzlobU5KT0ZsWHg5LWRLS3E4YVRrcGpnelFxWWRvdXNvY0pUcDRPUE5ZZVFRdXlsY3g1aEVlVUxnbU9mdHd5NVJNX3pUa3hHZTVJYzZiRkluQnppXzlUVDltcGQtSC04dm5WNmVkcE1DWjFoaXNCc3NjNWo1bXZZak1meDB5VlhxMndQTVIw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-21T12:30:00Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "tarifas_70395",
       "titulo": "Subsídio na conta de luz custará R$ 47,8 bi em 2027 – Edição do dia",
       "lead": "Subsídio na conta de luz custará R$ 47,8 bi em 2027",
@@ -142,6 +190,18 @@
       "data": "2026-10-21T10:00:00Z",
       "dominio": "cidadeverde.com",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_38151",
+      "titulo": "ANEEL registra primeiro projeto de usina hidrelétrica reversível em ciclo fechado",
+      "lead": "ANEEL registra primeiro projeto de usina hidrelétrica reversível em ciclo fechado Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS0htV0lfdHRoVUR4NWZmekFGQUx2Nkd2N1FUZ2FUV29maEpvejZtYkJRZVlYNElsbEphNkstZ2kyQU96WVNFNWdZNVdNZkVIUDE3M3dvV0Jrc29sa2w3emEzb1p2ZU15V19wWWM0cFRDeTZUQVMwak9LOWxrSjdwc0Q5TkdFc2RkWVBpbDg2UW1JZ2xoSDhyV0RfeGY2dDJFUTgxVWZUOXplWm5TQWtFUWJ5aFhwOHN2Tm5tRDBQTzdwUFRyek5jTGZCb3piS0JkenhUbkIySGV1R2Z2YlBaTGs2TUdZc2M?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1705747894609-6a7d17a8cfb7?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-21T08:28:00Z",
+      "dominio": "www.gov.br",
+      "tema": "hidreletrica-reservatorio"
     },
     {
       "id": "transicao_27492",
@@ -698,66 +758,6 @@
       "data": "2026-10-14T17:00:00Z",
       "dominio": "www.canalenergia.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_23117",
-      "titulo": "Técnicos da ANEEL iniciam processo de regulamentação da reforma tributária",
-      "lead": "Técnicos da ANEEL iniciam processo de regulamentação da reforma tributária",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS29laG1qOXhXbkhaQ2NiYVVZQU03eWhybVhhdEFvWDRla2wzWEktWDloRy03d1o3dmFJLVhNeTFWakZVZzRYekxFYUdkdEs5X0V4UU1EZ1NsZXNRRVFkSFFTYVFZNGt4bjRYVWNGYUVNWTR6b0dIMTFNTzJIaS1SQld3RlprSThKdXN2NkI2RXZ1Q3F6NmlWOHVfT3BOeXhsUF9KeWRTdHM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-14T14:22:58Z",
-      "dominio": "agenciainfra.com",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_32316",
-      "titulo": "ANEEL aprova reajustes tarifários da EDP São Paulo e da CPFL Piratininga",
-      "lead": "ANEEL aprova reajustes tarifários da EDP São Paulo e da CPFL Piratininga",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWdaZ0VVVkhWR3hDelN0cVFhR1J6MFNMeEctR3ZDUDh6Z00xaUo0cVRpMkxXQXVIenVoRG1lZ3BFd2FXR24xckx3NEx0MjQwc3hyNlVuVGlxR3ZmNDV5U0NkX18xWjFsY2FCOHNTVV93YzZzbEpncGxTQW1LQmNhVg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-14T14:01:53Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_14016",
-      "titulo": "Bateria gigante ligada a usina solar na Bahia abre nova era para energia limpa no Brasil",
-      "lead": "Bateria gigante ligada a usina solar na Bahia abre nova era para energia limpa no Brasil",
-      "fonte": "www.bra1.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ09leXRRNTFUNFdscDI4M3JrcEpfT0JwU1FTdW9ibzVleDFXXzFvM0s1dndTdTdIa3VzUkpxampvdVlyanV4dUo1enF0WnBzUmRfS2ZjY3VCMFh2cTJiOF9zMy10Vno2Vk5acDRnVG56MC1zWTJWTHJzNWdxSDBHTFI4aHplMkcweE9Bc3k2eDRxbTVQUWdaRExaOHlHT2EyZXNZMVhsR2k0ODBGbko0QS1YdnFJdEtqaDd6aFJaOGhLbkhOV0lUaFI3SkUzUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-14T13:50:00Z",
-      "dominio": "www.bra1.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_20308",
-      "titulo": "Aneel rejeita reclassificação de curtailment por atrasos na transmissão",
-      "lead": "Aneel rejeita reclassificação de curtailment por atrasos na transmissão",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc1pzQWp1eUY0TDQxXzVlYWRRRW1yYWJnVm10MmZHMjFySjBfemJtQnQ0Q1pBYkpvVDVkOXdXcFBUb29GdzdIYmNUdUNTUHRJLU1qU2pGdHRiRXJkQ3owRWVVbkFrTFV4bjluT2NsQjhSdUNOMEZnQWtRV3Y4WFVDWjA1UXJ1RHJqaHVmWHRKRzc0SEtRMWZfWC1oTWlQX1FhVEl0YXlDOEdqU2F3Y1ZnN3J2TW45Z3BuUWo3ZVU4SlNNSmZlVmJCbg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-14T11:50:11Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "transicao_24388",
-      "titulo": "Câmara aprova urgência de PL sobre divisão de custos de baterias",
-      "lead": "Câmara aprova urgência de PL sobre divisão de custos de baterias",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemloNFF2SXV0Rl80cnA1Z3k2OU9RRjZoSkZ4bU1mdDNBeGljWHhGQVhPWEVUMTM4TWF1WjJMeG5ZTk9INEtzSk5IWGpxWk1Iekl5dGFSYWlHWVVOWTl6R0c2ZXhLam9pLTM1dTZldUx4cDItaVVRTG4yTHBLWFZkQjVWbGNYWUVxMFZLUkxwZXpYZFhia2pVWk9vMDlzWjJnYjJtbC1NZzJCdnRoZlE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-13T23:30:50Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

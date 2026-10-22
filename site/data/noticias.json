@@ -1,14 +1,77 @@
 {
-  "updated": "2026-10-21T22:33:25Z",
+  "updated": "2026-10-22T16:13:23Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_69738",
+      "titulo": "Por que os primeiros leilões de baterias do Brasil correm risco de adiamento?",
+      "lead": "Por que os primeiros leilões de baterias do Brasil correm risco de adiamento?",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDBDNE9NemVNQmRSTGdFQ1hXTloyM1lKQmg3d3NtUGI4eU9fNnMyZzI3R3N1VUlpSGVxME83UmJNSnM0Mlo4dGtzZzBIZm5CcDE4WVJxMkQtdEZTakxtZUphN2ZNTWhEQW04RGtfZ05La0k4dy1ib1NCOFdjVnNSMUJ6OFFYWVR2SndZRGZRQ3h4NFR3Y0lBUnkzVkFpbmV5QUpQQ1hkbHdrQjZVTHZYMjhicWM?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-22T15:21:38Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_82792",
+      "titulo": "GitLab ficará indisponível nesta quinta-feira (22) para atualização",
+      "lead": "GitLab ficará indisponível nesta quinta-feira (22) para atualização Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbTJrQnBqWDlPWGVhS2hEdEJrZDdHeXpacm1nOTJjSllkbS1VYXMxYWx2eHZyRkFNSEtfYnJvU2N0VlBlTjFkQlhYSDBZZEN0am5OV3Z5WVdQOExOb3d1WVdTdGJ4MG8xdGpiYkdUVGFhd09EN3d5SGliVS1vZUp1M3NkbUVtOElXbVVSaGpua2RYWWlHcm5WV2lZNmZKVWhPU0NVSXd3bFl2Q1M5Mnl0Z0VFR1MtS1NVYUFCbTZUeFlUNG96OEhCNExVWVFYcDkyMFE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-22T09:56:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_29734",
+      "titulo": "ANEEL abre Tomada de Subsídios para discutir impactos da Reforma Tributária no Manual de Contabilidade do Setor Elétrico",
+      "lead": "ANEEL abre Tomada de Subsídios para discutir impactos da Reforma Tributária no Manual de Contabilidade do Setor Elétrico Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPQjFKX2pScXhhR3dIM3JuT1Bpamp1UnoxWnloejl4TklGUHB5eEZ5ZDZSUkNGSHZZQndtSi1xWnhvX0M5SU1OdHZtY2RKOFRhTWhocUF5c290Q05UMWRhaHlvcm1JZndqUW5UT3Bfb0E0OVFGSW1ISWZtZGU3XzgzbjB3ajRiZFphR2UzaUtBOVk5alhYWWtacE5hRWxaaGJHVm5HbGxNdGZaREtpYkpXbnVINmRRVmRpUGpYZWVqSnAxTUFHN0lWekoxNFQ1d2V5TUtYcG5YQ3FmOHVXUTdtd2JsX2pQZExGRHZfX0FDTWJPTmtTbHhrcnR3STFyZW5xb2MyMW9KSExYQ0JqVGV4U0oycjVvY2M5OUxn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-22T08:37:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_78693",
+      "titulo": "Leilão de energia com megabaterias no Acre: tecnologia inédita",
+      "lead": "Leilão de energia com megabaterias no Acre: tecnologia inédita",
+      "fonte": "Acia Araçatuba",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkxyOVhsdmV6X2h1c0J2NDRMODRjckczVmN4RjhPdXN0SG5obDJLVFNNVy1WaUJ5bS1Kb2lWdUJraVZia2xsSzVrU0p2UWFrRTlpak9sYW9jUVhCQnNUbGlsMFNOcXQ4TTIwLUF5TWxUVGFFdHhiejkzclEyOGhnanhBdW9aWVowUFI2Vw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-22T05:04:40Z",
+      "dominio": "aciara.com.br",
+      "tambem_em": [
+        "ContilNet"
+      ],
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_88439",
+      "titulo": "Nove projetos de armazenamento de energia em baterias estão em licenciamento no RN",
+      "lead": "Nove projetos de armazenamento de energia em baterias estão em licenciamento no RN",
+      "fonte": "Tribuna do Norte",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGU2MHNHTzBQbVgzZEVrQ2hmN3haXzRXUTlpZW9xM3d1NjVVU3NKTlBxRVpWejB2S01WM0tqSGgyLVhfRWJXZmVSdVpmNjZ4djY3clhuV002a1JFcmJwd1VINkhVdHJiaDhXMm5QXzBURFlwbTlNRVpfSm5xcXlVcHU1U3dScnd3eUFyNV9NMG94eWFFb2ZyM0xUMGo3dmdEeVZFSXJzU2tsV1pGSDhGS05iMDNsa3g0WGVXeGVKdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-22T02:02:14Z",
+      "dominio": "tribunadonorte.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "transicao_83474",
       "titulo": "Valor excedente ao teto da CDE deve impactar subsídio à geração solar em 52% e muda rateio regional até 2030",
       "lead": "Valor excedente ao teto da CDE deve impactar subsídio à geração solar em 52% e muda rateio regional até 2030",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6WWZYN0hXU1F1NXJwakwxU3ZNd0hBYzZ2V013c0JxSEtkTlpuZHRmMFVjZTlOaVg0cWJqMEVtUTlKNHhUOHNYMmRoaVRTQTBpZVFuMmVzRllreTJlaWExR3poQmZLNUM5dzBCVlJlelNJM1ZDS0FVdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-21T20:41:24Z",
       "dominio": "canalsolar.com.br",
@@ -27,16 +90,31 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "transicao_63300",
-      "titulo": "Leilão de energia prevê megabaterias no Acre e tecnologia inédita na rede com a Bolívia",
-      "lead": "Leilão de energia prevê megabaterias no Acre e tecnologia inédita na rede com a Bolívia",
-      "fonte": "ContilNet",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYjVjRi1uNzhrSFpFdTFxTnZsclVTMUc5VUJrMkxmVm14dXJTYVBOQ001OUpJc2c4QnBWQlJBVjhvV3VxdHhXaWpOb0ozUnYtZkZBSFBpUFZHQWRMZ0ZjN0tOVFFrdDNlZU4zYm9oM1Jtdi1SWGRYNWhNQnB4OEF5akoxNlZqQlhOeWZnQzZoTDhCcGpJTTdoNWU1bzR1TE03ZF8xSFdjRFN5MEw2WDdiZzBBZHdXWE9mUWVkaGhaY2Z0bVlSeTNPWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "id": "regulacao_82100",
+      "titulo": "ANEEL realiza Workshop de Esclarecimentos sobre o 1º Leilão de Transmissão de 2027",
+      "lead": "ANEEL realiza Workshop de Esclarecimentos sobre o 1º Leilão de Transmissão de 2027 Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVG1DYUMzZzBKTFJ2a0NzclJheklXbi01T0JNX3Zmd3NWQlUwa2cyZEtUcE16QzNkSW4yTGpLd1lQT1kwYnZWaTIydGV3SFF0Yi1aNGY1NVl3SVgtUnlxWHJhLXRXUTgzNi1IazZsVEJqYzBLWXRzTHhPZ0lfRURUcmVGejdYLWkxNTg4VU5NZm9LSDZ5eUZpalYtaE53bzFfeUJ3enBPbWFDeGkxaHZ3QUh1X2xIbWdlbHgzdnhjM3ZlTWlPZmlYS0wzVmsxNHVRMkdaSnhiTFphbGN1c21xaUhDOG9jbkhu?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-21T15:59:00Z",
+      "dominio": "www.gov.br",
+      "tambem_em": [
+        "ANEEL"
+      ],
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "transicao_74285",
+      "titulo": "Armazenamento de energia: RN debate negócios com baterias",
+      "lead": "Armazenamento de energia: RN debate negócios com baterias",
+      "fonte": "Agora RN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETnJlRXN6SWQ5UzlQLVZEOS1sbzdfUFdIX2kxRVFOV25nd2NtWHBFc1U3WlZCd3BUdklXMEltVXFkbGxjYUFpc21nbEJWeDVkUDlkeVlObzZ1dHcwOWJzNjByZjJqRUYxTlMxa2RLZ0JDNHozaTNySw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
-      "data": "2026-10-21T15:53:33Z",
-      "dominio": "contilnetnoticias.com.br",
-      "tema": "regulacao-institucional"
+      "data": "2026-10-21T14:28:24Z",
+      "dominio": "agorarn.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "tarifas_70395",
@@ -52,6 +130,18 @@
         "Valor Econômico"
       ],
       "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_62077",
+      "titulo": "15% da sua luz é subsídio, e você provavelmente nem sabia",
+      "lead": "15% da sua luz é subsídio, e você provavelmente nem sabia",
+      "fonte": "CidadeVerde.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0FGT1lXVmtIZG9FNGY1WHJEZUVBT2h5OFNWUWxyUjZpSzBpWEF0TkVuU2h3ZEdRYm53dTJUZFpISl96QUFkcUhsR2tnNDc0RDAzQkotOU9FTHNSM3hlTFk3UTFOUTBFNGFfdHVKQ3piTHFmX0lSNzlGUjdrRUdsdVRVTUJhSkEwaFVYMzJSZlZFZEpSVEZkNlVldjRPM0JB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-21T10:00:00Z",
+      "dominio": "cidadeverde.com",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_27492",
@@ -71,7 +161,7 @@
       "lead": "CDE De 2027 Prevê Encargo De R$ 6,37 Bilhões Para Cobrir Subsídios Acima Do Teto",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnpHOUwtRWNaWThIQmxOaDVpb2dGdE9ELV9NaldXOG1Md0ptb3lubDltVGxuYkY0aUNHVHlhczl0TmxmNXhrSlktTVFWRE93a2FjVVpTWWNXSURtS0hCSTY0WnZqUnpwdTdna0tod3NhUHlGMzNhUXdRN1pVMXJfSDMwb24yakRfRm5idmxIME45cnd3Zi16bk5ydHN4d213OEtQV1hPZGhVX1BnN0MyMjRKN1dWNHFkczV1LQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-20T20:08:56Z",
       "dominio": "cenarioenergia.com.br",
@@ -107,7 +197,7 @@
       "lead": "Teto da CDE pode reduzir em 52% subsídios à MMGD em 2027",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVE9yVy1tZkVpcGJsRUlDSWJPSU85Q01YWFE3SGhGX2c0cXUyWnhoeUtpUjMtT01obXBFb1VkQ2JRS21LR0Q3RVFKbEg3M3ZRT29ZQzhlLUdQX1dIQzRuUzd4TTdrcWZrekw3el9zQXJ0YkExRzhNOE0ydGlnU2RVaDFjbjRfbEdpYmJVVjRiYkdqUDFwUGFjNXRn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-20T14:46:04Z",
       "dominio": "megawhat.uol.com.br",
@@ -238,18 +328,6 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "regulacao_29336",
-      "titulo": "Workshop de Esclarecimentos sobre o Leilão de Transmissão será nesta quarta-feira (21)",
-      "lead": "Workshop de Esclarecimentos sobre o Leilão de Transmissão será nesta quarta-feira (21) Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY05sVzNMZmJFZkg2dlBKdU51RXVFMU40T1lrMm1xVWZMSUFldEdSd3c2WkprSGJQb2p4MXhlajdUQVZodzV5VWVKMVlXTGw4R2M5TEt6WkpEa1dJS3hkdnFYaFNmUW5QMTNSdHpMNk5Yajd3eWtwWWNQeEMwamVxMzFyWWFlQUxxaWlWZjdJM19xMDg5ZTh2QkJYbHRCZnVxS2ZkdERRM0FpUkh6bkN5UXBVbWlDWFU5QkcwNml1TEZRcGdsTW1nbTNabDR3eW43MGUzdzNMRHZnTzhBbTR2cVU0SXl4SUFXY3lz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-19T16:11:00Z",
-      "dominio": "www.gov.br",
-      "tema": "transmissao-rede"
-    },
-    {
       "id": "transicao_28865",
       "titulo": "PPAs solares: estatal uruguaia UTE prepara leilão de energia",
       "lead": "PPAs solares: estatal uruguaia UTE prepara leilão de energia",
@@ -303,7 +381,7 @@
       "lead": "Leilão da Aneel: R$ 4,1 bi em transmissão para MS, PR e GO",
       "fonte": "Campo Grande News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkJGa0NCdzVxZ2tyNHdpQnp2Rk5HbzBSbG9ZNDVFaUx4RWdwZ1NReUNpaUlfc3ZGTkpmRDNwbkhEcGFRNVRoU25odFdhS0x4OEQxOWdjZTBrNnpyUk5ZR09PS1ZXV3JVdWVSY0lkOUtjV09KMjFyNGhJU1N6bDVUUUs1VUg2MV92TFNhQ3FHazBIXzlhbEdXaGh2WlViOS1wRXoya3NWekR0OGoyYTJ0dTVGUWtRQmvSAbcBQVVfeXFMTlJ2Vnl6NS1yNWZrMzBmXy13alhPbS1ORURTSGFBVzdaTTROQ1duSWRSMjg0QmxjTUFkLVJjZWQta0ZaQ1dIOEw1dUR3NWg2enVtdnVvZi1ROGtWajM1NjNBRDIwN2tWaElFU2I0dXYyMzJQd095bFJFSWF4VWNaaWdrYXFmMUpPUFREMG00dXhpbERfTG5UdUpmQl9wd081R0NRQlhLR09TaWNOMEUxZVFyMklRbmRn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-18T17:55:00Z",
       "dominio": "www.campograndenews.com.br",
@@ -679,78 +757,6 @@
       "editoria": "transicao",
       "data": "2026-10-13T23:30:50Z",
       "dominio": "www.poder360.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_56385",
-      "titulo": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL",
-      "lead": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObm5jTi1taTNoUTlYSUFES042aVdkOXZYWjJWUllBaldRN0J3MVZLQ1JNSUdYV2hoYkZIa3d3MGx1RkZhX1NGQ21VSVVuMWR4M2VCSlZ4SWFJcDVzdEFoTmFlUmhSSTB1ZTIzMWFjcG1QOVRXblRJLXVnM29lLXJOVVAtUXVDT1I3cVlPdG5wRzFZR29ITU5OSXVsVk5KZ1M0WTNTRFo5bUdoLWEtbGZNSW1nM3R3SGh5YUV5UmJqUWJubnl2MXp3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-13T21:27:33Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_51048",
-      "titulo": "Aprovadas novas tarifas para consumidores atendidos pela CPFL Piratininga",
-      "lead": "Aprovadas novas tarifas para consumidores atendidos pela CPFL Piratininga — Agência Nacional de Energia Elétrica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObEFiVWlibGhza2trRUFwZmJZaGkxX1RoMzRTVHViQ2xYXzktZ1BNVGdDVjFONmtNOThrUVk0b0ZKXzhEb2d3UVBGOHhTZUUzc1Bxc0N6MFN3TG52QnVfQ3R3OG5hZmJZVUJ6dm0xbno3NXk2SkxYdjlNRm5PY0M3WEgwQk1rc19kbFdnSklDUG9pRk1jZE5VWXhYMXJzeGlfMWVlcWxkTEJZcUFUVnhMWHZTSUxsNTROYWk4eExIMi12cjJtbC1UMmQtbGlKdHlBcXRqaV9hNHpHZllO?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-13T21:25:43Z",
-      "dominio": "www.gov.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "politica-energetica_2565",
-      "titulo": "MME: Recursos minerais são estratégicos para ampliar a produção nacional de fertilizantes e segurança alimentar no país",
-      "lead": "MME: Recursos minerais são estratégicos para ampliar a produção nacional de fertilizantes e segurança alimentar no país",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSUxLRGVOMEFIcnkweEJqY1RMazhnSDJiS0FRbzQ1ZnlwcjIzVlNVOGNzWi1XRnhGeUdJbGNBZmZydkdHUUJibF9YemZhd01lcDFtV2dKWF9LamMzRzI1WlRWWFJfUjdQTTBUN0RfX2pLVU1JVlNpb1RUbElRU1phMGpoRFpVX05OY2dOdFV6X2tNMlQwRHV0R1ZDZktOOWpIYWxaTHU4UDFYTzl3Y2EtN3AycVA1THhETXNPRFVfekxqbDltbi1ELVJpdm82R05XZmZYNVh0RU9PYk9VWjNZbUM0MGVWempXQjFfNFh6Ml9ZT2pTWjUtMg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-13T19:53:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_87174",
-      "titulo": "Mercado livre de energia em 2028: o que muda para quem paga a conta de luz em casa",
-      "lead": "Mercado livre de energia em 2028: o que muda para quem paga a conta de luz em casa",
-      "fonte": "Rede Atlântida",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOa1dtNDhpLXR4NFBTaHFObklSU1J4RGRuS0VORnFoM1MyZ2VPVzVxZlV3SmNzdXdBLUt5YUUtb0Jxd3d6T0lSVjdBelhjdy1oV1hfTkxBS3NSakZ1UUtxWEE4WHBfTWY0bVppRnRYbzJmeWNRV2VEemw1NTNRTEYtSVZYVjdEbkVjUHUzcEFOWlFWeXFDUGJReHl6cnJkWVBZVjhabnpMNDhnSUNNZ1BZTzdSZkNTY00wbUpwdVhZVzB0SE9qcWNyazN5UGV3Z0ZSRmphMnRmeWtyT19fQmRXby1FQmtJMDlCYS1KYWZlWDJ1RENEc2NYU1hxN3BGcE9iSXFDZjR2Qk1CNkpVbE9r?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-13T19:34:39Z",
-      "dominio": "atl.clicrbs.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_20530",
-      "titulo": "CCEE e ONS iniciam testes do Cobre, modelo que pode substituir Newave e Decomp",
-      "lead": "CCEE e ONS iniciam testes do Cobre, modelo que pode substituir Newave e Decomp",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkhzNWFhd2JzWVJHX1hVWHhWaWJndExIRDZuSThkbWNILUR6a09oWGR6blVlZzdMa2l3MlU1ZFpEVmZPZlpFXzZPSFMwT1VaUzN6c2diX0xjbjJOSUZCVEliZ1dDMlY5NVVMZC1OWGpTaUxpaW90WmJRZ3pSallhVkZqVXU0cndFdlRIcUtlbml1S3NNZWNqZGwzNTk3VWNJMTlKX0RNY1BxV2FsU2I5aXJKNlhTUW9FWHJtUy1MWjI0MXM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-13T18:29:20Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_66937",
-      "titulo": "Baterias gigantes vão proteger a energia elétrica do Acre e mudar o setor no Brasil",
-      "lead": "Baterias gigantes vão proteger a energia elétrica do Acre e mudar o setor no Brasil",
-      "fonte": "www.bra1.com.br",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZklIcVFlWnJIZFBwWTU0UFE2cTBmNXBIbnZ4THp6MUItQ3RNRnJzdWNib0J2ZERWX0J2c0pUbUdLY2xzT3lSb1pVV24wVUtaZFpxZHdoNmJUMnhHQlhYU2FQcmNicGF5TXRBaHVhMHV4TWZfank3WklWWmJtUE40WEx6emwzRUtzQ0ZSb0hoS0dQSW9IbDRXVnFOVHhlYmdpVlRTVzk1LV9mZWFQeE9vR3ZXazcybVVid2pIV01fVGRYZE5fSDU0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-13T16:51:00Z",
-      "dominio": "www.bra1.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

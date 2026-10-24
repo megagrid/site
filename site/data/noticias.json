@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-23T22:26:41Z",
+  "updated": "2026-10-24T15:00:13Z",
   "total": 60,
   "itens": [
+    {
+      "id": "empresas_53135",
+      "titulo": "Distribuidoras de energia devem ratificar demandas para leilões até o fim de outubro",
+      "lead": "Distribuidoras de energia devem ratificar demandas para leilões até o fim de outubro",
+      "fonte": "D24AM",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjF4U19RdzRaVjB3ay1nOW8zU0dRTXFYbzM4WUhSa1JsakMwNnRUUDJNUDdqUWpIdmFVNk9icjQtUlk3ejh1UW5EU1NSNk9iMkJ2YjRNWDV0YnpkTlFfMWdxQUI4S1FZd3ZtTjZCSUo0TDQwQkRZcnA4bWJOdDFHLTNHSkJmdnNjZUVILW9DYkZNME5oejlrY0N4U0c3ZHFtLXdfSEtTVjBRZ1p0RGVSc3l3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1584169417032-d34e8d805e8b?w=600&q=70",
+      "editoria": "empresas",
+      "data": "2026-10-24T12:15:37Z",
+      "dominio": "d24am.com",
+      "tema": "industria-generica"
+    },
     {
       "id": "mercado-livre_20824",
       "titulo": "CCEE determina desligamento da IBS e mantém decisões contra Electra e 2W",
@@ -63,6 +75,18 @@
       "editoria": "mercado-livre",
       "data": "2026-10-22T18:30:00Z",
       "dominio": "agenciainfra.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_82477",
+      "titulo": "Reforma Tributária leva ANEEL a propor adequações nos contratos do setor elétrico",
+      "lead": "Reforma Tributária leva ANEEL a propor adequações nos contratos do setor elétrico",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2RQZmhUX1RobjZFWm52b25WNWlUZTJQUUlFalpQUEp2RXdzQnRFQkxlZzFkcTdKTzkxVE9hMUljNWhSek15UkZXR1ppZ09jOEhBR1JQNTdxaFVFUHBLd05Pc2V0OU1Hc1c2bGFrbkdqY3VHcnBQQTVEcUhMd2c3UUFn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-22T17:01:35Z",
+      "dominio": "canalsolar.com.br",
       "tema": "precos-mercado"
     },
     {
@@ -231,6 +255,18 @@
       "tema": "hidreletrica-reservatorio"
     },
     {
+      "id": "regulacao_6007",
+      "titulo": "Despesa da CDE bancada pelo consumidor é estimada em R$ 47,8 bi após 'teto', aponta Aneel",
+      "lead": "Despesa da CDE bancada pelo consumidor é estimada em R$ 47,8 bi após 'teto', aponta Aneel",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0tVcEZtcmhySTEzREowUkM1RXZGRU1rcDQ2RC1fc2d0Nk1WRFNFbzkzV2twREltSWtTcnBWMTFWV0lHblZpZlRhS2V2TkxteEFJNHhpRlBkRWxyREVsLU1nSFVFa2ZjQ29kSDJGUW5rR2JJcEh5WG5jU19ISkVDb1hBX29IQlRXaG01cGE2VWNQSnRDNkJpUnF4RW5Va3JmRkRUYzNnZm9nWHhzOGdxSUc2OWNIUDBBaW90WTdzLWU?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-21T08:16:20Z",
+      "dominio": "eixos.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
       "id": "transicao_27492",
       "titulo": "Mercado de baterias depende de novas receitas além de leilões, defende WEG",
       "lead": "Mercado de baterias depende de novas receitas além de leilões, defende WEG",
@@ -385,7 +421,6 @@
       "data": "2026-10-19T20:15:07Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "Agência Gov",
         "MME"
       ],
       "tema": "regulacao-institucional"
@@ -497,6 +532,18 @@
       "data": "2026-10-17T06:11:15Z",
       "dominio": "www.ccee.org.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_2304",
+      "titulo": "Aneel publica resolução que mantém conteúdo local para produção de sistemas de baterias em 15%",
+      "lead": "Aneel publica resolução que mantém conteúdo local para produção de sistemas de baterias em 15%",
+      "fonte": "Broadcast | Financeiro",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEVGa2Jud0thdWFncEpLU21ITWRCMjJwbHFPa2NsS1JWd0h2MFJkVnRpQV83S1ZYMzA1c3ZBbWhvN2NaRDZ1RVdrVXNJTDE4QlFXRE9Hek5QWlJlelNIdUhhMnBZbTFKNDdXMWZrd2RYMFQxelc1Vzd1NXJPMWVpTnJXZzdSM0Y3Z0tjWHcwUG9DLS0zSC1GdlhkOG50d3ROOVhjdkhNWXpKMjRZbzc2QjF6SVB2SGJFcXZ6MkdWNGRRZzA5NnZV?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-16T22:41:00Z",
+      "dominio": "www.broadcast.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "mercado-livre_63554",
@@ -706,60 +753,6 @@
       "editoria": "transicao",
       "data": "2026-10-15T02:04:00Z",
       "dominio": "clickpetroleoegas.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_83173",
-      "titulo": "Curitiba apresenta 31 propostas à Aneel para enterrar fios elétricos",
-      "lead": "Curitiba apresenta 31 propostas à Aneel para enterrar fios elétricos",
-      "fonte": "Tribuna do Paraná",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVl9ZWEpwRllkRzhYeXhVRGhFeTlYUHg5REJxQ3Zyc0FDdWFhcDhKeG40dmdtQXh0YU1udFZDUGdMNDBYdXRvX3dXYlZxdi1DTno3UjZINlU2UFdTQU5zUTlKVEV3ZHg1ZWdBV01aWVhxSERVcGtkRWVjaUk0bjVvNDFZUmFGMUtHTE0yMm13OW8tampXVllXV05jNjBZRTNDcHNrY19LQXl0Z3JGWUJKRFo1Y0HSAboBQVVfeXFMTXZvZnhISTR4RnRWdzdDdjloenc0X042WVp4ZGlOQnBBRzU2WXliRWk0ZkY2STZoQjBCTDN2SmNoUXNJTzl3c18tbndEd25SNVQ3dGM2S2FMNDY5d3BNeGhXcldCMlRKYTN5VVpzMFAzeXlRNVVVb0tCMllIRjBoYUxiallsVzhEbGlhUG1taGM0QmdJLXVTZ2ZhN3h2YmotMFh2QmpKR0FJbDJEbTZUQ0p2c21LN1JIRTdB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-14T23:52:00Z",
-      "dominio": "www.tribunapr.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_2575",
-      "titulo": "Vitru Educação reduz em 40% os custos com energia elétrica nos campi através da migração para o mercado livre",
-      "lead": "Vitru Educação reduz em 40% os custos com energia elétrica nos campi através da migração para o mercado livre",
-      "fonte": "Gazeta da Semana",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGlTc3NndUVPRG5WUUN6X3VRSHVWOWVMQlJXU2VHZVhpNVJjRmxSMFRFQUR5c1hTWDU2VHJSSlNWNHEtOVBWX3ZHcDNIZjYyYVlxa05TVERQeXVEdGg1dEFYNzd5SFNhMUxuWEJPRXcxdnBxaUdEQUdmUzd0OTR6cmVrdjh0LWlhSWYzY2VCRlBYcEp2NVo4TkFFUWFqTFZTZXg1cHNLdE1lZ1Nab3JMV0c0ZWtYaWRvZnNhU3dzTTlhYkFkTXNRU3BNUk1wSjBWejZpLW5vYXY3dWFabDRJMkZNYjYzVm5P?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-14T23:50:16Z",
-      "dominio": "gazetadasemana.com.br",
-      "tambem_em": [
-        "Portal Revista Kdea 360"
-      ],
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_55859",
-      "titulo": "CCEE, ONS e EPE promovem workshop sobre processos de previsão de carga",
-      "lead": "CCEE, ONS e EPE promovem workshop sobre processos de previsão de carga",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGdMMnRITGplR2haek1QZ1ZaRkRJWENmSjlLWVBUTHhEZjhIdDNxdk1DMDREV0Vscm9YSmJZbWhTeUlBUzhhRUJ0dGl0WElwQ1RoRHBRaU1PRy1QQUYtM082d2hWLW5qZzhUN0JfNHVvellkMnk1dUFmTjh6UUFpUVcxVlJPdVh6TWlINF9fTGRIZERGaGlqczJMdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-14T21:30:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_38274",
-      "titulo": "ANEEL promove Workshop sobre procedimentos para inscrição e habilitação nos primeiros leilões de bateria do setor elétrico",
-      "lead": "ANEEL promove Workshop sobre procedimentos para inscrição e habilitação nos primeiros leilões de bateria do setor elétrico Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcEg0STcxOTdDeXNObFYtVnhyenVJM1Vub29nYVkyMHRhRTBJbWtkS2RtQkJGa2dUaDJkcnJSTDJOaEZjUng2dkhtaGE4RF9nWU01N1c0Y18wejdPUzdHcGp4ZG05RzlFMnNHN3drYWdNQldVeG9pMnc1aVpVMWhLTGV4OUJpQS05TWVfZENjOWFLLW9zWGxsUjhhUDkzQ2pBdFVOUldvdVNsZV8wN05xUUN3RkN3NTUyRHJSMGljOXp6T01EOXdwRHM4R3hlRzQ4TUFva1AzdFIwc25uNndpd09sTlFBRHpYVWdyNXVGSGRlRnRqYklqSlUtRlZiamV0VDdldW9qQWZmZ21ZcjQwWWpWQWdvZ3I2SzBYUnVn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-14T20:06:44Z",
-      "dominio": "www.gov.br",
       "tema": "baterias-armazenamento"
     }
   ]

@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-24T21:42:43Z",
+  "updated": "2026-10-25T15:11:24Z",
   "total": 60,
   "itens": [
+    {
+      "id": "dado-2026-10-25",
+      "titulo": "Reservatórios do SIN em 58,3% e PLD estável a R$ 57,31 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 58,3% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "fonte": "Megagrid Dados",
+      "url": "https://megagrid.com.br/#precos",
+      "imagem": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-25T15:11:24Z",
+      "tema": "hidreletrica-reservatorio"
+    },
     {
       "id": "empresas_53135",
       "titulo": "Distribuidoras de energia devem ratificar demandas para leilões até o fim de outubro",
@@ -15,12 +26,36 @@
       "tema": "industria-generica"
     },
     {
+      "id": "transicao_25178",
+      "titulo": "Baterias podem reduzir em até 50% os cortes de geração e já começam a impactar o cálculo do curtailment",
+      "lead": "Baterias podem reduzir em até 50% os cortes de geração e já começam a impactar o cálculo do curtailment",
+      "fonte": "Portal Revista Kdea 360",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTl9RdnA0a1BoWVVRWUNVYWYzVEpNN3ZkS0pNM3gybXdGS1RFMGV3Wkxrd3pZb1VBU2N3dVhyTzZoVjZMQ0V6UHRvVlNCdFBLSkVxWC1tQWU1cE52WnFUUzYxb3EyeHk3SzUwX2tCSjY5QUt6cjY0U3pnQzRpRjBlYkwtY2NkZUlGYTZpT0NLMnhFU1dFYWxwaGMweWl3QmNSS2tXX2hwRzNTRmFWbzFRU1RMM3EyR0xDTHh5NkFoQlJzeWFPYVcyQldIc3dTVFBuMS0tYWJVbTJNWkJJRVFTeWF1dmY?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-23T21:31:11Z",
+      "dominio": "revistakdea360.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_71115",
+      "titulo": "TCU estabelece prazo para decisão sobre continuidade de Angra 3",
+      "lead": "TCU estabelece prazo para decisão sobre continuidade de Angra 3",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmw5cTU2Ry1nZm9WS2xWTzFWN1dtRXZjc3RadWNlWUxHMlpOY09zVnN6SHdkb2ZtaDRJMUdrWVhZNUxsQV9WYTRrekFITVJpN2VjSHh5Zk8taUN1dlBWaWZSTUJEVk5fS25rREgxSll2Nm50ek1janNqZUliWmtJVEEyWTdIYTM5RXM4a2hXUVk1ZzdaOU5wNmN1MmptRm0yM1lRNHZpZWJRU2N3dmk3N2hB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-23T14:16:03Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
+    },
+    {
       "id": "mercado-livre_20824",
       "titulo": "CCEE determina desligamento da IBS e mantém decisões contra Electra e 2W",
       "lead": "CCEE determina desligamento da IBS e mantém decisões contra Electra e 2W",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmQ5c2ptNUw5ZjlxaHJSU19pM2JVc1k3eUR5Qnh6b1puczNNVjJnQ292SkpzM3M3UU5xYlZiTjRFNEp4SllzMHRqNC1HME5qa1NlZ0toZXBObEwwLUFUYTBtZHNlNVJ4d2s2eGpJNHVTOHpiWFlqcmc1dUJWTlFhQ0hJSFAxOU81MUlVZEIzTllTbmQtVWtOU2NUaEZJWXFmcU9aRFVTdkVzdU43SV9JdmpIZTV2M29hRk1ucE5EczlaRUNKWjVOLVhR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-23T10:30:00Z",
       "dominio": "megawhat.uol.com.br",
@@ -421,6 +456,7 @@
       "data": "2026-10-19T20:15:07Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
+        "Agência Gov",
         "MME"
       ],
       "tema": "regulacao-institucional"
@@ -718,42 +754,6 @@
         "CNN Brasil"
       ],
       "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_26360",
-      "titulo": "Como duas vencedoras do maior leilão elétrico brasileiro estão assegurando o cronograma",
-      "lead": "Como duas vencedoras do maior leilão elétrico brasileiro estão assegurando o cronograma",
-      "fonte": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNFZGRnVtM2FmLWFlcS1WN3dQNW9LcE1lMmFPUVNQNXd2dnNCQmVscXBnRUNrNWV5T1FiZDlUYWd3OHo5eHNCTDBFd2lzMmtGSmY5cE1nNW1fZFlTXzI4M1VqaW05RGRLRnRwbGRHVVJrenk1ZWpnOHFiamdYT0hCSFZHRU5YSVdiVDl4ZEl2cmZmY2ZaUU5XSXFlYmZsaFIzRkgxaDIxMV9wWk1pQ3gtSmVmTTAwQXg0XzIyTEwzSzNNQ2c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-15T09:09:05Z",
-      "dominio": "www.bnamericas.com",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_70997",
-      "titulo": "O que é mercado livre de energia e por que mais empresas estão entrando nele?",
-      "lead": "O que é mercado livre de energia e por que mais empresas estão entrando nele?",
-      "fonte": "Insane Championship Wrestling",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGNlajdIZHU2Y0RSdGdlemlZYVNUUnl1TkNBRk5jTjM2SjlGY21NZVk2aHZEM1dhODg5dUREM2RBaW9XOGpkZk92a2FjczdOSmtEM2lsTGFCblNZYzFoVW5lamU2NFA2Rl84ZUVCa0NEanNzTEtDcEI3Y2lCaGJBVEIyWENrdnZIMjZYZkF1U1lfSG9Qd0ZrZ1U0Y3E4V3JkZHp5TTFyaFdyLWVENXlZdg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-15T07:00:00Z",
-      "dominio": "economiasc.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_27854",
-      "titulo": "Empresa brasileira fecha parceria com gigante chinesa que já instalou mais de 70 GWh em baterias e mira leilões de dezembro para disputar novo mercado de armazenamento de energia no Brasil",
-      "lead": "Empresa brasileira fecha parceria com gigante chinesa que já instalou mais de 70 GWh em baterias e mira leilões de dezembro para disputar novo mercado de armazenamento de energia no Brasil",
-      "fonte": "CPG Click Petróleo e Gás",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbmFSeF9WVXdPUHJaeWJVSTg3RGZNbXJiR0U1UmQ1dl9QUUV0Nl9XcldnZjdzZ25pY3p5VzV5aE5WX1ZDS3gxWlYyeTJhRGFhUTJfbFRSREZPVE9yT2g3T1F2Z2NSeGJuY2RRamlVQ29WU2YxaFRGQkw3X0xxWG91OHNoYU9URFdiaHVjVjZrVGU4dDdkd1VlYjFsWW9OR0s1amJzdDAtc1VWSjNfWUN3R0VDdFRhSXlPajUwZmhzSkpTTU5WNmZjV3g1dkcyVklpWWVZek83Yk44alNLY1VueGhWTllsWW0xZmdxckFoT0prZ0R1LU5rcWZnbVBQamRnUDFHel9naS1kbkJYdWoxMlRBbEFaTWkxcXB3XzRGbDA2OGZNUXRZQld4YlBObDVHZ2VGaFN3Y0xKMkdxME9hb3gzc2lzSk0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-15T02:04:00Z",
-      "dominio": "clickpetroleoegas.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

@@ -1,14 +1,86 @@
 {
-  "updated": "2026-10-26T17:48:14Z",
+  "updated": "2026-10-26T23:13:22Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_19154",
+      "titulo": "Setor elétrico defende novas regras para baterias e aponta economia de R$ 1,6 bilhão por ano",
+      "lead": "Setor elétrico defende novas regras para baterias e aponta economia de R$ 1,6 bilhão por ano",
+      "fonte": "Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVRhV3F6MWduc0RqbklNYWRpTmN2QTFxeUFQMEozUTl4ZU1CcDRsTjlNZktKRWZBbzdIU2RHSjA4NlBWZS0wTmd5cGhTT1ZnbkNZWEVabDFDVG56XzFtY0gwMjh6UmhmVjZHLXhpTU5EeXFseXFjUVdwZEVqclNsV0xOQ29BMTlqU2FheXRKbkM4cEZaQzAxR25XSXZKUjFaNlA2RFptd0VTNG5EXzQ2eThZSjN2aFQ4UXBWRnBfRFhja00?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-26T21:01:00Z",
+      "dominio": "timesbrasil.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_71855",
+      "titulo": "Entidades do setor elétrico endossam que o custo com bateria deve ser dividido entre os agentes",
+      "lead": "Entidades do setor elétrico endossam que o custo com bateria deve ser dividido entre os agentes",
+      "fonte": "UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY051eFRmOWp0aU1WZ1ZlOGg2a05lVWVlc1M3R0RTakhueS1xS1FXNVRjMEZOYllzZ2tRc1VpWHhlVXk4VjlMclZkWU9oTVMtMWg3djVaV0ZaZGFDN2ZJNzloS0FsajdTWDE4ZzYtZ202SUlhaWJkQU9RNVlhbzVWVC1vVThHUkxYSng3SS1OM0hCSmtGZlBsalpNSTNZNDZQVUdCZ0hfYy1oUkFEQ1BkdTZBbEItRVVsSWJ2QnF1OW9jRUptaWRQdVl0UXBuWGhELUhzR2RpdmtxY2YtVXAwajA0d0JfOXNUQWlGN2k0Y1dYQkluTmFJ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-26T20:29:00Z",
+      "dominio": "economia.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_91416",
+      "titulo": "Axia viabiliza ofertas agregadas no programa de resposta da demanda",
+      "lead": "Axia viabiliza ofertas agregadas no programa de resposta da demanda",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkZIb0k2OGp1NG44UXpzUm9PVE9KZHVORHV4ZnBZcllpbmlReXNmQ0tqSXBidVN4c1pxOXJwaGY2WW0zSkxPYWpNVkd4VkZDWi1yaS1BVVRqZXhVbXpxUFhONWQya1M5M25NR1FUZk9lamlDZHUzWUZXc05vaTV0ZjNxZ3d3ZXZSSURGQVBsX1RKVUdCSF9mNVRZamxQb0k?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-26T19:30:55Z",
+      "dominio": "agenciainfra.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_94479",
+      "titulo": "MME abre consulta sobre regras de comercialização, armazenamento e mercado livre de energia",
+      "lead": "MME abre consulta sobre regras de comercialização, armazenamento e mercado livre de energia",
+      "fonte": "CONEXÃO MT",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUENGTzVsU2Y0dFctUERleWRNWVVlNm1UN2F5YXJ0RjFKM0VkdVVWbDgzaHdOcVBLMUprOGZ2TjJKRWdtUHBIZ0tBMlF2V0RsSmVLbUl3S2FBcDBha3pXa21WYi0yY00zRG94ZGhIaUN4NXpJVlNJLUZMZzlTckdkS0oxaUZMbmJwdU50ZXZVZEtyc3dDbjZBLWJBcUxET3BiSllHbGJvY29zY0pVczd6eDRXM0owaUdaeXJkY2c1QQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-26T19:06:03Z",
+      "dominio": "conexaomt.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_24576",
+      "titulo": "MME abre prazo para envio das declarações de necessidade dos Leilões de Energia Existente A-1, A-2 e A-3",
+      "lead": "MME abre prazo para envio das declarações de necessidade dos Leilões de Energia Existente A-1, A-2 e A-3",
+      "fonte": "CONEXÃO MT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTN3YUhHVGNtaWpWSnd2TWxseWVvcl81RGJja083NnhRcW5jMlBsWW1Cdm5WLVkyZ2VfSk1uSUg2RE5zbVN0Y1FDMVE4Q0tJbm8ycnI3R1JYYjI0NF9fVVFzb3JHbHhfTzVNS1lJWnl3Unh0NkZydDNQMzhaZzJnV0tIcUxlT3hZRXZTVnpka1RIeDhmRDR2cVZ2aHlFRF9HWnBBM3FxZFN0TFRlOU5aQVZlaGs5MTl1M3AwZEQtR2xwOEZsUUZmUGZwdTlnUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-26T18:36:49Z",
+      "dominio": "conexaomt.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_20763",
+      "titulo": "Brasileiros desperdiçam energia limpa e ABSOLAR cobra soluções do novo governo",
+      "lead": "Brasileiros desperdiçam energia limpa e ABSOLAR cobra soluções do novo governo",
+      "fonte": "bra1.com.br",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUZDZGZaOGtzOHROazZlV1AzYUlPOU9pNFEzMUtGaWgwUWxYZFZHT1AwVV9GOEFvX29DNFYyZGdORjBQUWJiSkR1MTE0VTJWUEt1V296QllwcGtxY0tSNFN0VHlLRjFMOFUyb2M3Z2J6MXhodzlNNUgwVGtWVlMxY0RKTjRoZi1MSmNZTHB6eVNGSVdWOXlLZWNyS1NsTXR2UXI1c042MjRGb19YUDJZZ3RpZXM0R2dXN0ltelF3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-26T17:53:00Z",
+      "dominio": "www.bra1.com.br",
+      "tema": "solar"
+    },
     {
       "id": "regulacao_1175",
       "titulo": "ANEEL discute o futuro do setor elétrico brasileiro no ENASE",
       "lead": "ANEEL discute o futuro do setor elétrico brasileiro no ENASE Governo Federal",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDFpLXlid01zZHpVMjg3NW1JOTBrMFVNcWRvalIxS0w2ZlVpaWlmUXd2VkxSSW9aX29HTjRpWHRUM0dDQjk4NndzWjRscnpydkQwUzVwQ0VIZnI4VXJEV25jMGJhTl9Mc0tVOUFQMlRXbFE0OGpIR1dwd3VZclpzcHFXczVNX3MtS2lmSUJHVGxHX2phcWZrcW9Wd1FrLTcxVEFZc25wcGJvdEFoenhrYjM5TEk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-26T11:17:00Z",
       "dominio": "www.gov.br",
@@ -20,7 +92,7 @@
       "lead": "ANEEL acompanha fornecimento de energia durante as Eleições 2026 Governo Federal",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTBEYlNmQXU5cVpjS3dGdjR1bkMyNmtWdDBLY3ZkZ1F5WEFCenVWME1JV0lTV3R4WW55U254dEt3VVVuWUJRMEFlMnNlYkxYaVBQTFhhQ0dNZXFMV0p1ZWNLZWVDTWlaajRfSXhwVnZTZWdiWXJteGY4SUUxYWhoVHV6bEUybWVaMktPcTNFcGh1eF9qNnNFT0xfLTh0Sjdydl9SM1dvc2lfUnpEamhvYkN1cjdVUlpoRmx1aTVOeFoyaWhxMXdkVm5DVEs3cW1Z?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-26T07:52:00Z",
       "dominio": "www.gov.br",
@@ -66,12 +138,24 @@
       "tema": "precos-mercado"
     },
     {
+      "id": "mercado-livre_80819",
+      "titulo": "CCEE amplia uso de inteligência artificial para aprimorar processos e entregas",
+      "lead": "CCEE amplia uso de inteligência artificial para aprimorar processos e entregas",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVRzTGpCVkQ5Snd1bnVXaTN4d0NUWXFFZzdXVUNlOV80REg3VmViUTgtX0N0RjRHalR0MDljRDlBaUpGblRTZHVYUjkycnZvMVFHMnVsLTg5ajJDLTd2R0U4Ny1CTUxKSTlySnBtOUsyVy1NYU5sZzNFWGxLVUg2c3VEVkNHZ0hnTm02eFdkUGtKdEstVFZsM3JnX2ZFZDhkSVdQQXZoYw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-23T11:52:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_20824",
       "titulo": "CCEE determina desligamento da IBS e mantém decisões contra Electra e 2W",
       "lead": "CCEE determina desligamento da IBS e mantém decisões contra Electra e 2W",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmQ5c2ptNUw5ZjlxaHJSU19pM2JVc1k3eUR5Qnh6b1puczNNVjJnQ292SkpzM3M3UU5xYlZiTjRFNEp4SllzMHRqNC1HME5qa1NlZ0toZXBObEwwLUFUYTBtZHNlNVJ4d2s2eGpJNHVTOHpiWFlqcmc1dUJWTlFhQ0hJSFAxOU81MUlVZEIzTllTbmQtVWtOU2NUaEZJWXFmcU9aRFVTdkVzdU43SV9JdmpIZTV2M29hRk1ucE5EczlaRUNKWjVOLVhR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-23T10:30:00Z",
       "dominio": "megawhat.uol.com.br",
@@ -664,96 +748,6 @@
       "editoria": "transicao",
       "data": "2026-10-16T02:20:00Z",
       "dominio": "clickpetroleoegas.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_2032",
-      "titulo": "PLD vai de R$ 57,31 a R$ 1,4 mil/MWh nesta quinta",
-      "lead": "PLD vai de R$ 57,31 a R$ 1,4 mil/MWh nesta quinta",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUZ0NjFLSk92bUdNXzNnZmtJdEpGQU5CdkJ1MlNHQ3NZMHlzaWlLbEN0VGNua0RhZzJBWGxhQzZQOGo3ai0yMGdoLUZLRmhNZVFUNl8xZ1A0ZGpOemxKcHUyRzZGX2JmMVdRaUhCUEljTWZ5ZU0ya2V0SUNDSmp6R05n?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-15T21:56:15Z",
-      "dominio": "agenciainfra.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_11460",
-      "titulo": "CCEE, ONS e EPE avançam no desenvolvimento de Novo Modelo computacional em código aberto",
-      "lead": "CCEE, ONS e EPE avançam no desenvolvimento de Novo Modelo computacional em código aberto",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2N2QUNsdkRGSU9OTFk5V2N4aDR4Yk0weUw1YVNJRjZSWFFiYkZWbEx5QVpjcjBGckd4bGRPWEZ1ODBUUGJaQ1lNRGhGREhKcDNmTlJBdHVRTGFvYUJWbmFsX3ZkYUZNZ2JwQ3lWZHFlV0tYNVpKaldYSEs5NzlsYkhDMlVITzFTcHhpcWJwSjBBZVJWcnVuYjZiTms4M3ZUWEtNU0dmdXE5VGd6OW15c09sUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-15T18:58:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_25771",
-      "titulo": "Bandeira verde reduz custo da conta de energia em outubro; Neoenergia orienta sobre consumo consciente",
-      "lead": "Bandeira verde reduz custo da conta de energia em outubro; Neoenergia orienta sobre consumo consciente",
-      "fonte": "Blog Nossa Voz",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05YWxNNkhPM0tzdjF1SW9EaXc0NmNZQlo0TXJBblRyMjBka1VnZTEtbXExa3c4dXBzcWMwdU1WRTluazAyOGJkc1NlVVhnUzhmbDhwQg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-15T17:51:53Z",
-      "dominio": "www.blognossavoz.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_27966",
-      "titulo": "Com calor, preço da energia dispara 2.408% no fim da tarde desta quinta-feira",
-      "lead": "Com calor, preço da energia dispara 2.408% no fim da tarde desta quinta-feira",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEo1LV9TQkJiaVM1Y0RjQmsxbmdBSTRLRFp3NlkwenlCRVRkWXM4YkhmNUFJMFM5cnFERmhCY2l6cTgtU1dSdVFZVldRM2ZLdldMdDM1ZmlSWEYxdk5waENEazFaSFh2TGVMRDhpbDM2RkQyYjNYcUJpT1UxazlKYUlYNXJtdmZ6d25OTTlSRG8xaUZIQm4tTjNseDZjaU9xZEFkWHFja1BaVEg2MFcwM081M1hxWWJEZ1E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-15T17:23:26Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_54202",
-      "titulo": "BESS + Solar: a bateria não é apenas mais um equipamento",
-      "lead": "BESS + Solar: a bateria não é apenas mais um equipamento",
-      "fonte": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1NwbXJ6dDk0Z3lkMEk4aFVJQ0pBSl9pVE51a2wyVEpGVzRWR3MycTRyWVZnajlTb1ROTUtWak4wWHFDRmhVYWVKV2x2M2w3bU1DMlJRZXNjanlNNENnS0REcDVvZnZMMHpuV3lqeUZJdmEwV0djU0ZnTXZ2ZjM3UkVBWVZBYmRwaWNkNS1kcFhpVldhQVNYRXpsXzFaTmZvRnhQNHNPWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-15T17:20:29Z",
-      "dominio": "www.portalsolar.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_97312",
-      "titulo": "AGRESE E ANEEL REFORÇAM PARCERIA PARA AMPLIAR FISCALIZAÇÃO DOS SERVIÇOS DE ENERGIA ELÉTRICA EM SERGIPE",
-      "lead": "AGRESE E ANEEL REFORÇAM PARCERIA PARA AMPLIAR FISCALIZAÇÃO DOS SERVIÇOS DE ENERGIA ELÉTRICA EM SERGIPE",
-      "fonte": "FaxAju",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1FzczAtaGFNdi0tSGlUd01RY2hTUF9uT1lzeXFHNnl4Z1VIRnZrZU5qdHlGdGtIemtYUzdGR2dyYzdmc3NmeUdZTW51UEptQWxXaGNRM0ZRS3NTbC1tX1didGdGQWlIT0c4LUxUVG5sTUhhNmVRTllYU0VOb1dYYmJoOU5Ed3pBVHIxSE44MnhpM0lRM2sxc1VxSWdhamVndGl3ODNoWVYwNXNSSlRwdHBZUXkwd1FxNTVQRXNFMk1rUGVhcG1SRQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-15T12:48:00Z",
-      "dominio": "www.faxaju.com.br",
-      "tema": "regulacao-institucional",
-      "tambem_em": [
-        "REDE BRASIL DE TELEVISÃO"
-      ]
-    },
-    {
-      "id": "regulacao_19876",
-      "titulo": "ANEEL confirma que edital do leilão de baterias deve ser analisado em 27 de outubro, com publicação prevista para dia 29",
-      "lead": "ANEEL confirma que edital do leilão de baterias deve ser analisado em 27 de outubro, com publicação prevista para dia 29",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VbTB4Rm85R0ROSGg3djY2d0stTnhoSTVDcUxNSzFXSXJTWDJzSnlsdmpYZGpmWWZxaU5rN0thQ09oQ01aQ20wcFRfUUdlSFFvQ3lPMXNWeEpNZDBxZy1ISzdUclNwTmQyU3MyYUt6clRRb0I5Z0JjLUsxMU0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-15T11:46:31Z",
-      "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
     }
   ]

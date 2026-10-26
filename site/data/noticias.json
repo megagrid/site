@@ -1,17 +1,30 @@
 {
-  "updated": "2026-10-25T21:57:55Z",
+  "updated": "2026-10-26T17:48:14Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-10-25",
-      "titulo": "Reservatórios do SIN em 58,3% e PLD estável a R$ 57,31 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 58,3% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
-      "fonte": "Megagrid Dados",
-      "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-25T21:57:55Z",
-      "tema": "hidreletrica-reservatorio"
+      "id": "regulacao_1175",
+      "titulo": "ANEEL discute o futuro do setor elétrico brasileiro no ENASE",
+      "lead": "ANEEL discute o futuro do setor elétrico brasileiro no ENASE Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDFpLXlid01zZHpVMjg3NW1JOTBrMFVNcWRvalIxS0w2ZlVpaWlmUXd2VkxSSW9aX29HTjRpWHRUM0dDQjk4NndzWjRscnpydkQwUzVwQ0VIZnI4VXJEV25jMGJhTl9Mc0tVOUFQMlRXbFE0OGpIR1dwd3VZclpzcHFXczVNX3MtS2lmSUJHVGxHX2phcWZrcW9Wd1FrLTcxVEFZc25wcGJvdEFoenhrYjM5TEk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-26T11:17:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_55035",
+      "titulo": "ANEEL acompanha fornecimento de energia durante as Eleições 2026",
+      "lead": "ANEEL acompanha fornecimento de energia durante as Eleições 2026 Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTBEYlNmQXU5cVpjS3dGdjR1bkMyNmtWdDBLY3ZkZ1F5WEFCenVWME1JV0lTV3R4WW55U254dEt3VVVuWUJRMEFlMnNlYkxYaVBQTFhhQ0dNZXFMV0p1ZWNLZWVDTWlaajRfSXhwVnZTZWdiWXJteGY4SUUxYWhoVHV6bEUybWVaMktPcTNFcGh1eF9qNnNFT0xfLTh0Sjdydl9SM1dvc2lfUnpEamhvYkN1cjdVUlpoRmx1aTVOeFoyaWhxMXdkVm5DVEs3cW1Z?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-26T07:52:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "empresas_53135",
@@ -19,22 +32,25 @@
       "lead": "Distribuidoras de energia devem ratificar demandas para leilões até o fim de outubro",
       "fonte": "D24AM",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjF4U19RdzRaVjB3ay1nOW8zU0dRTXFYbzM4WUhSa1JsakMwNnRUUDJNUDdqUWpIdmFVNk9icjQtUlk3ejh1UW5EU1NSNk9iMkJ2YjRNWDV0YnpkTlFfMWdxQUI4S1FZd3ZtTjZCSUo0TDQwQkRZcnA4bWJOdDFHLTNHSkJmdnNjZUVILW9DYkZNME5oejlrY0N4U0c3ZHFtLXdfSEtTVjBRZ1p0RGVSc3l3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1584169417032-d34e8d805e8b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=600&q=70",
       "editoria": "empresas",
       "data": "2026-10-24T12:15:37Z",
       "dominio": "d24am.com",
       "tema": "industria-generica"
     },
     {
-      "id": "transicao_25178",
+      "id": "transicao_30002",
       "titulo": "Baterias podem reduzir em até 50% os cortes de geração e já começam a impactar o cálculo do curtailment",
       "lead": "Baterias podem reduzir em até 50% os cortes de geração e já começam a impactar o cálculo do curtailment",
-      "fonte": "Portal Revista Kdea 360",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTl9RdnA0a1BoWVVRWUNVYWYzVEpNN3ZkS0pNM3gybXdGS1RFMGV3Wkxrd3pZb1VBU2N3dVhyTzZoVjZMQ0V6UHRvVlNCdFBLSkVxWC1tQWU1cE52WnFUUzYxb3EyeHk3SzUwX2tCSjY5QUt6cjY0U3pnQzRpRjBlYkwtY2NkZUlGYTZpT0NLMnhFU1dFYWxwaGMweWl3QmNSS2tXX2hwRzNTRmFWbzFRU1RMM3EyR0xDTHh5NkFoQlJzeWFPYVcyQldIc3dTVFBuMS0tYWJVbTJNWkJJRVFTeWF1dmY?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "fonte": "Gazeta da Semana",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORzFtaUhKYjZPTEpHR1BwcWJxSUh4ZmpKZ3ZOdzZBNHRTdUphdTBkY204dEl3NkJzYlZnaXV4Yk1KQnVrX3FlX2ZYVjVVQ0JJTW9pcmFESTJCV0dUSGZKakNpQnh5OGJENWFkdlhycGQ0X1VIbUZTUHdNOWZfdzR4VDhkWWJLOFhZWVdxX3VhcFZIU1FRTC1vSW9QblBpM2ZBa1FUWlBGQjQ0Rzh2STZhb2s5LURSeXRiWlNGY01GLWo5Tm1PMFBqNmIxbngwU2dSc1NSNXhLSmc3eUxZcGRfaWpGdEFsQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-23T21:31:11Z",
-      "dominio": "revistakdea360.com.br",
+      "dominio": "gazetadasemana.com.br",
+      "tambem_em": [
+        "Portal Revista Kdea 360"
+      ],
       "tema": "baterias-armazenamento"
     },
     {
@@ -79,7 +95,7 @@
       "lead": "RN tem nove projetos de baterias para reduzir cortes de energia",
       "fonte": "Agora RN",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGFEaEZrMUZkVWIyRlg2eWVfVGlRYXppYVZra1ZKeXdRWUdQM1lGN1FUQ1lLZWIyNVBLbFdENktMbWQ2dXpyaEhodThmWGdfaUJXQmNzNnlXdmhJdmRCUTRHbkh6RmNHcWl6TWRjMUs2eGlCemh3Y3EtSkR3UHE4N2pHNjJrcGNSMmNsaWhSMl9SaHE3d3poYzJKcEc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-23T03:30:06Z",
       "dominio": "agorarn.com.br",
@@ -130,7 +146,7 @@
       "lead": "Por que os primeiros leilões de baterias do Brasil correm risco de adiamento?",
       "fonte": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDBDNE9NemVNQmRSTGdFQ1hXTloyM1lKQmg3d3NtUGI4eU9fNnMyZzI3R3N1VUlpSGVxME83UmJNSnM0Mlo4dGtzZzBIZm5CcDE4WVJxMkQtdEZTakxtZUphN2ZNTWhEQW04RGtfZ05La0k4dy1ib1NCOFdjVnNSMUJ6OFFYWVR2SndZRGZRQ3h4NFR3Y0lBUnkzVkFpbmV5QUpQQ1hkbHdrQjZVTHZYMjhicWM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-22T15:21:38Z",
       "dominio": "www.bnamericas.com",
@@ -739,21 +755,6 @@
       "data": "2026-10-15T11:46:31Z",
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_48302",
-      "titulo": "Não há abertura do mercado livre de energia sem segurança",
-      "lead": "Não há abertura do mercado livre de energia sem segurança",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObHNfNl9wY0RmZGFkRVcyQ09nR1lQZmlHdzhOVWJfaW5GMUdJWGRqVmRqT1VZZVZWZWsxWnp4dDBvNFZ3WGwyNkc4TF9oNFFFRENBVG5ZMnZsZjVvRWotMkM3NzEyZ29QeTBEcmRTcDRkT09ETmlaQ2RWMThWME84Ry02TkVaX3lMZ3ZhT3pBWWpUYklDemJUMnF1WWI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-15T11:00:39Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tambem_em": [
-        "CNN Brasil"
-      ],
-      "tema": "precos-mercado"
     }
   ]
 }

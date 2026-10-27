@@ -1,18 +1,84 @@
 {
-  "updated": "2026-10-26T23:13:22Z",
+  "updated": "2026-10-27T16:59:08Z",
   "total": 60,
   "itens": [
     {
-      "id": "transicao_19154",
+      "id": "politica-energetica_3403",
+      "titulo": "MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029",
+      "lead": "MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029",
+      "fonte": "InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb3U2aExINWZVYXp2UUxxQmlqU1VZR3F2UUxoSWR4VmJ1TjZ5SVdYNHY3YjRkRGR1dEZqbk5DWDA5ZkFtaUVDOVhwcDAwa3RXUHhFYTlHUkxrVHpUY2JKWC1xN2IyX244YXJEcGhvdC1CdnFRVnl4OFNtNUlHZGVSbHFzcUFVaGk0SlpIM3BpVlV4TU56cWJsYVpXNTR4QzkzYkNlQlVmTXVpeDhUdk9uWE45REhNSGhmdm9OdtIBwgFBVV95cUxOTXRMd3pUaFdyemxxVHBCRzVrNVl3N0dhWXpWNTFDR0U0blJrbHlfb040OWhYVU5yenVMcG1QUDBIYmp1NlhNMWc3X29acEJJWnhsOXFJd0txZHNMWHpZZ1NQX3lHUGRXLU1VaG5KWmVkRm1PMDNaSGJEQmZPS2hNUi12d2dKYmRIUUd5UFRXdm42cGtlWnNOQThkNzRXQ2lxaDczQzQ4Ymd4QUFoT2xPOW9McU5SUTRWOW9GaEtPMVVrZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-27T16:36:16Z",
+      "dominio": "www.infomoney.com.br",
+      "tambem_em": [
+        "MME"
+      ],
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "mercado-livre_13185",
+      "titulo": "Neoenergia lança ação para empresas do Guarujá que buscam redução de custo da energia",
+      "lead": "Neoenergia lança ação para empresas do Guarujá que buscam redução de custo da energia",
+      "fonte": "Neoenergia",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR1R5YXdreXhmMEthZlNHMkh2QmFYdXhFaFdjcDc1MnNQTlg5MTBadUVMbGk2b2F4WjFUX1RRNlVua2laX1JvNzNVbTJIMjh1cHpIQ2hGX2tCMWVPcjFCV1h2eWZmcFRDVlJHQUJUeWp2U1g2WmM1MU5EbUVlbDRPcnNmemJYSzU4LUtBd1JiZjBTam5BQTZUajhGWjlGY2VRZV9PSjRUVnBQa1pWLTRMZDhJcHB5ZlZWSDktaXBVYnVfWmZ0WExxSk1hZEg4dEpEUTE3Q1Uyclhzcm43?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-27T14:44:35Z",
+      "dominio": "www.neoenergia.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_63342",
+      "titulo": "Governo planeja 7 leilões de transmissão para ciclo 27-29",
+      "lead": "Governo planeja 7 leilões de transmissão para ciclo 27-29",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3lkZ0x6d3ZDTkZsTzFJLVBjYmJ2TEg4azQ3eC1Gd0NPb0VHWXMyQzgyNllkWWR4ZktZUXRoWTdCcUtrd3N3Mm93Q2RVOG5xajN2MEhqS0F0RklrQURZOGdiLXBjaEczcEw0X1hhWElWdjFkcjh0RFc4cVZQYTAtdl9keGJDeFVoTFNsN2VyZWxmTm4zQloxY3FMRVhWUzA4TzRZVA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-27T13:27:28Z",
+      "dominio": "www.poder360.com.br",
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "tarifas_18619",
+      "titulo": "Bandeira verde mantém conta de luz sem cobrança extra em outubro",
+      "lead": "Bandeira verde mantém conta de luz sem cobrança extra em outubro",
+      "fonte": "O Alagoano",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTNCVmlnT3BtbjRnaldKNk9Qd1BIZDNVZktNTE45Uzk4VDM2LTFOZHk1SW9jNE54SkI5ajFEWWJpenNQVHcyOWVDVVVDODdYSmRaNDdoLTBhY2xLYTVTWXVUQlZaMWNVMjFmNnA4Q20wNm9TVFUySTV1bFgzZXBmdUNFUHRvRmM0RWt3T0JRZmI3T0J0NlVlSm41ckRrZWhvR2UtbkRBaUoySkRValZnYWI1ejJaUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-27T11:24:00Z",
+      "dominio": "oalagoano.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_17465",
       "titulo": "Setor elétrico defende novas regras para baterias e aponta economia de R$ 1,6 bilhão por ano",
       "lead": "Setor elétrico defende novas regras para baterias e aponta economia de R$ 1,6 bilhão por ano",
       "fonte": "Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVRhV3F6MWduc0RqbklNYWRpTmN2QTFxeUFQMEozUTl4ZU1CcDRsTjlNZktKRWZBbzdIU2RHSjA4NlBWZS0wTmd5cGhTT1ZnbkNZWEVabDFDVG56XzFtY0gwMjh6UmhmVjZHLXhpTU5EeXFseXFjUVdwZEVqclNsV0xOQ29BMTlqU2FheXRKbkM4cEZaQzAxR25XSXZKUjFaNlA2RFptd0VTNG5EXzQ2eThZSjN2aFQ4UXBWRnBfRFhja00?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjA3akxwSmpLQTF0MmhNdnlIWThPZkFsV3p0Rm1zSC1kVFd6bnMyRFRZRWJaa0VwaDdGcWhRdmJnSHZKM1VWWEg2cVd0WHZjS0xHeG9wSkFTNEpwdGE5OGZnMG1WZG10ZjJId3J2SlF5WGxuSmFvd3BJVS1BV3lxZmRWMHBxTGVncUp1OWVHRlpydllRc09iak9sSTdkRmVFVjdLUHEyWmZUV2dBSkMxcVNsWW9XMllabnk5UW1oaktkdUdVbXFzZ3pwcmk4THN6WlBwQVh0SGc1NHRCTDJJ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-26T21:01:00Z",
       "dominio": "timesbrasil.com.br",
+      "tambem_em": [
+        "Times Brasil | CNBC"
+      ],
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_71677",
+      "titulo": "MME estabelece novas diretrizes para exportação de energia elétrica do Brasil para Argentina e Uruguai",
+      "lead": "MME estabelece novas diretrizes para exportação de energia elétrica do Brasil para Argentina e Uruguai www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNc05tcVEyX0ZwYkRrNGdxTzl0bVZhYnZjdDE2YjNiUktBR0VyY3FVbjZmcWNoZE1aRHVmSjlZS1ZPYk1xRHpuR3JPbkZUaUVfUnFLRm9zMnpLckRpZk9rZUVlVkNlY0lZOU4xd3JoT21LbWs3QUZWaFBCMElhNUljZWRaOVV0YWYyYzFSSDNlXzRGZHZRcE90RGd6eklIRVF2NjBTNHk2Um91cXl0am5QNmg4UXhwREoxUDV4cFBUNjZDd1pQSWw4ZjlnWkVvRDhBQzJOMFVEM1M5UmFJY2xMQTRCV0NMZS10RTl0QzB5XzI?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-26T20:51:34Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_71855",
@@ -20,11 +86,23 @@
       "lead": "Entidades do setor elétrico endossam que o custo com bateria deve ser dividido entre os agentes",
       "fonte": "UOL Economia",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY051eFRmOWp0aU1WZ1ZlOGg2a05lVWVlc1M3R0RTakhueS1xS1FXNVRjMEZOYllzZ2tRc1VpWHhlVXk4VjlMclZkWU9oTVMtMWg3djVaV0ZaZGFDN2ZJNzloS0FsajdTWDE4ZzYtZ202SUlhaWJkQU9RNVlhbzVWVC1vVThHUkxYSng3SS1OM0hCSmtGZlBsalpNSTNZNDZQVUdCZ0hfYy1oUkFEQ1BkdTZBbEItRVVsSWJ2QnF1OW9jRUptaWRQdVl0UXBuWGhELUhzR2RpdmtxY2YtVXAwajA0d0JfOXNUQWlGN2k0Y1dYQkluTmFJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-26T20:29:00Z",
       "dominio": "economia.uol.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_27631",
+      "titulo": "NOTA DE ESCLARECIMENTO À IMPRENSA – MP 1232/2024",
+      "lead": "NOTA DE ESCLARECIMENTO À IMPRENSA – MP 1232/2024",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYll1ZDNEdlQyNkFvZ1kzMW93Z0NISl9TZFN5M3E0NS1QUzJySTVYcjZJdThFVldPTXRwdnNmcER4OGE3aWlmMGI4eG94TlRiUllqYkZmX1ZNbmkwZUg4N3l2UmJObHA2bG9EamVYT0E2NnFvRlYyNUJwaHgxbk1FbXExbGxMY0RYUVpkSjhWWEZqdHNYOVVvWWVWbkpQdWFyNEROWGo4WldvSHgt?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-26T19:48:04Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_91416",
@@ -32,7 +110,7 @@
       "lead": "Axia viabiliza ofertas agregadas no programa de resposta da demanda",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkZIb0k2OGp1NG44UXpzUm9PVE9KZHVORHV4ZnBZcllpbmlReXNmQ0tqSXBidVN4c1pxOXJwaGY2WW0zSkxPYWpNVkd4VkZDWi1yaS1BVVRqZXhVbXpxUFhONWQya1M5M25NR1FUZk9lamlDZHUzWUZXc05vaTV0ZjNxZ3d3ZXZSSURGQVBsX1RKVUdCSF9mNVRZamxQb0k?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-26T19:30:55Z",
       "dominio": "agenciainfra.com",
@@ -44,7 +122,7 @@
       "lead": "MME abre consulta sobre regras de comercialização, armazenamento e mercado livre de energia",
       "fonte": "CONEXÃO MT",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUENGTzVsU2Y0dFctUERleWRNWVVlNm1UN2F5YXJ0RjFKM0VkdVVWbDgzaHdOcVBLMUprOGZ2TjJKRWdtUHBIZ0tBMlF2V0RsSmVLbUl3S2FBcDBha3pXa21WYi0yY00zRG94ZGhIaUN4NXpJVlNJLUZMZzlTckdkS0oxaUZMbmJwdU50ZXZVZEtyc3dDbjZBLWJBcUxET3BiSllHbGJvY29zY0pVczd6eDRXM0owaUdaeXJkY2c1QQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-26T19:06:03Z",
       "dominio": "conexaomt.com",
@@ -60,7 +138,10 @@
       "editoria": "politica-energetica",
       "data": "2026-10-26T18:36:49Z",
       "dominio": "conexaomt.com",
-      "tema": "regulacao-institucional"
+      "tema": "regulacao-institucional",
+      "tambem_em": [
+        "CONEXÃO MT"
+      ]
     },
     {
       "id": "transicao_20763",
@@ -73,6 +154,30 @@
       "data": "2026-10-26T17:53:00Z",
       "dominio": "www.bra1.com.br",
       "tema": "solar"
+    },
+    {
+      "id": "regulacao_82974",
+      "titulo": "Leilão de transmissão nº 4/2026 de 2026 será realizado na próxima sexta-feira (30/10)",
+      "lead": "Leilão de transmissão nº 4/2026 de 2026 será realizado na próxima sexta-feira (30/10) Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRGJSbnVuaG5KeWVZQ1MwVnY3QlpEOEhBb0pkRU52QllKdDJscnJRYkR4MkY0cm1wV3hLNFdYVEdFbklrcWdPT0NTaF85dFl0UUR5bG1lX1FIVXZ2TFBJZTJ4OHppY1ItRGU5QWJIUUNzU0hjODdzaEFESWhtQmtXUDN4YzBZRTNYbW5NRnFXSjktekdsRGNDUXo2ejF4NWZCYmlWWHVhOE5KQW9NY002TmI3bVQyM0ZvcEc2cHhJUF9FNDBKZmI1SmJBSEFvQVJjOWo4?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509389807183-f0fbe962761a?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-26T13:05:00Z",
+      "dominio": "www.gov.br",
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "regulacao_61103",
+      "titulo": "Regras para leilões de baterias chegam a momento decisivo na ANEEL",
+      "lead": "Regras para leilões de baterias chegam a momento decisivo na ANEEL",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44SHhSV3NtLTRHcXJuVDdmeG9QMEVMMkZqTlNuVFJ1Xy1SeWpiOVBOMjRPbVhUcDdGUk5aVGpKYWQzLWtQYlJTWldnSnU2UExNT0NDUzh1azJ3NDl4RGVuZnJPSm9BbDM2X3BOSm9ISl8yU2VuX1N6bHpGTDZpZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-26T12:58:47Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "regulacao_1175",
@@ -111,17 +216,17 @@
       "tema": "industria-generica"
     },
     {
-      "id": "transicao_30002",
+      "id": "transicao_54721",
       "titulo": "Baterias podem reduzir em até 50% os cortes de geração e já começam a impactar o cálculo do curtailment",
       "lead": "Baterias podem reduzir em até 50% os cortes de geração e já começam a impactar o cálculo do curtailment",
-      "fonte": "Gazeta da Semana",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORzFtaUhKYjZPTEpHR1BwcWJxSUh4ZmpKZ3ZOdzZBNHRTdUphdTBkY204dEl3NkJzYlZnaXV4Yk1KQnVrX3FlX2ZYVjVVQ0JJTW9pcmFESTJCV0dUSGZKakNpQnh5OGJENWFkdlhycGQ0X1VIbUZTUHdNOWZfdzR4VDhkWWJLOFhZWVdxX3VhcFZIU1FRTC1vSW9QblBpM2ZBa1FUWlBGQjQ0Rzh2STZhb2s5LURSeXRiWlNGY01GLWo5Tm1PMFBqNmIxbngwU2dSc1NSNXhLSmc3eUxZcGRfaWpGdEFsQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "fonte": "Portal Revista Kdea 360",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTl9RdnA0a1BoWVVRWUNVYWYzVEpNN3ZkS0pNM3gybXdGS1RFMGV3Wkxrd3pZb1VBU2N3dVhyTzZoVjZMQ0V6UHRvVlNCdFBLSkVxWC1tQWU1cE52WnFUUzYxb3EyeHk3SzUwX2tCSjY5QUt6cjY0U3pnQzRpRjBlYkwtY2NkZUlGYTZpT0NLMnhFU1dFYWxwaGMweWl3QmNSS2tXX2hwRzNTRmFWbzFRU1RMM3EyR0xDTHh5NkFoQlJzeWFPYVcyQldIc3dTVFBuMS0tYWJVbTJNWkJJRVFTeWF1dmY?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-23T21:31:11Z",
-      "dominio": "gazetadasemana.com.br",
+      "dominio": "revistakdea360.com.br",
       "tambem_em": [
-        "Portal Revista Kdea 360"
+        "Gazeta da Semana"
       ],
       "tema": "baterias-armazenamento"
     },
@@ -179,7 +284,7 @@
       "lead": "RN tem nove projetos de baterias para reduzir cortes de energia",
       "fonte": "Agora RN",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGFEaEZrMUZkVWIyRlg2eWVfVGlRYXppYVZra1ZKeXdRWUdQM1lGN1FUQ1lLZWIyNVBLbFdENktMbWQ2dXpyaEhodThmWGdfaUJXQmNzNnlXdmhJdmRCUTRHbkh6RmNHcWl6TWRjMUs2eGlCemh3Y3EtSkR3UHE4N2pHNjJrcGNSMmNsaWhSMl9SaHE3d3poYzJKcEc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-23T03:30:06Z",
       "dominio": "agorarn.com.br",
@@ -230,7 +335,7 @@
       "lead": "Por que os primeiros leilões de baterias do Brasil correm risco de adiamento?",
       "fonte": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDBDNE9NemVNQmRSTGdFQ1hXTloyM1lKQmg3d3NtUGI4eU9fNnMyZzI3R3N1VUlpSGVxME83UmJNSnM0Mlo4dGtzZzBIZm5CcDE4WVJxMkQtdEZTakxtZUphN2ZNTWhEQW04RGtfZ05La0k4dy1ib1NCOFdjVnNSMUJ6OFFYWVR2SndZRGZRQ3h4NFR3Y0lBUnkzVkFpbmV5QUpQQ1hkbHdrQjZVTHZYMjhicWM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-22T15:21:38Z",
       "dominio": "www.bnamericas.com",
@@ -556,8 +661,7 @@
       "data": "2026-10-19T20:15:07Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "Agência Gov",
-        "MME"
+        "Agência Gov"
       ],
       "tema": "regulacao-institucional"
     },
@@ -644,111 +748,6 @@
       "data": "2026-10-18T17:55:00Z",
       "dominio": "www.campograndenews.com.br",
       "tema": "transmissao-rede"
-    },
-    {
-      "id": "transicao_13710",
-      "titulo": "Bateria integrada à usina solar: novo caminho para gestão de ativos renováveis",
-      "lead": "Bateria integrada à usina solar: novo caminho para gestão de ativos renováveis",
-      "fonte": "Novo Momento",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakdvMEFwWWlyN0c2QkVNVk5NUlJNMmRyb3ZRT1JJeFZwRVZCVEtheFBNVTVJS2VHU0xKQ0Zpc1R2RWQ5b0dRQko5emhHcHdsLTdaNkFGNVdNNkxIUlI3aUtRSmtrSTl3ZVMwTHF4ZFpaeW12cDZpVWVRSkc0My1ELQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-18T08:16:26Z",
-      "dominio": "novomomento.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_85292",
-      "titulo": "2º Fórum Análise Setorial",
-      "lead": "2º Fórum Análise Setorial",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbEdPTXBHTDA3Vmp1Ym96aDQ4UWdBODFoY0Q0Ui1wdFVxYjBucU1tVkd1dkE1RkxYSHlhRFppbTJHR1NqVUQ1bUdtSEh3SmdqVXA0Uy1pTklIaml2SUF1SXJ1WQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-17T06:11:15Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_2304",
-      "titulo": "Aneel publica resolução que mantém conteúdo local para produção de sistemas de baterias em 15%",
-      "lead": "Aneel publica resolução que mantém conteúdo local para produção de sistemas de baterias em 15%",
-      "fonte": "Broadcast | Financeiro",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEVGa2Jud0thdWFncEpLU21ITWRCMjJwbHFPa2NsS1JWd0h2MFJkVnRpQV83S1ZYMzA1c3ZBbWhvN2NaRDZ1RVdrVXNJTDE4QlFXRE9Hek5QWlJlelNIdUhhMnBZbTFKNDdXMWZrd2RYMFQxelc1Vzd1NXJPMWVpTnJXZzdSM0Y3Z0tjWHcwUG9DLS0zSC1GdlhkOG50d3ROOVhjdkhNWXpKMjRZbzc2QjF6SVB2SGJFcXZ6MkdWNGRRZzA5NnZV?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-16T22:41:00Z",
-      "dominio": "www.broadcast.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_63554",
-      "titulo": "Cemig fornecerá energia renovável ao Exército Brasileiro em dez estados",
-      "lead": "Cemig fornecerá energia renovável ao Exército Brasileiro em dez estados",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNendzcldOMDRQcE02QkRtakt0YUhQLTFvcDNTOGZJNmlLci04bS1rQ3MzNFpvWmN6dnpieFk4cG9QczhneHdyc3JRbjFCZzR0MEtXSU1DZHJhc081TUlWX2kxaUU2b2xvamJzVXQ1QXV2VFNacTY5bUQtM3MtOEItVTZ2SFA1WGVYdHc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-16T15:41:56Z",
-      "dominio": "canalsolar.com.br",
-      "tambem_em": [
-        "Agência Minas"
-      ],
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_37477",
-      "titulo": "Reforma tributária: ANEEL propõe consultas sobre PIS/Cofins e créditos no setor elétrico",
-      "lead": "Reforma tributária: ANEEL propõe consultas sobre PIS/Cofins e créditos no setor elétrico",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmtkbXZrZEpXVllIT0VJZ1FzN1VHMk10Y05hSGZPRXJWNG5TdlVZQUo4cVZHemowZFRWZ0E2UXNWRDh2aDhPM2hRMU5OV2tlX281VGt6dng1X0N5ckFqQlctUXZVX2htLUsyZE9ya2t6UVhkcjRwVzlRNHhvNjM2MmNyYV8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-16T13:51:18Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_18349",
-      "titulo": "Em Simpósio Jurídico da ABCE, CCEE apresenta palestra sobre suspensão de regras pelo Judiciário",
-      "lead": "Em Simpósio Jurídico da ABCE, CCEE apresenta palestra sobre suspensão de regras pelo Judiciário",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUVZU2FGenZJRHVCQmdMLTNTbDk5YS1lS0VRb0FxS3JFVGtjbXFyZE9mbE9udXBNTEMtVUUxRFFyZHJKZnRhOWZ0WU1LN3dNby1rcEVUQXcyaDNiNDBCWmVOM3lKMzFiYW1RdTExeF9Jb2tWTEQtOEtVZGJmWFVicGVnRnlPTUFKQm5sa2pWcVEzaWY3dWZiZXVLdDVUbDRJTDc1bHBLY2kwWDktVTBCVzVzZy1NTlRvTjJ6WmYwalN3WFJFZlpUdlpB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-16T12:53:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_88129",
-      "titulo": "CCEE reduz em mais de 75% o prazo médio para processar pedidos de recontabilização",
-      "lead": "CCEE reduz em mais de 75% o prazo médio para processar pedidos de recontabilização",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2JYQmtHallROFFrMHdFcVhiOUVwUEl4eDBpOVdIMlgyalhCTEFRZUtMemhSc0xqYmdpdnZ2aUNHcnlZTWROWWZIbE80NHhsZ212UGNmTUpxOHRKZnhzOHhiOWdkbTYxeW1xM1VaV1pVd3YzY01FRDFkdEVEUDhjOEowVmtRMWpPYURGSERtV3gwUUZVT3dseGxLRjRoUHVHTnJCYzljbXYwSjQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-16T12:11:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_14726",
-      "titulo": "Aneel prevê publicar em 29 de outubro o edital do leilão de baterias que poderá transformar o armazenamento de energia no Brasil, com certames marcados para dezembro",
-      "lead": "Aneel prevê publicar em 29 de outubro o edital do leilão de baterias que poderá transformar o armazenamento de energia no Brasil, com certames marcados para dezembro",
-      "fonte": "CPG Click Petróleo e Gás",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNRmI5V0FDOHFOZW15RUJvREZuakZvaFRKd2pKdXlUVVgxTHZidlFMclc4RmxWS05nLThMVWtLS0FNNHFRVzFrUjBBMWRZQ1BkeDJURVZIVUpoaElNV0N1N3RIQWNGU2szLUVQVTg1SHlLVHNZYTFzWlRYTWUtbnVHM2dMRE4ySWU2d0tuZGctejZhTmhLdE45NU8tYVBrZk1DRFR4QkZaRElHTWx6MDZnejBEYXdiX2hia3BVSC1DWGlRRXFZUTgtNzlobEtQVElNUy0xMTNPNE95QUc1eV9vRlZ5ZXlZVmt2Rm16RnlaTjMwcVZOemlqcXQ0Wk1jU1NGWW5mbnQzUEJzM1hjVlNTYUVXWGswZTJobl9wdTYtaHhmRFhibUw3WU9JYw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-16T02:20:00Z",
-      "dominio": "clickpetroleoegas.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

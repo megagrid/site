@@ -1,18 +1,134 @@
 {
-  "updated": "2026-10-27T23:02:21Z",
+  "updated": "2026-10-28T17:33:32Z",
   "total": 60,
   "itens": [
     {
-      "id": "mercado-livre_11036",
+      "id": "politica-energetica_5775",
+      "titulo": "MME programa sete leilões de transmissão de energia até 2029",
+      "lead": "MME programa sete leilões de transmissão de energia até 2029",
+      "fonte": "TrendsCE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHhvQ01rZlhzaGhNVm5aVTBBc1JvN2JqeWNuQ0VVZV96bEVQb2xQeEJhNi1CVUJVLTJsY3NFWlg4SnVsN3Raa2x2V05JMnZ6bmhGeVVEQkpVazlCXy11ZE5EWDU4ZkZZaVNnbldDODR5RWJxbUphQkRoSVp0RUhYUG9UWQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-28T14:22:27Z",
+      "dominio": "www.trendsce.com.br",
+      "tambem_em": [
+        "InfoMoney",
+        "Times Brasil | CNBC",
+        "MME"
+      ],
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "mercado-livre_53848",
+      "titulo": "Mercado Livre de Energia: entenda como funciona e veja o passo a passo para migrar",
+      "lead": "Mercado Livre de Energia: entenda como funciona e veja o passo a passo para migrar",
+      "fonte": "Além da Energia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXhoNHhsM3M2TFl4S2VrMHRjdDZCd3ZNUmdJNUZxTGpwaElfZFRIeGJvd0xJSDNGTGpNTVVKWWFjZTItdTFPRS12dndIak9ld2hGRUoyWVlZSlJ5aEVCLXl5ZFZ0N1NnWXB3WkxYN284V1l3TU5GS3Z0V3czeTBCWmNxWUVzQWxVbTRDZ2xENnZyNlRmQzBzZlYyajc3Zw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-28T13:56:13Z",
+      "dominio": "www.alemdaenergia.engie.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_67910",
+      "titulo": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva",
+      "lead": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva",
+      "fonte": "Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYkp1X2w5SXA5a0duV3lGY2xKVGFWOEM2X21ndTV5X1VXcGxINUJxYnNJOHYzSTNydmljdktScVgzdjFnQ2U0d3V6QllFLThiQ2lUbUJHQnRxZkw0M0JBYndELXlWazk4UV81RmR4Y1dRQjR2WWFQa0Vnb3hNOGV1eVlaSTBrWElGWG1CWU1MRU9Xc08yZGF2eVFnODRxdG5EdkpXSnVselVHVThvWGRGcTQ1aWRxOHo0LTN6THZHem1aT2dELUx2d281aWdPci1qdjBB0gHiAUFVX3lxTE5BWGhiazJGVWdVU2VzcUFXYU9XTUVnckJJNktIZVdGTjhEb216ZF9WeEZucDVWV3B6VFN4VW5oMWFGczFMandxSHAzZWhhdGVXNEJMSmZqWkVGSFozRFp2cmJGLWo4d0pUc1RlYm9LQjhvRURRZVlsbDVybW5MNEZ1dFR4aU1nV0ZFbUVibXh3c0tZbTF5T1pzU2hLR29Od1o0NWVmQUFUcXh4ejVCWlNWbEE4ZWVTakpsT3NQZ3RYMVBhNWtoZGpMS2lwa1ZjanI5NEJjU3k5M1hvODJxeFlqVUE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-28T12:15:46Z",
+      "dominio": "valor.globo.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_86181",
       "titulo": "Motiva (MOTV3) anuncia contrato de autoprodução de energia por 15 anos",
       "lead": "Motiva (MOTV3) anuncia contrato de autoprodução de energia por 15 anos",
-      "fonte": "Visno Invest",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbl9TajBQSTFaMmFtZmRFNmRwQlBibUt5dzhSS2FCVS1QaDdRaE9lR2dHbW56SlF5LXkyNHZGem9lT3JsS3F2OHo3czRteXNLQ2hCYlJrZmRMYVVaV2xaU21MNWhCOHZnekRMeXF6RkFZM1dZYk50QjFneFBVY2Rxdkd4T1AwMWFwU3BQQmxYWjlrNXZPaWRrLXA4cjZhX0pIb0VVWGtVN0oydw?oc=5",
+      "fonte": "InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDlzSjRycU1nTUVjMkp4S2hGQXc5VTRuYmxfRXlrUGxJNG5pM1JRY2dNeG5mWGNRUlJNWGRCUVRkWFRpNnR2QWN1R3ZmVVN1UVp3TG5aNFZXampnamFWd1BJUW1EdVZTdW0wNmhSdm02VkhVS3R6TzF1aktTTkllNkpxLWwtSnBDb2U4cEtkY3hwU3lTZGpGY3pfQmpEV2FsdE5lb012bXJQUTjSAbABQVVfeXFMTXBUZ2lUYkNPSk1MeDdzMzQ1Y3JaellUXzF4MXFYOVBFV0JkQ1Yxb1pRbXFHVFlobk1jQm8yU1FNMTFrSHU0NE9kbEw1RDgyUTExQ0xidFJ6QVp5Snp4R1ExZ202aFZhYVI5cktwaHdhOWIwV1lJUWV6ai1LMXEtT2Z4cTRPOUh6WkFSaHo2VnBKVTBFMVlrMnk0UzFkd09CNGJza0VSMTZidnQ2Z1ZnS3Q?oc=5",
       "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-10-27T22:02:00Z",
-      "dominio": "visnoinvest.com.br",
+      "data": "2026-10-28T11:01:09Z",
+      "dominio": "www.infomoney.com.br",
+      "tambem_em": [
+        "Visno Invest"
+      ],
       "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_29042",
+      "titulo": "Castellana Properties avança com mais autoprodução de energia verde nos centros comerciais em Portugal",
+      "lead": "Castellana Properties avança com mais autoprodução de energia verde nos centros comerciais em Portugal",
+      "fonte": "Ambiente Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUmNoQ3hjRnZrT2lOejFwcnpCQmxaU0tWWGFnYmRQeGpvbmFOdHF1emVKeWY3U2pfZjBMQUFMY3VTZGprVmVfUllTejZQYndlaTNSMGVZNlJ3clhOdWI0Z2dZSDVETGdqQXB3Zkp1ZkZBV1dJYW9Ud1JoWGJUQzk3aWUzTGtXaDRYT1NlNThfbF9UNFh2d2lRcXdjV0I5cEwtQnc0NEJpMUZjdjV6UWJNbVh5ZXVUZDNodDJhR1hBLUNWS3hCV0hwR0s1eWdXa2FNdFE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-28T10:53:45Z",
+      "dominio": "www.ambientemagazine.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_42780",
+      "titulo": "Aneel revoga autorização da Electra para comercializar energia",
+      "lead": "Aneel revoga autorização da Electra para comercializar energia",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEVzRmMwVmJVWmRkVHc4NUwyU0I4aWRucjU2S0V1T0FoZGowRUpzbWV2eml1S2E0LVliSjRZaGRaY1ROUnI3dVhZM0NGekE5UmxkTThNTmNqNlBhZHg0RGdoWXVuMVdXUzdCRkF5ZW1IclZLZ1M4dm13N2dtYVNreFBwM2VNWTV2NUo1bEQ5V3lrQW1VMGRVV3FGbkJyRzMtNGl0N2NlVks?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-28T09:30:00Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_3165",
+      "titulo": "Leilão de transmissão oferta R$ 9 bilhões em projetos e mercado prevê disputa",
+      "lead": "Leilão de transmissão oferta R$ 9 bilhões em projetos e mercado prevê disputa",
+      "fonte": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaU85cTF5QkY2Mjk1Qy1raEtXblVwdnZGeW9ncTV6NDdsQXNXLWd2V1pzNHhqNjRkMXJsU1V3R0hTOUxSeVV6NmhiSC14Yjd2SzlRdWVnVHA5MXloMWVQY0xWdVl6RGdYcHp2dWtLTGVPVFBXRENtZnprSWxsSEdzNktHR1o2VWRwaXF4bXhnUk0yLWU0OFU0d25LMW0wRG1CbjhaZmlGb2lxVE0tZDdvbXJ0c1B2Q3FzdGwzV3NXUHp6Ri1Xc2Y4YtIBzgFBVV95cUxOdF91UzZwenJFY1RqcEFacTE0ZDFuWnhjcV9zN3h6a19SS0hUaWhYZHo3MGdUZ0VGaDNoYTZwZ1FqckNCRktkcDhIejB2V252TTEwN3RYYUNuNXdnQTVYemFxSHJldTlvX25ad0dMa3hLUERwXzJXbFV1TDlBaXNrTnhCSVhhUWdNekFOUXlTODBjVXJiQ3FCVVA0ajhYTDN6VGM4RGZTVjRUbVFGcXhlTGhkVEZDQlJNTjhJaFFZX0MwcTVsRE5kV3QzanplUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-28T00:59:00Z",
+      "dominio": "www.estadao.com.br",
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "regulacao_77080",
+      "titulo": "ANEEL confirma orçamento da CDE de 2026 em R$ 52,66 bilhões",
+      "lead": "ANEEL confirma orçamento da CDE de 2026 em R$ 52,66 bilhões GOV.BR",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazByNXhneGZMcWpMdF9DMjBrVjRPcXZpU2NWRGtIeThwMXI5Y3dRV2psemtCUGN0Nmx5Ry01Tzd3bW00SW0zeWNfLWN5X2F2NEF1c1B4Vk5XUldOTG5sRjNNOG1NQ0h4cGVrWkM3eklTZWhEVlpaV3lFVlRhOC1KZFpvbFRtTzNxeGNOblJKaDdTU1MyZWJuQ0tSSUI1ckU4MUMzcm5qeS1IbXRNMHlBbmln?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-27T22:01:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_68983",
+      "titulo": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL",
+      "lead": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL",
+      "fonte": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkpGZUQzQUpKRjlER3JBWHFpOFM4S3dmMjY0aVBURm0xSXZkSUlqX2xyRGFuVmlFV2VlRWYwUTF3YmRNTG1SSXlaYW9MQUNZS1VhdzZWdlFydkdySE5aQ2tVY3N1azJOZDhzVU9peVNIZFZSamt4MTNPUURyS05ERmpxbThlanlxNVEwVjdtMnllSGJZU3ZzNnd1WHkzTXB1VUU1akhISGdMcE1SRm0tdVF1R0VlMXFkTzRvSTV5MGpTVjBlUU83VWpSNlYtdkJIallSbUFNSWJEU2cwZDBlUFY2eWs?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-27T22:00:00Z",
+      "dominio": "www.gov.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_2965",
+      "titulo": "ANEEL avança com abertura do mercado e institui Open Energy",
+      "lead": "ANEEL avança com abertura do mercado e institui Open Energy",
+      "fonte": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2tKbFBDSnhQNG9jRVoyTFhRWDRaNHZJTlBCdkljYl9uNDV0R0lDcE1XMVlxR1hyOWhzc2RwM3RlNEowam5FQ0FaalkzS0d0TW0tMzJLOWN6WVRJeWJPY2hQVjE3VE5KcXczU2dUT1U1ZDdsNWl4TjF1S0MyTDc0T3UzQ1JvcmF3SGt1eXhVYUluMkhzUjlRbHBicTl2YVM1alNRcmNuWGtfZEw0UTYtV0gtVQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-27T21:51:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_7025",
@@ -20,11 +136,35 @@
       "lead": "Distribuidoras poderão manter marcas na abertura do mercado livre",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzkzdUpsU2cxN3poWmo2eVJBU2JnWmxwN3dZSzVVVHZENTJBNF9sa2FOSTVvQUlaV3NDcnVZS2RncGRvUjd1bGwwQ204QmdmUnFOX09iNDVDc0NoRzV4RjlXdEczbTFrbEZEeUVMY1FLX0pxUVlDNW9rai1QNncyVENjSVVadjhUWlhXaWhqQnkxUER2NEtZRGFQOTVGTDdnLV9aTGVUY3RCU1VQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-27T21:41:24Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_63981",
+      "titulo": "Aneel aprova editais de leilões de baterias, mas prevê reavaliar contratos se lei mudar",
+      "lead": "Aneel aprova editais de leilões de baterias, mas prevê reavaliar contratos se lei mudar",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3kwUDZEenlfdGRUU2JTSDRoT1BZM1dMdTFkRkx5NHdacUpILXl2SXd1d2I1QTdEVXZ1R0FndEZUMFRDUVlmYk1kUTJmOGdCb2tMaHBYb1VFWTJIcmNrc1diWjcxYmFoNFk3bWctVlJVdjVoZUY1eDBVblB5ZGtUR19WUU10Z2lHd2pUUEwxT3B0VkpHXzF1emdJbXRPTHVQNTlPZUR0SkFZZW83NUZCUXBOQ2RmNl9KVmQ2YVJYRGI?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-27T21:33:02Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_37050",
+      "titulo": "MME leva energia solar à Comunidade Santo Antônio e amplia acesso a eletricidade no Amazonas",
+      "lead": "MME leva energia solar à Comunidade Santo Antônio e amplia acesso a eletricidade no Amazonas GOV.BR",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbUdtdHpaS3VqVVFYd3BIaW5fbFpxMTY3aEtmYVhIV29wWF93emNQNTR6Z2tzeXhjMXNiWGFWMTdONy1QYy1lSTVlRWU4U1hYZDkzb3h6dWFXejNITXNlSkpoVUZRWEY4Q2t1Y0pkcnVaeUlCSWZEU0VKejhJcDhzemNKT2h4ZG84YnA5NFRpRjR3VUNvclEtdERyUFdOMktDYUt4U1hNa1E5dDVaeDExQzNzWkRjWFJlUlJ0eFFLck5TZ3pUYmxZdXNfVmJmOUY0ZkJtd0w4aFU3QlZGZUFDSTZBcjM?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-27T21:04:14Z",
+      "dominio": "www.gov.br",
+      "tema": "solar"
     },
     {
       "id": "mercado-livre_94079",
@@ -39,19 +179,15 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "politica-energetica_3403",
-      "titulo": "MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029",
-      "lead": "MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029",
-      "fonte": "InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb3U2aExINWZVYXp2UUxxQmlqU1VZR3F2UUxoSWR4VmJ1TjZ5SVdYNHY3YjRkRGR1dEZqbk5DWDA5ZkFtaUVDOVhwcDAwa3RXUHhFYTlHUkxrVHpUY2JKWC1xN2IyX244YXJEcGhvdC1CdnFRVnl4OFNtNUlHZGVSbHFzcUFVaGk0SlpIM3BpVlV4TU56cWJsYVpXNTR4QzkzYkNlQlVmTXVpeDhUdk9uWE45REhNSGhmdm9OdtIBwgFBVV95cUxOTXRMd3pUaFdyemxxVHBCRzVrNVl3N0dhWXpWNTFDR0U0blJrbHlfb040OWhYVU5yenVMcG1QUDBIYmp1NlhNMWc3X29acEJJWnhsOXFJd0txZHNMWHpZZ1NQX3lHUGRXLU1VaG5KWmVkRm1PMDNaSGJEQmZPS2hNUi12d2dKYmRIUUd5UFRXdm42cGtlWnNOQThkNzRXQ2lxaDczQzQ4Ymd4QUFoT2xPOW9McU5SUTRWOW9GaEtPMVVrZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1543489816-c87b0f5f7dd4?w=600&q=70",
+      "id": "politica-energetica_78017",
+      "titulo": "MME marca sete leilões de transmissão e inclui sessão adicional em dezembro de 2027",
+      "lead": "MME marca sete leilões de transmissão e inclui sessão adicional em dezembro de 2027",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWlZTTBreUJPV2FKdEJ0T3Nxak9SWWdKM2dlSVdOVEVucHprNWRzVDhKaUNVT09QeURBX1A4U0dyZmY0ZE5XR1FTMWt1TFpCM2t4NUZyeGs1T1A5S2V0ZWRnb19YaFRpc1dQa25iRjVid2ZfcVNCT016ZWdvS1h2MUF2cEp5VzFEdFF4dWJld2N4bXlXMTBuZ2Iwd3AwandxRXVxaWpGR21XdVZZTWYyWWVvYS1mTlRfeGEtazZrWQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1606901900840-f3dba75bcd47?w=600&q=70",
       "editoria": "politica-energetica",
-      "data": "2026-10-27T16:36:16Z",
-      "dominio": "www.infomoney.com.br",
-      "tambem_em": [
-        "Times Brasil | CNBC",
-        "MME"
-      ],
+      "data": "2026-10-27T15:37:11Z",
+      "dominio": "eixos.com.br",
       "tema": "transmissao-rede"
     },
     {
@@ -65,6 +201,18 @@
       "data": "2026-10-27T14:44:35Z",
       "dominio": "www.neoenergia.com",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_70197",
+      "titulo": "CNI presta homenagem à ANEEL pelos 30 anos de atuação em prol do setor elétrico e do desenvolvimento do país",
+      "lead": "CNI presta homenagem à ANEEL pelos 30 anos de atuação em prol do setor elétrico e do desenvolvimento do país GOV.BR",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdkVrSUJYVF8tdVFObUJ0cm0yMnlhdFpmSHVuVTFLQ2NlQ0dhY1p0NlhYVlRFSjROTDBTaWdqYnpzTFlhV3VqUjczQ0hnUzVObndubjZWZ09MLUJmem9FTm9iYlNaNldLUWFXU3JVRW1fNVRFcXBCY2p6X1Z5UjBQWmlHNzNZdkppUEhGVHdiZnF6ZG1nVUM3aEJldExqWEFvckxPRDRVRUJxbzNrMzdXdkdKa0ZLWkRuZmRnZGV2ZzJqdUY2MnBkM0R3cEpGNG5zVkQzblJjMXl4UGRqMTBjZVA1bDd0bGhkTWlqZmxveTdqNVA3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-27T13:51:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_63342",
@@ -234,11 +382,23 @@
       "lead": "Brasileiros desperdiçam energia limpa e ABSOLAR cobra soluções do novo governo",
       "fonte": "bra1.com.br",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUZDZGZaOGtzOHROazZlV1AzYUlPOU9pNFEzMUtGaWgwUWxYZFZHT1AwVV9GOEFvX29DNFYyZGdORjBQUWJiSkR1MTE0VTJWUEt1V296QllwcGtxY0tSNFN0VHlLRjFMOFUyb2M3Z2J6MXhodzlNNUgwVGtWVlMxY0RKTjRoZi1MSmNZTHB6eVNGSVdWOXlLZWNyS1NsTXR2UXI1c042MjRGb19YUDJZZ3RpZXM0R2dXN0ltelF3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-26T17:53:00Z",
       "dominio": "www.bra1.com.br",
       "tema": "solar"
+    },
+    {
+      "id": "politica-energetica_31591",
+      "titulo": "Terras raras: o que são e para o que servem?",
+      "lead": "Terras raras: o que são e para o que servem?",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTm1nT3FNNGRNTEFBYTJKZlQ4MGhza3hOSGtQT2YyZUV0OW1HcDBXOE5WTUQ0Wi1KOGt1bGRTcXhLX2ZRaU1nNGUyM3FYcURMazdUS0d5dEVzUm96VGJveFRvNl9aa3FkSzFpQmIxUnBXQTlfdlJXWG1iRXhqTThlVWJEVUhnN2k1VWZDUnM1UDhhSnBDM001V0ZQY0VfVHc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-26T16:48:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_46150",
@@ -469,15 +629,18 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "regulacao_29734",
+      "id": "regulacao_40231",
       "titulo": "ANEEL abre Tomada de Subsídios para discutir impactos da Reforma Tributária no Manual de Contabilidade do Setor Elétrico",
       "lead": "ANEEL abre Tomada de Subsídios para discutir impactos da Reforma Tributária no Manual de Contabilidade do Setor Elétrico Governo Federal",
       "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPQjFKX2pScXhhR3dIM3JuT1Bpamp1UnoxWnloejl4TklGUHB5eEZ5ZDZSUkNGSHZZQndtSi1xWnhvX0M5SU1OdHZtY2RKOFRhTWhocUF5c290Q05UMWRhaHlvcm1JZndqUW5UT3Bfb0E0OVFGSW1ISWZtZGU3XzgzbjB3ajRiZFphR2UzaUtBOVk5alhYWWtacE5hRWxaaGJHVm5HbGxNdGZaREtpYkpXbnVINmRRVmRpUGpYZWVqSnAxTUFHN0lWekoxNFQ1d2V5TUtYcG5YQ3FmOHVXUTdtd2JsX2pQZExGRHZfX0FDTWJPTmtTbHhrcnR3STFyZW5xb2MyMW9KSExYQ0JqVGV4U0oycjVvY2M5OUxn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZlR2MVR6OFNVd2pnVXhBQ0RtQUJSV2RZNUxOeEoxdVFBdHpWYngzMWM1MkFpYjVSMzlXMGRCNFprWC1xdkhDZTZYbHdEMmNuOGNkV0RvZEFEOC01U2xyZ2NhM1hJZnlTNlJwYVVweENIWGtXRHNWcUpRaUxhdzgxdXRrQ2RSODdlenc0MHVhNVY0V19ISUtHZnV0bjdlY2xOaW03MUVLRlBNUlFqRDNlRFdTU1daeUNDaVRPbl9oMEtzbWh0SzVfVnFua3ZkcUJad0dpalloOE1Yb2xnVS1GUWFqM3JUcG9KS1ZGNlc5RjcxOXcyTC1DR3VhblR6ZGdtV1JNOA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-22T08:37:00Z",
       "dominio": "www.gov.br",
+      "tambem_em": [
+        "ANEEL"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -486,7 +649,7 @@
       "lead": "Leilão de energia com megabaterias no Acre: tecnologia inédita",
       "fonte": "Acia Araçatuba",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkxyOVhsdmV6X2h1c0J2NDRMODRjckczVmN4RjhPdXN0SG5obDJLVFNNVy1WaUJ5bS1Kb2lWdUJraVZia2xsSzVrU0p2UWFrRTlpak9sYW9jUVhCQnNUbGlsMFNOcXQ4TTIwLUF5TWxUVGFFdHhiejkzclEyOGhnanhBdW9aWVowUFI2Vw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-22T05:04:40Z",
       "dominio": "aciara.com.br",
@@ -596,165 +759,6 @@
       "data": "2026-10-21T08:28:00Z",
       "dominio": "www.gov.br",
       "tema": "hidreletrica-reservatorio"
-    },
-    {
-      "id": "regulacao_6007",
-      "titulo": "Despesa da CDE bancada pelo consumidor é estimada em R$ 47,8 bi após 'teto', aponta Aneel",
-      "lead": "Despesa da CDE bancada pelo consumidor é estimada em R$ 47,8 bi após 'teto', aponta Aneel",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0tVcEZtcmhySTEzREowUkM1RXZGRU1rcDQ2RC1fc2d0Nk1WRFNFbzkzV2twREltSWtTcnBWMTFWV0lHblZpZlRhS2V2TkxteEFJNHhpRlBkRWxyREVsLU1nSFVFa2ZjQ29kSDJGUW5rR2JJcEh5WG5jU19ISkVDb1hBX29IQlRXaG01cGE2VWNQSnRDNkJpUnF4RW5Va3JmRkRUYzNnZm9nWHhzOGdxSUc2OWNIUDBBaW90WTdzLWU?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-21T08:16:20Z",
-      "dominio": "eixos.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_27492",
-      "titulo": "Mercado de baterias depende de novas receitas além de leilões, defende WEG",
-      "lead": "Mercado de baterias depende de novas receitas além de leilões, defende WEG",
-      "fonte": "NSC Total",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVRhVzR5ZTlsZGo4MkFPS2pLVjRFaFBpQlJ3NXhmWTFaTHNyUy1tdmItYzExUVdNYWtWLVd4QkFkZ0xsbm1wVzhsaWFKWG91cEFTSXVDYXVyWmZtZ1E0aXVBSmktMUFDOGxweWZSR2NqRUZyVnJZczRHZEc5ZXc4RG5LaElBb19BcmllLWI1OEFZOV90VjZFNzF2TmJjZ0ZuNjFJVFV3Y3czZkdqYkdF?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-20T22:52:07Z",
-      "dominio": "www.nsctotal.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_49085",
-      "titulo": "CDE De 2027 Prevê Encargo De R$ 6,37 Bilhões Para Cobrir Subsídios Acima Do Teto",
-      "lead": "CDE De 2027 Prevê Encargo De R$ 6,37 Bilhões Para Cobrir Subsídios Acima Do Teto",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnpHOUwtRWNaWThIQmxOaDVpb2dGdE9ELV9NaldXOG1Md0ptb3lubDltVGxuYkY0aUNHVHlhczl0TmxmNXhrSlktTVFWRE93a2FjVVpTWWNXSURtS0hCSTY0WnZqUnpwdTdna0tod3NhUHlGMzNhUXdRN1pVMXJfSDMwb24yakRfRm5idmxIME45cnd3Zi16bk5ydHN4d213OEtQV1hPZGhVX1BnN0MyMjRKN1dWNHFkczV1LQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-20T20:08:56Z",
-      "dominio": "cenarioenergia.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_70525",
-      "titulo": "ANEEL abre consultas públicas para regulamentar reforma tributária",
-      "lead": "ANEEL abre consultas públicas para regulamentar reforma tributária",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDVxaWszNGRRNmNUdW0zU0FfS2xxaG9Dd2lZdUpsck9RemlWa2U1YkxWbjVndHhpNDBuemcwSUZjQ2tWTldfSkZ5eEpwcVFOMnhNeEZGd05YbXBtRkFWSnJfbWE3SkVWYXRKQ052YTN6ZFlaUm94TTl3ZmlVaFRUdm5YbUk3STViRHRjZTZUZDJucFR0ZGp6MjZUVE9DUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-20T15:33:45Z",
-      "dominio": "agenciainfra.com",
-      "tema": "regulacao-institucional",
-      "tambem_em": [
-        "tmc.com.br"
-      ]
-    },
-    {
-      "id": "mercado-livre_1335",
-      "titulo": "Como vai funcionar a migração para o mercado livre de baixa tensão? CCEE explica",
-      "lead": "Como vai funcionar a migração para o mercado livre de baixa tensão? CCEE explica",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDdyOHRTLTlydVBERkhNZUdoTVR6TFAwZ3NKeGlZREh3RlJrTWFsSXU3MDdYQjhLSmZ2enZDdFB6VjRmRWVsNWZuaVN6Y25veVRIRVJuSks4SkVPaTQwWXVPcnl5TVVfTWljZXdoVkhrRWI2Z0ktTllBRUVUelA3WUp1TjJPNjZx?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-20T15:05:08Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_35159",
-      "titulo": "Teto da CDE pode reduzir em 52% subsídios à MMGD em 2027",
-      "lead": "Teto da CDE pode reduzir em 52% subsídios à MMGD em 2027",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVE9yVy1tZkVpcGJsRUlDSWJPSU85Q01YWFE3SGhGX2c0cXUyWnhoeUtpUjMtT01obXBFb1VkQ2JRS21LR0Q3RVFKbEg3M3ZRT29ZQzhlLUdQX1dIQzRuUzd4TTdrcWZrekw3el9zQXJ0YkExRzhNOE0ydGlnU2RVaDFjbjRfbEdpYmJVVjRiYkdqUDFwUGFjNXRn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-20T14:46:04Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "transicao_47182",
-      "titulo": "Ampliação do acesso à energia e do armazenamento na América Latina e no Caribe: foco em Belize",
-      "lead": "Ampliação do acesso à energia e do armazenamento na América Latina e no Caribe: foco em Belize",
-      "fonte": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbXpnSEx3YWt1YWl0Uy1lWXBvYmdhZ2ZubDBXNkVXME5XS0oydmJfdXpjajhjc2d6dU5hOEtXRHpXOTU0cU9JZTRjYjdocDFlVW5IbXczQXhncDJDcUtZSmwtSmY3NDBHelNoUDJzdjJlR0hIeWF1elJFdFVpVmxGOWtEdzExa3R1UVhxenZ6eWlaM2xYTjFWSlRqQXUzb3kyYTlUWklWZk82MUg3SUVkWnl2QmZTb204eU5MT0hJLTluQTRDdDk2Q0pZWTZZc3pu?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-20T13:27:21Z",
-      "dominio": "www.bnamericas.com",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_57776",
-      "titulo": "ANEEL avalia liberar venda de excedente solar pelas distribuidoras já a partir de 2027",
-      "lead": "ANEEL avalia liberar venda de excedente solar pelas distribuidoras já a partir de 2027",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12ZFNDNFF6OFlPOXlXaEI5Z3JXREJ4N3FLV3ctLVAzaFhEeEJtN1hvX3l4cGN2MlBLc1p3SnQwdS1WQTVYOWxHY05mdE5hYzU1YzJhY0lBcGJXeVhjN3lhQklVWkdYZzBmX1k0UUxPdGhTSHRXTDlr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-20T13:16:00Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_24671",
-      "titulo": "CCEE moderniza Plataforma Cadastral e aprimora gestão de representações dos agentes",
-      "lead": "CCEE moderniza Plataforma Cadastral e aprimora gestão de representações dos agentes",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVk9DaHVWR2VydjZnM1JqMERKSzhMTHZKVV9oQmhqN2Z3bjBhc2xqemd2Mzhic0ZOUV9aTkczeGJDNFRJZVN0UUlrQmdHTEh1NUNCTzlLNnJuS2x4ZXRIZkxKcG9sQjFqaUVMNkxPZWtIZWpBSkhaa1kyczd6WlpqcGZOdWpNdnd4M2ZJOHNOcDgxYWFqOWxoRW9nRzhJSUs5dmlqa3dybXRaVnFqSHE5NUNKN2xUdU9mVXhR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-20T13:15:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_59213",
-      "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
-      "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
-      "fonte": "Fator Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERiNTR1Skg0VEFNQmJfaGMweDdmREU0STR3NXlObTFpQVU0eHpuYWRXbVVtOUFiX0JpcGJOZDB1eVFpWlNndVpCb0t0eFc5Nm5haW82bWZKQWpERG1lNW9adGpjX2p5MWFDTmM1R2x4YnVCNnRITWxweXo3VUZ6QWxUQVN0clpFR2J1NWtJd2o3Wm45czB3SGxhX2FFaF9tdFdjY0ZTWmFwejhmckd5aFBoUFY5c2RTdWFQeV8ybzlBcUVfTWdJWERR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-20T12:01:45Z",
-      "dominio": "www.revistafatorbrasil.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_11683",
-      "titulo": "Revisão tarifária periódica da Neoenergia Brasília é aprovada pela ANEEL",
-      "lead": "Revisão tarifária periódica da Neoenergia Brasília é aprovada pela ANEEL Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM3B4UWRMbktjSU40WEtDNVBoVFhER0FxNk9zcXlPTndWSTI5UUw0b1NfZkpydzJYN1FnSW83aGRNRWpkbFhYWXFIRVVyWERJd0tFZlJMamZENElyS2N2MUtla09uOExhTUNydmh6MG52aXFiUHdXeGtWZ0FlNmE1a2dldGJpRGFqaWxvd293WnN1aFlKMnlLRlo0enpHeUNEM2hwVTc1MkxnUDdPaldOcUp3NG93bHVtYzVQNm1Yd1k1RzBjWlp6QXBuOXFjMXFwTk4tMXlETUVvUXc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-20T09:47:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_96463",
-      "titulo": "Novas tarifas da Equatorial Goiás são aprovadas pela ANEEL",
-      "lead": "Novas tarifas da Equatorial Goiás são aprovadas pela ANEEL Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWRZZEYtaWFSSHZZc1BrNjZmYUQ4ZHlVbGJlaUh1OURQVTdkbVB0RE9OeEdNTm5RX3M2VERiSy1MQkhhb2NkWnlmRE96VGVpN05mMFo1aFgxZEVETzZaay1rOEJueFFlYlB0UUI2Q3ZqUUtYaVU0TDZDOTltc0hIU3FKWTI1djFnNlFLdjhCZjR5ZFA2QVdTand5N1ByWHo5N2NHeXpMMlZrUDZ1QWFvQV81Zm8ySVk5RjVRemgwVFYyMm9RcGJ1RA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-20T09:20:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_67924",
-      "titulo": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
-      "lead": "Abertura do mercado livre de energia pode frustrar consumidor, avalia Copel",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWtxSkJrUkhCZjRrc2lIcGFTdFVfaVRDeHJ0ZWItTFVvV3dLRmRuZUM5TFVGNzFIVjEtbnZxY1BuaVV4alE2d2dsb1hBbUlWZUhsVVRpRENQeU04XzAtZXhKMk9meDJ1R3dnNUN3YzJ2T050R1pmNkk4ODJFYXFBWllNT3dyV1J1R2tMZktkS0RzOWI1bkNtYjdqd0tfUVJuSlpKeUdpdVNuQ1BOdmtR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-19T21:42:54Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tema": "consumidor-residencial"
     }
   ]
 }

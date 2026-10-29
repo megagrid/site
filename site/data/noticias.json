@@ -1,14 +1,80 @@
 {
-  "updated": "2026-10-28T23:22:29Z",
+  "updated": "2026-10-29T17:43:36Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_10589",
+      "titulo": "Governo planeja leilão de energia elétrica para a região Norte em 2027",
+      "lead": "Governo planeja leilão de energia elétrica para a região Norte em 2027",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2RlZ0NUTHZ3anVHYkFndXZfTGlpRXBOcDVrZXFiYWNMZUtwcmxKU1pNZGZOcklpTjFJNS1Ebi1kZExTTWtfTE53bHJNTlRiMnNwRzEwX3ZpelJiajRKTU10UWctN0lCNGIwTi1IZ2VDUkFSaUJhVWVvdTNLa1F5ZXVTYV9oU05ZMDVURGhiWXI5R1FFV3dQdi1zSllJWjZqSDFtT25IOVlTeTNHYUUyRk5QVQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-29T17:34:46Z",
+      "dominio": "www.poder360.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_7879",
+      "titulo": "Mercado livre: migração terá prazo reduzido pela metade e será automática",
+      "lead": "Mercado livre: migração terá prazo reduzido pela metade e será automática",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHVLVDZaNVpnTUlOYVJFVmdQbjlmUG96Y29vcmpaWkk5TGFTdkN0elh6TFV3WXprMUVkSDJGSlhJVkRoYktoNzhIS2t1aWszYV9mMDVrVTZMTTVuOEFvcXp5dkZDZFhIeTE4akE0MDRXa1lvZEEzM1JjQU1SUWJkX0xTY1Q1eHhaZzZHN0dzNl9pRVBfWTNST3NoYWE5cEtIcW5MZGlB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-29T15:22:30Z",
+      "dominio": "agenciainfra.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "politica-energetica_72086",
+      "titulo": "Ministério prevê leilão de energia para sistemas isolados em junho de 2027",
+      "lead": "Ministério prevê leilão de energia para sistemas isolados em junho de 2027",
+      "fonte": "Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWpVYTJwN1JHbkk3TG9WV0lrTlhTMkRTRC1Qc3pVZ1FxaDBWVWFUZG5tQ29NcUVOb0NvcmVhSWNQdHhNc1BMTzlFU3l6X1dyZjVuVVdER19ocHY1dFhfVi1lVTAwTkdBZFVocDFac2U3Wm55ZTdNdTFDLU13WHdLNkJnRVdNc19FYUhmeHhmNHR2WTMwMGtQQTdZQ0dndGdzUVZVYzJUSFo2U3VEMzVHWmJYSmJEbHcybnFKNnhGY1U3bkJvNndGQXRn0gHYAUFVX3lxTFByVWtobXA4TGhNa0NkX01wZ29YTk1yOW8xby1hSVo1V2tmRWFPYzZRNDZEeU5tMEtWX2dzYkRvUVhMWEcwVlV5cGZJcmdOUnN5NElHYXRpUU05b21zRjZfaTQ2aDVSWXBEWDdCN0owLTNzSzlMVGwxVEVwYngyTjhnMXNSbUs5NmdubjhaUXFKMk9qZGVTc0IyaWRVZ3FEek9hOHc1OHB1akI2bnY0SzFVT1NuTEVxOFBuY0I3dmtodmJNUlRzdVBlODkydURHTnlneEthWTFHdg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-29T15:06:42Z",
+      "dominio": "valor.globo.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_80605",
+      "titulo": "Motiva fecha autoprodução solar com EDP para abastecer VLT e outros ativos de mobilidade",
+      "lead": "Motiva fecha autoprodução solar com EDP para abastecer VLT e outros ativos de mobilidade",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0QzSXJEQmJhdzdSODdZeVpJOFVPaWU3S1U2RFhYWVQxSFVBQU9uOHNNUEh0RjR3NDZGdkxRbkNVeVFVT3hMTUdiLVdoSVlZa24xR2dRbXhjTVVMLXF1WnZLWHQtOFVGcV9fWktyZDZuMlVWQ1c1Y1QxQmFkQmZETE54NklUSFkzTVpHZ24yNDZtNXIyTEI3eFpCNWpNVjVndVhhVmJhTjgtNXU2QWVvbm0wR3BHNGhOQnVDSEpGR3B4SFdOTHpiZlN3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-29T13:46:07Z",
+      "dominio": "cenarioenergia.com.br",
+      "tambem_em": [
+        "MegaWhat"
+      ],
+      "tema": "solar"
+    },
+    {
+      "id": "regulacao_91037",
+      "titulo": "ANEEL abre consulta sobre fim do desconto na TUSD e na TUST",
+      "lead": "ANEEL abre consulta sobre fim do desconto na TUSD e na TUST",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTFRWRHpidWhYanhsaHU0TzV0TTJMRzNVaExvdEt6dEhmRjdpbnZ5blRod0RLV0MyaFhqRm11OUw4TXVsN3J3eURkRUhkRFM4TkZHMW9ESFpmNVZsNHIwNjV5clVkRnJXdmtYU3hmWDlOQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-29T11:47:45Z",
+      "dominio": "canalsolar.com.br",
+      "tambem_em": [
+        "Agência iNFRA"
+      ],
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_68370",
       "titulo": "CCEE e ONS promovem workshop sobre segundo Mecanismo Competitivo do Sandbox de Serviços Ancilares",
       "lead": "CCEE e ONS promovem workshop sobre segundo Mecanismo Competitivo do Sandbox de Serviços Ancilares",
       "fonte": "CCEE",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTzQtNDBUOVJ5blVuMFR1X2NVY0VhTTJVODA0Z2pTNE1fZS00cTg2WEFQajYtcC1Xbkd0b2EyWFlHcmpLRUgycDVIZGpBZU44Wno5enJ2US10ay1odmkyb0toZWNWeDBvQmZzV3BIMkdpUGZpcnFZUWtFQW5EbEF2U3VVRmREUngwVTRMbjFKaTh1VW1jaFlpNjJIS0ZULVMtc0VJY19PSjNKdXpwR3NlNUlDZkVJbDJxbDhzMnR4OFA1cmFUa3g5a1NTQXc1dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-28T20:15:00Z",
       "dominio": "www.ccee.org.br",
@@ -20,25 +86,13 @@
       "lead": "ANEEL aprova Open Energy e reduz prazo de migração ao mercado livre",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zTHU4V2YxTll5U3dFNTZSV1E3dVRaeHRkbm1nRWM5QTR0ZzFsT21jU1hxbGpNOEU2QUZhODZaTVFsZS16bDFSWlZyM2d5MEVZTUZXalJaNm5nNjdvcGZMTw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-28T20:10:43Z",
       "dominio": "canalsolar.com.br",
       "tambem_em": [
         "Cenário Energia"
       ],
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_85650",
-      "titulo": "ANEEL abre consulta sobre fim de descontos no mercado livre",
-      "lead": "ANEEL abre consulta sobre fim de descontos no mercado livre",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazlUSmJqMU85ZG5xSkF0cGpxMkxmS25WNm9jZ2xSNjduZ25qaEJxeWlIVVFVRk1uNTNPNlRuMi1NNFdpaGJXZ1lzOGNCMFJETjI5N3hyN1Bldk9CR0xRSVBtZmc2R1V1b1E1T3BiR2VOcmdoNVFFLUpLV0JKSkhDMHBfWG5DWDhzU2tBelpUel9YNjlL?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-28T20:07:48Z",
-      "dominio": "agenciainfra.com",
       "tema": "precos-mercado"
     },
     {
@@ -54,6 +108,18 @@
       "tema": "transmissao-rede"
     },
     {
+      "id": "regulacao_4997",
+      "titulo": "Aneel vê espaço para acordo com Anatel sobre compartilhamento de postes",
+      "lead": "Aneel vê espaço para acordo com Anatel sobre compartilhamento de postes",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOW9YRlBDRWJWSUwwSlJUSUs5bkJCaE8zbndBMW5XWW9Yajcya0VtZmhreEo3WUtSTjdSTVFvZ1daaHE0bG5FeV8ySVFrenVYR25jVVRwYmtCelo0eXRBZU9lQWJvX21VMFp3R2dfbExkN0duaG9RUnhuZkpSNnJEd0RRVTZEQkI2b1d0b3cxUWVIMjNXcFJFemRRXzI5ZWlJQ0lrNnYtdWtCN0ttbjdyOUQxeURSWFBLOFh6YQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-28T17:30:00Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "politica-energetica_5775",
       "titulo": "MME programa sete leilões de transmissão de energia até 2029",
       "lead": "MME programa sete leilões de transmissão de energia até 2029",
@@ -65,6 +131,7 @@
       "dominio": "www.trendsce.com.br",
       "tambem_em": [
         "InfoMoney",
+        "CNN Brasil",
         "MME"
       ],
       "tema": "transmissao-rede"
@@ -106,13 +173,13 @@
       "tema": "transmissao-rede"
     },
     {
-      "id": "empresas_2432",
+      "id": "mercado-livre_39581",
       "titulo": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva",
-      "lead": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva | Empresas",
+      "lead": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva",
       "fonte": "Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYkp1X2w5SXA5a0duV3lGY2xKVGFWOEM2X21ndTV5X1VXcGxINUJxYnNJOHYzSTNydmljdktScVgzdjFnQ2U0d3V6QllFLThiQ2lUbUJHQnRxZkw0M0JBYndELXlWazk4UV81RmR4Y1dRQjR2WWFQa0Vnb3hNOGV1eVlaSTBrWElGWG1CWU1MRU9Xc08yZGF2eVFnODRxdG5EdkpXSnVselVHVThvWGRGcTQ1aWRxOHo0LTN6THZHem1aT2dELUx2d281aWdPci1qdjBB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
-      "editoria": "empresas",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYkp1X2w5SXA5a0duV3lGY2xKVGFWOEM2X21ndTV5X1VXcGxINUJxYnNJOHYzSTNydmljdktScVgzdjFnQ2U0d3V6QllFLThiQ2lUbUJHQnRxZkw0M0JBYndELXlWazk4UV81RmR4Y1dRQjR2WWFQa0Vnb3hNOGV1eVlaSTBrWElGWG1CWU1MRU9Xc08yZGF2eVFnODRxdG5EdkpXSnVselVHVThvWGRGcTQ1aWRxOHo0LTN6THZHem1aT2dELUx2d281aWdPci1qdjBB0gHiAUFVX3lxTE5BWGhiazJGVWdVU2VzcUFXYU9XTUVnckJJNktIZVdGTjhEb216ZF9WeEZucDVWV3B6VFN4VW5oMWFGczFMandxSHAzZWhhdGVXNEJMSmZqWkVGSFozRFp2cmJGLWo4d0pUc1RlYm9LQjhvRURRZVlsbDVybW5MNEZ1dFR4aU1nV0ZFbUVibXh3c0tZbTF5T1pzU2hLR29Od1o0NWVmQUFUcXh4ejVCWlNWbEE4ZWVTakpsT3NQZ3RYMVBhNWtoZGpMS2lwa1ZjanI5NEJjU3k5M1hvODJxeFlqVUE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
+      "editoria": "mercado-livre",
       "data": "2026-10-28T12:15:46Z",
       "dominio": "valor.globo.com",
       "tambem_em": [
@@ -343,6 +410,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "tarifas_84456",
+      "titulo": "Aumento na conta de luz: como comparar faturas e entender o motivo",
+      "lead": "Aumento na conta de luz: como comparar faturas e entender o motivo",
+      "fonte": "Quero Bolsa",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QazgweWFfMnUyWDNyamU2aUNvREQtck1aUC1PeVEtRGN2Vy1KclpmbmNmazh0cVZuY0xraE1ROUhOXzJTX3FMNmlkVkFMWmxLNVJzbldpcF9FbEc0ZEVZOHB5a2JLSEVp?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-10-26T22:07:59Z",
+      "dominio": "querobolsa.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
       "id": "transicao_17465",
       "titulo": "Setor elétrico defende novas regras para baterias e aponta economia de R$ 1,6 bilhão por ano",
       "lead": "Setor elétrico defende novas regras para baterias e aponta economia de R$ 1,6 bilhão por ano",
@@ -565,11 +644,11 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "regulacao_19323",
+      "id": "regulacao_33752",
       "titulo": "ANEEL acompanha fornecimento de energia durante as Eleições 2026",
       "lead": "ANEEL acompanha fornecimento de energia durante as Eleições 2026 Governo Federal",
       "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1A0Z3QyU1pyVWxoVWMtZHROdzRiVVkzM0pzSU9wOFJkbkpaakpBOWZVaFFuWEJlR2FHVmdDaUJxTzZuZFd6UUdxRG9SV2tUSGZnbjdnVmZRMWMwdUxyQ3JYa3NCMVB2dE56Vmx6NFNKR0ZKMHRRQ2ZIY18tLW5zNk12cmtFV3pUZE9yZ3BPNnV6M3I1YXVudTkycjJVV1k1cUFSMFNtVkZ6QzltTmJLWVd4TFlhQ1BQcWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTBEYlNmQXU5cVpjS3dGdjR1bkMyNmtWdDBLY3ZkZ1F5WEFCenVWME1JV0lTV3R4WW55U254dEt3VVVuWUJRMEFlMnNlYkxYaVBQTFhhQ0dNZXFMV0p1ZWNLZWVDTWlaajRfSXhwVnZTZWdiWXJteGY4SUUxYWhoVHV6bEUybWVaMktPcTNFcGh1eF9qNnNFT0xfLTh0Sjdydl9SM1dvc2lfUnpEamhvYkN1cjdVUlpoRmx1aTVOeFoyaWhxMXdkVm5DVEs3cW1Z?oc=5",
       "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-26T07:52:00Z",
@@ -680,81 +759,6 @@
         "Tribuna do Norte"
       ],
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_44541",
-      "titulo": "ANEEL E CCEE Estudam Liquidação Semanal No Mercado De Curto Prazo De Energia",
-      "lead": "ANEEL E CCEE Estudam Liquidação Semanal No Mercado De Curto Prazo De Energia",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdllNOHNkWmNEbV9TSmk0NENGenNJNy00eklOcHY0WTVWeDZ5ZGVtZ0tNelRzTGE0ZHFRSzlOSklyeW80ckNBcTRFTHlPWElVbXJyMHdhZG4telVoMHFyWWl1a3pGY1VDLUY2QlpoLUM4QmhybXRlcXVGbG9pV2hoT0NFNWh2VU1MNmcwUEx6Tjc4XzNqWVhzQmVSUFFDNGg5OEJOTXRpaEFwdWVacThGS28ySlluOGt6LWc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-22T20:49:45Z",
-      "dominio": "cenarioenergia.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_5737",
-      "titulo": "ANEEL estuda medidas para reduzir risco de alavancagem no mercado livre",
-      "lead": "ANEEL estuda medidas para reduzir risco de alavancagem no mercado livre",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXFQM3dWRXY0NEdTd0RtVDFKMVZ3TUhHVDlsRVFIb1dZenlfZEFFMWozOXdjTFNHY1FPcFVWT0w2WG9KSlpJcXNYMEpfVmF5LVo3VkEwOXRORHltVFlhOE1QTG1nZmtxNFN1NnJlWE1rQXoySVZXS1dxczU4cElEcmxuUUx6VHFORGlrREtYQ0ZGZUZ2d29Objl6RThEUjN0SFVRdA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-22T18:30:00Z",
-      "dominio": "agenciainfra.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_82477",
-      "titulo": "Reforma Tributária leva ANEEL a propor adequações nos contratos do setor elétrico",
-      "lead": "Reforma Tributária leva ANEEL a propor adequações nos contratos do setor elétrico",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2RQZmhUX1RobjZFWm52b25WNWlUZTJQUUlFalpQUEp2RXdzQnRFQkxlZzFkcTdKTzkxVE9hMUljNWhSek15UkZXR1ppZ09jOEhBR1JQNTdxaFVFUHBLd05Pc2V0OU1Hc1c2bGFrbkdqY3VHcnBQQTVEcUhMd2c3UUFn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-22T17:01:35Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_69738",
-      "titulo": "Por que os primeiros leilões de baterias do Brasil correm risco de adiamento?",
-      "lead": "Por que os primeiros leilões de baterias do Brasil correm risco de adiamento?",
-      "fonte": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDBDNE9NemVNQmRSTGdFQ1hXTloyM1lKQmg3d3NtUGI4eU9fNnMyZzI3R3N1VUlpSGVxME83UmJNSnM0Mlo4dGtzZzBIZm5CcDE4WVJxMkQtdEZTakxtZUphN2ZNTWhEQW04RGtfZ05La0k4dy1ib1NCOFdjVnNSMUJ6OFFYWVR2SndZRGZRQ3h4NFR3Y0lBUnkzVkFpbmV5QUpQQ1hkbHdrQjZVTHZYMjhicWM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-22T15:21:38Z",
-      "dominio": "www.bnamericas.com",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_33129",
-      "titulo": "ANEEL aprimora regras para sustentação oral",
-      "lead": "ANEEL aprimora regras para sustentação oral Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMW5CY0sySno3ZDBBN0Y3cEp2OGZhTGdlTm9OVWx6N0g0Q0pWTnBjNEEyMUlxcF9IOUZCOGw4R0dZU1F1NC1OczRNMVJ0eEZiYjJzMnpSQWxzYlhYMnpvNFFTNU5EckdoYm40NEM5aExGazBvc2t6MlB6aUl5YmRMclVOOHBuUTBXQ0FkMDZtOHFLaFA4WUF3VGtZYllkVW52VHYxa1RKQnJHQW5tVmJnT19nT2k?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-22T10:04:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_29031",
-      "titulo": "GitLab ficará indisponível nesta quinta-feira (22) para atualização",
-      "lead": "GitLab ficará indisponível nesta quinta-feira (22) para atualização Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmh1LUJaX0RlSUFTZThIbnRiT1o1ZUNLRHFLeUU2R2lVU29tRm9GeTA1aThpUUdBNTF4OHMzQktvTy00ZUdWbkxlekktc1VjUzVXbjROMDlrYVJiM2FHVDIzTm1PeWhYM2FkS0JpRXRjZnoyc3pCYXI5SzlUWWF5VDIxcFZVMTZaNUF6eVFDbnVPWTBQV01uQ1RwbkNwbERsMHVQdjk5NzZnMm5NWTNfUjlneXF3SWYtZjdN?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-22T09:56:00Z",
-      "dominio": "www.gov.br",
-      "tambem_em": [
-        "ANEEL"
-      ],
-      "tema": "regulacao-institucional"
     }
   ]
 }

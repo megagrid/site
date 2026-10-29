@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-28T23:22:23Z",
-  "score": 30,
-  "nivel": "normal",
-  "nivel_desc": "Mercado em equilíbrio",
+  "updated": "2026-10-29T17:43:30Z",
+  "score": 62,
+  "nivel": "atenção",
+  "nivel_desc": "Sinais de pressão nos preços",
   "componentes": {
     "ear": {
       "peso": 35,
-      "valor": 58.4,
-      "score": 42
+      "valor": 0.0,
+      "score": 100
     },
     "ena": {
       "peso": 25,
       "valor": "via EAR",
-      "score": 43
+      "score": 90
     },
     "pld_momentum": {
       "peso": 20,

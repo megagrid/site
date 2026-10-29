@@ -1,10 +1,31 @@
 {
-  "updated": "2026-10-28T23:22:30Z",
+  "updated": "2026-10-29T17:43:37Z",
+  "fallback": true,
   "itens": [
     {
       "rank": 1,
-      "titulo": "CCEE e ONS promovem workshop sobre segundo Mecanismo Competitivo do Sandbox de Serviços Ancilares",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTzQtNDBUOVJ5blVuMFR1X2NVY0VhTTJVODA0Z2pTNE1fZS00cTg2WEFQajYtcC1Xbkd0b2EyWFlHcmpLRUgycDVIZGpBZU44Wno5enJ2US10ay1odmkyb0toZWNWeDBvQmZzV3BIMkdpUGZpcnFZUWtFQW5EbEF2U3VVRmREUngwVTRMbjFKaTh1VW1jaFlpNjJIS0ZULVMtc0VJY19PSjNKdXpwR3NlNUlDZkVJbDJxbDhzMnR4OFA1cmFUa3g5a1NTQXc1dw?oc=5"
+      "titulo": "Governo planeja leilão de energia elétrica para a região Norte em 2027",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2RlZ0NUTHZ3anVHYkFndXZfTGlpRXBOcDVrZXFiYWNMZUtwcmxKU1pNZGZOcklpTjFJNS1Ebi1kZExTTWtfTE53bHJNTlRiMnNwRzEwX3ZpelJiajRKTU10UWctN0lCNGIwTi1IZ2VDUkFSaUJhVWVvdTNLa1F5ZXVTYV9oU05ZMDVURGhiWXI5R1FFV3dQdi1zSllJWjZqSDFtT25IOVlTeTNHYUUyRk5QVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "titulo": "Mercado livre: migração terá prazo reduzido pela metade e será automática",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHVLVDZaNVpnTUlOYVJFVmdQbjlmUG96Y29vcmpaWkk5TGFTdkN0elh6TFV3WXprMUVkSDJGSlhJVkRoYktoNzhIS2t1aWszYV9mMDVrVTZMTTVuOEFvcXp5dkZDZFhIeTE4akE0MDRXa1lvZEEzM1JjQU1SUWJkX0xTY1Q1eHhaZzZHN0dzNl9pRVBfWTNST3NoYWE5cEtIcW5MZGlB?oc=5"
+    },
+    {
+      "rank": 3,
+      "titulo": "Ministério prevê leilão de energia para sistemas isolados em junho de 2027",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWpVYTJwN1JHbkk3TG9WV0lrTlhTMkRTRC1Qc3pVZ1FxaDBWVWFUZG5tQ29NcUVOb0NvcmVhSWNQdHhNc1BMTzlFU3l6X1dyZjVuVVdER19ocHY1dFhfVi1lVTAwTkdBZFVocDFac2U3Wm55ZTdNdTFDLU13WHdLNkJnRVdNc19FYUhmeHhmNHR2WTMwMGtQQTdZQ0dndGdzUVZVYzJUSFo2U3VEMzVHWmJYSmJEbHcybnFKNnhGY1U3bkJvNndGQXRn0gHYAUFVX3lxTFByVWtobXA4TGhNa0NkX01wZ29YTk1yOW8xby1hSVo1V2tmRWFPYzZRNDZEeU5tMEtWX2dzYkRvUVhMWEcwVlV5cGZJcmdOUnN5NElHYXRpUU05b21zRjZfaTQ2aDVSWXBEWDdCN0owLTNzSzlMVGwxVEVwYngyTjhnMXNSbUs5NmdubjhaUXFKMk9qZGVTc0IyaWRVZ3FEek9hOHc1OHB1akI2bnY0SzFVT1NuTEVxOFBuY0I3dmtodmJNUlRzdVBlODkydURHTnlneEthWTFHdg?oc=5"
+    },
+    {
+      "rank": 4,
+      "titulo": "Motiva fecha autoprodução solar com EDP para abastecer VLT e outros ativos de mobilidade",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0QzSXJEQmJhdzdSODdZeVpJOFVPaWU3S1U2RFhYWVQxSFVBQU9uOHNNUEh0RjR3NDZGdkxRbkNVeVFVT3hMTUdiLVdoSVlZa24xR2dRbXhjTVVMLXF1WnZLWHQtOFVGcV9fWktyZDZuMlVWQ1c1Y1QxQmFkQmZETE54NklUSFkzTVpHZ24yNDZtNXIyTEI3eFpCNWpNVjVndVhhVmJhTjgtNXU2QWVvbm0wR3BHNGhOQnVDSEpGR3B4SFdOTHpiZlN3?oc=5"
+    },
+    {
+      "rank": 5,
+      "titulo": "ANEEL abre consulta sobre fim do desconto na TUSD e na TUST",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTFRWRHpidWhYanhsaHU0TzV0TTJMRzNVaExvdEt6dEhmRjdpbnZ5blRod0RLV0MyaFhqRm11OUw4TXVsN3J3eURkRUhkRFM4TkZHMW9ESFpmNVZsNHIwNjV5clVkRnJXdmtYU3hmWDlOQQ?oc=5"
     }
   ]
 }

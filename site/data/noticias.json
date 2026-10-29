@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T17:43:36Z",
+  "updated": "2026-10-29T23:27:40Z",
   "total": 60,
   "itens": [
     {
@@ -608,6 +608,18 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "politica-energetica_50279",
+      "titulo": "Lula é reeleito e setor espera continuidade na política energética",
+      "lead": "Lula é reeleito e setor espera continuidade na política energética",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWHkyT0wtN3RUSjFSMVVRRVRqa1FmWDhYZzdNX2VDS25FRFRWZDVhVXVnTVVHUHpRNEhuekUtaEhWejk0YjZySlRQZkFDUGlfeFNsbjVqNmoxcnpQUzJjME5YekZzX0pCNlBDNjJHYXBRejRLbVRqTE92c3gyXzVEdHNoWmJ6TmtySE5tV3cwN2cwLW5QS29vTkxLUnFHQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-26T13:38:01Z",
+      "dominio": "agenciainfra.com",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "regulacao_82974",
       "titulo": "Leilão de transmissão nº 4/2026 de 2026 será realizado na próxima sexta-feira (30/10)",
       "lead": "Leilão de transmissão nº 4/2026 de 2026 será realizado na próxima sexta-feira (30/10) Governo Federal",
@@ -744,21 +756,6 @@
       "data": "2026-10-23T10:00:51Z",
       "dominio": "www.alemdaenergia.engie.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_98383",
-      "titulo": "RN tem nove projetos de baterias para reduzir cortes de energia",
-      "lead": "RN tem nove projetos de baterias para reduzir cortes de energia",
-      "fonte": "Agora RN",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGFEaEZrMUZkVWIyRlg2eWVfVGlRYXppYVZra1ZKeXdRWUdQM1lGN1FUQ1lLZWIyNVBLbFdENktMbWQ2dXpyaEhodThmWGdfaUJXQmNzNnlXdmhJdmRCUTRHbkh6RmNHcWl6TWRjMUs2eGlCemh3Y3EtSkR3UHE4N2pHNjJrcGNSMmNsaWhSMl9SaHE3d3poYzJKcEc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-23T03:30:06Z",
-      "dominio": "agorarn.com.br",
-      "tambem_em": [
-        "Tribuna do Norte"
-      ],
-      "tema": "baterias-armazenamento"
     }
   ]
 }

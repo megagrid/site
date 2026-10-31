@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:04:29Z",
+  "updated": "2026-10-31T16:27:22Z",
   "total": 60,
   "itens": [
     {
@@ -13,16 +13,18 @@
       "data": "2026-10-30T21:04:56Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "ACidade ON",
+        "Portal CBN Recife",
+        "Click Guarulhos",
+        "Jornal Opção | Tocantins",
+        "ClickPB",
         "ES Brasil",
-        "SBT News",
-        "Folha de S.Paulo",
+        "Tribuna do Sertão",
+        "Gazeta do Povo",
         "Agência Brasil",
-        "CNN Brasil",
+        "MegaWhat",
         "Canal Solar",
         "G1",
-        "ANEEL",
-        "Brasil 247"
+        "ANEEL"
       ],
       "tema": "consumidor-residencial"
     },
@@ -49,7 +51,6 @@
       "data": "2026-10-30T19:26:55Z",
       "dominio": "portalcambe.com.br",
       "tambem_em": [
-        "Tribuna do Paraná",
         "Agência Brasil"
       ],
       "tema": "transmissao-rede"
@@ -79,15 +80,30 @@
       "tema": "solar"
     },
     {
-      "id": "regulacao_11914",
+      "id": "transicao_34084",
+      "titulo": "Casa dos Ventos avalia autoprodução com Cargill em usina solar",
+      "lead": "Casa dos Ventos avalia autoprodução com Cargill em usina solar",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWhYWWdSeGQ5SWdhbkZCNGVVWjN5Tk9nX25lbjU1ZTRMQmtDUEp2ZEU4TVdURlFndjBuRmJoZlM4VlFoNVFFYkF4a0dYdmkydDdMd3FnVDRKMFpQM0wyT1l0ODlOZ2Zlc3JUUHpydXFkZ2ZDZkpxSTNhaWJQbHk4dkZtUGdJSTRiU2pKWWw5Tnp3X2pWcVZsZk5SVW9EQ1RDYTV6dkZmUkdPbGZ2Q3JVOQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-30T17:30:00Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "regulacao_39925",
       "titulo": "MS recebe R$ 4,11 bi em leilão de transmissão de energia da Aneel",
       "lead": "MS recebe R$ 4,11 bi em leilão de transmissão de energia da Aneel",
       "fonte": "Campo Grande News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTMxU0dFZ0RBWHdaRmdqUFVGV3lyQlA5ekM2MUdKdEUweVBuWGdEd0dKOElEbWp3bE5QMTdNR2R1WXdrazNDNzFZZG84Z1g2VUFWR2dXTk1yZDBMTmEzU2RLd1NzblY0QnpscU1xOXd4ZmUwMHRQc0dWTlc1RGd5bGZESkkxR2REbzEwU09Ga3RUWkIzY2I2X2M1WEc3dlBtbl8yM0ZPV2FlRUlpM01HcmRtTldnNzDSAbcBQVVfeXFMT2pfUkhQejg4SEdETGdfUmM2SnZOOHF3SFZnTkJPeDFHMHVQaXNuM296MVZpbEtqVzY2cFBON3JkWTBUNFZfMUYzQjBuUVduUTZTck5pX09JdnhqUy1oQzI2RUtsTFR2TUVGVWpjekhicjkxc01tN3dwLVdIbVNJNTIteUludjEweXNVLTZ4b0xkRXozWndPcDF6dVhVTDRvcjNGUWhuWkwzcnB1R3R6cE1qT3MydnJJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0p4NTZkX25oek44Vkc0cXZET1N2SnRscjdVV0p1Q3p6cDJJTG45OC1NYm51T0tUeDUtREQ0aHdzVVU1MGpweHU4YVZQOVV3STNJakl1N3lMVEdSR28yUXZpV096cUFqbnlIT1VuZFdQM2FJWXBzc0R0NTQ4ZDZYUXMxTzBnQnlldlVtOWwyaHlfSE1vYkhTbDFlOU5JeUx2MjAtdE5BRVJmY1FnMWZNaGhiaUlDdnhPS2p2RVBn0gG-AUFVX3lxTE41cTRLcDQyVkI5TkRnRlg0U1NERUQwR2doOWRVd25iX3k4ODlEZlZGdzNoaF9LbnBDTDVHOUtERjJnUng2ZkM5MklkTUxZbWdvZVY2MzBueTZ1SHhwM05ndGVoTDZhZzUwZFVXNmNDWm1od2xBOUtiMU1Eb1hSdjdGNFFaQzhLTElINUFTSEVqT25zcFNwdnVDNGNucm91VWJ0MzV0RXBWaFBHbzNoWjktRTNHb1lxdFpObXAtaEE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-30T16:59:00Z",
       "dominio": "www.campograndenews.com.br",
+      "tambem_em": [
+        "Campo Grande News"
+      ],
       "tema": "transmissao-rede"
     },
     {
@@ -125,6 +141,18 @@
       "data": "2026-10-30T14:44:16Z",
       "dominio": "acrenews.com.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_49837",
+      "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor",
+      "lead": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor",
+      "fonte": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-30T13:20:00Z",
+      "dominio": "www.gov.br",
+      "tema": "transmissao-rede"
     },
     {
       "id": "mercado-livre_84360",
@@ -277,6 +305,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "regulacao_73207",
+      "titulo": "MME abre consulta pública sobre as diretrizes do Leilão dos Sistemas Isolados de 2027",
+      "lead": "MME abre consulta pública sobre as diretrizes do Leilão dos Sistemas Isolados de 2027",
+      "fonte": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWs1RXdMWjU2c3JBYklYNkZ4a3JFbmhESzJNb1VCdndxUkh0amZYODd3QjJJSEQ5cldjLW5sWDZxOFgxeTA4WVhGZTJmRXBWWnlSWDJ6VTdVLXBQc1ZxbVVRS0NRWUNfX2R1N1dnUzNJTDhTUGRQTXpqNDdGdkhjbEFOekZtald2b3U4alFfaDJCVDVqRDBfbXR4SEN5T05JYm9WZ2xyU2ctSG9iRU14aUR5b2xtMDFELXdrUDFvVEFKNkc0YkZ0aXZSZFM3bnJwNURXSFBJbGluRm8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-29T14:36:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "transicao_80605",
       "titulo": "Motiva fecha autoprodução solar com EDP para abastecer VLT e outros ativos de mobilidade",
       "lead": "Motiva fecha autoprodução solar com EDP para abastecer VLT e outros ativos de mobilidade",
@@ -404,6 +444,7 @@
       "data": "2026-10-28T14:22:27Z",
       "dominio": "www.trendsce.com.br",
       "tambem_em": [
+        "CNN Brasil",
         "MME"
       ],
       "tema": "transmissao-rede"
@@ -732,42 +773,6 @@
       "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-10-26T20:51:34Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_63475",
-      "titulo": "AVISO DE PAUTA",
-      "lead": "AVISO DE PAUTA",
-      "fonte": "CONEXÃO MT",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNVl4MjdMWWVTZGVyb3FiaUEzNWJBWV9iZm1XQndMNXlpRkpidzRxV0RjTk5lOEd0bHhoNmQ0MkxuUjNSUDFqMVJXNUdvV0tvRnZUM1ZTU1lOZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-26T20:51:22Z",
-      "dominio": "conexaomt.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_71855",
-      "titulo": "Entidades do setor elétrico endossam que o custo com bateria deve ser dividido entre os agentes",
-      "lead": "Entidades do setor elétrico endossam que o custo com bateria deve ser dividido entre os agentes",
-      "fonte": "UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY051eFRmOWp0aU1WZ1ZlOGg2a05lVWVlc1M3R0RTakhueS1xS1FXNVRjMEZOYllzZ2tRc1VpWHhlVXk4VjlMclZkWU9oTVMtMWg3djVaV0ZaZGFDN2ZJNzloS0FsajdTWDE4ZzYtZ202SUlhaWJkQU9RNVlhbzVWVC1vVThHUkxYSng3SS1OM0hCSmtGZlBsalpNSTNZNDZQVUdCZ0hfYy1oUkFEQ1BkdTZBbEItRVVsSWJ2QnF1OW9jRUptaWRQdVl0UXBuWGhELUhzR2RpdmtxY2YtVXAwajA0d0JfOXNUQWlGN2k0Y1dYQkluTmFJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-26T20:29:00Z",
-      "dominio": "economia.uol.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "politica-energetica_16540",
-      "titulo": "PDE projeta avanço da demanda de energia e ganho de espaço da eletricidade até 2036",
-      "lead": "PDE projeta avanço da demanda de energia e ganho de espaço da eletricidade até 2036 www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUUtZS0FEcHRaNXg5QWF0eUw1VTVxUGpidVF4aG5HT1dHZkxEQU5BMEFrMnR5VW9MZ2w2c3FESlpYaHJoMlk3ZTdna0F3a1V4T25RX0YySDJzWHdhbjI4Smx4S0JvNEhjN2dfeEVFMnhBaXNia1RJUWtlc3JFTFRRQXhQVnlUZ0tiN0xaOExZbTZrenZxMUd0Y2ZYcE9mRTRHaklPWFh1WkZ0RGZaeUpoZWFjQU1lMTRWYm1VamgxMjJ3djFSSUoweEYxdFBTSUwzanozcktxV3I?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-26T20:00:18Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
     }

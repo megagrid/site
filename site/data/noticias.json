@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-31T16:27:22Z",
+  "updated": "2026-10-31T22:39:22Z",
   "total": 60,
   "itens": [
+    {
+      "id": "dado-2026-10-31",
+      "titulo": "Reservatórios do SIN em 58,3% e PLD estável a R$ 57,31 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 58,3% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "fonte": "Megagrid Dados",
+      "url": "https://megagrid.com.br/#precos",
+      "imagem": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-31T22:39:22Z",
+      "tema": "hidreletrica-reservatorio"
+    },
     {
       "id": "tarifas_18944",
       "titulo": "ANEEL mantém bandeira verde em novembro, sem cobrança adicional",
@@ -13,13 +24,14 @@
       "data": "2026-10-30T21:04:56Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "Portal CBN Recife",
+        "O Potiguar",
+        "Folha Regional",
+        "Agora RS",
+        "CBN Recife",
         "Click Guarulhos",
         "Jornal Opção | Tocantins",
         "ClickPB",
         "ES Brasil",
-        "Tribuna do Sertão",
-        "Gazeta do Povo",
         "Agência Brasil",
         "MegaWhat",
         "Canal Solar",
@@ -34,7 +46,7 @@
       "lead": "PLD no piso não garante contratos de energia mais baratos, alerta Voltera",
       "fonte": "Gente de Opinião",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejRKREdGSk5YQTN1cG9CSjhSRE5GbVZtbWJqV25zcUJSN20xNWFVNUw5X2RUY056MjJnYmc1TExpUWtGX3FMaDhaWkJscXIxVV9BN0c2aUphOEllek1CeTktVjVoeWlMVVVrN2hjZVJCZjBSUmxwZTdqcGFxUE8wRGZUMlVod1cxWUFVNWhqbXlaOFFjbFlUd0wwZUxlZHlEU3g5c1owcTN3X29kUzZ4R2t3QjNnNzZEY3I3dzVMbw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-30T20:07:00Z",
       "dominio": "www.gentedeopiniao.com.br",
@@ -286,7 +298,7 @@
       "lead": "Mercado livre: migração terá prazo reduzido pela metade e será automática",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHVLVDZaNVpnTUlOYVJFVmdQbjlmUG96Y29vcmpaWkk5TGFTdkN0elh6TFV3WXprMUVkSDJGSlhJVkRoYktoNzhIS2t1aWszYV9mMDVrVTZMTTVuOEFvcXp5dkZDZFhIeTE4akE0MDRXa1lvZEEzM1JjQU1SUWJkX0xTY1Q1eHhaZzZHN0dzNl9pRVBfWTNST3NoYWE5cEtIcW5MZGlB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-29T15:22:30Z",
       "dominio": "agenciainfra.com",
@@ -444,7 +456,6 @@
       "data": "2026-10-28T14:22:27Z",
       "dominio": "www.trendsce.com.br",
       "tambem_em": [
-        "CNN Brasil",
         "MME"
       ],
       "tema": "transmissao-rede"
@@ -763,18 +774,6 @@
         "Times Brasil | CNBC"
       ],
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "politica-energetica_71677",
-      "titulo": "MME estabelece novas diretrizes para exportação de energia elétrica do Brasil para Argentina e Uruguai",
-      "lead": "MME estabelece novas diretrizes para exportação de energia elétrica do Brasil para Argentina e Uruguai www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNc05tcVEyX0ZwYkRrNGdxTzl0bVZhYnZjdDE2YjNiUktBR0VyY3FVbjZmcWNoZE1aRHVmSjlZS1ZPYk1xRHpuR3JPbkZUaUVfUnFLRm9zMnpLckRpZk9rZUVlVkNlY0lZOU4xd3JoT21LbWs3QUZWaFBCMElhNUljZWRaOVV0YWYyYzFSSDNlXzRGZHZRcE90RGd6eklIRVF2NjBTNHk2Um91cXl0am5QNmg4UXhwREoxUDV4cFBUNjZDd1pQSWw4ZjlnWkVvRDhBQzJOMFVEM1M5UmFJY2xMQTRCV0NMZS10RTl0QzB5XzI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-26T20:51:34Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

@@ -1,17 +1,30 @@
 {
-  "updated": "2026-10-31T22:39:22Z",
+  "updated": "2026-11-01T17:21:04Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-10-31",
-      "titulo": "Reservatórios do SIN em 58,3% e PLD estável a R$ 57,31 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 58,3% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
-      "fonte": "Megagrid Dados",
-      "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-31T22:39:22Z",
-      "tema": "hidreletrica-reservatorio"
+      "id": "tarifas_36982",
+      "titulo": "Governo toma nova decisão sobre conta de luz que passa a valer em novembro",
+      "lead": "Governo toma nova decisão sobre conta de luz que passa a valer em novembro",
+      "fonte": "Terra",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb1pyZ0pvVzZWUWxlWW8wLVcwVUlHTkt6R2QwT0pCUW15M0FMQ05wTlAzX2F4aWpqTHJubXhTcFNkNFRrWlM0VmFhTF8zYkVPbnBVNnpkS3I2a0FaRUxPS2kwVEtsNG9nMHUzYk50d3U0Q3ktOHl5ZzZVMXphVjhoTTd3QldaUEpFZ2wtNTM0eVZjYWo5VUU0aEpJQWxXX25SNjRWem53a0hPZVVKOTdwRHRuLUVpLTk4VURMdkdoalc1Ul9CMkU4enh5aDdmODBZdVNrSUgwTGxYbThVNTBzcFZBTHNxQWNkQnc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-01T14:47:43Z",
+      "dominio": "www.terra.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_29248",
+      "titulo": "Armazenamento de energia: RN debate negócios com baterias",
+      "lead": "Armazenamento de energia: RN debate negócios com baterias",
+      "fonte": "Agora RN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETnJlRXN6SWQ5UzlQLVZEOS1sbzdfUFdIX2kxRVFOV25nd2NtWHBFc1U3WlZCd3BUdklXMEltVXFkbGxjYUFpc21nbEJWeDVkUDlkeVlObzZ1dHcwOWJzNjByZjJqRUYxTlMxa2RLZ0JDNHozaTNySw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-31T08:13:24Z",
+      "dominio": "agorarn.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "tarifas_18944",
@@ -24,19 +37,15 @@
       "data": "2026-10-30T21:04:56Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "O Potiguar",
-        "Folha Regional",
-        "Agora RS",
-        "CBN Recife",
-        "Click Guarulhos",
-        "Jornal Opção | Tocantins",
+        "Portal Diário do RN",
+        "NOVO Notícias",
         "ClickPB",
-        "ES Brasil",
+        "Extra online",
         "Agência Brasil",
         "MegaWhat",
         "Canal Solar",
         "G1",
-        "ANEEL"
+        "Governo Federal"
       ],
       "tema": "consumidor-residencial"
     },
@@ -51,6 +60,18 @@
       "data": "2026-10-30T20:07:00Z",
       "dominio": "www.gentedeopiniao.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_12658",
+      "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
+      "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
+      "fonte": "Gazeta da Semana",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFBUdnE4dFhlclgxSGk1RFdGb2F2VTZPRk5uM1l1VldJeFFRMUtlSDNlUl9lU2tveGQ1TTRlcHJyZU85bGpmbFNTYk5vcTNvSlFkSjZuM3l3VURwekpRc3NJTWgyWVh5a0lIaWhkalo5MVVsZkpFUkEwTlpHV2tQUktqemhhQ1dMRzlzaHNmMEQyRVpsQjFfNUJDOHBDeXAyREJzTE1iXzBzQnVMd3Y2NFZpamt1Ty1kS3gwRTlhOF8zbUNVaHRLOQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-30T19:46:13Z",
+      "dominio": "gazetadasemana.com.br",
+      "tema": "solar"
     },
     {
       "id": "regulacao_77438",
@@ -104,6 +125,21 @@
       "tema": "solar"
     },
     {
+      "id": "politica-energetica_38473",
+      "titulo": "Leilão de transmissão 4/2026 garante R$ 8,9 bilhões em investimentos para sete estados brasileiros",
+      "lead": "Leilão de transmissão 4/2026 garante R$ 8,9 bilhões em investimentos para sete estados brasileiros www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbHZDVFJITVdsOGVUM3NOeXRhc1dYV2oxUEFKMUYzekM1bnN1eTJGbGxGZHg5OWRTYlFteG96bU0zanpCQXVwbVpDcXdPakVVMnlsaWdaZWdrNVBxQnMybjhyR1dlbjljamlIS2lMSzlndktDNEpFSmdIYjFfR09EUDN2OFBESFlsbE5ZTHJCNW9HNE5X?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1606901900840-f3dba75bcd47?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-30T17:02:37Z",
+      "dominio": "www.gov.br",
+      "tambem_em": [
+        "Brasil 247"
+      ],
+      "tema": "transmissao-rede"
+    },
+    {
       "id": "regulacao_39925",
       "titulo": "MS recebe R$ 4,11 bi em leilão de transmissão de energia da Aneel",
       "lead": "MS recebe R$ 4,11 bi em leilão de transmissão de energia da Aneel",
@@ -143,6 +179,18 @@
       "tema": "transmissao-rede"
     },
     {
+      "id": "mercado-livre_27158",
+      "titulo": "CCEE reforça compromisso com diversidade e inclusão ao aderir a três iniciativas",
+      "lead": "CCEE reforça compromisso com diversidade e inclusão ao aderir a três iniciativas",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjA0dlFBTk1jVU9URi0taUQ1eFVldHNWNG5rdG5kU2E4M3hlR2xPSFpvd0RCdW9HbFpfQUhSMVFXLUhlOEJ2eDQteFdNb2NYV1ZKYUVOU3FQNGROb3VuNWpJMGtjblVLN3NIZzlDU1lsRDBvUHFCYXFmalNrYkRaT0FDN2wwUnlyZ2dNTnhhNkp3NU03YU8xZ1FLck4zZUhaeDhnLTRybUptUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-30T14:56:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_45572",
       "titulo": "Acre entra em leilão de energia para 31 localidades da Amazônia com previsão de 30% de fontes renováveis",
       "lead": "Acre entra em leilão de energia para 31 localidades da Amazônia com previsão de 30% de fontes renováveis",
@@ -164,18 +212,6 @@
       "editoria": "mercado-livre",
       "data": "2026-10-30T13:20:00Z",
       "dominio": "www.gov.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_84360",
-      "titulo": "Leilão na B3 prevê R$ 8,9 bilhões para expansão de linhas de transmissão em sete estados",
-      "lead": "Leilão na B3 prevê R$ 8,9 bilhões para expansão de linhas de transmissão em sete estados",
-      "fonte": "Brasil 247",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa1dFQWNDMjk4b2FpUkgxOG40QXF1NWk3VlNmbF9PUVhzSXk1RjE0UHNhMnV4TUtBbUstbk1wM1p6XzRXR0pxOTlUSXhUVkFjNlFGcjJlQTFKLVkyTERJeVhCX3dWVDJ5Z0ZxT0VXWmU0d28ySDUwR0w4VDI4LVhCUjd3cDNyVEVzVlJuZnRoNTVBUFVKN1lic05SU3lVS25yR01kdWxUSVVYbFFyR1NBLWM1bElrbUxwblR6OFBlMA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T13:15:38Z",
-      "dominio": "www.brasil247.com",
       "tema": "transmissao-rede"
     },
     {
@@ -371,15 +407,18 @@
       "tema": "consumidor-residencial"
     },
     {
-      "id": "mercado-livre_68370",
+      "id": "mercado-livre_87389",
       "titulo": "CCEE e ONS promovem workshop sobre segundo Mecanismo Competitivo do Sandbox de Serviços Ancilares",
       "lead": "CCEE e ONS promovem workshop sobre segundo Mecanismo Competitivo do Sandbox de Serviços Ancilares",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTzQtNDBUOVJ5blVuMFR1X2NVY0VhTTJVODA0Z2pTNE1fZS00cTg2WEFQajYtcC1Xbkd0b2EyWFlHcmpLRUgycDVIZGpBZU44Wno5enJ2US10ay1odmkyb0toZWNWeDBvQmZzV3BIMkdpUGZpcnFZUWtFQW5EbEF2U3VVRmREUngwVTRMbjFKaTh1VW1jaFlpNjJIS0ZULVMtc0VJY19PSjNKdXpwR3NlNUlDZkVJbDJxbDhzMnR4OFA1cmFUa3g5a1NTQXc1dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDlTN0Uxbi1UQlhYSmcwVEFrMFZKbmtXVUVrajVuVzdZQzdXV0lVdGhTaXpIaW10cUJDWnFCaHV5RHlXSlhhVjNVdzkyUVE2XzZkdi0xcm5tRFNoZTQxSk1VLWc5MUd2WWYyUkJOUE1LVFBPbFc4cHZhbll2V3B0NEkwUjdTNUhPM0xiV1pkYUtBUkFvUXRGQnItN3dtN2hNRlZhdFBhU2liZmc0MFo4TTFDY3RLMXBZQ3hGNUdaNW8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-28T20:15:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -415,7 +454,7 @@
       "lead": "Aneel vê espaço para acordo com Anatel sobre compartilhamento de postes",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOW9YRlBDRWJWSUwwSlJUSUs5bkJCaE8zbndBMW5XWW9Yajcya0VtZmhreEo3WUtSTjdSTVFvZ1daaHE0bG5FeV8ySVFrenVYR25jVVRwYmtCelo0eXRBZU9lQWJvX21VMFp3R2dfbExkN0duaG9RUnhuZkpSNnJEd0RRVTZEQkI2b1d0b3cxUWVIMjNXcFJFemRRXzI5ZWlJQ0lrNnYtdWtCN0ttbjdyOUQxeURSWFBLOFh6YQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-28T17:30:00Z",
       "dominio": "megawhat.uol.com.br",
@@ -512,6 +551,18 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "transicao_23633",
+      "titulo": "Mudança na lei antes de leilões de baterias exigirá novas datas, diz Sandoval",
+      "lead": "Mudança na lei antes de leilões de baterias exigirá novas datas, diz Sandoval",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1IzY3h1eWZoOTNzUEI0d0JBcl8tbTFBMTh5Nzd1Wjhyc2hQVGtWX3MxUmtzU0YzQWRFUkJxTkdNeHp3QTFZM2poNnhmV3FPS2IzX2VtYXBuUzFfVjhoY2oxYmxUYVZNV2hkajRyTHdMMDJkQWhhbXNVeDNWVExKWlJteDR2WldpVFBMT1V2eDg3TE9RYkpVc2lXSUU2Zk15YU1xQ2lnSGJVTE1ZZmc5VGktWTRFYWVBV0Zv?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-28T12:18:30Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "mercado-livre_39581",
       "titulo": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva",
       "lead": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva",
@@ -595,7 +646,7 @@
       "lead": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL",
       "fonte": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkpGZUQzQUpKRjlER3JBWHFpOFM4S3dmMjY0aVBURm0xSXZkSUlqX2xyRGFuVmlFV2VlRWYwUTF3YmRNTG1SSXlaYW9MQUNZS1VhdzZWdlFydkdySE5aQ2tVY3N1azJOZDhzVU9peVNIZFZSamt4MTNPUURyS05ERmpxbThlanlxNVEwVjdtMnllSGJZU3ZzNnd1WHkzTXB1VUU1akhISGdMcE1SRm0tdVF1R0VlMXFkTzRvSTV5MGpTVjBlUU83VWpSNlYtdkJIallSbUFNSWJEU2cwZDBlUFY2eWs?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-27T22:00:00Z",
       "dominio": "www.gov.br",
@@ -723,57 +774,6 @@
       "data": "2026-10-27T11:24:00Z",
       "dominio": "oalagoano.com.br",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "tarifas_12989",
-      "titulo": "Aneel propõe criar mais uma bandeira tarifária na conta de luz",
-      "lead": "Aneel propõe criar mais uma bandeira tarifária na conta de luz",
-      "fonte": "Tribuna Feirense",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0F2dm1na0JKUWZHRVhTTjBhZUhUMFVwYVBDSWw4RG93ZDViZ3lGLXRlTjdrRjgzVTgzUmZ1cUFLR2Z3clRNdDJXMGtyQ3pqVGxMQkNRQlNQRXZLNUxsSElZeDJackFCTTdPX3NKb0QyMWxlemVEdWpjNDRiaUdpNU5qZU1kdEJjRVg0ZmRQeWhOQld3cDg5dWRWUFNzbmRJQTRoenB4cVhoN0lr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-27T08:21:00Z",
-      "dominio": "tribunafeirense.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_69089",
-      "titulo": "CNI homenageia Aneel pelos 30 anos e destaca papel da agência para a indústria",
-      "lead": "CNI homenageia Aneel pelos 30 anos e destaca papel da agência para a indústria",
-      "fonte": "Agência de Notícias da Indústria",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcm52YUJyakdSSHEyd1BLVkVKOGZPWXVzZ1hTanRLWDg4QzlUdmtocGxfS19pUXhMUDFjcUMzT1ZFRE1rSEpGQTNmTjEybXRFTWhDTmVfek14SUFYSFJzbjF0T2pQdWZ3SDZCZ1ZoYjFWUklUNzJKRHJBbUlndVZvbUFKYmNiVEN0V1hyMGs4VmVvTEFsUWZOSzZTajVXRW4wRjUwUUxMVHdLc3AtbGtUUXFIRFJhOWJ0aDVhZTJhRzhhN3lhckZYMmNyV2JPRE10dFY1NEpSS0NQLXhD?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-27T00:00:00Z",
-      "dominio": "noticias.portaldaindustria.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_84456",
-      "titulo": "Aumento na conta de luz: como comparar faturas e entender o motivo",
-      "lead": "Aumento na conta de luz: como comparar faturas e entender o motivo",
-      "fonte": "Quero Bolsa",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QazgweWFfMnUyWDNyamU2aUNvREQtck1aUC1PeVEtRGN2Vy1KclpmbmNmazh0cVZuY0xraE1ROUhOXzJTX3FMNmlkVkFMWmxLNVJzbldpcF9FbEc0ZEVZOHB5a2JLSEVp?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-26T22:07:59Z",
-      "dominio": "querobolsa.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_17465",
-      "titulo": "Setor elétrico defende novas regras para baterias e aponta economia de R$ 1,6 bilhão por ano",
-      "lead": "Setor elétrico defende novas regras para baterias e aponta economia de R$ 1,6 bilhão por ano",
-      "fonte": "Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjA3akxwSmpLQTF0MmhNdnlIWThPZkFsV3p0Rm1zSC1kVFd6bnMyRFRZRWJaa0VwaDdGcWhRdmJnSHZKM1VWWEg2cVd0WHZjS0xHeG9wSkFTNEpwdGE5OGZnMG1WZG10ZjJId3J2SlF5WGxuSmFvd3BJVS1BV3lxZmRWMHBxTGVncUp1OWVHRlpydllRc09iak9sSTdkRmVFVjdLUHEyWmZUV2dBSkMxcVNsWW9XMllabnk5UW1oaktkdUdVbXFzZ3pwcmk4THN6WlBwQVh0SGc1NHRCTDJJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-26T21:01:00Z",
-      "dominio": "timesbrasil.com.br",
-      "tambem_em": [
-        "Times Brasil | CNBC"
-      ],
-      "tema": "baterias-armazenamento"
     }
   ]
 }

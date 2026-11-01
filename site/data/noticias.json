@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-01T17:21:04Z",
+  "updated": "2026-11-01T22:56:36Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_23268",
+      "titulo": "Leilão garante R$ 4,1 bilhões para energia em MS",
+      "lead": "Leilão garante R$ 4,1 bilhões para energia em MS",
+      "fonte": "O Estado Online",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDVwTjFWTW5UV1VYNHp1M01wS0tDSzBJaXhyXzcxeGdvbnhjNXprcDNfWWtnTnFmQlJIUGZvOERNb04taTNlTDFxUHBYcE9vTjBTVW1vRnpwNFVlVXJ0aHh1TjVYLWpSTFFWZFJtS25zLTJMLWtpb3NHSDhQYl9ZbG9yeE85ZlZmMld5ZTVR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-01T19:00:00Z",
+      "dominio": "oestadoonline.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_66375",
+      "titulo": "Gestão dos custos de energia exige combinar contratação e eficiência operacional",
+      "lead": "Gestão dos custos de energia exige combinar contratação e eficiência operacional",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aNDBzVUFrSW04d0p1cE5IRGpMdHRuQkhuOW1PVklZQUdUd2lzVzhHeTNmWWEyR1B4bmJYQmQxd1VRYm9lVEYyZjFpUFdTR0VyczJWWGNQeTZUWVFIN0NlUnJUVVhFeW12VW5GWUQ2QQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-01T18:00:33Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "tarifas_36982",
       "titulo": "Governo toma nova decisão sobre conta de luz que passa a valer em novembro",
@@ -20,11 +44,23 @@
       "lead": "Armazenamento de energia: RN debate negócios com baterias",
       "fonte": "Agora RN",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETnJlRXN6SWQ5UzlQLVZEOS1sbzdfUFdIX2kxRVFOV25nd2NtWHBFc1U3WlZCd3BUdklXMEltVXFkbGxjYUFpc21nbEJWeDVkUDlkeVlObzZ1dHcwOWJzNjByZjJqRUYxTlMxa2RLZ0JDNHozaTNySw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-31T08:13:24Z",
       "dominio": "agorarn.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_26586",
+      "titulo": "MME abre consulta pública para mapear expansão de carregamento de veículos elétricos | Café com ESG, 26/10",
+      "lead": "MME abre consulta pública para mapear expansão de carregamento de veículos elétricos | Café com ESG, 26/10",
+      "fonte": "XP Investimentos",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2hpLXVqNWpvam8yYl9SWVFySFpsdmdKWVV2T2hLYlZ2N25RQ1JFaXRZVTBwaTRXQXRIYmhHTUFOMDI5S19RMEQ5MkgwQy1EX1BDWTg5amZjZFNoaEdEUk1ia0NyVUM5QVEzRGd6ckxSWlhJRFJfd2tfTEgyM19Remc3U2Q1ZGkwbE5Wdm9zNFdFanU1TjVvTlNNa2UxU1U0eUFTSTZ2WjlYM2oxYXBicUpTTVBuMnduYTg1Qkhla0RMODU1X2hxeDBUZXk5N2Nrd3Vz?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-10-31T00:08:56Z",
+      "dominio": "conteudos.xpi.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "tarifas_18944",
@@ -38,7 +74,6 @@
       "dominio": "agenciainfra.com",
       "tambem_em": [
         "Portal Diário do RN",
-        "NOVO Notícias",
         "ClickPB",
         "Extra online",
         "Agência Brasil",
@@ -140,12 +175,12 @@
       "tema": "transmissao-rede"
     },
     {
-      "id": "regulacao_39925",
+      "id": "regulacao_82040",
       "titulo": "MS recebe R$ 4,11 bi em leilão de transmissão de energia da Aneel",
       "lead": "MS recebe R$ 4,11 bi em leilão de transmissão de energia da Aneel",
       "fonte": "Campo Grande News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0p4NTZkX25oek44Vkc0cXZET1N2SnRscjdVV0p1Q3p6cDJJTG45OC1NYm51T0tUeDUtREQ0aHdzVVU1MGpweHU4YVZQOVV3STNJakl1N3lMVEdSR28yUXZpV096cUFqbnlIT1VuZFdQM2FJWXBzc0R0NTQ4ZDZYUXMxTzBnQnlldlVtOWwyaHlfSE1vYkhTbDFlOU5JeUx2MjAtdE5BRVJmY1FnMWZNaGhiaUlDdnhPS2p2RVBn0gG-AUFVX3lxTE41cTRLcDQyVkI5TkRnRlg0U1NERUQwR2doOWRVd25iX3k4ODlEZlZGdzNoaF9LbnBDTDVHOUtERjJnUng2ZkM5MklkTUxZbWdvZVY2MzBueTZ1SHhwM05ndGVoTDZhZzUwZFVXNmNDWm1od2xBOUtiMU1Eb1hSdjdGNFFaQzhLTElINUFTSEVqT25zcFNwdnVDNGNucm91VWJ0MzV0RXBWaFBHbzNoWjktRTNHb1lxdFpObXAtaEE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTMxU0dFZ0RBWHdaRmdqUFVGV3lyQlA5ekM2MUdKdEUweVBuWGdEd0dKOElEbWp3bE5QMTdNR2R1WXdrazNDNzFZZG84Z1g2VUFWR2dXTk1yZDBMTmEzU2RLd1NzblY0QnpscU1xOXd4ZmUwMHRQc0dWTlc1RGd5bGZESkkxR2REbzEwU09Ga3RUWkIzY2I2X2M1WEc3dlBtbl8yM0ZPV2FlRUlpM01HcmRtTldnNzDSAbcBQVVfeXFMT2pfUkhQejg4SEdETGdfUmM2SnZOOHF3SFZnTkJPeDFHMHVQaXNuM296MVZpbEtqVzY2cFBON3JkWTBUNFZfMUYzQjBuUVduUTZTck5pX09JdnhqUy1oQzI2RUtsTFR2TUVGVWpjekhicjkxc01tN3dwLVdIbVNJNTIteUludjEweXNVLTZ4b0xkRXozWndPcDF6dVhVTDRvcjNGUWhuWkwzcnB1R3R6cE1qT3MydnJJ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-30T16:59:00Z",
       "dominio": "www.campograndenews.com.br",
@@ -329,6 +364,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "politica-energetica_58340",
+      "titulo": "MME propõe leilão para 31 localidades de sistemas isolados em junho de 2027, com mínimo de 30% de renováveis",
+      "lead": "MME propõe leilão para 31 localidades de sistemas isolados em junho de 2027, com mínimo de 30% de renováveis",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNczhPUnRKelBWTDkxdlU1RkN5TkRNWjFWSFUyY2xfOHQ3ZjRyaUFJQ1ZrTE5mZmNPYlhfbVpTVlVXX3IxUm1BWFdVZ1FIajRtUGMzZ2JhVTRKRU9FQ2JQbm1XM01UZGZtUmNwYk9EZDBKVi1QSGlOd3NheTA0LVpRclRzcC1SZ25ESUJvRy10UXlxUDZ6eDc3Mi0tN1ctWktLTjJEaWdZS0t6cXBIejhhd1hvUVJkOGplU29rWUUzaUNwVWVES21lbGN2blB6M1NTLWRLZ2h2SWlXbllhM3c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-10-29T16:15:41Z",
+      "dominio": "eixos.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_7879",
       "titulo": "Mercado livre: migração terá prazo reduzido pela metade e será automática",
       "lead": "Mercado livre: migração terá prazo reduzido pela metade e será automática",
@@ -346,7 +393,7 @@
       "lead": "Ministério prevê leilão de energia para sistemas isolados em junho de 2027",
       "fonte": "Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWpVYTJwN1JHbkk3TG9WV0lrTlhTMkRTRC1Qc3pVZ1FxaDBWVWFUZG5tQ29NcUVOb0NvcmVhSWNQdHhNc1BMTzlFU3l6X1dyZjVuVVdER19ocHY1dFhfVi1lVTAwTkdBZFVocDFac2U3Wm55ZTdNdTFDLU13WHdLNkJnRVdNc19FYUhmeHhmNHR2WTMwMGtQQTdZQ0dndGdzUVZVYzJUSFo2U3VEMzVHWmJYSmJEbHcybnFKNnhGY1U3bkJvNndGQXRn0gHYAUFVX3lxTFByVWtobXA4TGhNa0NkX01wZ29YTk1yOW8xby1hSVo1V2tmRWFPYzZRNDZEeU5tMEtWX2dzYkRvUVhMWEcwVlV5cGZJcmdOUnN5NElHYXRpUU05b21zRjZfaTQ2aDVSWXBEWDdCN0owLTNzSzlMVGwxVEVwYngyTjhnMXNSbUs5NmdubjhaUXFKMk9qZGVTc0IyaWRVZ3FEek9hOHc1OHB1akI2bnY0SzFVT1NuTEVxOFBuY0I3dmtodmJNUlRzdVBlODkydURHTnlneEthWTFHdg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-10-29T15:06:42Z",
       "dominio": "valor.globo.com",
@@ -358,11 +405,23 @@
       "lead": "MME abre consulta pública sobre as diretrizes do Leilão dos Sistemas Isolados de 2027",
       "fonte": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWs1RXdMWjU2c3JBYklYNkZ4a3JFbmhESzJNb1VCdndxUkh0amZYODd3QjJJSEQ5cldjLW5sWDZxOFgxeTA4WVhGZTJmRXBWWnlSWDJ6VTdVLXBQc1ZxbVVRS0NRWUNfX2R1N1dnUzNJTDhTUGRQTXpqNDdGdkhjbEFOekZtald2b3U4alFfaDJCVDVqRDBfbXR4SEN5T05JYm9WZ2xyU2ctSG9iRU14aUR5b2xtMDFELXdrUDFvVEFKNkc0YkZ0aXZSZFM3bnJwNURXSFBJbGluRm8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-10-29T14:36:00Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_42414",
+      "titulo": "DADOS HORÁRIOS DE GERAÇÃO",
+      "lead": "DADOS HORÁRIOS DE GERAÇÃO",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bGY0OVotODFfZHFfMWU4emwyVmd1WlluUEhkUThZVmR0Z2FxZFlsc2N5MjRTelRfMWNDTlB4a3EzX25mVnc0NWgtWEFibzBKOEp5X0VucHRjVFZGTGg2MFJTaGk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1547895749-888a559fc2a7?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-29T14:08:44Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "industria-generica"
     },
     {
       "id": "transicao_80605",
@@ -495,6 +554,7 @@
       "data": "2026-10-28T14:22:27Z",
       "dominio": "www.trendsce.com.br",
       "tambem_em": [
+        "CNN Brasil",
         "MME"
       ],
       "tema": "transmissao-rede"
@@ -714,66 +774,6 @@
       "data": "2026-10-27T21:03:46Z",
       "dominio": "www.canalenergia.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "politica-energetica_78017",
-      "titulo": "MME marca sete leilões de transmissão e inclui sessão adicional em dezembro de 2027",
-      "lead": "MME marca sete leilões de transmissão e inclui sessão adicional em dezembro de 2027",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWlZTTBreUJPV2FKdEJ0T3Nxak9SWWdKM2dlSVdOVEVucHprNWRzVDhKaUNVT09QeURBX1A4U0dyZmY0ZE5XR1FTMWt1TFpCM2t4NUZyeGs1T1A5S2V0ZWRnb19YaFRpc1dQa25iRjVid2ZfcVNCT016ZWdvS1h2MUF2cEp5VzFEdFF4dWJld2N4bXlXMTBuZ2Iwd3AwandxRXVxaWpGR21XdVZZTWYyWWVvYS1mTlRfeGEtazZrWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1606901900840-f3dba75bcd47?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-27T15:37:11Z",
-      "dominio": "eixos.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_13185",
-      "titulo": "Neoenergia lança ação para empresas do Guarujá que buscam redução de custo da energia",
-      "lead": "Neoenergia lança ação para empresas do Guarujá que buscam redução de custo da energia",
-      "fonte": "Neoenergia",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR1R5YXdreXhmMEthZlNHMkh2QmFYdXhFaFdjcDc1MnNQTlg5MTBadUVMbGk2b2F4WjFUX1RRNlVua2laX1JvNzNVbTJIMjh1cHpIQ2hGX2tCMWVPcjFCV1h2eWZmcFRDVlJHQUJUeWp2U1g2WmM1MU5EbUVlbDRPcnNmemJYSzU4LUtBd1JiZjBTam5BQTZUajhGWjlGY2VRZV9PSjRUVnBQa1pWLTRMZDhJcHB5ZlZWSDktaXBVYnVfWmZ0WExxSk1hZEg4dEpEUTE3Q1Uyclhzcm43?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-27T14:44:35Z",
-      "dominio": "www.neoenergia.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_70197",
-      "titulo": "CNI presta homenagem à ANEEL pelos 30 anos de atuação em prol do setor elétrico e do desenvolvimento do país",
-      "lead": "CNI presta homenagem à ANEEL pelos 30 anos de atuação em prol do setor elétrico e do desenvolvimento do país GOV.BR",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdkVrSUJYVF8tdVFObUJ0cm0yMnlhdFpmSHVuVTFLQ2NlQ0dhY1p0NlhYVlRFSjROTDBTaWdqYnpzTFlhV3VqUjczQ0hnUzVObndubjZWZ09MLUJmem9FTm9iYlNaNldLUWFXU3JVRW1fNVRFcXBCY2p6X1Z5UjBQWmlHNzNZdkppUEhGVHdiZnF6ZG1nVUM3aEJldExqWEFvckxPRDRVRUJxbzNrMzdXdkdKa0ZLWkRuZmRnZGV2ZzJqdUY2MnBkM0R3cEpGNG5zVkQzblJjMXl4UGRqMTBjZVA1bDd0bGhkTWlqZmxveTdqNVA3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-27T13:51:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_63342",
-      "titulo": "Governo planeja 7 leilões de transmissão para ciclo 27-29",
-      "lead": "Governo planeja 7 leilões de transmissão para ciclo 27-29",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3lkZ0x6d3ZDTkZsTzFJLVBjYmJ2TEg4azQ3eC1Gd0NPb0VHWXMyQzgyNllkWWR4ZktZUXRoWTdCcUtrd3N3Mm93Q2RVOG5xajN2MEhqS0F0RklrQURZOGdiLXBjaEczcEw0X1hhWElWdjFkcjh0RFc4cVZQYTAtdl9keGJDeFVoTFNsN2VyZWxmTm4zQloxY3FMRVhWUzA4TzRZVA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-27T13:27:28Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "tarifas_18619",
-      "titulo": "Bandeira verde mantém conta de luz sem cobrança extra em outubro",
-      "lead": "Bandeira verde mantém conta de luz sem cobrança extra em outubro",
-      "fonte": "O Alagoano",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTNCVmlnT3BtbjRnaldKNk9Qd1BIZDNVZktNTE45Uzk4VDM2LTFOZHk1SW9jNE54SkI5ajFEWWJpenNQVHcyOWVDVVVDODdYSmRaNDdoLTBhY2xLYTVTWXVUQlZaMWNVMjFmNnA4Q20wNm9TVFUySTV1bFgzZXBmdUNFUHRvRmM0RWt3T0JRZmI3T0J0NlVlSm41ckRrZWhvR2UtbkRBaUoySkRValZnYWI1ejJaUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-27T11:24:00Z",
-      "dominio": "oalagoano.com.br",
-      "tema": "consumidor-residencial"
     }
   ]
 }

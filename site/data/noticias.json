@@ -1,14 +1,50 @@
 {
-  "updated": "2026-11-01T22:56:36Z",
+  "updated": "2026-11-02T20:58:29Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_11529",
+      "titulo": "Acre está entre cinco estados contemplados em leilão de energia para 31 localidades isoladas da Amazônia",
+      "lead": "Acre está entre cinco estados contemplados em leilão de energia para 31 localidades isoladas da Amazônia",
+      "fonte": "AcreNews",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcml4emtES1VkdzIzTV9PeVZBajl4M0RMUTdCVWtNajNpT3podWxtRXY0blJvdUV0VWthUmEzblZjSHZJd0tWOGdYYXRLT1VDV0tOdmJkNmFhNldZZ1JheDItR2RmazBPV0c5WDdQanUzRHBXdTlKLVV0Q2ZQTGNwVzZQaExfZFhNMlB5dTkxYXV3cFRSUXByWUJobTZBd1RqZkpubzhLMWh0a2NHVkhHY3RlTFdnOVM2cW9QbmdfRG1kb01vVW1IeQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-02T20:02:04Z",
+      "dominio": "acrenews.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_47184",
+      "titulo": "Abraceel aprova autorregulação e prepara monitoramento do mercado livre de energia",
+      "lead": "Abraceel aprova autorregulação e prepara monitoramento do mercado livre de energia",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXhRQXBVRmFPTEZUUS1JVlhpSXV0RXAtTGNOTVNnNzAtc04xY2dteU1fbGsxVDdZY2x2aG96OERrUFlVNU1zOUJXZXVIT1ZySldHbVNhUlBFdmVTZ0hLdlBrZTNfRjBENHZsUUZ0SFFPNS1PMTVkZmNGZm5ta2tjT2VYOA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-02T16:00:00Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_36274",
+      "titulo": "Leilões de transmissão de energia podem superar R$ 50 bilhões em 2027",
+      "lead": "Leilões de transmissão de energia podem superar R$ 50 bilhões em 2027",
+      "fonte": "VEJA",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWhaX0pMcDRwVDNUSHJHQTVJVjc5MlRLY1poeEl4SGVwcEREaWFKZTBuR3JaQnZhLTlZVXRYcTJ4RGtiRWxSbmNIY2NtS1dzTHVSRm43UklhVmNjQjdYTjBEMWtlSzJ2SE9XNGhwRXBINld2dmFITlJNSi1JOFlIX3NMWHJIRmZ0VUQ3RzhyaUtuNkZxdDBhcEdvb1JmbWE4aUVPQmd1dw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-02T14:46:44Z",
+      "dominio": "veja.abril.com.br",
+      "tema": "transmissao-rede"
+    },
     {
       "id": "mercado-livre_23268",
       "titulo": "Leilão garante R$ 4,1 bilhões para energia em MS",
       "lead": "Leilão garante R$ 4,1 bilhões para energia em MS",
       "fonte": "O Estado Online",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDVwTjFWTW5UV1VYNHp1M01wS0tDSzBJaXhyXzcxeGdvbnhjNXprcDNfWWtnTnFmQlJIUGZvOERNb04taTNlTDFxUHBYcE9vTjBTVW1vRnpwNFVlVXJ0aHh1TjVYLWpSTFFWZFJtS25zLTJMLWtpb3NHSDhQYl9ZbG9yeE85ZlZmMld5ZTVR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-01T19:00:00Z",
       "dominio": "oestadoonline.com.br",
@@ -20,7 +56,7 @@
       "lead": "Gestão dos custos de energia exige combinar contratação e eficiência operacional",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aNDBzVUFrSW04d0p1cE5IRGpMdHRuQkhuOW1PVklZQUdUd2lzVzhHeTNmWWEyR1B4bmJYQmQxd1VRYm9lVEYyZjFpUFdTR0VyczJWWGNQeTZUWVFIN0NlUnJUVVhFeW12VW5GWUQ2QQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-01T18:00:33Z",
       "dominio": "canalsolar.com.br",
@@ -73,13 +109,14 @@
       "data": "2026-10-30T21:04:56Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "Portal Diário do RN",
+        "VEJA",
+        "Alagoas 24 Horas",
         "ClickPB",
-        "Extra online",
         "Agência Brasil",
         "MegaWhat",
         "Canal Solar",
         "G1",
+        "O GLOBO",
         "Governo Federal"
       ],
       "tema": "consumidor-residencial"
@@ -97,15 +134,18 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "transicao_12658",
+      "id": "transicao_13803",
       "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
       "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
-      "fonte": "Gazeta da Semana",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFBUdnE4dFhlclgxSGk1RFdGb2F2VTZPRk5uM1l1VldJeFFRMUtlSDNlUl9lU2tveGQ1TTRlcHJyZU85bGpmbFNTYk5vcTNvSlFkSjZuM3l3VURwekpRc3NJTWgyWVh5a0lIaWhkalo5MVVsZkpFUkEwTlpHV2tQUktqemhhQ1dMRzlzaHNmMEQyRVpsQjFfNUJDOHBDeXAyREJzTE1iXzBzQnVMd3Y2NFZpamt1Ty1kS3gwRTlhOF8zbUNVaHRLOQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
+      "fonte": "Portal Revista Kdea 360",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTm1zelVDUllCS0duaFE3Ums4WXljck5XX1lkMU1XZzB5UGZQRlhJMTdzQUdabXlxdlE2RmFzblVFTXdralV4MGRPaGRQckhNY0hUeEpET2F5dmdZU05HODRGZEFxQ3pNeFFxMlFqU193RnBJcmxkaFJ5QjF3X0RDT3UzSUQ5cHVQN2xxejVFcnhpV2xBTHQ5YW5OWk1VcHljOFVYTjFwaVNMWXctbzhROVBZWmZ2MmpxbFVCdVRqT0tZUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-30T19:46:13Z",
-      "dominio": "gazetadasemana.com.br",
+      "dominio": "revistakdea360.com.br",
+      "tambem_em": [
+        "Gazeta da Semana"
+      ],
       "tema": "solar"
     },
     {
@@ -199,6 +239,18 @@
       "editoria": "regulacao",
       "data": "2026-10-30T16:35:00Z",
       "dominio": "agenciabrasil.ebc.com.br",
+      "tema": "transmissao-rede"
+    },
+    {
+      "id": "mercado-livre_31671",
+      "titulo": "Espanholas dominam e leilão de transmissão tem deságio médio de 50,10%",
+      "lead": "Espanholas dominam e leilão de transmissão tem deságio médio de 50,10%",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHlsejJ3d0JpTE1tNDV1VElWSGdTZUFEck5WbHZCMDZ1SzdsZlZxREZJNVN3U3d3bUFKMVJ6TDZKTEVlVXJfRnF0dEJvb0FYTS1GbXp1UVk1RGlQb1lTV2o3c3pFTlhHVFViM0I5Z180ZjJVQ29oQU5JTW41ajhJR2UxdnZaSzJucENSTFN3REZyVGpidzVUWGtxUUVhVmtHUU9JY2FLSkc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1543489816-c87b0f5f7dd4?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-30T16:15:30Z",
+      "dominio": "megawhat.uol.com.br",
       "tema": "transmissao-rede"
     },
     {
@@ -340,6 +392,18 @@
       "tema": "transmissao-rede"
     },
     {
+      "id": "mercado-livre_31896",
+      "titulo": "Neoenergia lança ação para empresas do Guarujá que buscam redução de custo da energia",
+      "lead": "Neoenergia lança ação para empresas do Guarujá que buscam redução de custo da energia",
+      "fonte": "Neoenergia",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR1R5YXdreXhmMEthZlNHMkh2QmFYdXhFaFdjcDc1MnNQTlg5MTBadUVMbGk2b2F4WjFUX1RRNlVua2laX1JvNzNVbTJIMjh1cHpIQ2hGX2tCMWVPcjFCV1h2eWZmcFRDVlJHQUJUeWp2U1g2WmM1MU5EbUVlbDRPcnNmemJYSzU4LUtBd1JiZjBTam5BQTZUajhGWjlGY2VRZV9PSjRUVnBQa1pWLTRMZDhJcHB5ZlZWSDktaXBVYnVfWmZ0WExxSk1hZEg4dEpEUTE3Q1Uyclhzcm43?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-10-30T07:00:00Z",
+      "dominio": "www.neoenergia.com",
+      "tema": "precos-mercado"
+    },
+    {
       "id": "mercado-livre_10589",
       "titulo": "Governo planeja leilão de energia elétrica para a região Norte em 2027",
       "lead": "Governo planeja leilão de energia elétrica para a região Norte em 2027",
@@ -381,7 +445,7 @@
       "lead": "Mercado livre: migração terá prazo reduzido pela metade e será automática",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHVLVDZaNVpnTUlOYVJFVmdQbjlmUG96Y29vcmpaWkk5TGFTdkN0elh6TFV3WXprMUVkSDJGSlhJVkRoYktoNzhIS2t1aWszYV9mMDVrVTZMTTVuOEFvcXp5dkZDZFhIeTE4akE0MDRXa1lvZEEzM1JjQU1SUWJkX0xTY1Q1eHhaZzZHN0dzNl9pRVBfWTNST3NoYWE5cEtIcW5MZGlB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-29T15:22:30Z",
       "dominio": "agenciainfra.com",
@@ -554,7 +618,6 @@
       "data": "2026-10-28T14:22:27Z",
       "dominio": "www.trendsce.com.br",
       "tambem_em": [
-        "CNN Brasil",
         "MME"
       ],
       "tema": "transmissao-rede"
@@ -711,69 +774,6 @@
       "data": "2026-10-27T22:00:00Z",
       "dominio": "www.gov.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_2965",
-      "titulo": "ANEEL avança com abertura do mercado e institui Open Energy",
-      "lead": "ANEEL avança com abertura do mercado e institui Open Energy",
-      "fonte": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2tKbFBDSnhQNG9jRVoyTFhRWDRaNHZJTlBCdkljYl9uNDV0R0lDcE1XMVlxR1hyOWhzc2RwM3RlNEowam5FQ0FaalkzS0d0TW0tMzJLOWN6WVRJeWJPY2hQVjE3VE5KcXczU2dUT1U1ZDdsNWl4TjF1S0MyTDc0T3UzQ1JvcmF3SGt1eXhVYUluMkhzUjlRbHBicTl2YVM1alNRcmNuWGtfZEw0UTYtV0gtVQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-27T21:51:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_7025",
-      "titulo": "Distribuidoras poderão manter marcas na abertura do mercado livre",
-      "lead": "Distribuidoras poderão manter marcas na abertura do mercado livre",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzkzdUpsU2cxN3poWmo2eVJBU2JnWmxwN3dZSzVVVHZENTJBNF9sa2FOSTVvQUlaV3NDcnVZS2RncGRvUjd1bGwwQ204QmdmUnFOX09iNDVDc0NoRzV4RjlXdEczbTFrbEZEeUVMY1FLX0pxUVlDNW9rai1QNncyVENjSVVadjhUWlhXaWhqQnkxUER2NEtZRGFQOTVGTDdnLV9aTGVUY3RCU1VQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-27T21:41:24Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_63981",
-      "titulo": "Aneel aprova editais de leilões de baterias, mas prevê reavaliar contratos se lei mudar",
-      "lead": "Aneel aprova editais de leilões de baterias, mas prevê reavaliar contratos se lei mudar",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3kwUDZEenlfdGRUU2JTSDRoT1BZM1dMdTFkRkx5NHdacUpILXl2SXd1d2I1QTdEVXZ1R0FndEZUMFRDUVlmYk1kUTJmOGdCb2tMaHBYb1VFWTJIcmNrc1diWjcxYmFoNFk3bWctVlJVdjVoZUY1eDBVblB5ZGtUR19WUU10Z2lHd2pUUEwxT3B0VkpHXzF1emdJbXRPTHVQNTlPZUR0SkFZZW83NUZCUXBOQ2RmNl9KVmQ2YVJYRGI?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-27T21:33:02Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "baterias-armazenamento",
-      "tambem_em": [
-        "Poder360"
-      ]
-    },
-    {
-      "id": "politica-energetica_37050",
-      "titulo": "MME leva energia solar à Comunidade Santo Antônio e amplia acesso a eletricidade no Amazonas",
-      "lead": "MME leva energia solar à Comunidade Santo Antônio e amplia acesso a eletricidade no Amazonas GOV.BR",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbUdtdHpaS3VqVVFYd3BIaW5fbFpxMTY3aEtmYVhIV29wWF93emNQNTR6Z2tzeXhjMXNiWGFWMTdONy1QYy1lSTVlRWU4U1hYZDkzb3h6dWFXejNITXNlSkpoVUZRWEY4Q2t1Y0pkcnVaeUlCSWZEU0VKejhJcDhzemNKT2h4ZG84YnA5NFRpRjR3VUNvclEtdERyUFdOMktDYUt4U1hNa1E5dDVaeDExQzNzWkRjWFJlUlJ0eFFLck5TZ3pUYmxZdXNfVmJmOUY0ZkJtd0w4aFU3QlZGZUFDSTZBcjM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-27T21:04:14Z",
-      "dominio": "www.gov.br",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_94079",
-      "titulo": "Abraceel inaugura autorregulação na comercialização de energia",
-      "lead": "Abraceel inaugura autorregulação na comercialização de energia",
-      "fonte": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2VuWUkxeW1IVXZHVDJrajM1cTNDTnZRUHVDOTFsWW5oSmNGRGpDekhLdGhMTjJCcnE4dVQ2c2s3WmRjdTlNTUVvQjBzMUdXcDhJLVpUYktFaDdmSGpxMERaWGVPeG8xOUJLeWFMTVpfYnA2RVg4dVhxa1Byd01LZWxuZjMzS0s2ZnJvZ3hOWF9FR2c5ZlZPS1I2dVJaNDJiQldnUGc3OVQzeHowNXlxa0tB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-27T21:03:46Z",
-      "dominio": "www.canalenergia.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

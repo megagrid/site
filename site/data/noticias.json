@@ -1,30 +1,61 @@
 {
-  "updated": "2026-11-03T01:42:40Z",
+  "updated": "2026-11-03T18:45:29Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_22638",
+      "titulo": "Conta de luz segue sem cobrança extra em novembro; Aneel mantém bandeira verde",
+      "lead": "Conta de luz segue sem cobrança extra em novembro; Aneel mantém bandeira verde",
+      "fonte": "Valor Investe",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMTJIX1BmclhXbTVIZ0lBTmtwTGRRbHdCam9SRnZIT2FVMUxCaDAtV1NwaVU3RzFLdFpJZFFRV1RSR1BtQXpZSkxUTzhyWEp5S25QMmtJQzdLd1ZBaXM4RUJQbEgzZXFFaFNfeEtoLTV5amo0SmNtTW9XbEFySGkweDNfR3dnb0paLXRxV3gwX3NoMEl3MGxRckp4aFl6cEdEcGVZZnRuY0lRWGNRT2hrVXdRb055TDBlZUxpMHZ5TFRrYlpJaGl0VDE1QzlzaDlzSzUzMG5nN2JuZnh5VDlPVlI3d2lkeFFWY19vVDBvMXZPZTDSAYICQVVfeXFMT1Z1V01INUQ4MllUU0M5THZjencwcUNuUmFrSlRnRHB5MU9ZR1dpWHZoVHhtS0pIRGQ1aGRVS3VNWWlXWXJlOVFoNVU5VElQc0c4UU4xSG5nZW9aTnVQd1VDVUp3Z29BTXlORC1oUzNFOUlxeFI4Tk1LeW1lRmlDeDMzbVFvTE9uYnhicTIxTjZsLTZKU1dBSElPTnJRM2I1eUlpeFRuV0tGZ094ZTlDS1JLU2NtU1A4UHFZT2hEaWdKdFdPc3V5Y0JZRGw2MDV6TDZ2MkZ5WWw0Qll3QWNUR0FNeW51WkFZbHRQakdMTkVHZE4yS2x6Q2Y0NEZIcnlNS2Fn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-03T18:21:47Z",
+      "dominio": "valorinveste.globo.com",
+      "tambem_em": [
+        "Grupo AMANHÃ",
+        "Portal PaNoRaMa",
+        "MS Todo dia",
+        "onda poços",
+        "VEJA"
+      ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_79114",
+      "titulo": "Neoenergia destaca manutenção da bandeira verde e conta de energia segue sem acréscimos, em novembro",
+      "lead": "Neoenergia destaca manutenção da bandeira verde e conta de energia segue sem acréscimos, em novembro",
+      "fonte": "Folha PE",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1R5dEJaYmMydnB4eTdkcEhLUU5kR2VzR1hUZkplVjhkUmhIOXNydVVSbWtKa29QMHFIaXNUZjZQOHduUWN6M3FfM3ZsbGxvamJIYzJSbnBpVFNTTjUtVnp0WFNScHpXR0JrZXRXSUR5Q1RoRjFPQjJMa2FQdkJ3dHVxdk1wb0g0WkFwWlVSdHc1Nm1nTVh3OTAyTzJkWXNiYUFHZWYwTzN1bVREVG5n0gGzAUFVX3lxTE1Bc2NtT1pidzdyb3kySkgxNUpwLW1xVGVBaXlHN2VVRFZxMFJPNjhtTFRqOWZ5NjdocmNsUm9zaWdQODlwdXgwOUJyZFBoYlh6cm9HQ3EyVzIweWRlX1A5WEtYRDJCemJpX1NqdHd5SUxrWGFVTklmSmVZMlc2MUwtUW41SzNZMXBiNEtvLWlpTjBpYlZaT05iTUxLOVdTY3Z2M1cyYkwzZlB5YUQxbUlhU1Aw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-03T17:15:00Z",
+      "dominio": "www.folhape.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "politica-energetica_9627",
+      "titulo": "Relação pessoal com Lula é trunfo de Alexandre Silveira para permanecer no MME",
+      "lead": "Relação pessoal com Lula é trunfo de Alexandre Silveira para permanecer no MME",
+      "fonte": "JOTA Info",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDRnYVNLdWNSNF9vVGlmN0w1bUR6bUtqc1Q1OHZ5anhoZnFRRDVSd3RYREdEd1FRRTlCOTF6WHFMeWtQLUZKM3JMdEtTeGxZYkZ0N0ZlSjV5Q1gxWmtwUTgzUkdkQWFHd2tDaGE2TExxeWNBandUZ05qd0RyOWw4YjRCSGVoVFRRbUZpbTl1OXdCR2czTVdvS3FrbTdvbjlwRVM4TGlHbU96aDcwU0Vv?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-03T15:20:38Z",
+      "dominio": "www.jota.info",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_11529",
       "titulo": "Acre está entre cinco estados contemplados em leilão de energia para 31 localidades isoladas da Amazônia",
       "lead": "Acre está entre cinco estados contemplados em leilão de energia para 31 localidades isoladas da Amazônia",
       "fonte": "AcreNews",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcml4emtES1VkdzIzTV9PeVZBajl4M0RMUTdCVWtNajNpT3podWxtRXY0blJvdUV0VWthUmEzblZjSHZJd0tWOGdYYXRLT1VDV0tOdmJkNmFhNldZZ1JheDItR2RmazBPV0c5WDdQanUzRHBXdTlKLVV0Q2ZQTGNwVzZQaExfZFhNMlB5dTkxYXV3cFRSUXByWUJobTZBd1RqZkpubzhLMWh0a2NHVkhHY3RlTFdnOVM2cW9QbmdfRG1kb01vVW1IeQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-02T20:02:04Z",
       "dominio": "acrenews.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_85510",
-      "titulo": "Aumento de chuvas faz Aneel manter bandeira tarifária verde em novembro",
-      "lead": "Aumento de chuvas faz Aneel manter bandeira tarifária verde em novembro",
-      "fonte": "onda poços",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2hTcEYwejNPMnJkdHZ2TldQdkRqcE1EZ2wyZ241Q0RGQ3FPMy0xcDJRTVU1UWNRNEdlN01xcDhBSUxDbjBCLWcwU1o0QzlZYl9QbXRiRHVfakxfbkJSTUdRc3dKYTV2Vm5BaTIyV3Vwei1oWENGS3ZqQWU1YzIwcXJ4SVpXeDdSU09wWXRzTnpfQXF5S2dRemFRVlZRZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-11-02T18:24:00Z",
-      "dominio": "ondapocos.com.br",
-      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_47184",
@@ -145,15 +176,11 @@
       "data": "2026-10-30T21:04:56Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "VEJA",
-        "Alagoas 24 Horas",
-        "ClickPB",
         "Agência Brasil",
         "MegaWhat",
         "Canal Solar",
-        "G1",
-        "O GLOBO",
-        "ANEEL"
+        "GOV.BR",
+        "Brasil 247"
       ],
       "tema": "consumidor-residencial"
     },
@@ -353,15 +380,18 @@
       "tema": "transmissao-rede"
     },
     {
-      "id": "mercado-livre_87767",
+      "id": "mercado-livre_12184",
       "titulo": "AVISO DE PAUTA: 2º Fórum Análise Setorial CCEE debate perspectivas do mercado de energia",
       "lead": "AVISO DE PAUTA: 2º Fórum Análise Setorial CCEE debate perspectivas do mercado de energia",
       "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVXpTeWhsSHRqZmVCRkwwcFktTk5GSTEwcWVSaXhqRlB0cDhTMnMzZ1RHdzRnU1ZTVGxlZ3VBRUNfc3JjdG4tQWVMcG5UUzc5VHgwNnZWbXk5SjJrMnNRME9oQy0yWFl0SnpyS0I1dzZIcVhxOW5wS3FNcnVxLUhHMV80bWlDcEJMR25idmJsUHZNV0pPZEtTZ2taaktfbGRhWTk4bVBsSUpnb3ZzZG9McnlUdEY5YkVMZ2RMRy1LU3hydw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG9WaU1lNklHV0N4QmhsdmlVVVZBMF9NZGw5Q1Z6V0c5Q2RBdHdMRHF0eHdIQXdYODk5OExsdHplT3V3U3JBV3hwbk9zT3B4YXdwMENpNnNEZ2g2c18xelJIVC1nT0ZNOERKRDkzRHBYRmlLMGo0X1dXVS13THBjSmxDMWNFemIwUi1wVXh5elFNSmhva1BJeF9HM1FCZE1SZkRWMjhuc1FQUHZmcWdJcnNsU1A?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-10-30T12:03:00Z",
       "dominio": "www.ccee.org.br",
+      "tambem_em": [
+        "CCEE"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -750,30 +780,6 @@
         "Visno Invest"
       ],
       "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_29042",
-      "titulo": "Castellana Properties avança com mais autoprodução de energia verde nos centros comerciais em Portugal",
-      "lead": "Castellana Properties avança com mais autoprodução de energia verde nos centros comerciais em Portugal",
-      "fonte": "Ambiente Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUmNoQ3hjRnZrT2lOejFwcnpCQmxaU0tWWGFnYmRQeGpvbmFOdHF1emVKeWY3U2pfZjBMQUFMY3VTZGprVmVfUllTejZQYndlaTNSMGVZNlJ3clhOdWI0Z2dZSDVETGdqQXB3Zkp1ZkZBV1dJYW9Ud1JoWGJUQzk3aWUzTGtXaDRYT1NlNThfbF9UNFh2d2lRcXdjV0I5cEwtQnc0NEJpMUZjdjV6UWJNbVh5ZXVUZDNodDJhR1hBLUNWS3hCV0hwR0s1eWdXa2FNdFE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-28T10:53:45Z",
-      "dominio": "www.ambientemagazine.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_42780",
-      "titulo": "Aneel revoga autorização da Electra para comercializar energia",
-      "lead": "Aneel revoga autorização da Electra para comercializar energia",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEVzRmMwVmJVWmRkVHc4NUwyU0I4aWRucjU2S0V1T0FoZGowRUpzbWV2eml1S2E0LVliSjRZaGRaY1ROUnI3dVhZM0NGekE5UmxkTThNTmNqNlBhZHg0RGdoWXVuMVdXUzdCRkF5ZW1IclZLZ1M4dm13N2dtYVNreFBwM2VNWTV2NUo1bEQ5V3lrQW1VMGRVV3FGbkJyRzMtNGl0N2NlVks?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-28T09:30:00Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

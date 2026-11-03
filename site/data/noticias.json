@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T20:58:29Z",
+  "updated": "2026-11-03T01:42:40Z",
   "total": 60,
   "itens": [
     {
@@ -13,6 +13,18 @@
       "data": "2026-11-02T20:02:04Z",
       "dominio": "acrenews.com.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "tarifas_85510",
+      "titulo": "Aumento de chuvas faz Aneel manter bandeira tarifária verde em novembro",
+      "lead": "Aumento de chuvas faz Aneel manter bandeira tarifária verde em novembro",
+      "fonte": "onda poços",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2hTcEYwejNPMnJkdHZ2TldQdkRqcE1EZ2wyZ241Q0RGQ3FPMy0xcDJRTVU1UWNRNEdlN01xcDhBSUxDbjBCLWcwU1o0QzlZYl9QbXRiRHVfakxfbkJSTUdRc3dKYTV2Vm5BaTIyV3Vwei1oWENGS3ZqQWU1YzIwcXJ4SVpXeDdSU09wWXRzTnpfQXF5S2dRemFRVlZRZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-02T18:24:00Z",
+      "dominio": "ondapocos.com.br",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "mercado-livre_47184",
@@ -37,6 +49,18 @@
       "data": "2026-11-02T14:46:44Z",
       "dominio": "veja.abril.com.br",
       "tema": "transmissao-rede"
+    },
+    {
+      "id": "transicao_89437",
+      "titulo": "Usina solar primeiro, baterias depois: por que alguns projetos na Colômbia estão adiando o investimento em sistemas de armazenamento de energia em baterias (BESS).",
+      "lead": "Usina solar primeiro, baterias depois: por que alguns projetos na Colômbia estão adiando o investimento em sistemas de armazenamento de energia em baterias (BESS).",
+      "fonte": "Energía Estratégica",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR2lINWtZUG9mWGo0VnUxLW93enI3d2FnN0pHdUF3bzdkM25ILXZmSHBCSlhZOHJ0emttYmpSQ0VIeEgtZzRGTjFYa2tJd3pjSHN4UGhmelEyZ2NzWk8zTnZjSWpsYjRhTUlPSmdEbWJOSk54YWFwMzhhRXJJMGpld0NjOW5OSXdxdHYyaDJPdUNDc0NjRFVHRk1YOHRrckxjeE41N3pXOEV4UlF1NERvWVVEQ2NHbmtBSEY2LVJXUDZDT2dVUjFJUG9GVkNaOGdkUmdOb2pucU1JUE5VRHBhY19BMGdpX2hQU3c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-02T13:24:52Z",
+      "dominio": "www.energiaestrategica.com",
+      "tema": "solar"
     },
     {
       "id": "mercado-livre_23268",
@@ -87,6 +111,18 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "transicao_64938",
+      "titulo": "Armazenamento de energia avança no RN com nove projetos de parques de baterias",
+      "lead": "Armazenamento de energia avança no RN com nove projetos de parques de baterias",
+      "fonte": "Movimento Econômico",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTTdmZVNBbjJHYThIU2kxZXlLc0FwN19QVm1oaEhOYUNlY1VDN0p1RFV5MEVHRWFrZXc5bUxOMkgtWlVvallpOXRuQW5kQVNQZ0N5YWRYR21KZHRGM0RLR0hXM05sVmRJZGRmZXM4XzJKZVhjTk5pMndxTS1GZHA5QktPaEdrVDNyWEpCSXVNY3A2WGNET0ZYRHVWUzJJTzFaNnFJQlFaQWZsaXRpOVlSelVweV95TmluWC1GOURKWTktd1Z5M0tJYVlOY3NkZlZpSnF6NVk3QVo?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-10-31T07:43:00Z",
+      "dominio": "movimentoeconomico.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "regulacao_26586",
       "titulo": "MME abre consulta pública para mapear expansão de carregamento de veículos elétricos | Café com ESG, 26/10",
       "lead": "MME abre consulta pública para mapear expansão de carregamento de veículos elétricos | Café com ESG, 26/10",
@@ -117,7 +153,7 @@
         "Canal Solar",
         "G1",
         "O GLOBO",
-        "Governo Federal"
+        "ANEEL"
       ],
       "tema": "consumidor-residencial"
     },
@@ -134,17 +170,17 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "transicao_13803",
+      "id": "transicao_99920",
       "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
       "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
-      "fonte": "Portal Revista Kdea 360",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTm1zelVDUllCS0duaFE3Ums4WXljck5XX1lkMU1XZzB5UGZQRlhJMTdzQUdabXlxdlE2RmFzblVFTXdralV4MGRPaGRQckhNY0hUeEpET2F5dmdZU05HODRGZEFxQ3pNeFFxMlFqU193RnBJcmxkaFJ5QjF3X0RDT3UzSUQ5cHVQN2xxejVFcnhpV2xBTHQ5YW5OWk1VcHljOFVYTjFwaVNMWXctbzhROVBZWmZ2MmpxbFVCdVRqT0tZUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
+      "fonte": "Gazeta da Semana",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFBUdnE4dFhlclgxSGk1RFdGb2F2VTZPRk5uM1l1VldJeFFRMUtlSDNlUl9lU2tveGQ1TTRlcHJyZU85bGpmbFNTYk5vcTNvSlFkSjZuM3l3VURwekpRc3NJTWgyWVh5a0lIaWhkalo5MVVsZkpFUkEwTlpHV2tQUktqemhhQ1dMRzlzaHNmMEQyRVpsQjFfNUJDOHBDeXAyREJzTE1iXzBzQnVMd3Y2NFZpamt1Ty1kS3gwRTlhOF8zbUNVaHRLOQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-10-30T19:46:13Z",
-      "dominio": "revistakdea360.com.br",
+      "dominio": "gazetadasemana.com.br",
       "tambem_em": [
-        "Gazeta da Semana"
+        "Portal Revista Kdea 360"
       ],
       "tema": "solar"
     },
@@ -738,42 +774,6 @@
       "data": "2026-10-28T09:30:00Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_3165",
-      "titulo": "Leilão de transmissão oferta R$ 9 bilhões em projetos e mercado prevê disputa",
-      "lead": "Leilão de transmissão oferta R$ 9 bilhões em projetos e mercado prevê disputa",
-      "fonte": "Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaU85cTF5QkY2Mjk1Qy1raEtXblVwdnZGeW9ncTV6NDdsQXNXLWd2V1pzNHhqNjRkMXJsU1V3R0hTOUxSeVV6NmhiSC14Yjd2SzlRdWVnVHA5MXloMWVQY0xWdVl6RGdYcHp2dWtLTGVPVFBXRENtZnprSWxsSEdzNktHR1o2VWRwaXF4bXhnUk0yLWU0OFU0d25LMW0wRG1CbjhaZmlGb2lxVE0tZDdvbXJ0c1B2Q3FzdGwzV3NXUHp6Ri1Xc2Y4YtIBzgFBVV95cUxOdF91UzZwenJFY1RqcEFacTE0ZDFuWnhjcV9zN3h6a19SS0hUaWhYZHo3MGdUZ0VGaDNoYTZwZ1FqckNCRktkcDhIejB2V252TTEwN3RYYUNuNXdnQTVYemFxSHJldTlvX25ad0dMa3hLUERwXzJXbFV1TDlBaXNrTnhCSVhhUWdNekFOUXlTODBjVXJiQ3FCVVA0ajhYTDN6VGM4RGZTVjRUbVFGcXhlTGhkVEZDQlJNTjhJaFFZX0MwcTVsRE5kV3QzanplUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-28T00:59:00Z",
-      "dominio": "www.estadao.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_77080",
-      "titulo": "ANEEL confirma orçamento da CDE de 2026 em R$ 52,66 bilhões",
-      "lead": "ANEEL confirma orçamento da CDE de 2026 em R$ 52,66 bilhões GOV.BR",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazByNXhneGZMcWpMdF9DMjBrVjRPcXZpU2NWRGtIeThwMXI5Y3dRV2psemtCUGN0Nmx5Ry01Tzd3bW00SW0zeWNfLWN5X2F2NEF1c1B4Vk5XUldOTG5sRjNNOG1NQ0h4cGVrWkM3eklTZWhEVlpaV3lFVlRhOC1KZFpvbFRtTzNxeGNOblJKaDdTU1MyZWJuQ0tSSUI1ckU4MUMzcm5qeS1IbXRNMHlBbmln?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-27T22:01:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_68983",
-      "titulo": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL",
-      "lead": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL",
-      "fonte": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZkpGZUQzQUpKRjlER3JBWHFpOFM4S3dmMjY0aVBURm0xSXZkSUlqX2xyRGFuVmlFV2VlRWYwUTF3YmRNTG1SSXlaYW9MQUNZS1VhdzZWdlFydkdySE5aQ2tVY3N1azJOZDhzVU9peVNIZFZSamt4MTNPUURyS05ERmpxbThlanlxNVEwVjdtMnllSGJZU3ZzNnd1WHkzTXB1VUU1akhISGdMcE1SRm0tdVF1R0VlMXFkTzRvSTV5MGpTVjBlUU83VWpSNlYtdkJIallSbUFNSWJEU2cwZDBlUFY2eWs?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-27T22:00:00Z",
-      "dominio": "www.gov.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

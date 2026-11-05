@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-05T00:27:21Z",
-  "data_ref": "2026-11-02",
+  "updated": "2026-11-05T19:10:45Z",
+  "data_ref": "2026-11-04",
   "fonte": "ONS — Dados Abertos (dados.ons.org.br)",
-  "ear_percentual": 58.5,
+  "ear_percentual": 58.3,
   "metodo": "ponderada por capacidade (soma ear_verif / soma ear_max)",
-  "ear_verif_mwmes": 168083.5,
+  "ear_verif_mwmes": 167645.3,
   "ear_max_mwmes": 287459.5,
   "subsistemas": {
-    "NE": 62.0,
-    "N": 61.0,
-    "SE/CO": 55.2,
-    "S": 79.9
+    "NE": 61.3,
+    "N": 58.8,
+    "SE/CO": 55.1,
+    "S": 82.2
   }
 }

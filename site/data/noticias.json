@@ -1,14 +1,98 @@
 {
-  "updated": "2026-11-05T00:27:30Z",
+  "updated": "2026-11-05T19:11:00Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_68219",
+      "titulo": "Cemig fornece energia renovável a 160 unidades do Exército em dez estados",
+      "lead": "Cemig fornece energia renovável a 160 unidades do Exército em dez estados",
+      "fonte": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVc1OTBWanpiSUVkc1JNSGJyQU52MU1jV1AyRFptdndsTnB4aDV2cFZmODBLNVBXdnI0LUdDRHJ1cklDNUhrWHhQbUNRcW5yQlo1b0Q3OFZhRGhvelczUFd4UllXdHliaFc0c3AyMlRpQU9hTXhZSHk3dHp5V1h6VWZBRFllT2JhcE5GdkplRHFDM1Jkbmx1RV8wQ0EwaTBZT0hXY0lvRGE0Um5Nalo4X1ZuYzFlUjNvTU1tZ0xxY2U?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-05T17:30:00Z",
+      "dominio": "www.canalenergia.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "tarifas_48030",
+      "titulo": "Conta de luz segue sem cobrança extra em novembro",
+      "lead": "Conta de luz segue sem cobrança extra em novembro",
+      "fonte": "Chuville Notícias",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUJDQ180N3VPbDNIVVJBWFFxTWxUQndfVS1wSVVNTlB4QmtnRUw2cW85RjlyOXBFRDExTEpvVGk1ZTE4UHdsOXkwT09HTGVtMElBZEtKeG1RTFF0N005THAwVVoxUnItU3V3N2pSM0hkbDZmLTc0QzNsOU5jZW9JaDEyYlM?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-05T14:48:55Z",
+      "dominio": "chuville.com",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_17351",
+      "titulo": "Abertura do mercado livre de energia abre portas para pequenas empresas, mas exige cautela com preços e contratos",
+      "lead": "Abertura do mercado livre de energia abre portas para pequenas empresas, mas exige cautela com preços e contratos",
+      "fonte": "bra1.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPczU5UFVKNC1wcXVCWXlLU2hmaW84X21NZFBDdFA5bTVjZkotY1I1UGM4SklubTY5YXJDRDNLUTZIVFBleDFwUnFIWVp1STRfSDNaSzdtUmRiVnE4dmQzVDhWdDEwblZWOExQNHF0Sjk5QjZySmNnSGVwMjc5cVJfdzBnZ25yc193LVd6ZWhtRk1GdTB0cE5IeXdHdHpwakhpVUIyX1NDSWtDZ21nTnkwWnE5TEk5dmt3ZThnZGhXM2RwS3ZVNzZxdzNQYzUwLWdLcUdvWGppcEl5SnRHMmpnMzFHZzEtZDZja1A3LQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-05T13:49:00Z",
+      "dominio": "www.bra1.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "tarifas_58108",
+      "titulo": "BANDEIRA TARIFÁRIA VERDE GARANTE SEGUNDO MÊS CONSECUTIVO SEM COBRANÇA EXTRA NA CONTA DE ENERGIA",
+      "lead": "BANDEIRA TARIFÁRIA VERDE GARANTE SEGUNDO MÊS CONSECUTIVO SEM COBRANÇA EXTRA NA CONTA DE ENERGIA",
+      "fonte": "mundial.fm.br",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnVEVjVxLUdBZTVaNHhfZVBQekNEWmQ4d3BTSW5xMHF3VDYxM3ZrV0hrcXI3UTYyVUZvckIyMkZIRE1CR1kyOXljRlg1WURJT1dyN25tdEFmTUlFZGluYmNtQm1GZ1Z1MzRVSUthd2VRZ2VOOXpfaDJINlE0WFQ2ZTd5aVMtVnN0V2pvbUowdkpQMk1pX1ZrRzlpRmd0OHVrM3I4TXNhSV9uT2NSVldZbjRjdnAtZGI4eVE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-05T12:04:07Z",
+      "dominio": "mundial.fm.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "regulacao_67594",
+      "titulo": "Energia solar por assinatura no radar da Aneel; o que pode mudar?",
+      "lead": "Energia solar por assinatura no radar da Aneel; o que pode mudar?",
+      "fonte": "Brazil Journal",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2dobmtzV1JLWUxqdHRBbktEd01ZS0lnMllQVmZmcjY5WFZBQkROOTNsU0VMZGREM2FZX2pPOVlidFVUZ3Bkci00Q01pelVTLUlFTXFGeE5BN1RhRC1ZSklGUGZaNGJaTl81R01Sd1VZWjRsQkZpLWMyS2RjQWNYOUxBOWtlSjZ0dElTaDBuTUd5LUk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-05T09:50:00Z",
+      "dominio": "braziljournal.com",
+      "tema": "solar"
+    },
+    {
+      "id": "mercado-livre_13647",
+      "titulo": "O preço do pior mês: na contratação de energia, o barato pode sair caro",
+      "lead": "O preço do pior mês: na contratação de energia, o barato pode sair caro",
+      "fonte": "JOTA Info",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUtneGR3T3JRUlY0SEJLaVBveE51aVZmbkI5U19TT0RMbVAtbTFMenQxTF9tSEJYbDdzcGV5NmJWdzYzOVhZQktESG54aWtOOE0zMVBtZWZ6THp4clBoZVNQNGxGY1dERk5WTEEzSmpnV0xsdlZTZEY0SGZ6VEdIOHo3dS1ET3FEZjQ4UllaNDRJSG5pWFREVHBHZnR2amJLZVpDcmtsRmJwdnQ0LXB5Qk9BYU9URm5I?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-05T06:29:00Z",
+      "dominio": "www.jota.info",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "politica-energetica_81354",
+      "titulo": "CMSE destaca segurança do sistema elétrico diante do El Niño e avança no debate sobre flexibilidade no SIN",
+      "lead": "CMSE destaca segurança do sistema elétrico diante do El Niño e avança no debate sobre flexibilidade no SIN www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc2dlbVVEbGFoRzhPUGxvR2I5TTVQZE4zWTZoRmlnZDJQQXYyUVQ0ZWhkS3JwMzJpTmQtZjdBYlQ3MXBBM0tlY0RPM0V3LUdPRzd4WnVnMDJlVGl2NEFNMjhWMkNFa2ZVMHVWWEV4V3JQRWJPTlJncDVhS0lBQUVUcWtQN1ZMTmJlU1VYeGZXZWplVVFEbjhMa3p0SkZnUGZ3OEpfVVktTV9yUkZKb3JpVHVqSlV4YnZ6MHBzWHJKdkVDS3lkU3BrdkFCNFlWc1k1YThwLWphRGxNM1JrVnMxa0E1OFVhSVM0WkRVRkJFeVp1aUhfanRMMA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-04T23:46:45Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_36115",
       "titulo": "CCEE limita operações da Coteminas no mercado de energia",
       "lead": "CCEE limita operações da Coteminas no mercado de energia",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcV9FNEREZGVOY3U1Z25yQkUwZEpaZU4yWGh2TlhSaVFVa2toMzU2VHlrWFFYWUJ1WUQ4ZzBRb1NlcWRQU2hqbjMzSEdCS2tuSk5sanJHMXdveFdIcGNkWm1uaHk3Wmw5TTlvMFlwQkhJSE5xcDEtSnQ4S0dZTlJ4RFhpLUxna1c5ZTA0b2c3WEdfejh5bWl0MlN1Yk8xNVpLeVRqQzBZWEFxODVCczFvM1ZoNU8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-04T20:37:43Z",
       "dominio": "megawhat.uol.com.br",
@@ -20,7 +104,7 @@
       "lead": "CNPE discutirá mistura de biocombustíveis em derivados de petróleo",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHV3WTl0aTdqbEhhLUliUENKWlVsb3FzakpSUElDbW15cDRKbWtOYjBxaHk0anpmQzZmcTc5bUVWZjFoRXlWekZON0w3VXVaU0JqR3BXRnd5TllUalVqVXphQTZJZm5sd3p0QU81VFliNVk2eHlZUlQ4Z0hVcjM5dTZoNHk2dDJjcUY4SjY3RVpJaUlVNDlhSDVxOEw5dFVQa1duZXJiM2kxQTh5bThIbzVNQ0xmMlhpRGdxNklxN1BOZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-04T19:03:11Z",
       "dominio": "megawhat.uol.com.br",
@@ -44,7 +128,7 @@
       "lead": "Governo convida Boulos ao CNPE para discutir aproveitamento de resíduos",
       "fonte": "Poder360",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWJydE0xTGNoMTFqZHIzd1Q2MTVSaGg2cWhzc0didXo2YWRHSmRrbTNYQkFWOVYwTDZjNmUzMXlKUDk0OF92VnhoTWdPc29scXBnbzdpakN1Rmd0LWdPdklyVi1HVHVRWUREWlVkcXdGUVB2Rmgtd3RobThBZVlWVXpjbjZOTVY2OXczM2VLX2xvRXc1VWptb3c2aldFdFFXdW9PcHR3SnB4anJCT1cyWmdqTkg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-04T15:25:17Z",
       "dominio": "www.poder360.com.br",
@@ -65,7 +149,6 @@
       "dominio": "ojornalextra.com.br",
       "tambem_em": [
         "A Voz dos Municípios",
-        "Rádio Clube de Canoinhas",
         "TAGD Advogados",
         "VEJA"
       ],
@@ -336,10 +419,9 @@
       "tambem_em": [
         "Enel",
         "Agência Brasil",
-        "MegaWhat",
         "Canal Solar",
         "G1",
-        "Governo Federal"
+        "GOV.BR"
       ],
       "tema": "consumidor-residencial"
     },
@@ -675,99 +757,6 @@
       "data": "2026-10-29T15:22:30Z",
       "dominio": "agenciainfra.com",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "politica-energetica_72086",
-      "titulo": "Ministério prevê leilão de energia para sistemas isolados em junho de 2027",
-      "lead": "Ministério prevê leilão de energia para sistemas isolados em junho de 2027",
-      "fonte": "Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWpVYTJwN1JHbkk3TG9WV0lrTlhTMkRTRC1Qc3pVZ1FxaDBWVWFUZG5tQ29NcUVOb0NvcmVhSWNQdHhNc1BMTzlFU3l6X1dyZjVuVVdER19ocHY1dFhfVi1lVTAwTkdBZFVocDFac2U3Wm55ZTdNdTFDLU13WHdLNkJnRVdNc19FYUhmeHhmNHR2WTMwMGtQQTdZQ0dndGdzUVZVYzJUSFo2U3VEMzVHWmJYSmJEbHcybnFKNnhGY1U3bkJvNndGQXRn0gHYAUFVX3lxTFByVWtobXA4TGhNa0NkX01wZ29YTk1yOW8xby1hSVo1V2tmRWFPYzZRNDZEeU5tMEtWX2dzYkRvUVhMWEcwVlV5cGZJcmdOUnN5NElHYXRpUU05b21zRjZfaTQ2aDVSWXBEWDdCN0owLTNzSzlMVGwxVEVwYngyTjhnMXNSbUs5NmdubjhaUXFKMk9qZGVTc0IyaWRVZ3FEek9hOHc1OHB1akI2bnY0SzFVT1NuTEVxOFBuY0I3dmtodmJNUlRzdVBlODkydURHTnlneEthWTFHdg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-29T15:06:42Z",
-      "dominio": "valor.globo.com",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_73207",
-      "titulo": "MME abre consulta pública sobre as diretrizes do Leilão dos Sistemas Isolados de 2027",
-      "lead": "MME abre consulta pública sobre as diretrizes do Leilão dos Sistemas Isolados de 2027",
-      "fonte": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWs1RXdMWjU2c3JBYklYNkZ4a3JFbmhESzJNb1VCdndxUkh0amZYODd3QjJJSEQ5cldjLW5sWDZxOFgxeTA4WVhGZTJmRXBWWnlSWDJ6VTdVLXBQc1ZxbVVRS0NRWUNfX2R1N1dnUzNJTDhTUGRQTXpqNDdGdkhjbEFOekZtald2b3U4alFfaDJCVDVqRDBfbXR4SEN5T05JYm9WZ2xyU2ctSG9iRU14aUR5b2xtMDFELXdrUDFvVEFKNkc0YkZ0aXZSZFM3bnJwNURXSFBJbGluRm8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-29T14:36:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_42414",
-      "titulo": "DADOS HORÁRIOS DE GERAÇÃO",
-      "lead": "DADOS HORÁRIOS DE GERAÇÃO",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bGY0OVotODFfZHFfMWU4emwyVmd1WlluUEhkUThZVmR0Z2FxZFlsc2N5MjRTelRfMWNDTlB4a3EzX25mVnc0NWgtWEFibzBKOEp5X0VucHRjVFZGTGg2MFJTaGk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1547895749-888a559fc2a7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-29T14:08:44Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "transicao_80605",
-      "titulo": "Motiva fecha autoprodução solar com EDP para abastecer VLT e outros ativos de mobilidade",
-      "lead": "Motiva fecha autoprodução solar com EDP para abastecer VLT e outros ativos de mobilidade",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0QzSXJEQmJhdzdSODdZeVpJOFVPaWU3S1U2RFhYWVQxSFVBQU9uOHNNUEh0RjR3NDZGdkxRbkNVeVFVT3hMTUdiLVdoSVlZa24xR2dRbXhjTVVMLXF1WnZLWHQtOFVGcV9fWktyZDZuMlVWQ1c1Y1QxQmFkQmZETE54NklUSFkzTVpHZ24yNDZtNXIyTEI3eFpCNWpNVjVndVhhVmJhTjgtNXU2QWVvbm0wR3BHNGhOQnVDSEpGR3B4SFdOTHpiZlN3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-29T13:46:07Z",
-      "dominio": "cenarioenergia.com.br",
-      "tambem_em": [
-        "MegaWhat"
-      ],
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_91037",
-      "titulo": "ANEEL abre consulta sobre fim do desconto na TUSD e na TUST",
-      "lead": "ANEEL abre consulta sobre fim do desconto na TUSD e na TUST",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tTFRWRHpidWhYanhsaHU0TzV0TTJMRzNVaExvdEt6dEhmRjdpbnZ5blRod0RLV0MyaFhqRm11OUw4TXVsN3J3eURkRUhkRFM4TkZHMW9ESFpmNVZsNHIwNjV5clVkRnJXdmtYU3hmWDlOQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-29T11:47:45Z",
-      "dominio": "canalsolar.com.br",
-      "tambem_em": [
-        "Agência iNFRA"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_95704",
-      "titulo": "Setor elétrico é destaque na solução de reclamações e na satisfação dos consumidores no Consumidor.gov.br",
-      "lead": "Setor elétrico é destaque na solução de reclamações e na satisfação dos consumidores no Consumidor.gov.br Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUDcyT25SckVOc2d2WUx2azg0YUlodGNlSXpweUNjbVp1d1Q0WnVobzM1VEJnNU1mblBGM0h0aTllQzd0Q0hsRUJCZW5tWF9xcEN2SjNEbktrTFZ5T3BSbEMzNmFWWG1pQVJqTlo2TzZuQjMzTnVrRUczOGxlajdfYkRpRG5JdlhpUDJRa0tqR2lXSUJ1WFpVbjExbXpSOXZEX0FBbXlOUDJFTUNicEc5bF9qS2FwMnVVSEhSSGp5WnBnalZGem11cnNmZjZpRHEzcVRFRGtIbWFGVFdodUNZal8xQ3NLT0hKT1BFbVMzZmk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1652715648725-c84d5035e9a2?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-29T10:08:00Z",
-      "dominio": "www.gov.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_87389",
-      "titulo": "CCEE e ONS promovem workshop sobre segundo Mecanismo Competitivo do Sandbox de Serviços Ancilares",
-      "lead": "CCEE e ONS promovem workshop sobre segundo Mecanismo Competitivo do Sandbox de Serviços Ancilares",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDlTN0Uxbi1UQlhYSmcwVEFrMFZKbmtXVUVrajVuVzdZQzdXV0lVdGhTaXpIaW10cUJDWnFCaHV5RHlXSlhhVjNVdzkyUVE2XzZkdi0xcm5tRFNoZTQxSk1VLWc5MUd2WWYyUkJOUE1LVFBPbFc4cHZhbll2V3B0NEkwUjdTNUhPM0xiV1pkYUtBUkFvUXRGQnItN3dtN2hNRlZhdFBhU2liZmc0MFo4TTFDY3RLMXBZQ3hGNUdaNW8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-28T20:15:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
     }
   ]
 }

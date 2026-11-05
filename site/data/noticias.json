@@ -1,29 +1,56 @@
 {
-  "updated": "2026-11-04T18:59:11Z",
+  "updated": "2026-11-05T00:27:30Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_36115",
+      "titulo": "CCEE limita operações da Coteminas no mercado de energia",
+      "lead": "CCEE limita operações da Coteminas no mercado de energia",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcV9FNEREZGVOY3U1Z25yQkUwZEpaZU4yWGh2TlhSaVFVa2toMzU2VHlrWFFYWUJ1WUQ4ZzBRb1NlcWRQU2hqbjMzSEdCS2tuSk5sanJHMXdveFdIcGNkWm1uaHk3Wmw5TTlvMFlwQkhJSE5xcDEtSnQ4S0dZTlJ4RFhpLUxna1c5ZTA0b2c3WEdfejh5bWl0MlN1Yk8xNVpLeVRqQzBZWEFxODVCczFvM1ZoNU8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-04T20:37:43Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_61601",
+      "titulo": "CNPE discutirá mistura de biocombustíveis em derivados de petróleo",
+      "lead": "CNPE discutirá mistura de biocombustíveis em derivados de petróleo",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHV3WTl0aTdqbEhhLUliUENKWlVsb3FzakpSUElDbW15cDRKbWtOYjBxaHk0anpmQzZmcTc5bUVWZjFoRXlWekZON0w3VXVaU0JqR3BXRnd5TllUalVqVXphQTZJZm5sd3p0QU81VFliNVk2eHlZUlQ4Z0hVcjM5dTZoNHk2dDJjcUY4SjY3RVpJaUlVNDlhSDVxOEw5dFVQa1duZXJiM2kxQTh5bThIbzVNQ0xmMlhpRGdxNklxN1BOZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-04T19:03:11Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "transicao_47268",
       "titulo": "Baterias, Leilões E Baixa Tensão: Delta Energia Aponta Os Nós Regulatórios Do Setor Elétrico",
       "lead": "Baterias, Leilões E Baixa Tensão: Delta Energia Aponta Os Nós Regulatórios Do Setor Elétrico",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQjN5Z0cwU1J4SjRMcW1OLU1BcmRxOE53UHVJWDJmTWlKMnVSbGppTzlPM3laZUp1aUpSLTNSTTJoenV0QTZNenZBODVvSXd5N0w3N0lHc1FicXFuSTVqNktGR3dZVzROZnhmVk5YN1g5ci1PTTc5X2kwMEUzMDR0YURJS0xWZnYxZ0dRVXV6V1hFblVuQkdDUjRDV1FxWHZDeE5keHFpZUV5VzFsUXlIOGJhUUVOdUtsSG9waU9CVlBsN01uZmRvV3QxT1I?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-04T17:09:45Z",
       "dominio": "cenarioenergia.com.br",
       "tema": "baterias-armazenamento"
     },
     {
-      "id": "mercado-livre_70242",
+      "id": "mercado-livre_62258",
       "titulo": "Governo convida Boulos ao CNPE para discutir aproveitamento de resíduos",
       "lead": "Governo convida Boulos ao CNPE para discutir aproveitamento de resíduos",
       "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalR0azBaV1dsSlpUTUdWSkVZeVppQnhzT1F0WGlVcU52Yl9tNGFtdTY5NUxwdXQtOVRtSndYa1V5UFk3ejhvajQyX2oxVkt5VzV5WnZlT0pic0tCUXRkVnpPOVdpa1BBVWRrRW5xWjBTMlpHZlNicGg2TWczdUROdkpDeHo1aWxvUms5dFdxdFA1bTN3NVlPX2YzekhYVllORzNlLU5CTlNiTUxuQzBEeHJB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWJydE0xTGNoMTFqZHIzd1Q2MTVSaGg2cWhzc0didXo2YWRHSmRrbTNYQkFWOVYwTDZjNmUzMXlKUDk0OF92VnhoTWdPc29scXBnbzdpakN1Rmd0LWdPdklyVi1HVHVRWUREWlVkcXdGUVB2Rmgtd3RobThBZVlWVXpjbjZOTVY2OXczM2VLX2xvRXc1VWptb3c2aldFdFFXdW9PcHR3SnB4anJCT1cyWmdqTkg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-04T15:25:17Z",
       "dominio": "www.poder360.com.br",
+      "tambem_em": [
+        "Poder360"
+      ],
       "tema": "regulacao-institucional"
     },
     {
@@ -39,7 +66,6 @@
       "tambem_em": [
         "A Voz dos Municípios",
         "Rádio Clube de Canoinhas",
-        "Portal Imbiara",
         "TAGD Advogados",
         "VEJA"
       ],
@@ -51,7 +77,7 @@
       "lead": "Leilões de baterias impulsionam energia no Brasil",
       "fonte": "Arena de Notícias",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEFUQjAwenk2WDZMeVZlOVJOZTY3cXNRWUFwR1R2MUFRYmdLY1hHdmNRSExWVFVfYzlVSURCTF92ZnJoYXpHRFlBelM3el85ZGJpcm55STgyRWF2SWI0VUk1Y0s1blhMUXBsZE5IcnkxUXg1Z3llYk5MWk1QaTBha2lwT2tadFQ1UEJXY3QtQ2xib2kyYnVQY3JnYw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-04T12:52:19Z",
       "dominio": "arenadenoticias.com.br",
@@ -116,6 +142,18 @@
       "data": "2026-11-03T18:47:45Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_90307",
+      "titulo": "Neoenergia e EDP arrematam lotes no último leilão de transmissão do ano",
+      "lead": "Neoenergia e EDP arrematam lotes no último leilão de transmissão do ano",
+      "fonte": "Revista O Empreiteiro",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1dEcEdpU2VLUzlHeEpPVEVBMFVWOTB5N1JCMU1YcUJDTWNLTklGQTFyU3NQa1F6UE9qekpGUXp1Q1QzLXJQcnNaQ1FBdWx0RFVtb3J5ZEF5LUFjRUd4NXRvU0FpVzZHenBmVGhKZ1lYeld5WkFRekZkODBYTzZfbm5wYzM2Zw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-03T18:27:16Z",
+      "dominio": "revistaoe.com.br",
+      "tema": "transmissao-rede"
     },
     {
       "id": "transicao_37784",
@@ -296,7 +334,7 @@
       "data": "2026-10-30T21:04:56Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "Tribuna do Sertão",
+        "Enel",
         "Agência Brasil",
         "MegaWhat",
         "Canal Solar",
@@ -729,45 +767,6 @@
       "tambem_em": [
         "CCEE"
       ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_67759",
-      "titulo": "ANEEL aprova Open Energy e reduz prazo de migração ao mercado livre",
-      "lead": "ANEEL aprova Open Energy e reduz prazo de migração ao mercado livre",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zTHU4V2YxTll5U3dFNTZSV1E3dVRaeHRkbm1nRWM5QTR0ZzFsT21jU1hxbGpNOEU2QUZhODZaTVFsZS16bDFSWlZyM2d5MEVZTUZXalJaNm5nNjdvcGZMTw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-28T20:10:43Z",
-      "dominio": "canalsolar.com.br",
-      "tambem_em": [
-        "Cenário Energia"
-      ],
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "empresas_68351",
-      "titulo": "Leilão de Transmissão de Energia deve movimentar quase R$ 9 bi em investimentos com expectativas de deságio favorável às tarifas",
-      "lead": "Leilão de Transmissão de Energia deve movimentar quase R$ 9 bi em investimentos com expectativas de deságio favorável às tarifas",
-      "fonte": "TN Petróleo",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZzF1aEFMWmZCcWI5cEFVYUNQaUZubzNyZkNuT3VaamlyVUswNU9aSkFSLV9UMXBwbXBITDZUaGFKQWRGSGVjTDVtb0ctNFNxTjh2TWpCaFB3SllsenFNa2g2NVBPUWticElsUVNRNTkxM0hXRlhBQkFjcmtPeGZyVy1MS05JMk1zXzhOdzF0aHFmcVMtRk03eFBfdUFnbDlrWGdmdGdJSHpPQnVqQ3lNWlhGS2MwZUxhRTZOT1QxWDA5SktzZ2Y2Njl6OThDbHY1Y29hc2EyRXFGNUtvMmJkQTdhY1lseHhTRzljZnhXX25IY2Nq?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-10-28T19:53:00Z",
-      "dominio": "tnpetroleo.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_4997",
-      "titulo": "Aneel vê espaço para acordo com Anatel sobre compartilhamento de postes",
-      "lead": "Aneel vê espaço para acordo com Anatel sobre compartilhamento de postes",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOW9YRlBDRWJWSUwwSlJUSUs5bkJCaE8zbndBMW5XWW9Yajcya0VtZmhreEo3WUtSTjdSTVFvZ1daaHE0bG5FeV8ySVFrenVYR25jVVRwYmtCelo0eXRBZU9lQWJvX21VMFp3R2dfbExkN0duaG9RUnhuZkpSNnJEd0RRVTZEQkI2b1d0b3cxUWVIMjNXcFJFemRRXzI5ZWlJQ0lrNnYtdWtCN0ttbjdyOUQxeURSWFBLOFh6YQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-28T17:30:00Z",
-      "dominio": "megawhat.uol.com.br",
       "tema": "regulacao-institucional"
     }
   ]

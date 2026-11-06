@@ -1,14 +1,74 @@
 {
-  "updated": "2026-11-06T18:38:41Z",
+  "updated": "2026-11-06T23:45:54Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_15101",
+      "titulo": "Lula prioriza energia e mineração em agenda pós-eleição",
+      "lead": "Lula prioriza energia e mineração em agenda pós-eleição",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1NTanRKTVI3ZUtVMEJHbjh3cElxMmgtQjdZREZvQTN4M1dTTHJpbUhqVzlBS2ptZFB4bVhQeGRBeVpHQk42LWUtN2RtZDhZdjJvbzIzaGFqZzRXQno4NWtFNzZyOGoyaWpDWU14Ni1DWXc3SE9CUFMyd1pVa0VGZExGcnhHQUo1YXpmeG9nSFppZWh5TlZQakFFSnlvXzA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-06T23:36:06Z",
+      "dominio": "www.poder360.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_66484",
+      "titulo": "Lula diz que energia elétrica ‘do povo’ não poderá ser usada para data center",
+      "lead": "Lula diz que energia elétrica ‘do povo’ não poderá ser usada para data center",
+      "fonte": "InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkdyUE1tMDVTblBJai12TFlsQXdmNE1CcGI4WHNtTkJ5MXl0SVNRNXY4V0VmNHhDUXBvWmc3UUxEcUl6RjJ1a0Y3T3diZGVjWVN5TldvM1RiNUdLcEl5WlN3SDZXNGNXVDZxaDBWMDZtXzVVWVMtbDl4Z3lqYjJ2SnpEVHV6cTN2TGlyQW5ndTN3VzdUZGpxekhuMkxIS3Y0OHFwVFVHU0wyNnRycDZVUDRSNUrSAboBQVVfeXFMTTB0YTE2MDhsUV9CcG1BS29EcDEwWjFXRHFQSldUdUFXMXI2YnNvWTdSRU1xWjJtRFozcks3WlE5Znc5eUYtOGtlbDJjTExTLW1aTDNreXpPcFhoQ19sak5YeTNPQ0w4TXpwRnJNWUI4S3hwQVpfMlU0OTBoMlA1b3ZyRkhxMnNrOTBLeG5qdTFjUEkyYVZIa2ZUekVJQW15NVhSU3pJMkg0OElPemlPS1J0V3dOUkNxa1dB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-06T21:15:59Z",
+      "dominio": "www.infomoney.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "transicao_61704",
+      "titulo": "Governo federal aprova plano para modernizar o setor elétrico brasileiro e prepara primeiro leilão de baterias para armazenamento de energia em dezembro",
+      "lead": "Governo federal aprova plano para modernizar o setor elétrico brasileiro e prepara primeiro leilão de baterias para armazenamento de energia em dezembro",
+      "fonte": "CPG Click Petróleo e Gás",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMzlOR1NMRW1aRG1xODZwWGxXVHBYT0c2MGNVNmJqZi1rTUduOTNOYWkyZHFzVUpRbldrR1hTVzRyQkNTUlBBNk9QZ3lTdE9LdGVHQXpzanY5MF8tNnd4a1VQMFJ2QVlOVktTWERpbndIc1VsMVBGVmpiSHlXUkpHQll2R2FxdG45TGhjdVVsa1Z5eXlYc2Zlb0hjSnh6UVViQ1BGV0VZUXhTQU1qQnE2MzBYMlBXaHRQWFZib09TckU5SFZ3RDhueEpwM3Q5SGNNMjJNdkZtTDYtUXpKZ1pMb2lpNUluaExBbkpwQndoVXdrY01nZ2JrS0pBS0pqZFBYMjBZWG1Xbzl6TzRRZzlJcXN3QXZVdHF2YVJaZQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-06T21:12:00Z",
+      "dominio": "clickpetroleoegas.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_91190",
+      "titulo": "Lula defende autoprodução de energia para novos data centers no Brasil",
+      "lead": "Lula defende autoprodução de energia para novos data centers no Brasil",
+      "fonte": "Fato Paulista",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSndHbVlLMmJhajdPZXE3RDN5YV9IeS1ucm5OVDNyOFpSWTk2UGFYaXRDZW5CRU1oZndmS1RNUG1BSS1RWTJTT25ieXZnbDRrRU9qZUNRaURTaTBYaVJPUHZyQzdnTy0zS015VzYyMTFPcUVlNDlrY3RieDFPZW5oVUJIM3Bnd0Y4aGU1bmVHS3U3NG5tTWNLcUszYV9fS09X?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-06T20:26:20Z",
+      "dominio": "fatopaulista.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "regulacao_90695",
+      "titulo": "Usinas eólicas lideram expansão da matriz elétrica em outubro",
+      "lead": "Usinas eólicas lideram expansão da matriz elétrica em outubro Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzg4Ui1TUTFXZnBiVm1NNlB0MnIwS0cyQ2NsdnZiOFQ2cE4teEw0LWtqczR6SjhyeHpFYVhMai0wM3Qza1BiLXlvZUtDRlpPTlg0Mk1MZS04d0ZVdzJZaE94UUkxTHlCeUs1MG0yY2x1bVNUcHhaSEQxM1kxc0ZGaDBVcVM0NG52WDRiS2NwT2JTQTZvbE5IZUNDaW5mOXc5TGM1ODdGMDZhYnJOZHN4cmpnR2FjZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1466629437334-b4f6603563c5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-06T20:18:45Z",
+      "dominio": "www.gov.br",
+      "tema": "eolica"
+    },
     {
       "id": "mercado-livre_92563",
       "titulo": "Mercado livre de energia será alternativa para pequenos comércios e indústrias reduzirem custos",
       "lead": "Mercado livre de energia será alternativa para pequenos comércios e indústrias reduzirem custos",
       "fonte": "Folha PE",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkRpRkphMXhLVTJYdW15dzB5UXJ0RHhIOUsyNkVnV19KanBFQk9aSVVLeEhZM09TUnlEdEFmeGpMWmJHTlpUa0lEUXNSQkw5dmJmVUxoSUVyWGE2c0hYVTYxQW93bElvV2JvdnR2cWpNakUweU84OUJLeDFsR0J6bi1xYWF1ZkRqNUJlWm1CdG9BNUtPTUJrWVpBRWVBeWZCcTltRHVYNGTSAawBQVVfeXFMTnJTX01KTURFRkE5Y3BzSHdDM2RSN2JzSHVvNWlHUk5vY2xUcS1lWV9ZOWx0VGNTY0c4bFdtOXNIWklnc1cwREpvbmJNdURQWHVmdHNGeS1lM0o0YjNuMVJhb0NkcTJoRVV4OXIzQVdWdHN6UjB3TW0xOC1RU1pBTjJ3bGtwTGZvQUZaQnR1NEFBLVYwemo4bktjVC1IOGFzbGhqeC1QR3dCNEF1NQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-06T18:13:00Z",
       "dominio": "www.folhape.com.br",
@@ -20,7 +80,7 @@
       "lead": "CNPE cria GT do Mapa do Caminho com prazo de 1 ano para conclusão",
       "fonte": "Agência iNFRA",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVdBX1JGUUlMVGR4QWJ4Y083UmJqNW9qVnZHU0Rsc19CeVVnWEF2MHNtWVI4d3dWS0lUaldLd2lXMHV5NG4tWTM1LXpnZG9lWndGd2p1a0hmMVpDcWFmUnNyWjgxRkRLbFJjLUxWLWlQbGY3ZWU2dDFsaXBSTGEzeWNhYTM2N0J5VTJiZHE0UmMzejdXLXcybWlwTmg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-06T17:53:54Z",
       "dominio": "agenciainfra.com",
@@ -37,6 +97,45 @@
       "data": "2026-11-06T17:21:00Z",
       "dominio": "www.terra.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_24751",
+      "titulo": "Armazenamento de energia avança no Brasil e entra na agenda da COP31",
+      "lead": "Armazenamento de energia avança no Brasil e entra na agenda da COP31",
+      "fonte": "Além da Energia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFN4cUd2ODhuZ25CWmZlSE9RbHdWRGtOM3hWLXN4SzJyaWpsRWFIekdQbFlKS2FKTEw4RTJuNjFVNi03cW1kRWc2WnhRZU1Obk1JWGp1bmt0a2pPWm13OHUzRlBqMTZlRFJEMFFfZktFT2pVcTBGVHJxN2lMNkxYSVR2b2YyQWk4ZGtLMkxfcHktQUdIeEVYTjEtdTZpTzA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-06T16:01:30Z",
+      "dominio": "www.alemdaenergia.engie.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_80964",
+      "titulo": "CNPE aprova medidas para reforçar a segurança, a rastreabilidade e a fiscalização do mercado de gás de cozinha",
+      "lead": "CNPE aprova medidas para reforçar a segurança, a rastreabilidade e a fiscalização do mercado de gás de cozinha www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUzhObDJXMmdzaUdMUGR4dE9VTWFFdDc5bVpxcnY0MGJJSHQ4aXh2UEN6bWRZVFBEVTRkcGliRGRra3pmR2p5VlBrSjJkemFrdDlkUzBmcDNUWG03VUx5UF82NnR5MVVzRnp4S0dZMGp1NzV0Y0IwMElFbVNkUEJISThuS2pmSmZHWUxKNWl2NF9OekZfT3l1MERZdnRUZlVwRDdwTkxQU0R6S01Hcm1LUDFaNmx5Ymw3dG1HN0dhaEJ5X1MtUFpsMkljcEl0VzRYYnZWbXd1OG94YTJQa0VBdjhkekJFSGxCY1ZpVnVIQkpzRHZDWmlqU2l1bXg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-06T15:20:26Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_27711",
+      "titulo": "CNPE aprova Plano Nacional de Transição Energética; ações serão revistas a cada quatro anos",
+      "lead": "CNPE aprova Plano Nacional de Transição Energética; ações serão revistas a cada quatro anos",
+      "fonte": "eixos",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONkxfQlJKMk05UFk0TXJkOXB2NWVxRUJWWDVSZDhEVG9EbkJMaXF5TW1JMV9ZMC1seTNtYjljSy1JczgzM0x5Z1duZDhpVktLSTRJYzNUS1RoZlRxMlFjd2t5TDN6S0lVWjNXSFM4aDMzRU5XbmJRdzRmWHN0NnJSSXBSNjhxc2x6bVgzSG82TVhPU1ExT0p4RFQtTjM1MWJEdDhnb0pyMXNpREJncXRYMGtEQlVTdUcyazdqeGJSVzQ0S2t2MUY5dW1KV3h4dw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-06T14:59:32Z",
+      "dominio": "eixos.com.br",
+      "tambem_em": [
+        "www.gov.br"
+      ],
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_10559",
@@ -64,6 +163,18 @@
       "data": "2026-11-06T12:02:00Z",
       "dominio": "tnpetroleo.com.br",
       "tema": "transmissao-rede"
+    },
+    {
+      "id": "politica-energetica_23640",
+      "titulo": "CIMCE aprova lista de minerais críticos e estratégicos da PNMCE",
+      "lead": "CIMCE aprova lista de minerais críticos e estratégicos da PNMCE",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM2tfQlhld0lDMFJXeEVzMzJOTEFXZldlWVZyc0xtTXo5bG91TUxQVzBfTzRwdXZBbzJob0ExU1M5ZUJoVzgtUGdVenAtakF0MHl2TjhGVnhXMkZaU0tHOUk0cDdVek1tSmRXSzMxSE9wb3gzbXI2b3plbWVJNk9SVkpTTWdMdjRSMGNPMXdUdGJ2b09WVzkxTEdyMGVHYURYUFdTZzNmNUJzZ19yTGE2eVd5RVFZYjcyemhEQTQwZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-05T20:56:42Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_86395",
@@ -206,7 +317,7 @@
       "lead": "Baterias, Leilões E Baixa Tensão: Delta Energia Aponta Os Nós Regulatórios Do Setor Elétrico",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQjN5Z0cwU1J4SjRMcW1OLU1BcmRxOE53UHVJWDJmTWlKMnVSbGppTzlPM3laZUp1aUpSLTNSTTJoenV0QTZNenZBODVvSXd5N0w3N0lHc1FicXFuSTVqNktGR3dZVzROZnhmVk5YN1g5ci1PTTc5X2kwMEUzMDR0YURJS0xWZnYxZ0dRVXV6V1hFblVuQkdDUjRDV1FxWHZDeE5keHFpZUV5VzFsUXlIOGJhUUVOdUtsSG9waU9CVlBsN01uZmRvV3QxT1I?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-04T17:09:45Z",
       "dominio": "cenarioenergia.com.br",
@@ -250,6 +361,18 @@
       "data": "2026-11-04T03:34:05Z",
       "dominio": "www.gov.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_80664",
+      "titulo": "ANEEL revoga autorizações de 178 usinas e determina rescisão dos contratos de transmissão",
+      "lead": "ANEEL revoga autorizações de 178 usinas e determina rescisão dos contratos de transmissão www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaGI5QUVSaVFCcXZFaUdTUC1qTl9fVVdDbkJ4VnY5MC12SmxPd1JmUzkyVFdSSllCQXlYRjAtaGN0RHNtTE1HWG9nODJkNThKOVN3WkpuZkZlaFBoaDNSNy12M3RPc1BfdU4yVm9OTWVDNFpCNzFjTENyd1JRWTJTblBuT1JLWnlfazhrb1ROeXpFTXJfclBRQ054VHBFeUtnaFhnQ2t0QjhDSTJkUGRiYVhxeUpTR0taTFNMMUhJVWdrUDNVWWVmdklLbTk0cVpyYUpaeEp6T2haamc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-04T03:33:13Z",
+      "dominio": "www.gov.br",
+      "tema": "transmissao-rede"
     },
     {
       "id": "empresas_34965",
@@ -456,6 +579,18 @@
       "tema": "consumidor-residencial"
     },
     {
+      "id": "transicao_41963",
+      "titulo": "Espanha financia portfólio de baterias para reforçar flexibilidade da rede elétrica",
+      "lead": "Espanha financia portfólio de baterias para reforçar flexibilidade da rede elétrica",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckdoa000Zk5ROGFZbjBiZW9rcFRWQktVYm5XNmozcDN4VmNhckpERkNlc0ZsNkRpcnNoTndQaHFETzMtamFHUm5GS2xYcmphS0pNWUEyanR4NWwyQ0VPZk9vRXBSRmtnNjJHNlM3WUR1d2QzTnRtT0wtRmM1dXd1bEhn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-01T13:00:37Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "transicao_29248",
       "titulo": "Armazenamento de energia: RN debate negócios com baterias",
       "lead": "Armazenamento de energia: RN debate negócios com baterias",
@@ -502,7 +637,6 @@
       "data": "2026-10-30T21:04:56Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
-        "Jornal Extra Alagoas",
         "A Voz dos Municípios",
         "TAGD Advogados",
         "Grupo AMANHÃ",
@@ -621,147 +755,6 @@
       "tambem_em": [
         "Campo Grande News"
       ],
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_92761",
-      "titulo": "Com muita disputa, Aneel leiloou oito lotes de transmissão de energia",
-      "lead": "Com muita disputa, Aneel leiloou oito lotes de transmissão de energia",
-      "fonte": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaHUyVHVvNXZ3eHNyd3BiMHd4MWFQSVczTWFpQjM0eVBYaC1ueWxqQUU2TURyVUNrTEtxR2lORERadDFScUxyaDlPbldhS0JyenZKLURaelNzZTB3b3cySkVpTGlrejl4bUFRbzNTbFp3QnBOYTNwVVdJNXVxYUhWNmpaVFpxaWRuQnZIYy1jdEUyTDJ6X3lrekMtZVpnV3dTVUlkQnpYc2lvQUtDN2JEbUJXVnA4OTdSdkJCNUJUTllzS09T?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1606901900840-f3dba75bcd47?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-30T16:35:00Z",
-      "dominio": "agenciabrasil.ebc.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_31671",
-      "titulo": "Espanholas dominam e leilão de transmissão tem deságio médio de 50,10%",
-      "lead": "Espanholas dominam e leilão de transmissão tem deságio médio de 50,10%",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHlsejJ3d0JpTE1tNDV1VElWSGdTZUFEck5WbHZCMDZ1SzdsZlZxREZJNVN3U3d3bUFKMVJ6TDZKTEVlVXJfRnF0dEJvb0FYTS1GbXp1UVk1RGlQb1lTV2o3c3pFTlhHVFViM0I5Z180ZjJVQ29oQU5JTW41ajhJR2UxdnZaSzJucENSTFN3REZyVGpidzVUWGtxUUVhVmtHUU9JY2FLSkc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1543489816-c87b0f5f7dd4?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T16:15:30Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_37777",
-      "titulo": "Celeo, Cymi e Neoenergia são maiores vencedores de leilão de transmissão, que teve deságio médio de 50,1%",
-      "lead": "Celeo, Cymi e Neoenergia são maiores vencedores de leilão de transmissão, que teve deságio médio de 50,1%",
-      "fonte": "Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN1pjWHhLOWd0Xy12RzNwZXdlZ25jamxNelNaYlpZVnVwcTdwdnBrUEl3Q0lPb2hxSmZPbWlVb1B1dDNPZHdlMEl3R1JyUjQ3T3I3MnB1NjJqaUxXVWVnYk9lOE9BRGJlbkdTVWZNU2Q3NFI0dnJHLTZIQmFtc1lYUXFxQnF5MXJ3a3d4azdtNXdsam5jTVI0NS1zb0ZvQlVncENrZEY0dlQ1WG9oTV9UQlZGeEstY2RNdTI5MklxUExMRVFFNm5McG8wZlRrclZXWjFUWDlrbFhIelZpSHRqQ0h2Y0xsMVVsaE9EX0JjU05IandwMk5jUzJFZGzSAYsCQVVfeXFMTUpVOGhVMGRBR1FjNmdPSXJhQkx3Q3NtQktWRjI0eXdoNHF6bEg2akR0bUlEQ3I3NWlZRE5hTVFFcHdUVk5CVkY0UDdZaWdZV21SWVZOS25QNWRXWU9IeVVmV2N4TmRFM3g3R2YwclpLczktd2VVQ1FPYWc5WjRPRDYyc1VBRi0zN1dzNXlDWG1nbzFObTRaV0lkNm1vSV9abmdWT29oeU41eHkyMHN2d3F2OUUxc09temFvaEt0ejdlZGFGTWZBY195ZVpPUnh0SGpZaXFvcG0tLWtqSEROTVI3OXFyVUZMV0g3RF9sZC1SakMwSDVUNGs3VUZ4MWdJM1Fxel9tRFhnejI0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389807183-f0fbe962761a?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T15:40:23Z",
-      "dominio": "valor.globo.com",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_27158",
-      "titulo": "CCEE reforça compromisso com diversidade e inclusão ao aderir a três iniciativas",
-      "lead": "CCEE reforça compromisso com diversidade e inclusão ao aderir a três iniciativas",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjA0dlFBTk1jVU9URi0taUQ1eFVldHNWNG5rdG5kU2E4M3hlR2xPSFpvd0RCdW9HbFpfQUhSMVFXLUhlOEJ2eDQteFdNb2NYV1ZKYUVOU3FQNGROb3VuNWpJMGtjblVLN3NIZzlDU1lsRDBvUHFCYXFmalNrYkRaT0FDN2wwUnlyZ2dNTnhhNkp3NU03YU8xZ1FLck4zZUhaeDhnLTRybUptUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T14:56:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_45572",
-      "titulo": "Acre entra em leilão de energia para 31 localidades da Amazônia com previsão de 30% de fontes renováveis",
-      "lead": "Acre entra em leilão de energia para 31 localidades da Amazônia com previsão de 30% de fontes renováveis",
-      "fonte": "AcreNews",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjczYVFYQ25rZmlzNXB5VVVfX1IteV9OWGtTckdyNlYydXRGZlFydUJYSjVuWi1NMkM2cDAzaVI3X1NIb2pNbjJmSnBzekJJVHFUX2pTVzdpby11SUJxb09NcUt6OHZIXzNTeFlfSWE4a1NrMlNTaVZiVVBjUkpHaUE3YVhEaDdzZG5aa1NjWTRqLWhvX1E3RzNsRHpsMUpnRDRDUG9lekJabjUyZno3b0w2ZWlTdmtqUlNVOVJtSTJNWTZOQ19r?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T14:44:16Z",
-      "dominio": "acrenews.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_49837",
-      "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor",
-      "lead": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor",
-      "fonte": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T13:20:00Z",
-      "dominio": "www.gov.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_66862",
-      "titulo": "Lote 2 do Leilão de Transmissão nº 4/2026 é da EDP Transmissão Goiás S.A",
-      "lead": "Lote 2 do Leilão de Transmissão nº 4/2026 é da EDP Transmissão Goiás S.A Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3pjOGRXY3d3b0RCS2FtVEdVMkFhc2UzU3dkRHlQdmdMRTdHc0hSNWVQZDFvVG5rWkJFMFhQQXVFbkEtWWN6SmkzLWkxLVZteTMzTnBQT1Z3dHRjX0syOHJVWXllaXRiTUpxSVg0RjF1enlEeDNpM2JMTTJoTWtJelBlTVFnMHBkaDZQdTBFbkVVY1Zyd0M2RkhaS0MtSmRFbXVBbzRkTGxPd2hZdlpndWVDb0hqU1VFaWhrRkEyRHd1cWR0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1543489816-c87b0f5f7dd4?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-30T12:05:00Z",
-      "dominio": "www.gov.br",
-      "tambem_em": [
-        "ANEEL"
-      ],
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_12184",
-      "titulo": "AVISO DE PAUTA: 2º Fórum Análise Setorial CCEE debate perspectivas do mercado de energia",
-      "lead": "AVISO DE PAUTA: 2º Fórum Análise Setorial CCEE debate perspectivas do mercado de energia",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG9WaU1lNklHV0N4QmhsdmlVVVZBMF9NZGw5Q1Z6V0c5Q2RBdHdMRHF0eHdIQXdYODk5OExsdHplT3V3U3JBV3hwbk9zT3B4YXdwMENpNnNEZ2g2c18xelJIVC1nT0ZNOERKRDkzRHBYRmlLMGo0X1dXVS13THBjSmxDMWNFemIwUi1wVXh5elFNSmhva1BJeF9HM1FCZE1SZkRWMjhuc1FQUHZmcWdJcnNsU1A?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T12:03:00Z",
-      "dominio": "www.ccee.org.br",
-      "tambem_em": [
-        "CCEE"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_1121",
-      "titulo": "MME estima que biocombustíveis terão investimentos de R$ 142 bilhões até 2036",
-      "lead": "MME estima que biocombustíveis terão investimentos de R$ 142 bilhões até 2036",
-      "fonte": "BiodieselBR",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkRQYVc0VkdkTloyM250NGUwTDBJVnVZRExwVjZlR2I3UFhPNlZrTFVEY3BzTHQweHNxdkRldmNndUF4QVZOQms1ZEJUREVTUndfeDdaZzA3ejR0OUZVclR4OEtQbkJud0FRQXA2aFZXSWwzQzhWNDhqZGlxc3FjREdodWx1NnE5REZpdURVeG42M3VBckRETE9aLTlPcU9tNHdhUEpWcmJ1WUc5YmEya19DRDI4QVNOaGc1WWo2bnFwdXlIeU03Wi16VzY?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-30T11:58:40Z",
-      "dominio": "www.biodieselbr.com",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "empresas_52497",
-      "titulo": "Leilão de transmissão de contrata R$ 8,9 bi em investimentos",
-      "lead": "Leilão de transmissão de contrata R$ 8,9 bi em investimentos",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHNxR0NGM3hER24zOGhGUW1XUlVoaWQ0OWpQYkhYTDNlXzYzR3ZhUzhRVC1YSjFJczFkSEdreGlfVk1zcHVhcHJ3S3Y0SnU2TkozUVVoYm9RVEJ1XzFBZFYyVEVSdVVtU0o2UXFtdUYwSXJsbUZQelFpaXVsYkJhUHdzdDdHUVZSajZCdmY3S1lZZFZMU3ZkUUJmcDhEX2p1Ym1F?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-10-30T10:00:00Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "transmissao-rede",
-      "tambem_em": [
-        "CNN Brasil"
-      ]
-    },
-    {
-      "id": "empresas_95367",
-      "titulo": "Governo realiza leilão de transmissão de energia que prevê R$ 8,9 bilhões em investimentos",
-      "lead": "Governo realiza leilão de transmissão de energia que prevê R$ 8,9 bilhões em investimentos",
-      "fonte": "Exame",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTU9vNlFyZ1V0MURISnZRZWM5M0FpbG56R2VzdlpJNWl4ajZKel81dDdmV3ZRUldfZFlFZk1tM3RkOFp0cG1KdkRzUkE5QlBWbWFoc1RIMmFCaG1vX1k3VGplR0NPTjFBbk1HWmM3ZVdGSmJoYVR3Ry1FRTVHNDI5MDRPYU82bUQxTXN0RmFzek11YnVLRlZaMUplcTUwSW1qYThmWHJPLTdNcWtucEhrdjM4R1oyVmNrZV9YVmJvakZfUkNYV193cw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389807183-f0fbe962761a?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-10-30T09:03:27Z",
-      "dominio": "exame.com",
       "tema": "transmissao-rede"
     }
   ]

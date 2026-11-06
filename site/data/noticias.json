@@ -1,14 +1,77 @@
 {
-  "updated": "2026-11-06T00:27:51Z",
+  "updated": "2026-11-06T18:38:41Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_92563",
+      "titulo": "Mercado livre de energia será alternativa para pequenos comércios e indústrias reduzirem custos",
+      "lead": "Mercado livre de energia será alternativa para pequenos comércios e indústrias reduzirem custos",
+      "fonte": "Folha PE",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkRpRkphMXhLVTJYdW15dzB5UXJ0RHhIOUsyNkVnV19KanBFQk9aSVVLeEhZM09TUnlEdEFmeGpMWmJHTlpUa0lEUXNSQkw5dmJmVUxoSUVyWGE2c0hYVTYxQW93bElvV2JvdnR2cWpNakUweU84OUJLeDFsR0J6bi1xYWF1ZkRqNUJlWm1CdG9BNUtPTUJrWVpBRWVBeWZCcTltRHVYNGTSAawBQVVfeXFMTnJTX01KTURFRkE5Y3BzSHdDM2RSN2JzSHVvNWlHUk5vY2xUcS1lWV9ZOWx0VGNTY0c4bFdtOXNIWklnc1cwREpvbmJNdURQWHVmdHNGeS1lM0o0YjNuMVJhb0NkcTJoRVV4OXIzQVdWdHN6UjB3TW0xOC1RU1pBTjJ3bGtwTGZvQUZaQnR1NEFBLVYwemo4bktjVC1IOGFzbGhqeC1QR3dCNEF1NQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-06T18:13:00Z",
+      "dominio": "www.folhape.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_21184",
+      "titulo": "CNPE cria GT do Mapa do Caminho com prazo de 1 ano para conclusão",
+      "lead": "CNPE cria GT do Mapa do Caminho com prazo de 1 ano para conclusão",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVdBX1JGUUlMVGR4QWJ4Y083UmJqNW9qVnZHU0Rsc19CeVVnWEF2MHNtWVI4d3dWS0lUaldLd2lXMHV5NG4tWTM1LXpnZG9lWndGd2p1a0hmMVpDcWFmUnNyWjgxRkRLbFJjLUxWLWlQbGY3ZWU2dDFsaXBSTGEzeWNhYTM2N0J5VTJiZHE0UmMzejdXLXcybWlwTmg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-06T17:53:54Z",
+      "dominio": "agenciainfra.com",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_84293",
+      "titulo": "Lula rebate críticas e diz que aprendeu com a mãe: 'Ninguém pode gastar mais do que tem', sobre responsabilidade fiscal no governo",
+      "lead": "Lula rebate críticas e diz que aprendeu com a mãe: 'Ninguém pode gastar mais do que tem', sobre responsabilidade fiscal no governo",
+      "fonte": "Terra",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQNUpIWlR5QktBV3FLejhYdVhXVTBPX3BuZmwwU2ZJMnNvUUVMUXgyUmZMY1BMZWR2SEJubjRWVXUzbjdBYUNJMFpVVTdJOFVPN0kxUlJmdEZ3YlBySzdKOW9WUERXUS11OEFMcGxreTMxWUVFWU1IZWR5SUVTY1U2RkVFN3Zoa3BHSk5OdHplUUhXVkY0cDZ3YVpYMmlyXzJIT2NIa1JfNGRJU3puZ1hMb1JPZEs3NElqRWV1RURPcy1qbU8wT1NzNzh3M1d5R0lNeE85SWItZ2xDUV9NQnNJOWF5QXp5ZzJ1dWk0bkc5YU1sYjNBM2FrcjBzalRwNVVXeEpJdUYyeFJCbTdab3JEOW1NeHc4bG0tMklBd1NlZDFtZzdDTjRmcGF1WHAzTEp0UVo2MngtV210ODh2NzNIUHVfaVQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-06T17:21:00Z",
+      "dominio": "www.terra.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_10559",
+      "titulo": "Cemig Supera 300 MW Médios No Mercado Varejista E Alcança 10,22% De Participação",
+      "lead": "Cemig Supera 300 MW Médios No Mercado Varejista E Alcança 10,22% De Participação",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFF4Y0xpclJ1ZXd0OFBxMFJXNUpXUjFSOHNPWmVmeEsxMVZnVFZqYmtJWGplZ1c5VmRjNnE5bjc2cWRTTVozQnZObTRTMnNoQThsZF9vR1hxSFFZX0Zpa1Q4UldiSU5XbFlMdzc0Nmg2VXVxNm5TcEtZbUNEV1NZNlYyWHhRQnFzYlp4NUxhNzBoZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1546185058-592ead754d27?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-06T14:26:30Z",
+      "dominio": "cenarioenergia.com.br",
+      "tambem_em": [
+        "MegaWhat"
+      ],
+      "tema": "industria-generica"
+    },
+    {
+      "id": "mercado-livre_60152",
+      "titulo": "ABCE: leilão de transmissão reforça segurança energética e coloca eficiência econômica no centro da expansão do setor elétrico",
+      "lead": "ABCE: leilão de transmissão reforça segurança energética e coloca eficiência econômica no centro da expansão do setor elétrico",
+      "fonte": "TN Petróleo",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWjluZFR4YWY1RkNabkpQY1gya0FOaW1aeHRwSFRDanhkdUNBSzNEcG9SY1NxREpSN2wxdzRXMnQ4TlhWenJHUk5YblNfT2pqcElmRDB4MlJFV3gtd2pyWVdDRWREMUlKTW1ZOGd4V3NrX0xJVWE3d1RfVEluOTJISllkQUJrNVdaSFoxR3pGLVVqXzBLMXI4anQ4ZmQ2cWg4Vjdfc3JONDJkZEhwVzc2Mzg1dmxpejdMNlVwQUJldm1rcExJNUFDNzlkdVkweFQtVERMWjJJTDB3b2dlZXJHZU54YkJfMVI3ZkxhRmlJa18xdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-06T12:02:00Z",
+      "dominio": "tnpetroleo.com.br",
+      "tema": "transmissao-rede"
+    },
     {
       "id": "mercado-livre_86395",
       "titulo": "CCEE abrirá novo processo de desligamento da Electra após decisão da Aneel",
       "lead": "CCEE abrirá novo processo de desligamento da Electra após decisão da Aneel",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUlOdTVUOTZySUl4Sm14SU95bDVTTnQ4bU1IeVdSZGZwMkE2Z280dXZ5aHRTLVhyYnpEVGFKODhnbWRRaTdyUnNlbGg1RjNWQnFpWVlob0NtOWlucUR3aHJDU0p1UVFtOWpJaFJSeTlKT0J6QWpWM21HdkhZS0dpOHFfSTgwY2JLRzhSOTdXZzlwd3hpdHR0QURDZk9uaGd5YnFuVTcxa21kZjZSUEFDdnUtWkNaZTBLOVNMenN2OA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-05T20:44:00Z",
       "dominio": "megawhat.uol.com.br",
@@ -20,7 +83,7 @@
       "lead": "Mercado Livre de Energia: 5 cuidados antes de contratar uma comercializadora",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm9pOHVpYUZmMDhKMV9heEJfNEk0dXNhNXFyRndXNFc3c3NpMVhfVlF0eUE1QXhDMnNDeVEtWTJFMU5Ja3VnNDlfYU5ldWx2MVBDbXEwdklNaDZMaGxZYVZVWV8yb3hTSEtYUkdSYlpEN2hhbVhIajNWWnZsOHJ3bUdqWWgzck1PQnc5ZXpHSTk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-05T19:43:21Z",
       "dominio": "canalsolar.com.br",
@@ -163,23 +226,6 @@
         "Poder360"
       ],
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_52493",
-      "titulo": "Aneel mantém bandeira verde e conta de luz sem adicional em novembro",
-      "lead": "Aneel mantém bandeira verde e conta de luz sem adicional em novembro",
-      "fonte": "Jornal Extra Alagoas",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3A4WWI5S3ctT2NoeDRzSENjamJxM1UtVXVIUXpMNEJqTEpQbmpIR2J2aEltSEMtNlNzZnBlRVpqazFwRUZZRFRjNk5VdW5YbVdWYkVNQnRQUU1PSEl6ajFyR1M3cVZLRHY5NDBERTRGQnhfV1ZkeG12d1BpYmwzS29HMjc1aFRwZWZhc1dDZmdpemRmSGpFMFp1WlZMbEtZRUp3RVpORUhlV244U0FEazRRNERNOER6WjRLejFMQi12WWdobE5z?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-11-04T13:47:00Z",
-      "dominio": "ojornalextra.com.br",
-      "tambem_em": [
-        "A Voz dos Municípios",
-        "TAGD Advogados",
-        "VEJA"
-      ],
-      "tema": "consumidor-residencial"
     },
     {
       "id": "transicao_37342",
@@ -456,11 +502,16 @@
       "data": "2026-10-30T21:04:56Z",
       "dominio": "agenciainfra.com",
       "tambem_em": [
+        "Jornal Extra Alagoas",
+        "A Voz dos Municípios",
+        "TAGD Advogados",
+        "Grupo AMANHÃ",
+        "VEJA",
         "Enel",
         "Agência Brasil",
         "Canal Solar",
         "G1",
-        "GOV.BR"
+        "Governo Federal"
       ],
       "tema": "consumidor-residencial"
     },
@@ -712,54 +763,6 @@
       "data": "2026-10-30T09:03:27Z",
       "dominio": "exame.com",
       "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_22810",
-      "titulo": "Governo faz último leilão de transmissão do ano e projeta R$ 8,9 bi",
-      "lead": "Governo faz último leilão de transmissão do ano e projeta R$ 8,9 bi",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmZ3cEFxTG01UTJ5U2FvLXcwOVNKS0cwcWpfTlprNHVRTG5tMmtsRFRWRHZ1VVo2QzdMeEFKS0JyYUV6bE00U2dkQkpHX1lRMkVPdzZNMUN2U3duRE1md2JoNWpMb2IydUpsU3B6eWxncEJsWFZhdEZfQ0FYdy1fRXVVa3JwVUN4c3FWUTB2c2tPNFMwTmdCT3BCREYzR0xfNFBDS2E5LTlRTlNC?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T09:01:48Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_73271",
-      "titulo": "Aneel leiloa hoje projetos de transmissão com R$ 8,9 bi em investimentos",
-      "lead": "Aneel leiloa hoje projetos de transmissão com R$ 8,9 bi em investimentos",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUsxbVctdzcyTXhXVElfR0VNbk5UZDQ2VGVRTFpuZFFRcXVRdmdYR0pMQ0lfVzlydUZVZXBoWU9IeWNVcENKRG9jczJKQ0lxVDJrd05xRkYyb256dlluQlpBek5zYVNGWEJGRXJlOVdRT2c1dmRINm9YV2gwWURwYU50d2Fld1pyc1hjaWlza2dTdHl2OEp4N3RWdlJlcEpXQ1NKZUJxeVoxQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-30T07:30:14Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_31896",
-      "titulo": "Neoenergia lança ação para empresas do Guarujá que buscam redução de custo da energia",
-      "lead": "Neoenergia lança ação para empresas do Guarujá que buscam redução de custo da energia",
-      "fonte": "Neoenergia",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR1R5YXdreXhmMEthZlNHMkh2QmFYdXhFaFdjcDc1MnNQTlg5MTBadUVMbGk2b2F4WjFUX1RRNlVua2laX1JvNzNVbTJIMjh1cHpIQ2hGX2tCMWVPcjFCV1h2eWZmcFRDVlJHQUJUeWp2U1g2WmM1MU5EbUVlbDRPcnNmemJYSzU4LUtBd1JiZjBTam5BQTZUajhGWjlGY2VRZV9PSjRUVnBQa1pWLTRMZDhJcHB5ZlZWSDktaXBVYnVfWmZ0WExxSk1hZEg4dEpEUTE3Q1Uyclhzcm43?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T07:00:00Z",
-      "dominio": "www.neoenergia.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_10589",
-      "titulo": "Governo planeja leilão de energia elétrica para a região Norte em 2027",
-      "lead": "Governo planeja leilão de energia elétrica para a região Norte em 2027",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2RlZ0NUTHZ3anVHYkFndXZfTGlpRXBOcDVrZXFiYWNMZUtwcmxKU1pNZGZOcklpTjFJNS1Ebi1kZExTTWtfTE53bHJNTlRiMnNwRzEwX3ZpelJiajRKTU10UWctN0lCNGIwTi1IZ2VDUkFSaUJhVWVvdTNLa1F5ZXVTYV9oU05ZMDVURGhiWXI5R1FFV3dQdi1zSllJWjZqSDFtT25IOVlTeTNHYUUyRk5QVQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-29T17:34:46Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T17:06:20Z",
+  "updated": "2026-11-07T22:51:37Z",
   "total": 60,
   "itens": [
     {
@@ -106,6 +106,18 @@
         "Folha PE"
       ],
       "tema": "precos-mercado"
+    },
+    {
+      "id": "politica-energetica_70853",
+      "titulo": "MME e MMA retomam avaliação ambiental de bacias de petróleo e iniciam estudo da Bacia de Pelotas",
+      "lead": "MME e MMA retomam avaliação ambiental de bacias de petróleo e iniciam estudo da Bacia de Pelotas www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVDZXaUV5eE0zdk80RlljcmZrY1dJbW1UOHJ5QVAzN2Iwa3JvWHZGYzJSMFZKdjBMcU0tdWVvZVBXUmxpX1VPYzNlMVlLdjM5VU9yaGJ0NzNvV1BuRktGR3lzcmVWbXpwemltMkN3dmxJTHE2dHk2a2ttVGFGZWFScm02aDd6T0Z0QXlqai1KbElnRUtDOXpkZDctdUZHNGRjX05nMXNScG5ENFFHVWcwRWZpUFlyZlJnbm1JeDFkTWNqekdoWWhBcXBfOFc0ZUlxeEpVWDNzYktBTk1TUnRDNkdLdzVrUFRtRWtN?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-06T18:05:48Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_21184",
@@ -270,6 +282,18 @@
       "tema": "precos-mercado"
     },
     {
+      "id": "politica-energetica_69970",
+      "titulo": "PDE projeta produção de 4,9 milhões de barris de petróleo por dia em 2036 e destaca importância de novas fronteiras exploratórias",
+      "lead": "PDE projeta produção de 4,9 milhões de barris de petróleo por dia em 2036 e destaca importância de novas fronteiras exploratórias",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQkZaQWlfLVJjdXExMGlkVlc3dlNUT19QbTRraWIxTml0dFlBWUYwM1FQUHFZZV9VeFlNc0xPa05seTltUUdyNlZSN3ZBLVBiTkhiblFLSHIyNzZVekJvUzRfSVRxZ29kS3pKQ1pRRzUwYnk4V2ZXejBOSWljblZGYWNMRnFHbmtpanlwZXVKaE5yZmZjYmQtUlZlWU5SQWFVQ2ZQRkpSN3RPUXAtbzdmWnpPXzNNaW9lMDBsUTllSzIxYjkzbkhZT1JQdDVSYWRReXhDOEFoaVlfTURQWkJfYTBORE5vR3VmVkdkNEthOXRkdzVzb3NBeFJrbVN4QUdrNjJmYnEwUWZ4a1VENWIweV9rWFBxMzA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-05T17:35:17Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "regulacao_49603",
       "titulo": "Campeões nacionais da ONEE 2026 são premiados em cerimônia realizada em Brasília",
       "lead": "Campeões nacionais da ONEE 2026 são premiados em cerimônia realizada em Brasília Governo Federal",
@@ -378,6 +402,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "politica-energetica_61094",
+      "titulo": "Brasil avança no diálogo com setor produtivo no âmbito da Aliança Global para Biocombustíveis",
+      "lead": "Brasil avança no diálogo com setor produtivo no âmbito da Aliança Global para Biocombustíveis www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYzZIYkpWUTJsYkd2MFJnS0h2NmFBTVJnekM4NzBKV1p3MG94Vk5ObGpPVVNWOERvVXRWVC1ocUhQa2VxbGNpWnJzS3IzVTBjVXlhTHd4eGFzOWhRNHhpNFNDUWVsX2tHbUlXcHBhVUU4WEJRSTdPQ2Ixa3JPZjdSNUNWaDhUTGdPOTZaR3p4OVZNakwyN2VPa1JWMWlYbDRWTmR6RnQ0NVE0Ujc4NUxWbjdLODhhWExuVXlmQ2VVM2VkdVdOR0Q0SDQ0LUtzLUZ6YXFoaGFpQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-04T20:28:56Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_61601",
       "titulo": "CNPE discutirá mistura de biocombustíveis em derivados de petróleo",
       "lead": "CNPE discutirá mistura de biocombustíveis em derivados de petróleo",
@@ -430,6 +466,24 @@
       "data": "2026-11-04T12:52:19Z",
       "dominio": "arenadenoticias.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "tarifas_67774",
+      "titulo": "Novembro a bandeira tarifária da conta de luz será verde",
+      "lead": "Novembro a bandeira tarifária da conta de luz será verde",
+      "fonte": "A Voz dos Municípios",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNek1sYWVaTTJ6dTFabDc3akVZWVBGUXR3ckFVLURBc2ozRFJsRlR5RFdGdzJxZVZDRFJ3NDJEVW9yVWNhckZfUkJUU0l2bG9xeEJCTFN4VXNPSFMydzExTWZKelZud2hlSl9xOXJ2TkJkbG9LcHZ1SEZXQTJ4Q0taSUlHOW5idmwzR3U3QzQ1SE40X3lHYnBJV19xaVVoYk0?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-04T12:36:25Z",
+      "dominio": "vozdosmunicipios.com.br",
+      "tambem_em": [
+        "TAGD Advogados",
+        "Grupo Chiru",
+        "VEJA",
+        "Enel"
+      ],
+      "tema": "consumidor-residencial"
     },
     {
       "id": "regulacao_46962",
@@ -694,64 +748,6 @@
       "data": "2026-11-01T13:00:37Z",
       "dominio": "canalsolar.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_29248",
-      "titulo": "Armazenamento de energia: RN debate negócios com baterias",
-      "lead": "Armazenamento de energia: RN debate negócios com baterias",
-      "fonte": "Agora RN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETnJlRXN6SWQ5UzlQLVZEOS1sbzdfUFdIX2kxRVFOV25nd2NtWHBFc1U3WlZCd3BUdklXMEltVXFkbGxjYUFpc21nbEJWeDVkUDlkeVlObzZ1dHcwOWJzNjByZjJqRUYxTlMxa2RLZ0JDNHozaTNySw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-31T08:13:24Z",
-      "dominio": "agorarn.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_64938",
-      "titulo": "Armazenamento de energia avança no RN com nove projetos de parques de baterias",
-      "lead": "Armazenamento de energia avança no RN com nove projetos de parques de baterias",
-      "fonte": "Movimento Econômico",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTTdmZVNBbjJHYThIU2kxZXlLc0FwN19QVm1oaEhOYUNlY1VDN0p1RFV5MEVHRWFrZXc5bUxOMkgtWlVvallpOXRuQW5kQVNQZ0N5YWRYR21KZHRGM0RLR0hXM05sVmRJZGRmZXM4XzJKZVhjTk5pMndxTS1GZHA5QktPaEdrVDNyWEpCSXVNY3A2WGNET0ZYRHVWUzJJTzFaNnFJQlFaQWZsaXRpOVlSelVweV95TmluWC1GOURKWTktd1Z5M0tJYVlOY3NkZlZpSnF6NVk3QVo?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-31T07:43:00Z",
-      "dominio": "movimentoeconomico.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_26586",
-      "titulo": "MME abre consulta pública para mapear expansão de carregamento de veículos elétricos | Café com ESG, 26/10",
-      "lead": "MME abre consulta pública para mapear expansão de carregamento de veículos elétricos | Café com ESG, 26/10",
-      "fonte": "XP Investimentos",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2hpLXVqNWpvam8yYl9SWVFySFpsdmdKWVV2T2hLYlZ2N25RQ1JFaXRZVTBwaTRXQXRIYmhHTUFOMDI5S19RMEQ5MkgwQy1EX1BDWTg5amZjZFNoaEdEUk1ia0NyVUM5QVEzRGd6ckxSWlhJRFJfd2tfTEgyM19Remc3U2Q1ZGkwbE5Wdm9zNFdFanU1TjVvTlNNa2UxU1U0eUFTSTZ2WjlYM2oxYXBicUpTTVBuMnduYTg1Qkhla0RMODU1X2hxeDBUZXk5N2Nrd3Vz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-31T00:08:56Z",
-      "dominio": "conteudos.xpi.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_18944",
-      "titulo": "ANEEL mantém bandeira verde em novembro, sem cobrança adicional",
-      "lead": "ANEEL mantém bandeira verde em novembro, sem cobrança adicional",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX21pbFY4UVAyd2Fqb2tEaFE4NVVSN0NQS3BKN09pZldJcWNwMUJiQzBOVXVLbm94VVBVc0VRMW1jNVBlMjF4dXlhelV1eDNWbU41UXhRX3gwYlFDUlB5cUVRVGI0bHZ0bmloU2ZwUGhvcGVOa0lsZ054YTVaZzhuY1drN29GbFpUMTV5R21XRm92WFRvZFdkWA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-10-30T21:04:56Z",
-      "dominio": "agenciainfra.com",
-      "tambem_em": [
-        "A Voz dos Municípios",
-        "TAGD Advogados",
-        "Grupo Chiru",
-        "VEJA",
-        "Enel",
-        "Agência Brasil",
-        "G1",
-        "Governo Federal"
-      ],
-      "tema": "consumidor-residencial"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-06T23:45:54Z",
+  "updated": "2026-11-07T17:06:20Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_90115",
+      "titulo": "Conta de luz em novembro terá bandeira verde: entenda o que muda no valor pago",
+      "lead": "Conta de luz em novembro terá bandeira verde: entenda o que muda no valor pago",
+      "fonte": "www.guairanews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUstRllVOXZJcEc0SU5XdlBFdkdfZ0JPSHd4bUFXcElKQWFyRy15NFpYa1A1akZCUjdoX0ZGRTBuZXp6YkRRQmR3SzU4WDBhNlBIUDlGMndYRm1iSTlKOU9icVd0RldHNzI4aC00WVBwZU5zdEJZSDVEZ19vVXFlLVp2UFBlNWVtRFhz?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-07T14:57:57Z",
+      "dominio": "www.guairanews.com",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "regulacao_95070",
+      "titulo": "Semana Olímpica reúne estudantes de todo o país em Brasília",
+      "lead": "Semana Olímpica reúne estudantes de todo o país em Brasília www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmY1dWdGTE5mZ01GNU5WSUk3Ul8temhqaEFtQlc4QnA0RWlOeVlQM25vUU9oRzY0aG5mMkRVMkwyOFJzTTV6U1N1WVVHdGlzZW10OEI3WFVMc3RIY0JNQjJ1aF92STVkTzFIcjlyR2x5QW5wVDYtbU9OVzBVNGlYTG5EZUdTdVB4cjNGMzVXTGNyeHhDUHY2bkVmRE4yYVM4d3hTdVNURHMwVmRGaTE4RzlYbw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-07T04:38:27Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_15101",
       "titulo": "Lula prioriza energia e mineração em agenda pós-eleição",
@@ -20,11 +44,14 @@
       "lead": "Lula diz que energia elétrica ‘do povo’ não poderá ser usada para data center",
       "fonte": "InfoMoney",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkdyUE1tMDVTblBJai12TFlsQXdmNE1CcGI4WHNtTkJ5MXl0SVNRNXY4V0VmNHhDUXBvWmc3UUxEcUl6RjJ1a0Y3T3diZGVjWVN5TldvM1RiNUdLcEl5WlN3SDZXNGNXVDZxaDBWMDZtXzVVWVMtbDl4Z3lqYjJ2SnpEVHV6cTN2TGlyQW5ndTN3VzdUZGpxekhuMkxIS3Y0OHFwVFVHU0wyNnRycDZVUDRSNUrSAboBQVVfeXFMTTB0YTE2MDhsUV9CcG1BS29EcDEwWjFXRHFQSldUdUFXMXI2YnNvWTdSRU1xWjJtRFozcks3WlE5Znc5eUYtOGtlbDJjTExTLW1aTDNreXpPcFhoQ19sak5YeTNPQ0w4TXpwRnJNWUI4S3hwQVpfMlU0OTBoMlA1b3ZyRkhxMnNrOTBLeG5qdTFjUEkyYVZIa2ZUekVJQW15NVhSU3pJMkg0OElPemlPS1J0V3dOUkNxa1dB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-06T21:15:59Z",
       "dominio": "www.infomoney.com.br",
-      "tema": "solar"
+      "tema": "solar",
+      "tambem_em": [
+        "Tribuna do Sertão"
+      ]
     },
     {
       "id": "transicao_61704",
@@ -44,11 +71,14 @@
       "lead": "Lula defende autoprodução de energia para novos data centers no Brasil",
       "fonte": "Fato Paulista",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSndHbVlLMmJhajdPZXE3RDN5YV9IeS1ucm5OVDNyOFpSWTk2UGFYaXRDZW5CRU1oZndmS1RNUG1BSS1RWTJTT25ieXZnbDRrRU9qZUNRaURTaTBYaVJPUHZyQzdnTy0zS015VzYyMTFPcUVlNDlrY3RieDFPZW5oVUJIM3Bnd0Y4aGU1bmVHS3U3NG5tTWNLcUszYV9fS09X?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-06T20:26:20Z",
       "dominio": "fatopaulista.com.br",
-      "tema": "solar"
+      "tema": "solar",
+      "tambem_em": [
+        "GPS Brasília"
+      ]
     },
     {
       "id": "regulacao_90695",
@@ -63,15 +93,18 @@
       "tema": "eolica"
     },
     {
-      "id": "mercado-livre_92563",
+      "id": "mercado-livre_37272",
       "titulo": "Mercado livre de energia será alternativa para pequenos comércios e indústrias reduzirem custos",
       "lead": "Mercado livre de energia será alternativa para pequenos comércios e indústrias reduzirem custos",
       "fonte": "Folha PE",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkRpRkphMXhLVTJYdW15dzB5UXJ0RHhIOUsyNkVnV19KanBFQk9aSVVLeEhZM09TUnlEdEFmeGpMWmJHTlpUa0lEUXNSQkw5dmJmVUxoSUVyWGE2c0hYVTYxQW93bElvV2JvdnR2cWpNakUweU84OUJLeDFsR0J6bi1xYWF1ZkRqNUJlWm1CdG9BNUtPTUJrWVpBRWVBeWZCcTltRHVYNGTSAawBQVVfeXFMTnJTX01KTURFRkE5Y3BzSHdDM2RSN2JzSHVvNWlHUk5vY2xUcS1lWV9ZOWx0VGNTY0c4bFdtOXNIWklnc1cwREpvbmJNdURQWHVmdHNGeS1lM0o0YjNuMVJhb0NkcTJoRVV4OXIzQVdWdHN6UjB3TW0xOC1RU1pBTjJ3bGtwTGZvQUZaQnR1NEFBLVYwemo4bktjVC1IOGFzbGhqeC1QR3dCNEF1NQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVkRpRkphMXhLVTJYdW15dzB5UXJ0RHhIOUsyNkVnV19KanBFQk9aSVVLeEhZM09TUnlEdEFmeGpMWmJHTlpUa0lEUXNSQkw5dmJmVUxoSUVyWGE2c0hYVTYxQW93bElvV2JvdnR2cWpNakUweU84OUJLeDFsR0J6bi1xYWF1ZkRqNUJlWm1CdG9BNUtPTUJrWVpBRWVBeWZCcTltRHVYNGQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-06T18:13:00Z",
       "dominio": "www.folhape.com.br",
+      "tambem_em": [
+        "Folha PE"
+      ],
       "tema": "precos-mercado"
     },
     {
@@ -99,6 +132,18 @@
       "tema": "precos-mercado"
     },
     {
+      "id": "politica-energetica_31240",
+      "titulo": "Governo Lula estabelece diretrizes para reduzir gradualmente dependência de combustíveis fósseis no Brasil",
+      "lead": "Governo Lula estabelece diretrizes para reduzir gradualmente dependência de combustíveis fósseis no Brasil www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMU9OWlRzYWlXN0YzUEV6dkdWSHJ5WVRaVzhwU3FrVjJGZlVfY0lPVUVZcHNxc3NvV3lZOUVjMGxyRzlVU3VlbXhFMkpVUVlNYVRZc1g3QWdiQnk1czlNNzF2VDZSN2dVMC00dGcwLVVkVkxOdlUzQTExVThPYTlTSHdCYjlBWlA2T3RqRkViYTAxNVFILS1mT2hPdnRXOWFXWkh1aDloZ0QtS05hNXJpd2dRRTlHYU1lRHA1Z0VEVlc2YWcxRFZ1NGQ1bDNsSkliQVZsdTl1UU9sMDl0eExGbG5rbkR0SnU3MzNGUDh6WWFxQ2ljeW5fMQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-06T16:27:04Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "transicao_24751",
       "titulo": "Armazenamento de energia avança no Brasil e entra na agenda da COP31",
       "lead": "Armazenamento de energia avança no Brasil e entra na agenda da COP31",
@@ -116,7 +161,7 @@
       "lead": "CNPE aprova medidas para reforçar a segurança, a rastreabilidade e a fiscalização do mercado de gás de cozinha www.gov.br",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUzhObDJXMmdzaUdMUGR4dE9VTWFFdDc5bVpxcnY0MGJJSHQ4aXh2UEN6bWRZVFBEVTRkcGliRGRra3pmR2p5VlBrSjJkemFrdDlkUzBmcDNUWG03VUx5UF82NnR5MVVzRnp4S0dZMGp1NzV0Y0IwMElFbVNkUEJISThuS2pmSmZHWUxKNWl2NF9OekZfT3l1MERZdnRUZlVwRDdwTkxQU0R6S01Hcm1LUDFaNmx5Ymw3dG1HN0dhaEJ5X1MtUFpsMkljcEl0VzRYYnZWbXd1OG94YTJQa0VBdjhkekJFSGxCY1ZpVnVIQkpzRHZDWmlqU2l1bXg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-11-06T15:20:26Z",
       "dominio": "www.gov.br",
@@ -135,6 +180,30 @@
       "tambem_em": [
         "www.gov.br"
       ],
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_84096",
+      "titulo": "Brasil dá primeiro passo para Estratégia Nacional de Eletromobilidade — Ministério de Minas e Energia",
+      "lead": "Brasil dá primeiro passo para Estratégia Nacional de Eletromobilidade",
+      "fonte": "www.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHNMcDVfaW8yUy1rdlNDaW5PVVNWS3FnRGp0eHFGYTJkS0FvM3ZzRWozLUtRaWQ4OGQ3cXI0eGMwY3RZWW90cDl5NHFraXgxd3llTFZBeGVPVGVGS1h5eVdCcWdtWkhGRFFoTmJWb0dhVjNGbzZ4RlFJX05lampkUWVLc0NzWnpXTWpVNGRJS19MOUt5NWFkWnFtOEJDbE54ZDQtLVJxVHZCc2xGU21RemJUYUx1T1JPV3BpbkYtMC1qeWNiaXJN?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-06T14:49:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_94351",
+      "titulo": "CNPE aprova a Estratégia Nacional de Dados Energéticos e institui o Comitê Técnico de Gestão da Estratégia Nacional de Dados Energéticos",
+      "lead": "CNPE aprova a Estratégia Nacional de Dados Energéticos e institui o Comitê Técnico de Gestão da Estratégia Nacional de Dados Energéticos www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNYlRoWExLNXlPR25aYmlmWVpsbGp0d3g4cVJPQ1AxYUg2N3pKdkFEckdxNUpSOXlfeGx2Tlp1S3pRZHRhX2w5WGRIbHhZQlVCaW5DdTUwTmdNUHZKMGJQa3JZSDR0Z1RJZl9TYVRVVWZSYUZqSkp6ZXBDOEdTckdHZ3l2bmlpWEVmeHU4bnlqRXJqT0RQa2p4UWVIREc0blJlcjMyRWhaaE5GOUtIYzZFb003VnR3ZVFJNnhlRVk4UFAxMmhwOHdlOHFGd01pU0pvanZWYUIxaGJxUjlabF81LVhEdEZBMnNlYUkxV3ZUTmVPZ0F4NnlsMnYxTGNzWTdlVkNEcVV4UUhacmpIWWk5TklEanA2c1BSeExoNUNDYUM?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-06T14:40:25Z",
+      "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
     },
     {
@@ -199,6 +268,18 @@
       "data": "2026-11-05T19:43:21Z",
       "dominio": "canalsolar.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_49603",
+      "titulo": "Campeões nacionais da ONEE 2026 são premiados em cerimônia realizada em Brasília",
+      "lead": "Campeões nacionais da ONEE 2026 são premiados em cerimônia realizada em Brasília Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGxyZ0NJZFNhcS1fenNGc1hGaU5yU3RMR0JqSk1jZElVeS1TWURMb2JoVk9Pc0dIR2ZLQ0ZuSlA4WTIweEdnV19VaUxKSUNmZUhQdEpCNGdpalBtM2VzZG1vN0pFdjBXYWVKazFwU3VqQ0w1VTNxNktrZlM0enRhQ0xka1puSHlCcy16cm1mR1h4QXROZkV3YmhEbTFzWDBRYTBUZFN2NEFtLWNpRGhiNVZyUDJCczJRbml5SXhEbjRTOGdfRVBUaXFuTXFkaW8?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-05T17:33:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_68219",
@@ -278,7 +359,7 @@
       "lead": "CMSE destaca segurança do sistema elétrico diante do El Niño e avança no debate sobre flexibilidade no SIN www.gov.br",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc2dlbVVEbGFoRzhPUGxvR2I5TTVQZE4zWTZoRmlnZDJQQXYyUVQ0ZWhkS3JwMzJpTmQtZjdBYlQ3MXBBM0tlY0RPM0V3LUdPRzd4WnVnMDJlVGl2NEFNMjhWMkNFa2ZVMHVWWEV4V3JQRWJPTlJncDVhS0lBQUVUcWtQN1ZMTmJlU1VYeGZXZWplVVFEbjhMa3p0SkZnUGZ3OEpfVVktTV9yUkZKb3JpVHVqSlV4YnZ6MHBzWHJKdkVDS3lkU3BrdkFCNFlWc1k1YThwLWphRGxNM1JrVnMxa0E1OFVhSVM0WkRVRkJFeVp1aUhfanRMMA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-11-04T23:46:45Z",
       "dominio": "www.gov.br",
@@ -290,7 +371,7 @@
       "lead": "CCEE limita operações da Coteminas no mercado de energia",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcV9FNEREZGVOY3U1Z25yQkUwZEpaZU4yWGh2TlhSaVFVa2toMzU2VHlrWFFYWUJ1WUQ4ZzBRb1NlcWRQU2hqbjMzSEdCS2tuSk5sanJHMXdveFdIcGNkWm1uaHk3Wmw5TTlvMFlwQkhJSE5xcDEtSnQ4S0dZTlJ4RFhpLUxna1c5ZTA0b2c3WEdfejh5bWl0MlN1Yk8xNVpLeVRqQzBZWEFxODVCczFvM1ZoNU8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-04T20:37:43Z",
       "dominio": "megawhat.uol.com.br",
@@ -351,6 +432,18 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "regulacao_46962",
+      "titulo": "ANEEL participa do EVEx Lisboa 2026 e é homenageada pelos 30 anos de atuação",
+      "lead": "ANEEL participa do EVEx Lisboa 2026 e é homenageada pelos 30 anos de atuação Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYnZwaHZuZURZeGpYWmhoTENtSGtKV2JIdU10bC1BYm1mRVRKd0dRVWdxVG1ZckRLc2JCdmFnY1dCTURUYXZ4U2paNVlXUS1OdXV3RlBpSk9tbm1hU2dsTk81MU14Wk5CR0tGRzViVVMzYXJPeDlacnRVdWtmQXNPQjVzWVlTeUFDd3lWaFFwMFVVTUxNOFBnazFCSXJLWEVDcFI2MmZwWXJabW9RczRGVlZrT3hEdFAwdGk5SlZzNzlyQktXdE1zQXlB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-04T07:51:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "regulacao_90993",
       "titulo": "Workshop debate proposta sobre rateio de custos da reserva de capacidade com baterias",
       "lead": "Workshop debate proposta sobre rateio de custos da reserva de capacidade com baterias Governo Federal",
@@ -397,6 +490,18 @@
       "data": "2026-11-03T20:32:03Z",
       "dominio": "agenciainfra.com",
       "tema": "termica-gas"
+    },
+    {
+      "id": "politica-energetica_64116",
+      "titulo": "MME divulga prazo de envio de previsões de “declarações de necessidades” para leilões de energia nova de 2027",
+      "lead": "MME divulga prazo de envio de previsões de “declarações de necessidades” para leilões de energia nova de 2027 www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOamlwQm5wQWJ6VWl3RWoxeU5VYXJSNUVzRVU1MDVXMEwtWDhYNGRoVG41WWtzenFBTkpnRGNSQ2ZxUUNpOGw3MTVnQXRKUHdSN2puamgyNDNiRmx0dnhpM0FTYXJwQ0doV3k4dld2d0JNcjVXYkl0NWVkcXh2MjRRVk56eTdIWmdTVDdDWGdST1lDRWtTYVNEYVVhbWVub2t6ZjE2enROTGg5cS1weUQ2Ni00dVpwcVRXVjNUbkNFMVBZWFl2MzFsUHVVMWZIaUVTOTVWUVB0cl8yLXJVa3ZCb0k0SHJQVTctZ1VzeFRqV09yNVFBeGtpUUYtWG9aNGVSMTFpTQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-03T20:22:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_37353",
@@ -639,123 +744,14 @@
       "tambem_em": [
         "A Voz dos Municípios",
         "TAGD Advogados",
-        "Grupo AMANHÃ",
+        "Grupo Chiru",
         "VEJA",
         "Enel",
         "Agência Brasil",
-        "Canal Solar",
         "G1",
         "Governo Federal"
       ],
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_13267",
-      "titulo": "PLD no piso não garante contratos de energia mais baratos, alerta Voltera",
-      "lead": "PLD no piso não garante contratos de energia mais baratos, alerta Voltera",
-      "fonte": "Gente de Opinião",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejRKREdGSk5YQTN1cG9CSjhSRE5GbVZtbWJqV25zcUJSN20xNWFVNUw5X2RUY056MjJnYmc1TExpUWtGX3FMaDhaWkJscXIxVV9BN0c2aUphOEllek1CeTktVjVoeWlMVVVrN2hjZVJCZjBSUmxwZTdqcGFxUE8wRGZUMlVod1cxWUFVNWhqbXlaOFFjbFlUd0wwZUxlZHlEU3g5c1owcTN3X29kUzZ4R2t3QjNnNzZEY3I3dzVMbw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-10-30T20:07:00Z",
-      "dominio": "www.gentedeopiniao.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_99920",
-      "titulo": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
-      "lead": "Armazenamento com segurança: por que certificar BESS é vital para a energia solar",
-      "fonte": "Gazeta da Semana",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFBUdnE4dFhlclgxSGk1RFdGb2F2VTZPRk5uM1l1VldJeFFRMUtlSDNlUl9lU2tveGQ1TTRlcHJyZU85bGpmbFNTYk5vcTNvSlFkSjZuM3l3VURwekpRc3NJTWgyWVh5a0lIaWhkalo5MVVsZkpFUkEwTlpHV2tQUktqemhhQ1dMRzlzaHNmMEQyRVpsQjFfNUJDOHBDeXAyREJzTE1iXzBzQnVMd3Y2NFZpamt1Ty1kS3gwRTlhOF8zbUNVaHRLOQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-30T19:46:13Z",
-      "dominio": "gazetadasemana.com.br",
-      "tambem_em": [
-        "Portal Revista Kdea 360"
-      ],
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_77438",
-      "titulo": "Aneel anuncia três leilões de transmissão de energia para 2027",
-      "lead": "Aneel anuncia três leilões de transmissão de energia para 2027",
-      "fonte": "Portal Cambé",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iUGs4M0Rqa3lkZkFTTEdVSnV3SG9mSlFudDNkc1loaEdRdE56RjdCV01EdU92d2ZxWjYzcHhvUE9TNWRYWEl6TzA1c1B6czlGOXQtb1VQNTdqYUVLem9XbTJkbmFxMU0wRENrckFHNm13YVFL?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-30T19:26:55Z",
-      "dominio": "portalcambe.com.br",
-      "tambem_em": [
-        "Agência Brasil"
-      ],
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "transicao_85912",
-      "titulo": "PUCRS capacita profissionais da Equatorial Energia em armazenamento de energia por baterias",
-      "lead": "PUCRS capacita profissionais da Equatorial Energia em armazenamento de energia por baterias",
-      "fonte": "PUCRS",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUmdYNDV5V3BxVzZnaDd2UFp0RzFpOTZWUk02SEdnV2V2VC1nS3AyekZ0bDRJRWViOTZMaVdGQ3ZlQWxaVk8tbTZ0Snl3NzMyUEdlTWJEaHhBVldXWVZ1eHBJdUZHTnVaQlFxV0l4VktIS0ZoejFQLVQzUFlzVW90ZnBadGZVM3BzOGhxalc4a3E1ZEFZN1FRT0s2Nk1adw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-30T19:16:53Z",
-      "dominio": "portal.pucrs.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_78847",
-      "titulo": "Comerc e Cedro avançam em parceria para autoprodução de energia solar",
-      "lead": "Comerc e Cedro avançam em parceria para autoprodução de energia solar",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlpEX0xOb0pkYl92RGZsbVZ6SnV3cU9WSkRHclVDV1RUVGtURDgtUkZjTDF6Z210VUJKX1pwUFotWDl5ZS1jekdlTmtJUVBmTk13SjVpaFJrQ1Z0SVFxWEtmemltdHEyQ1FtRG1KaWVrbTVJWnRkZ1pPY09wQmpOQi1ycTdkamRiVk9JY1J2bkY2QUR4Mi1icHNQZzA5d3NQMnRIUXpJb0R3TmJRa0hoWjJGNjhsUHE5VkE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-30T19:00:00Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "transicao_34084",
-      "titulo": "Casa dos Ventos avalia autoprodução com Cargill em usina solar",
-      "lead": "Casa dos Ventos avalia autoprodução com Cargill em usina solar",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWhYWWdSeGQ5SWdhbkZCNGVVWjN5Tk9nX25lbjU1ZTRMQmtDUEp2ZEU4TVdURlFndjBuRmJoZlM4VlFoNVFFYkF4a0dYdmkydDdMd3FnVDRKMFpQM0wyT1l0ODlOZ2Zlc3JUUHpydXFkZ2ZDZkpxSTNhaWJQbHk4dkZtUGdJSTRiU2pKWWw5Tnp3X2pWcVZsZk5SVW9EQ1RDYTV6dkZmUkdPbGZ2Q3JVOQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-10-30T17:30:00Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "politica-energetica_38473",
-      "titulo": "Leilão de transmissão 4/2026 garante R$ 8,9 bilhões em investimentos para sete estados brasileiros",
-      "lead": "Leilão de transmissão 4/2026 garante R$ 8,9 bilhões em investimentos para sete estados brasileiros www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbHZDVFJITVdsOGVUM3NOeXRhc1dYV2oxUEFKMUYzekM1bnN1eTJGbGxGZHg5OWRTYlFteG96bU0zanpCQXVwbVpDcXdPakVVMnlsaWdaZWdrNVBxQnMybjhyR1dlbjljamlIS2lMSzlndktDNEpFSmdIYjFfR09EUDN2OFBESFlsbE5ZTHJCNW9HNE5X?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1606901900840-f3dba75bcd47?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-10-30T17:02:37Z",
-      "dominio": "www.gov.br",
-      "tambem_em": [
-        "Brasil 247"
-      ],
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "regulacao_82040",
-      "titulo": "MS recebe R$ 4,11 bi em leilão de transmissão de energia da Aneel",
-      "lead": "MS recebe R$ 4,11 bi em leilão de transmissão de energia da Aneel",
-      "fonte": "Campo Grande News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTMxU0dFZ0RBWHdaRmdqUFVGV3lyQlA5ekM2MUdKdEUweVBuWGdEd0dKOElEbWp3bE5QMTdNR2R1WXdrazNDNzFZZG84Z1g2VUFWR2dXTk1yZDBMTmEzU2RLd1NzblY0QnpscU1xOXd4ZmUwMHRQc0dWTlc1RGd5bGZESkkxR2REbzEwU09Ga3RUWkIzY2I2X2M1WEc3dlBtbl8yM0ZPV2FlRUlpM01HcmRtTldnNzDSAbcBQVVfeXFMT2pfUkhQejg4SEdETGdfUmM2SnZOOHF3SFZnTkJPeDFHMHVQaXNuM296MVZpbEtqVzY2cFBON3JkWTBUNFZfMUYzQjBuUVduUTZTck5pX09JdnhqUy1oQzI2RUtsTFR2TUVGVWpjekhicjkxc01tN3dwLVdIbVNJNTIteUludjEweXNVLTZ4b0xkRXozWndPcDF6dVhVTDRvcjNGUWhuWkwzcnB1R3R6cE1qT3MydnJJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-10-30T16:59:00Z",
-      "dominio": "www.campograndenews.com.br",
-      "tambem_em": [
-        "Campo Grande News"
-      ],
-      "tema": "transmissao-rede"
     }
   ]
 }

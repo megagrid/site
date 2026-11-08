@@ -1,14 +1,50 @@
 {
-  "updated": "2026-11-07T22:51:37Z",
+  "updated": "2026-11-08T17:20:21Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_36364",
+      "titulo": "Fórum de análise setorial da CCEE projeta transformações regulatórias e comerciais no mercado de energia elétrica",
+      "lead": "Fórum de análise setorial da CCEE projeta transformações regulatórias e comerciais no mercado de energia elétrica",
+      "fonte": "Brasil Inovador",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcVVQbjk0WkkwZ3FCOHhRalBsYk9fc2ZJWGlPelBEblRqMWxoMW0zN1YzcFc2d0UzaFBBV2IyQkxsNnBodXJDamEycjl4VFBjamp1eUFCaldRV1N3N2E1cUVJSEhPd0tuX0J6NW5ydGs1UXRSYnBuV1Z3VXl5S3gzYmRrbDdQdW92Wk1pQ3dGOVZWMC1pWXlJMzF3dWRwMDdCcmF1VV9sUHlYYnQyX2p1Y3BPbnV4ZVBHQTF2ZWRBUFhVVHNiTDJtTXVFRklZVmhnM0kyMWVqWU5Bakhy?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-08T13:20:08Z",
+      "dominio": "brasilinovador.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "tarifas_40488",
+      "titulo": "Bandeira verde mantém conta de energia sem acréscimo em novembro",
+      "lead": "Bandeira verde mantém conta de energia sem acréscimo em novembro",
+      "fonte": "Blog do Edvaldo Magalhães",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnVvWWFxYWJwa0Y2akFaUk4tVGwyaGVVdVpOaWdkSmcxZUtaNnJ1M3RKT0NfdHRDTVp1TE1ZUWFVdWhKM0x6SnFIY1cyQ19FMTRISE9VT1FhbUFKVjUxeWVSQnZxVWVnOE1wbk05VTF4ZkdNVkRSRmtoNFRSYTlyUGhtdlEyTGZBZDdIWUctUEk1ZnRIbWdFMGZhZGdELThBdE0zb194STAtaWlpQTR4NHJsS1ZBZk04SzlxYThwM3NUdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-08T03:05:40Z",
+      "dominio": "blogdoedvaldomagalhaes.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_91629",
+      "titulo": "Subsídios aos combustíveis fósseis chegam a R$ 54,1 bilhões no Brasil em 2025, revela estudo",
+      "lead": "Subsídios aos combustíveis fósseis chegam a R$ 54,1 bilhões no Brasil em 2025, revela estudo",
+      "fonte": "Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkI3UlM4MXhFUjVseFRwd2ZhSVBHUGhXYWpSMGxMVjBDQjN1S29iZXpsdnBjWWlpVVpmczRiNFZuMHJseEx0Qm1idXFCUVV6ZWt1cnZ4bzRkSzVOMVVZUlVMNXl3QkRwRmRMNFVzbFlUT2g0emtZbndIckV6OVBiN0c5SDN4R0NZMTBhcFc5Wkd2YTg5YlhsanA2eWMyS0hvMlphQjQ0a2l2VlM0ZjV5c1BqZF9OcFlsTlE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-07T23:30:00Z",
+      "dominio": "timesbrasil.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "tarifas_90115",
       "titulo": "Conta de luz em novembro terá bandeira verde: entenda o que muda no valor pago",
       "lead": "Conta de luz em novembro terá bandeira verde: entenda o que muda no valor pago",
       "fonte": "www.guairanews.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUstRllVOXZJcEc0SU5XdlBFdkdfZ0JPSHd4bUFXcElKQWFyRy15NFpYa1A1akZCUjdoX0ZGRTBuZXp6YkRRQmR3SzU4WDBhNlBIUDlGMndYRm1iSTlKOU9icVd0RldHNzI4aC00WVBwZU5zdEJZSDVEZ19vVXFlLVp2UFBlNWVtRFhz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1762115106003-30a83b29f609?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-11-07T14:57:57Z",
       "dominio": "www.guairanews.com",
@@ -190,7 +226,7 @@
       "data": "2026-11-06T14:59:32Z",
       "dominio": "eixos.com.br",
       "tambem_em": [
-        "www.gov.br"
+        "GOV.BR"
       ],
       "tema": "regulacao-institucional"
     },
@@ -429,6 +465,18 @@
       ]
     },
     {
+      "id": "politica-energetica_91655",
+      "titulo": "PDE projeta contribuição de 276 TWh da eficiência e dos recursos energéticos distribuídos em 2036",
+      "lead": "PDE projeta contribuição de 276 TWh da eficiência e dos recursos energéticos distribuídos em 2036 www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajFnQzdXcjRXZ1dBUlRZQUdYTFlTYWJrWjdDQmgzV01UUWFFMFNqZFFZeDQ3cDh6bHJuSEVzSUNCbXdDQUtUdlh1NXFOeVNPWGJPMVNvSjA5V3MxLTJJb1NKNm9LeDFVdkpxTkdFVzZkVjdWcUkyLWNlNW94ajhoczZWcmFxMl9xNXdZQkxXNWJKYVVHeWdUNWJRajVQSTloWWpIQjVHOFZDY2k4SUR4Vm5XeGtWdVphdzZyVlNmdTdLcVkycjBpM0x3bF9PQVVBcFpWQWZHTElycFd2?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-04T18:05:15Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "transicao_47268",
       "titulo": "Baterias, Leilões E Baixa Tensão: Delta Energia Aponta Os Nós Regulatórios Do Setor Elétrico",
       "lead": "Baterias, Leilões E Baixa Tensão: Delta Energia Aponta Os Nós Regulatórios Do Setor Elétrico",
@@ -479,9 +527,7 @@
       "dominio": "vozdosmunicipios.com.br",
       "tambem_em": [
         "TAGD Advogados",
-        "Grupo Chiru",
-        "VEJA",
-        "Enel"
+        "VEJA"
       ],
       "tema": "consumidor-residencial"
     },
@@ -700,54 +746,6 @@
       "data": "2026-11-02T13:24:52Z",
       "dominio": "www.energiaestrategica.com",
       "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_23268",
-      "titulo": "Leilão garante R$ 4,1 bilhões para energia em MS",
-      "lead": "Leilão garante R$ 4,1 bilhões para energia em MS",
-      "fonte": "O Estado Online",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDVwTjFWTW5UV1VYNHp1M01wS0tDSzBJaXhyXzcxeGdvbnhjNXprcDNfWWtnTnFmQlJIUGZvOERNb04taTNlTDFxUHBYcE9vTjBTVW1vRnpwNFVlVXJ0aHh1TjVYLWpSTFFWZFJtS25zLTJMLWtpb3NHSDhQYl9ZbG9yeE85ZlZmMld5ZTVR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-01T19:00:00Z",
-      "dominio": "oestadoonline.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_66375",
-      "titulo": "Gestão dos custos de energia exige combinar contratação e eficiência operacional",
-      "lead": "Gestão dos custos de energia exige combinar contratação e eficiência operacional",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aNDBzVUFrSW04d0p1cE5IRGpMdHRuQkhuOW1PVklZQUdUd2lzVzhHeTNmWWEyR1B4bmJYQmQxd1VRYm9lVEYyZjFpUFdTR0VyczJWWGNQeTZUWVFIN0NlUnJUVVhFeW12VW5GWUQ2QQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-01T18:00:33Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_36982",
-      "titulo": "Governo toma nova decisão sobre conta de luz que passa a valer em novembro",
-      "lead": "Governo toma nova decisão sobre conta de luz que passa a valer em novembro",
-      "fonte": "Terra",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb1pyZ0pvVzZWUWxlWW8wLVcwVUlHTkt6R2QwT0pCUW15M0FMQ05wTlAzX2F4aWpqTHJubXhTcFNkNFRrWlM0VmFhTF8zYkVPbnBVNnpkS3I2a0FaRUxPS2kwVEtsNG9nMHUzYk50d3U0Q3ktOHl5ZzZVMXphVjhoTTd3QldaUEpFZ2wtNTM0eVZjYWo5VUU0aEpJQWxXX25SNjRWem53a0hPZVVKOTdwRHRuLUVpLTk4VURMdkdoalc1Ul9CMkU4enh5aDdmODBZdVNrSUgwTGxYbThVNTBzcFZBTHNxQWNkQnc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-11-01T14:47:43Z",
-      "dominio": "www.terra.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "transicao_41963",
-      "titulo": "Espanha financia portfólio de baterias para reforçar flexibilidade da rede elétrica",
-      "lead": "Espanha financia portfólio de baterias para reforçar flexibilidade da rede elétrica",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckdoa000Zk5ROGFZbjBiZW9rcFRWQktVYm5XNmozcDN4VmNhckpERkNlc0ZsNkRpcnNoTndQaHFETzMtamFHUm5GS2xYcmphS0pNWUEyanR4NWwyQ0VPZk9vRXBSRmtnNjJHNlM3WUR1d2QzTnRtT0wtRmM1dXd1bEhn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-01T13:00:37Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-08T17:20:21Z",
+  "updated": "2026-11-08T22:59:24Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_74487",
+      "titulo": "Leilão de energia promete gerar economia bilionária na conta de luz",
+      "lead": "Leilão de energia promete gerar economia bilionária na conta de luz",
+      "fonte": "Agora Litoral",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnFBTWxBdHRFNmhSY1lENVUybFRPNkMzLXYwUXBqVFdUbEhSRjBNTEdDb3ljMVg5RW5EQUQ0MDlETzMzWldPTmxyMUdweFRMRUluWWtsaWtjMy1wZTFldVZiM180T2VZS0I3YVdBYzgxcDF1Z01zTUI0QmdHSmp4cFJ0c2VfS2NCQS10dmo2Zm9kZjBHNEFsSm1tZ21PdVVBNVp3TjNXOU5sNjA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-08T17:53:07Z",
+      "dominio": "agoralitoral.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_14059",
+      "titulo": "Leilão de transmissão trará economia de R$ 20 bilhões na conta de luz",
+      "lead": "Leilão de transmissão trará economia de R$ 20 bilhões na conta de luz",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNem1fbnQtUndWVVZvbE9MMWVyYlo4X2xRQXNNMjl0UHZ6cElQZnc4MnNQMVJJOWxXbTc0SHY5UDd6SEtEUDNWM25uRVJIRGs0c1cyWkxNZFF0VzU2OE9tSnNScHBub0pjSXRmeENBYnNvaHNhZ3R0bE9rcmNfVnM0Zk1reFZmcWpaSDR4UmxDMWppVmxoQ3lTTWtOWmxVMDJNb01kUWltUUFUYWFOaGVr?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-08T17:02:36Z",
+      "dominio": "www.poder360.com.br",
+      "tema": "transmissao-rede"
+    },
     {
       "id": "mercado-livre_36364",
       "titulo": "Fórum de análise setorial da CCEE projeta transformações regulatórias e comerciais no mercado de energia elétrica",
@@ -20,7 +44,7 @@
       "lead": "Bandeira verde mantém conta de energia sem acréscimo em novembro",
       "fonte": "Blog do Edvaldo Magalhães",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnVvWWFxYWJwa0Y2akFaUk4tVGwyaGVVdVpOaWdkSmcxZUtaNnJ1M3RKT0NfdHRDTVp1TE1ZUWFVdWhKM0x6SnFIY1cyQ19FMTRISE9VT1FhbUFKVjUxeWVSQnZxVWVnOE1wbk05VTF4ZkdNVkRSRmtoNFRSYTlyUGhtdlEyTGZBZDdIWUctUEk1ZnRIbWdFMGZhZGdELThBdE0zb194STAtaWlpQTR4NHJsS1ZBZk04SzlxYThwM3NUdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
       "editoria": "tarifas",
       "data": "2026-11-08T03:05:40Z",
       "dominio": "blogdoedvaldomagalhaes.com.br",
@@ -275,7 +299,7 @@
       "lead": "ABCE: leilão de transmissão reforça segurança energética e coloca eficiência econômica no centro da expansão do setor elétrico",
       "fonte": "TN Petróleo",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWjluZFR4YWY1RkNabkpQY1gya0FOaW1aeHRwSFRDanhkdUNBSzNEcG9SY1NxREpSN2wxdzRXMnQ4TlhWenJHUk5YblNfT2pqcElmRDB4MlJFV3gtd2pyWVdDRWREMUlKTW1ZOGd4V3NrX0xJVWE3d1RfVEluOTJISllkQUJrNVdaSFoxR3pGLVVqXzBLMXI4anQ4ZmQ2cWg4Vjdfc3JONDJkZEhwVzc2Mzg1dmxpejdMNlVwQUJldm1rcExJNUFDNzlkdVkweFQtVERMWjJJTDB3b2dlZXJHZU54YkJfMVI3ZkxhRmlJa18xdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-06T12:02:00Z",
       "dominio": "tnpetroleo.com.br",
@@ -527,7 +551,9 @@
       "dominio": "vozdosmunicipios.com.br",
       "tambem_em": [
         "TAGD Advogados",
-        "VEJA"
+        "Grupo Chiru",
+        "VEJA",
+        "Enel"
       ],
       "tema": "consumidor-residencial"
     },
@@ -722,30 +748,6 @@
       "data": "2026-11-02T16:00:00Z",
       "dominio": "canalsolar.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_36274",
-      "titulo": "Leilões de transmissão de energia podem superar R$ 50 bilhões em 2027",
-      "lead": "Leilões de transmissão de energia podem superar R$ 50 bilhões em 2027",
-      "fonte": "VEJA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWhaX0pMcDRwVDNUSHJHQTVJVjc5MlRLY1poeEl4SGVwcEREaWFKZTBuR3JaQnZhLTlZVXRYcTJ4RGtiRWxSbmNIY2NtS1dzTHVSRm43UklhVmNjQjdYTjBEMWtlSzJ2SE9XNGhwRXBINld2dmFITlJNSi1JOFlIX3NMWHJIRmZ0VUQ3RzhyaUtuNkZxdDBhcEdvb1JmbWE4aUVPQmd1dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552965734-5b9e868808b6?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-02T14:46:44Z",
-      "dominio": "veja.abril.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "transicao_89437",
-      "titulo": "Usina solar primeiro, baterias depois: por que alguns projetos na Colômbia estão adiando o investimento em sistemas de armazenamento de energia em baterias (BESS).",
-      "lead": "Usina solar primeiro, baterias depois: por que alguns projetos na Colômbia estão adiando o investimento em sistemas de armazenamento de energia em baterias (BESS).",
-      "fonte": "Energía Estratégica",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR2lINWtZUG9mWGo0VnUxLW93enI3d2FnN0pHdUF3bzdkM25ILXZmSHBCSlhZOHJ0emttYmpSQ0VIeEgtZzRGTjFYa2tJd3pjSHN4UGhmelEyZ2NzWk8zTnZjSWpsYjRhTUlPSmdEbWJOSk54YWFwMzhhRXJJMGpld0NjOW5OSXdxdHYyaDJPdUNDc0NjRFVHRk1YOHRrckxjeE41N3pXOEV4UlF1NERvWVVEQ2NHbmtBSEY2LVJXUDZDT2dVUjFJUG9GVkNaOGdkUmdOb2pucU1JUE5VRHBhY19BMGdpX2hQU3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-02T13:24:52Z",
-      "dominio": "www.energiaestrategica.com",
-      "tema": "solar"
     }
   ]
 }

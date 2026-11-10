@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-09T21:42:49Z",
+  "updated": "2026-11-10T02:19:41Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_53218",
+      "titulo": "ANEEL propõe incluir sistemas solares e eletropostos em nova tarifa horária",
+      "lead": "ANEEL propõe incluir sistemas solares e eletropostos em nova tarifa horária",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOG9GSkR3eHRIZWFXQ2V6cnpIZnhlVWk5Wk1neHR2UjNHY3lHeU04RlA5ZGI5TzVFWTFXY21OVWVwcVJFRlJCQ0RwU3ZWcERjN1psU0NyYnBkUlhKNm1YUFlEZVVOYlg3QkFnQkx2YUdWU2E5VGpGNDlxdURCc3FkYk03RTZTZ3J4SEtLS25Vaw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-09T20:36:36Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "solar"
+    },
     {
       "id": "politica-energetica_39487",
       "titulo": "Gás do Povo tem vigência prorrogada até novembro de 2031",
@@ -15,12 +27,24 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "transicao_1233",
+      "titulo": "Associações acionam governo por aprovação de PL que muda rateio de custos de baterias",
+      "lead": "Associações acionam governo por aprovação de PL que muda rateio de custos de baterias",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOHpMMUlPQWJnTC1saGpSSHotVE9fbzZ6SDVrODBPdHpQRnFxaTBQbnotcWZlUk0wdElVRi1aNlFFSXN2NGZ4N1E4T2c3YUpSWTE4M01GRmhnOTNXODBYNzFqVTVqVzB0T3oyV2JjZmNvcnFCRkRCTDRTTmZnOWhvWmFEb1pOQ0JLbzhwYkZWTHV5ZHkyZGlJZzlRSHNLanBlTUlzZ0RWa1M0cVZpWWhMUlhEMzM5MG1xdzFjUGFic2pwNFRYcERN?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-09T18:31:28Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "politica-energetica_15875",
       "titulo": "MME reúne parceiros internacionais para discutir integração entre energia solar e agricultura",
       "lead": "MME reúne parceiros internacionais para discutir integração entre energia solar e agricultura www.gov.br",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnp4WGVkcm11TWtCR2J5Vzlpel9NdVBITVhuc09kdkJ0X3pnMkV0RWl6NkVyZ2ZramZhMGFJMGlvMDBDMlhfN2l5MWJSVk1jRWp4ZTJ3UVNkWVpYZmdvR0F2OVRTYURkdTRuVEVqYy1rcktlLUU1ZTJndUVlUVJQOGZldFA5SjVzNTA1X2d2TTMtUW56OFZRTkxwWk4zbkJmV3FEc0Y4ZDNQaWZDY1VBdnNHV3h4aFJvLXF5aEx3TjNheW8tZG1MTHIxVjZsYjkxTDVuSV80Zzl6S081Qk9QcjRYeHBYX1k?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-11-09T16:47:55Z",
       "dominio": "www.gov.br",
@@ -145,7 +169,6 @@
       "data": "2026-11-07T09:35:37Z",
       "dominio": "aciara.com.br",
       "tambem_em": [
-        "InfoMoney",
         "Tribuna do Sertão"
       ],
       "tema": "solar"
@@ -623,7 +646,6 @@
       "data": "2026-11-04T12:36:25Z",
       "dominio": "vozdosmunicipios.com.br",
       "tambem_em": [
-        "TAGD Advogados",
         "Grupo Chiru",
         "Enel"
       ],
@@ -724,30 +746,6 @@
       "data": "2026-11-03T18:55:00Z",
       "dominio": "clickpetroleoegas.com.br",
       "tema": "solar"
-    },
-    {
-      "id": "regulacao_52756",
-      "titulo": "Aneel avalia restringir oferta de descontos na GD por assinatura",
-      "lead": "Aneel avalia restringir oferta de descontos na GD por assinatura",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaENUQ19WTG0tUzI4eGNHZTNXMG5aYzd5dVdWeC1waURfclRaZFJyQUZCdVAxYnAtUjctbzdyVURySnhWaE9hZElRYVl3Um1FT1NoUWZRZTNnRnh6Z1F2VWhaaFJ4WmdBZzE4SXRmVmRxdGlXYnlEMGJNb0ZWLUswdzhnMEo0eFRfRDE0akJaM1NvU3hoNFZneTFaTDZSa3BXN2pyYWxHbENIYzNpdGtqOWNHX09KR0NiakxmMmttdHFpakppeFZ0UHMyVDBQZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-03T18:47:45Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_90307",
-      "titulo": "Neoenergia e EDP arrematam lotes no último leilão de transmissão do ano",
-      "lead": "Neoenergia e EDP arrematam lotes no último leilão de transmissão do ano",
-      "fonte": "Revista O Empreiteiro",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1dEcEdpU2VLUzlHeEpPVEVBMFVWOTB5N1JCMU1YcUJDTWNLTklGQTFyU3NQa1F6UE9qekpGUXp1Q1QzLXJQcnNaQ1FBdWx0RFVtb3J5ZEF5LUFjRUd4NXRvU0FpVzZHenBmVGhKZ1lYeld5WkFRekZkODBYTzZfbm5wYzM2Zw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-03T18:27:16Z",
-      "dominio": "revistaoe.com.br",
-      "tema": "transmissao-rede"
     }
   ]
 }

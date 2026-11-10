@@ -1,13 +1,18 @@
 {
-  "updated": "2026-11-10T02:19:36Z",
-  "mes": "outubro/2026",
-  "competencia": "2026-10",
+  "updated": "2026-11-10T18:59:53Z",
+  "mes": "novembro/2026",
+  "competencia": "2026-11",
   "fonte": "ANEEL — Dados Abertos",
   "cor": "verde",
   "adicional_kwh": 0.0,
   "adicional_mwh": 0.0,
   "descricao": "Condições favoráveis de geração",
   "historico": [
+    {
+      "competencia": "2026-11",
+      "mes": "novembro/2026",
+      "cor": "verde"
+    },
     {
       "competencia": "2026-10",
       "mes": "outubro/2026",
@@ -122,13 +127,6 @@
       "competencia": "2024-12",
       "mes": "dezembro/2024",
       "cor": "verde"
-    },
-    {
-      "competencia": "2024-11",
-      "mes": "novembro/2024",
-      "cor": "amarela"
     }
-  ],
-  "defasado": true,
-  "aviso": "Referência: outubro/2026. Não foi possível obter o registro de novembro/2026."
+  ]
 }

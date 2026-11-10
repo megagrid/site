@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-10T02:19:41Z",
+  "updated": "2026-11-10T18:59:58Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_84886",
+      "titulo": "MME abre consulta pública sobre novo manual do Luz para Todos",
+      "lead": "MME abre consulta pública sobre novo manual do Luz para Todos",
+      "fonte": "eixos",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkpRYkk0Zm9udlBBUGlVa2lpTHpkeFdCTFNramhfcGc1NDJFb25Tb3FCQUdrWGNQU2ExdE1YQU1fbldOcTF0Qm5YS0tOQURnX1V2OTNzRXBlMTU0M3VucVJTR0hPeTZ0T1dhWWE3ZVVSd2NySzhJWXF2bElySGdwOF90UEF5VmdBOE9vdXVaX1dYeHk3dDI4?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-10T13:46:43Z",
+      "dominio": "eixos.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_19135",
+      "titulo": "Aneel Propõe Nova Tarifa Hora Certa para Reduzir Custos de Energia",
+      "lead": "Aneel Propõe Nova Tarifa Hora Certa para Reduzir Custos de Energia",
+      "fonte": "Jornal Brasília Capital",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQck04dUlLOUlsMWJrdE1XbTFiajlVTEUxRUtVRldhTnc5dnN4eFVBTjdfbHNnYzhWXzNHczd1TkFJYzBKUzBUbFhpRUZTTVQwYlpFX0NOMVVXc1BiM0RVZzF2OEgxNXFhZGxIZXpuS2YyQXdWbXZtMzl5N3hxVnNPQVN5Z1RwUWNqemQ1ckNJYW5iTVRLdTYxcg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-10T09:30:00Z",
+      "dominio": "bsbcapital.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_91543",
+      "titulo": "Leilão de baterias atrai mais de 6 mil projetos e movimenta setor elétrico",
+      "lead": "Leilão de baterias atrai mais de 6 mil projetos e movimenta setor elétrico",
+      "fonte": "Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYXIySEtpb0FKZk9kdHVFWXlGdzF0YjNjLUJaa0pweGN1Q1lqdjhRNUdvQ3RPSEdpcjlPdkRUSll6N2t4Yy1sc1c1SzNJdFRCMGZzNXZxR25aVG1MQTJVbk0xMzBmVG5KbFFWNzJORkViR0ZwN29sVkFtTnctUUtwYy1MZE5QTnhtMGg3TVcteUtUc0FqekRuVkhsWEx2ZGt6bDlYbEJpU0toWlU3TElENXlhTTVZTk1pdl9DNjktU04yZ1psRk5QTVQ4OEZPNjM5dDU0ZG1IaVM3dDRfUkpSOTJYemw1RmxqQVh5T1FWQVV2MndDQVgyOHJ3YTFfZlBWN0l3NzY5d3ZNNmRG0gGbAkFVX3lxTFBKSWZkcHFSMW9HWURERFlfSlVfd1VwZDQzekk1Uzl1U2dpalQzcGM2aE9jZWhEWDdaUi1tNUVMNENwaXNqSmpYNmhxZVJMLVdzYlFQUHdudzNLM1BaaUdCc3FhNG1xRlI3WnZ0OEJYVFdGbFZERklFZTRSTWFfT3h0ZW9wbkV0M25kNURnYkRDOURWYU1Id0ZoT1JIYksxMEl1a2dKRWRRMDcxM2NiZFE4bUppNnR2cklLNmVpM1R1cUpVQW1yM01IMWhPZVBlQ29HYkdLV2VVNWlobDlyVXY2YUExVU8zc09PNXBVbjg3eDVWSHVjQXpPanhBcklMbjNCQy04X1M0b0kwRDBwRG1JMzJBR0hfc0dDOGs?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-10T08:10:01Z",
+      "dominio": "valor.globo.com",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "regulacao_53218",
       "titulo": "ANEEL propõe incluir sistemas solares e eletropostos em nova tarifa horária",
@@ -169,7 +205,7 @@
       "data": "2026-11-07T09:35:37Z",
       "dominio": "aciara.com.br",
       "tambem_em": [
-        "Tribuna do Sertão"
+        "InfoMoney"
       ],
       "tema": "solar"
     },
@@ -297,6 +333,18 @@
       "editoria": "mercado-livre",
       "data": "2026-11-06T17:21:00Z",
       "dominio": "www.terra.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_71626",
+      "titulo": "Lula rebate críticas sobre falta de responsabilidade fiscal e diz: 'pobres não pagarão a conta'",
+      "lead": "Lula rebate críticas sobre falta de responsabilidade fiscal e diz: 'pobres não pagarão a conta'",
+      "fonte": "Jornal de Brasília",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeXRjQ3RabnN2cWlCY0h6UkozVWVEaVgtdjJiTm5pUUFmTGlhNDNpajNZSkx5Q1VPd1J4TVd2WTd2a3kxSGVQZTV5MHZtZWlkUVZEZGV6czNCZDhxMU1VVGNEdEQ2c0kyMzM2aVBySXpYNzhiNHBhUzQ4V0gwMUxzdVktOHNDZk1TTmRQSEhDWGtEdDlnZ1VTVWh5cWRkTkdjbXVkUk9mMlJtZWlBdUMwZHYxVWRYVXNOb2FhYWpnYy00WnZGT3AxN2dqS3lraU93SENtZ1gtaElTbUU?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-06T16:58:15Z",
+      "dominio": "jornaldebrasilia.com.br",
       "tema": "precos-mercado"
     },
     {
@@ -633,7 +681,10 @@
       "editoria": "transicao",
       "data": "2026-11-04T12:52:19Z",
       "dominio": "arenadenoticias.com.br",
-      "tema": "baterias-armazenamento"
+      "tema": "baterias-armazenamento",
+      "tambem_em": [
+        "Terra"
+      ]
     },
     {
       "id": "tarifas_67774",
@@ -698,54 +749,6 @@
       "data": "2026-11-03T23:00:00Z",
       "dominio": "timesbrasil.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_65759",
-      "titulo": "CNPE nesta sexta deve discutir gás natural e eletromobilidade, dizem fontes",
-      "lead": "CNPE nesta sexta deve discutir gás natural e eletromobilidade, dizem fontes",
-      "fonte": "Agência iNFRA",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHVZZ0JpTVZ1SUpZWlQyTEdSOUk1ZkJHU1RadGdGWjBKWFlFQVFlSDJlV2UtVFBFRllEQUFqOUZQcC1vdzJZSXBndDNrbnc3eklFQTFfRjRHQzNodl9FUklmbmFQRFUwYWEwY1F6Q3BOcnZqQTRkNVVWOFNwcmhzVE4xT2pPX2hRbVdPdkJzdGd1MEN2UkM4aHE1S3V5cGtJLTdoSzAzbnQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-03T20:32:03Z",
-      "dominio": "agenciainfra.com",
-      "tema": "termica-gas"
-    },
-    {
-      "id": "politica-energetica_64116",
-      "titulo": "MME divulga prazo de envio de previsões de “declarações de necessidades” para leilões de energia nova de 2027",
-      "lead": "MME divulga prazo de envio de previsões de “declarações de necessidades” para leilões de energia nova de 2027 www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOamlwQm5wQWJ6VWl3RWoxeU5VYXJSNUVzRVU1MDVXMEwtWDhYNGRoVG41WWtzenFBTkpnRGNSQ2ZxUUNpOGw3MTVnQXRKUHdSN2puamgyNDNiRmx0dnhpM0FTYXJwQ0doV3k4dld2d0JNcjVXYkl0NWVkcXh2MjRRVk56eTdIWmdTVDdDWGdST1lDRWtTYVNEYVVhbWVub2t6ZjE2enROTGg5cS1weUQ2Ni00dVpwcVRXVjNUbkNFMVBZWFl2MzFsUHVVMWZIaUVTOTVWUVB0cl8yLXJVa3ZCb0k0SHJQVTctZ1VzeFRqV09yNVFBeGtpUUYtWG9aNGVSMTFpTQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-03T20:22:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_37353",
-      "titulo": "Abraceel Vê Avanço Na Abertura Do Mercado Livre Com Regras De Migração E Open Energy",
-      "lead": "Abraceel Vê Avanço Na Abertura Do Mercado Livre Com Regras De Migração E Open Energy",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGRRTmJFeUcxV1NuNHZKWEF5UTJTa00yRnFqRzZUdHZIWkxvWTJzSEo2cDcybzhWSFdZME9KNy1aUm5PVU52aEZZbnRGWm1NTEJ4S1JjNlZDOHBlYkF4MVNMcldnTEgtVXA4UVJUVmo5dEl1aENNQjY1aFRONVZsVGJRenBSV3FlYlFDM19nbG5jZHJ1VXFJVjZXMXYxZm9YRU1ucDlnTTRBaDYxdTVuTGRTcHg3elNXc2UyZmxoQWlnNDNt?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-03T20:07:21Z",
-      "dominio": "cenarioenergia.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_31949",
-      "titulo": "Armazenamento de energia ganha força com avanço das fontes eólica e solar, e Tecnogera apresenta tecnologia de baterias BESS para ampliar a eficiência e a estabilidade do sistema elétrico brasileiro",
-      "lead": "Armazenamento de energia ganha força com avanço das fontes eólica e solar, e Tecnogera apresenta tecnologia de baterias BESS para ampliar a eficiência e a estabilidade do sistema elétrico brasileiro",
-      "fonte": "CPG Click Petróleo e Gás",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNUUk4blF6VHZGOHBzejlCUkhIZ3ZRdWJlZ0J4TmlzVGE2bDI0aGZzVkJSWW5xenptbGo2ZjFTUUt3S2pwank3YUNFajk1cnE3VGpRR0xKMkZHa1FTUnZtX01YOWVKd3RSejlSMTZtV3drVlFNWFRNUHlwdklhSXR4YUhDYXpQRUQta3daemp5X2ROa0NsN1FfNEZYMVo0djhLWk9RZzB0VmNTa0tLSXNVSVM1WnJZVXdJNFFXcll2V29LdWYtcWkzMG8wd3lWYTZLZVlPQ2FzUGtBWGk1MXdQNXdqemwwNXJNM1pYUEM5ckFKX3g1NGRUV0JmWEpGX2VvQTZVeGN5OWtkeVB6VkdZNk1UVllubnlWdkV2RWJlTy1MYmIxY3VfVzFyU19GWHBQT2JKcm8tT3VjS2Q4ZU5keGhPMzNDamM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-03T18:55:00Z",
-      "dominio": "clickpetroleoegas.com.br",
-      "tema": "solar"
     }
   ]
 }

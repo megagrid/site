@@ -1,14 +1,86 @@
 {
-  "updated": "2026-11-11T00:08:31Z",
+  "updated": "2026-11-11T18:57:49Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_47421",
+      "titulo": "ANEEL autoriza acesso do primeiro projeto de Hidrogênio Verde à Rede Básica",
+      "lead": "ANEEL autoriza acesso do primeiro projeto de Hidrogênio Verde à Rede Básica www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTk3MDI2dzBjcVJFX3ZHYmdGeDBHcVl2T2xmNEUwYlM3MWN5QkZZZUdMMC11VFdOdF92a3lPUUZlWTV2U2prZUVSM1pCNHk1SEJjNFZsNEpBSjZ5ZjVSNExTMEZ2bmVObnExNTdoc2JnN2RmblFucG1vYWdOMG41ZzJDVnJYWDhKUFotaFMzUzFsaW1jSHkxOEpiMVp1SG1FcmtoSHJVOHFvWXVVM0I1Z1ROb2l6bGM0ZXlCa2ZsWHE1ay1OTk5Ceg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-11T15:54:57Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_91379",
+      "titulo": "REN 1.175/2026: o que o Open Energy exige e até quando",
+      "lead": "REN 1.175/2026: o que o Open Energy exige e até quando",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNME1XS1lzaDdXS2pUOFUyYm5OMTJWT2JCR1V1QjhFODFONVo5REJlNHBfSXNyb0lxS0V0RlZPMFVrdnExM095ZG5CQUJlbEhqQWRaTzBJSzdEN3AxbFdMaXNuSWFFRDFLcWxQM2lqaUtQeGFYYVhwUVVzNGxVbWV0aFZjdEFWM3BVTGZXZzhSSE1DSnpVQWdmNHBobi0tV3hJQkJjLTZaT2E0VjFQakNiNnBR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-11T15:33:28Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "politica-energetica_86683",
+      "titulo": "Brasil compartilha experiência em planejamento energético e fortalece cooperação internacional na COP31",
+      "lead": "Brasil compartilha experiência em planejamento energético e fortalece cooperação internacional na COP31 www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYnZwZVB3TTN5b21FRmlpNDF2ZTdNZG83UVRTcVpkSkthVldzUjUwaG9GUmtRQV9CMXNVLUJRX1RRU3p1TEhUMmFDMG5VLXM4eHFSYzRWWGNpQllRLWkxcHJMcGRpY0d3amowT0pPdkZHYzllRU5MWjA5NUZxVmFBZkJEcENsZlY3UFlwekVXRWFHNlduUWl5NUQwWXkzTlVLUHMtb1AxRHc4azZGQV95MFJGZWZWeEQ1X1BPLUlWWk9aNTYwTlQtTE5RMHUyVGZMbmhTYnpNdmpYSkFqZ3ktRVdXN1A?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-11T13:58:03Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_52270",
+      "titulo": "Luz para Todos completa 23 anos com 18 milhões de brasileiros beneficiados",
+      "lead": "Luz para Todos completa 23 anos com 18 milhões de brasileiros beneficiados",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlNsanpzY3ZQUUNaaGdBYzZ5V29WZzZZN3VEblhqci1NbjhLS1BhbWRpWHVZYlE3ODd6Q3l2TEdvUUMyeDJVN2dDNF9aRU9DVlVneWFWQWJfR083M3MwQXpHUlV0aHZGejBuOFc4aEItSUd6T09rMWlNRm0xUmJwampjamFkQ0YxanNnUzZNeEtqZ0dDZV8tQmV1REE5XzRhbU5IMko0SmoyTWVYWlVnYUFWeXRfcXFHU3JacjY1VVg0N3gta3U3VFkydkdEZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-11T12:29:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_13398",
+      "titulo": "CCEE prepara implantação do Open Energy para compartilhamento de dados",
+      "lead": "CCEE prepara implantação do Open Energy para compartilhamento de dados",
+      "fonte": "boca.com.br",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95Vk9fRW92SElOQ3NKeEl2dVBoQUljaDh0UVZaSlhaUXRlZnhmbS1OQTBEdDFJMnNFblk5bzdSLTloZmpaRjk1SzJpM1lVaFNDZXdQM0FZQXBmZEJBU1YxbmF4ZzNFM3JaU1RYdzJUN28tRzg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-11T04:05:17Z",
+      "dominio": "boca.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_32655",
+      "titulo": "MME destaca papel da transmissão e da previsibilidade regulatória para atrair investimentos na transição energética na COP31",
+      "lead": "MME destaca papel da transmissão e da previsibilidade regulatória para atrair investimentos na transição energética na COP31",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRWs0WENjbl9ha3kyd0tDQXEzOTF3LTJqTUwxUDJndmJQUlFKRGRTZzlXd050R1FvRVdsZUQyNnlQdGk1aU0xU1VvVDhCRjdSR3hsdFhweU51ckhZSzZlenluWFJZR3ZfZ2RHaG5XTlZmNVhUNXBMV2x1WkNyWUxDWklUNFZiOWpQZ1FxZjM4TnVQXzNKVHBfbXdTR09Yb3hyN1A1bjNhM1ZJTFB0RkY2QW9WQUhuOXhyREpidkYteV91akdiY3hHQS1NUXhNMW1iMjlvUUZQOHZWMG84OEdXZGdfMkFsNDN1TFJXcUlfT2JYQmxhVHlHMkNNNWp5ZHBl?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-10T21:14:17Z",
+      "dominio": "www.gov.br",
+      "tema": "transmissao-rede"
+    },
     {
       "id": "transicao_64488",
       "titulo": "Baterias Moura se alia à CATL para disputar leilão de energia",
       "lead": "Baterias Moura se alia à CATL para disputar leilão de energia",
       "fonte": "Revista O Empreiteiro",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWxtR3RtRzRDQXdvRlBrU0VfM1RFbkFZSzlIdnlIQmxaUkVmVXZKVWhjaFViN2p3dWp5MDVWSmphOThUdzAybXdORVpudi1GclpLaDlPbUlBLU1wUFJMdXJhUHZiS3hJRjNhSGFJX2pTMjh6djBMR2RUVy1VTlp1MkdSM3Jydw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-10T20:32:16Z",
       "dominio": "revistaoe.com.br",
@@ -37,6 +109,18 @@
       "data": "2026-11-10T20:28:00Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_29051",
+      "titulo": "Brasil tem muito a ganhar com aproximação com mercado ibérico de energia, diz CEO do EVEx",
+      "lead": "Brasil tem muito a ganhar com aproximação com mercado ibérico de energia, diz CEO do EVEx",
+      "fonte": "eixos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1dFZ2pXcGhPMVRLVENtWGg0ZVZTNGZfdVZlTVBxd0Jwa3pYMWQxT3J3ZjFGVFB1ZFFqZ1JXUl9fN2FNYXFOWG9TNWlpUXFlV1FFSEk4dVctZmRLclZsZDkyN0tpeFZzTnkxRFpKc1owUXlSMExHUVNqdUdQb0g5UV9XNkVjSEpCVlE4elg3eTRyYVBXbm5iVmQ2MHdPVHRsbzV0bE9HWFlrcE1mRHZxS3NTT0dTU0h4TFE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-10T19:52:20Z",
+      "dominio": "eixos.com.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "politica-energetica_21058",
@@ -302,6 +386,18 @@
       "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-07T04:38:27Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_27380",
+      "titulo": "ANEEL participa do EVEx Lisboa 2026 e é homenageada pelos 30 anos de atuação",
+      "lead": "ANEEL participa do EVEx Lisboa 2026 e é homenageada pelos 30 anos de atuação Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYnZwaHZuZURZeGpYWmhoTENtSGtKV2JIdU10bC1BYm1mRVRKd0dRVWdxVG1ZckRLc2JCdmFnY1dCTURUYXZ4U2paNVlXUS1OdXV3RlBpSk9tbm1hU2dsTk81MU14Wk5CR0tGRzViVVMzYXJPeDlacnRVdWtmQXNPQjVzWVlTeUFDd3lWaFFwMFVVTUxNOFBnazFCSXJLWEVDcFI2MmZwWXJabW9RczRGVlZrT3hEdFAwdGk5SlZzNzlyQktXdE1zQXlB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-07T04:38:26Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
     },
@@ -640,105 +736,6 @@
       "data": "2026-11-05T12:04:07Z",
       "dominio": "mundial.fm.br",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_67594",
-      "titulo": "Energia solar por assinatura no radar da Aneel; o que pode mudar?",
-      "lead": "Energia solar por assinatura no radar da Aneel; o que pode mudar?",
-      "fonte": "Brazil Journal",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2dobmtzV1JLWUxqdHRBbktEd01ZS0lnMllQVmZmcjY5WFZBQkROOTNsU0VMZGREM2FZX2pPOVlidFVUZ3Bkci00Q01pelVTLUlFTXFGeE5BN1RhRC1ZSklGUGZaNGJaTl81R01Sd1VZWjRsQkZpLWMyS2RjQWNYOUxBOWtlSjZ0dElTaDBuTUd5LUk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-05T09:50:00Z",
-      "dominio": "braziljournal.com",
-      "tema": "solar"
-    },
-    {
-      "id": "mercado-livre_13647",
-      "titulo": "O preço do pior mês: na contratação de energia, o barato pode sair caro",
-      "lead": "O preço do pior mês: na contratação de energia, o barato pode sair caro",
-      "fonte": "JOTA Info",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUtneGR3T3JRUlY0SEJLaVBveE51aVZmbkI5U19TT0RMbVAtbTFMenQxTF9tSEJYbDdzcGV5NmJWdzYzOVhZQktESG54aWtOOE0zMVBtZWZ6THp4clBoZVNQNGxGY1dERk5WTEEzSmpnV0xsdlZTZEY0SGZ6VEdIOHo3dS1ET3FEZjQ4UllaNDRJSG5pWFREVHBHZnR2amJLZVpDcmtsRmJwdnQ0LXB5Qk9BYU9URm5I?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-05T06:29:00Z",
-      "dominio": "www.jota.info",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "politica-energetica_81354",
-      "titulo": "CMSE destaca segurança do sistema elétrico diante do El Niño e avança no debate sobre flexibilidade no SIN",
-      "lead": "CMSE destaca segurança do sistema elétrico diante do El Niño e avança no debate sobre flexibilidade no SIN www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc2dlbVVEbGFoRzhPUGxvR2I5TTVQZE4zWTZoRmlnZDJQQXYyUVQ0ZWhkS3JwMzJpTmQtZjdBYlQ3MXBBM0tlY0RPM0V3LUdPRzd4WnVnMDJlVGl2NEFNMjhWMkNFa2ZVMHVWWEV4V3JQRWJPTlJncDVhS0lBQUVUcWtQN1ZMTmJlU1VYeGZXZWplVVFEbjhMa3p0SkZnUGZ3OEpfVVktTV9yUkZKb3JpVHVqSlV4YnZ6MHBzWHJKdkVDS3lkU3BrdkFCNFlWc1k1YThwLWphRGxNM1JrVnMxa0E1OFVhSVM0WkRVRkJFeVp1aUhfanRMMA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-04T23:46:45Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_36115",
-      "titulo": "CCEE limita operações da Coteminas no mercado de energia",
-      "lead": "CCEE limita operações da Coteminas no mercado de energia",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcV9FNEREZGVOY3U1Z25yQkUwZEpaZU4yWGh2TlhSaVFVa2toMzU2VHlrWFFYWUJ1WUQ4ZzBRb1NlcWRQU2hqbjMzSEdCS2tuSk5sanJHMXdveFdIcGNkWm1uaHk3Wmw5TTlvMFlwQkhJSE5xcDEtSnQ4S0dZTlJ4RFhpLUxna1c5ZTA0b2c3WEdfejh5bWl0MlN1Yk8xNVpLeVRqQzBZWEFxODVCczFvM1ZoNU8?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-04T20:37:43Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_61094",
-      "titulo": "Brasil avança no diálogo com setor produtivo no âmbito da Aliança Global para Biocombustíveis",
-      "lead": "Brasil avança no diálogo com setor produtivo no âmbito da Aliança Global para Biocombustíveis www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYzZIYkpWUTJsYkd2MFJnS0h2NmFBTVJnekM4NzBKV1p3MG94Vk5ObGpPVVNWOERvVXRWVC1ocUhQa2VxbGNpWnJzS3IzVTBjVXlhTHd4eGFzOWhRNHhpNFNDUWVsX2tHbUlXcHBhVUU4WEJRSTdPQ2Ixa3JPZjdSNUNWaDhUTGdPOTZaR3p4OVZNakwyN2VPa1JWMWlYbDRWTmR6RnQ0NVE0Ujc4NUxWbjdLODhhWExuVXlmQ2VVM2VkdVdOR0Q0SDQ0LUtzLUZ6YXFoaGFpQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-04T20:28:56Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_61601",
-      "titulo": "CNPE discutirá mistura de biocombustíveis em derivados de petróleo",
-      "lead": "CNPE discutirá mistura de biocombustíveis em derivados de petróleo",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHV3WTl0aTdqbEhhLUliUENKWlVsb3FzakpSUElDbW15cDRKbWtOYjBxaHk0anpmQzZmcTc5bUVWZjFoRXlWekZON0w3VXVaU0JqR3BXRnd5TllUalVqVXphQTZJZm5sd3p0QU81VFliNVk2eHlZUlQ4Z0hVcjM5dTZoNHk2dDJjcUY4SjY3RVpJaUlVNDlhSDVxOEw5dFVQa1duZXJiM2kxQTh5bThIbzVNQ0xmMlhpRGdxNklxN1BOZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-04T19:03:11Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional",
-      "tambem_em": [
-        "BiodieselBR"
-      ]
-    },
-    {
-      "id": "politica-energetica_91655",
-      "titulo": "PDE projeta contribuição de 276 TWh da eficiência e dos recursos energéticos distribuídos em 2036",
-      "lead": "PDE projeta contribuição de 276 TWh da eficiência e dos recursos energéticos distribuídos em 2036 www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajFnQzdXcjRXZ1dBUlRZQUdYTFlTYWJrWjdDQmgzV01UUWFFMFNqZFFZeDQ3cDh6bHJuSEVzSUNCbXdDQUtUdlh1NXFOeVNPWGJPMVNvSjA5V3MxLTJJb1NKNm9LeDFVdkpxTkdFVzZkVjdWcUkyLWNlNW94ajhoczZWcmFxMl9xNXdZQkxXNWJKYVVHeWdUNWJRajVQSTloWWpIQjVHOFZDY2k4SUR4Vm5XeGtWdVphdzZyVlNmdTdLcVkycjBpM0x3bF9PQVVBcFpWQWZHTElycFd2?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-04T18:05:15Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_47268",
-      "titulo": "Baterias, Leilões E Baixa Tensão: Delta Energia Aponta Os Nós Regulatórios Do Setor Elétrico",
-      "lead": "Baterias, Leilões E Baixa Tensão: Delta Energia Aponta Os Nós Regulatórios Do Setor Elétrico",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQjN5Z0cwU1J4SjRMcW1OLU1BcmRxOE53UHVJWDJmTWlKMnVSbGppTzlPM3laZUp1aUpSLTNSTTJoenV0QTZNenZBODVvSXd5N0w3N0lHc1FicXFuSTVqNktGR3dZVzROZnhmVk5YN1g5ci1PTTc5X2kwMEUzMDR0YURJS0xWZnYxZ0dRVXV6V1hFblVuQkdDUjRDV1FxWHZDeE5keHFpZUV5VzFsUXlIOGJhUUVOdUtsSG9waU9CVlBsN01uZmRvV3QxT1I?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-04T17:09:45Z",
-      "dominio": "cenarioenergia.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

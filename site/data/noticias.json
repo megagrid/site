@@ -1,17 +1,101 @@
 {
-  "updated": "2026-11-10T18:59:58Z",
+  "updated": "2026-11-11T00:08:31Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_64488",
+      "titulo": "Baterias Moura se alia à CATL para disputar leilão de energia",
+      "lead": "Baterias Moura se alia à CATL para disputar leilão de energia",
+      "fonte": "Revista O Empreiteiro",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWxtR3RtRzRDQXdvRlBrU0VfM1RFbkFZSzlIdnlIQmxaUkVmVXZKVWhjaFViN2p3dWp5MDVWSmphOThUdzAybXdORVpudi1GclpLaDlPbUlBLU1wUFJMdXJhUHZiS3hJRjNhSGFJX2pTMjh6djBMR2RUVy1VTlp1MkdSM3Jydw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-10T20:32:16Z",
+      "dominio": "revistaoe.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_86917",
+      "titulo": "MME acompanha debate global sobre eletrificação na COP31",
+      "lead": "MME acompanha debate global sobre eletrificação na COP31",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejFwd1owUG5yV0RYeEZmYnlqMzhVVjBrem5aSmgwN2xLb01aMzFtLWJuUllXNDNMX0lmeDdDUUJja0p1MjFMSWcwTWpFZllYakpFdmNJVkt1MEtMeU5JaDhKZzYyU3NBVzVrRlZTbEFWMlR6YUw1YVowZEU4WklZa3hXVEN3T1ZWWWt5Q0Q3ZnpaYlRVeEJGczBJOXpwUWxzalItTkxB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-10T20:31:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_3721",
+      "titulo": "Na COP31, MME destaca potencial da eletrificação para ampliar o uso de energia limpa no Brasil",
+      "lead": "Na COP31, MME destaca potencial da eletrificação para ampliar o uso de energia limpa no Brasil www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQUpUcXoyMG5tLUUwc2VNaGhLZDU0UkF6QmV3ZjFCUTNwRXlZQmFiZElZY0pYTldYRlRlTHBYc2E0SnJfbGtPSDlYTVcwZFpnb0NJbHItZWhrbjliOXNfU1VzcXYwYlNTcVN0aWVtaDFGR01JNXI3ZGlUR2ZEMUNZZ09TWHhubkt2clZIdl9HWHU2bC01Ty1FSndHS2NDX3pTX2E1a2szbzRkN2tDOFRqQlNMUE96ZnlOUFdDaDl2YXhkc1hsTmN0U09WSXI1YWJ4ZU00M2FLdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-10T20:28:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_21058",
+      "titulo": "Meio Ambiente, sociedade e energia ganham destaque no planejamento energético até 2036",
+      "lead": "Meio Ambiente, sociedade e energia ganham destaque no planejamento energético até 2036 www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONGhBLUtuazFsOWpxZzFHT1NUamJ4R3hSUm1Td1VKR1MwLV9XaHVLYVBtZGVJekZvZUVTZzRHbXBqZURlLXNIdW5iZW43dUI3ZmhlcldnUXJlc05hMHZKUVRPakRHMzRCQVQ5VE5VNzg1bkgzcW5yZ2V0b0VaYXRRZWpKTHZYWGphUDEyajBmU1JqR2hKanpja0NSVUFiREh1bXFrMkZYemNtMWtVY2hEUXNmUDczdG9RNUJBUVNoLVpURE5Sa1dESzA3OGNSNUNUb2xTNENRNG9ZY3kx?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-10T19:36:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_1590",
+      "titulo": "Grupo Moura investirá R$ 200 milhões em fábrica de baterias em Pernambuco",
+      "lead": "Grupo Moura investirá R$ 200 milhões em fábrica de baterias em Pernambuco",
+      "fonte": "Portal NE9",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03eEFma3M4R1A4Unlub3ZoVVlaRFBZanBFbFhJNzNFcF9lU0RJVnVfSE1SMXV2UWVjUmlacU5yREw3RDlPNGxndlZYNC1peWdieUFMVndQaWlQRTJURW1Zd0JyQk9zejl2VWhFZWhJbFBtaExBU3VUeXF2RHY?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-10T17:54:41Z",
+      "dominio": "ne9.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_56770",
+      "titulo": "ANEEL realiza leilões de energia existente na próxima sexta-feira (13/11)",
+      "lead": "ANEEL realiza leilões de energia existente na próxima sexta-feira (13/11) Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWxldnYyaGkwV1RfbmpoZllXY1M4TGM4VFpEbzZJQ3N2SG95YkFLOGhmWlR3S3FyZWdLUjdUYU9uSnZDRVpzYXVuMHloZjJoT1NmeUVOY2xwRzc0TVFPRF9fZFh0T2JlME1Yc0hDSmx2WUIybWo4MG1PMXoxT3BTLXFKaWRJSjZjRVNWWXlRdlNXVWRRVkJjc0ZSbllTZDV0TXBDMlRndDlOZ293d01oV0Vxa0g5aldUb1k0UUljM014VzA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-10T15:29:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "regulacao_84886",
       "titulo": "MME abre consulta pública sobre novo manual do Luz para Todos",
       "lead": "MME abre consulta pública sobre novo manual do Luz para Todos",
       "fonte": "eixos",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkpRYkk0Zm9udlBBUGlVa2lpTHpkeFdCTFNramhfcGc1NDJFb25Tb3FCQUdrWGNQU2ExdE1YQU1fbldOcTF0Qm5YS0tOQURnX1V2OTNzRXBlMTU0M3VucVJTR0hPeTZ0T1dhWWE3ZVVSd2NySzhJWXF2bElySGdwOF90UEF5VmdBOE9vdXVaX1dYeHk3dDI4?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-10T13:46:43Z",
       "dominio": "eixos.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_39926",
+      "titulo": "ANEEL abre prazo para manifestação de interesse em projeto de governança do Sandbox Energias da Floresta",
+      "lead": "ANEEL abre prazo para manifestação de interesse em projeto de governança do Sandbox Energias da Floresta Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU2pTOVdRR1RmNThhNlR1LV8yRjZzWW5BaGlTcUVEWHZ2TlVyRjNibm4zWXoyS3ZrZDFsblpfa0d5TWFWWmRENWtrcGFTbVlyOG82VlkxNERXREhnekJ1by1ZV0FGOWhmZXg1ckZTZ004SFgzREpNUXI1ckUxTm12UnJUZnV3ajZ4LW9xaE1pS3didWxnYUY3RVpUbF9iZ1RQRzQzaE5qY05JQ0kwcnpqNG5KWmdxVTVjTUdLWl9lZkpsSldVQTViZmkzUWhlZFJWb1FOTjdieFQ3YjVjOHZXSmpPVnFURldGQ2hTRzJsZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-10T10:09:00Z",
+      "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
     },
     {
@@ -20,7 +104,7 @@
       "lead": "Aneel Propõe Nova Tarifa Hora Certa para Reduzir Custos de Energia",
       "fonte": "Jornal Brasília Capital",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQck04dUlLOUlsMWJrdE1XbTFiajlVTEUxRUtVRldhTnc5dnN4eFVBTjdfbHNnYzhWXzNHczd1TkFJYzBKUzBUbFhpRUZTTVQwYlpFX0NOMVVXc1BiM0RVZzF2OEgxNXFhZGxIZXpuS2YyQXdWbXZtMzl5N3hxVnNPQVN5Z1RwUWNqemQ1ckNJYW5iTVRLdTYxcg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-10T09:30:00Z",
       "dominio": "bsbcapital.com.br",
@@ -32,7 +116,7 @@
       "lead": "Leilão de baterias atrai mais de 6 mil projetos e movimenta setor elétrico",
       "fonte": "Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYXIySEtpb0FKZk9kdHVFWXlGdzF0YjNjLUJaa0pweGN1Q1lqdjhRNUdvQ3RPSEdpcjlPdkRUSll6N2t4Yy1sc1c1SzNJdFRCMGZzNXZxR25aVG1MQTJVbk0xMzBmVG5KbFFWNzJORkViR0ZwN29sVkFtTnctUUtwYy1MZE5QTnhtMGg3TVcteUtUc0FqekRuVkhsWEx2ZGt6bDlYbEJpU0toWlU3TElENXlhTTVZTk1pdl9DNjktU04yZ1psRk5QTVQ4OEZPNjM5dDU0ZG1IaVM3dDRfUkpSOTJYemw1RmxqQVh5T1FWQVV2MndDQVgyOHJ3YTFfZlBWN0l3NzY5d3ZNNmRG0gGbAkFVX3lxTFBKSWZkcHFSMW9HWURERFlfSlVfd1VwZDQzekk1Uzl1U2dpalQzcGM2aE9jZWhEWDdaUi1tNUVMNENwaXNqSmpYNmhxZVJMLVdzYlFQUHdudzNLM1BaaUdCc3FhNG1xRlI3WnZ0OEJYVFdGbFZERklFZTRSTWFfT3h0ZW9wbkV0M25kNURnYkRDOURWYU1Id0ZoT1JIYksxMEl1a2dKRWRRMDcxM2NiZFE4bUppNnR2cklLNmVpM1R1cUpVQW1yM01IMWhPZVBlQ29HYkdLV2VVNWlobDlyVXY2YUExVU8zc09PNXBVbjg3eDVWSHVjQXpPanhBcklMbjNCQy04X1M0b0kwRDBwRG1JMzJBR0hfc0dDOGs?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-10T08:10:01Z",
       "dominio": "valor.globo.com",
@@ -56,7 +140,7 @@
       "lead": "Gás do Povo tem vigência prorrogada até novembro de 2031",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjFuNjFJaGR3cVJkTHNRTXJsTm5XMXI3TVZBd1ZlM2NuQzQyVC0tYXl0TlU3MjVXcGpjN3d5a3M3SEJ5Sk1qQXhVd0NZTTBBV1FBNy00U1NHSG1ZaGJ6aUxEMzVWd2lhTHRqT1ZPdGZwQWtoREx0LW0yQlFHLVFYUGM4bHh2bC1LR0lCM055cEI3X2x1ODhsaV9PdGdhRXZxZ2VjVmlWSWhhQ0NvUnpub3FJSUdsUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-11-09T18:44:01Z",
       "dominio": "www.gov.br",
@@ -655,100 +739,6 @@
       "data": "2026-11-04T17:09:45Z",
       "dominio": "cenarioenergia.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_62258",
-      "titulo": "Governo convida Boulos ao CNPE para discutir aproveitamento de resíduos",
-      "lead": "Governo convida Boulos ao CNPE para discutir aproveitamento de resíduos",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWJydE0xTGNoMTFqZHIzd1Q2MTVSaGg2cWhzc0didXo2YWRHSmRrbTNYQkFWOVYwTDZjNmUzMXlKUDk0OF92VnhoTWdPc29scXBnbzdpakN1Rmd0LWdPdklyVi1HVHVRWUREWlVkcXdGUVB2Rmgtd3RobThBZVlWVXpjbjZOTVY2OXczM2VLX2xvRXc1VWptb3c2aldFdFFXdW9PcHR3SnB4anJCT1cyWmdqTkg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-04T15:25:17Z",
-      "dominio": "www.poder360.com.br",
-      "tambem_em": [
-        "Poder360"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_37342",
-      "titulo": "Leilões de baterias impulsionam energia no Brasil",
-      "lead": "Leilões de baterias impulsionam energia no Brasil",
-      "fonte": "Arena de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEFUQjAwenk2WDZMeVZlOVJOZTY3cXNRWUFwR1R2MUFRYmdLY1hHdmNRSExWVFVfYzlVSURCTF92ZnJoYXpHRFlBelM3el85ZGJpcm55STgyRWF2SWI0VUk1Y0s1blhMUXBsZE5IcnkxUXg1Z3llYk5MWk1QaTBha2lwT2tadFQ1UEJXY3QtQ2xib2kyYnVQY3JnYw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-04T12:52:19Z",
-      "dominio": "arenadenoticias.com.br",
-      "tema": "baterias-armazenamento",
-      "tambem_em": [
-        "Terra"
-      ]
-    },
-    {
-      "id": "tarifas_67774",
-      "titulo": "Novembro a bandeira tarifária da conta de luz será verde",
-      "lead": "Novembro a bandeira tarifária da conta de luz será verde",
-      "fonte": "A Voz dos Municípios",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNek1sYWVaTTJ6dTFabDc3akVZWVBGUXR3ckFVLURBc2ozRFJsRlR5RFdGdzJxZVZDRFJ3NDJEVW9yVWNhckZfUkJUU0l2bG9xeEJCTFN4VXNPSFMydzExTWZKelZud2hlSl9xOXJ2TkJkbG9LcHZ1SEZXQTJ4Q0taSUlHOW5idmwzR3U3QzQ1SE40X3lHYnBJV19xaVVoYk0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-11-04T12:36:25Z",
-      "dominio": "vozdosmunicipios.com.br",
-      "tambem_em": [
-        "Grupo Chiru",
-        "Enel"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_46962",
-      "titulo": "ANEEL participa do EVEx Lisboa 2026 e é homenageada pelos 30 anos de atuação",
-      "lead": "ANEEL participa do EVEx Lisboa 2026 e é homenageada pelos 30 anos de atuação Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYnZwaHZuZURZeGpYWmhoTENtSGtKV2JIdU10bC1BYm1mRVRKd0dRVWdxVG1ZckRLc2JCdmFnY1dCTURUYXZ4U2paNVlXUS1OdXV3RlBpSk9tbm1hU2dsTk81MU14Wk5CR0tGRzViVVMzYXJPeDlacnRVdWtmQXNPQjVzWVlTeUFDd3lWaFFwMFVVTUxNOFBnazFCSXJLWEVDcFI2MmZwWXJabW9RczRGVlZrT3hEdFAwdGk5SlZzNzlyQktXdE1zQXlB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-04T07:51:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_90993",
-      "titulo": "Workshop debate proposta sobre rateio de custos da reserva de capacidade com baterias",
-      "lead": "Workshop debate proposta sobre rateio de custos da reserva de capacidade com baterias Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjljaFRYRXI0ZkVXQnJmRjZpQ3N0bXFZcDA2MVBWQjhRbTBkRklqck5qSjBJNXVhSU5jai1LUkd5eExFUUFUR0dpWno3OWhBdmpSZXRDRUIxUTgyMnVoamFtZmt1TEIwUVliZmR4aTZ2VUk4VzFGV3VXMGJ4MnZ4TXZBcnZqeVpRZDBXcWZyYVYzY1c3U2ZFVGUyQ3BoMzA0T20wdmZNTWw3Q0hhLTkzLXBjLXhrWTZsRWhNTG1LbmdQV0FYMDZqM1dYNzdBNWRHRHNTR1dR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-04T03:34:05Z",
-      "dominio": "www.gov.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_80664",
-      "titulo": "ANEEL revoga autorizações de 178 usinas e determina rescisão dos contratos de transmissão",
-      "lead": "ANEEL revoga autorizações de 178 usinas e determina rescisão dos contratos de transmissão www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaGI5QUVSaVFCcXZFaUdTUC1qTl9fVVdDbkJ4VnY5MC12SmxPd1JmUzkyVFdSSllCQXlYRjAtaGN0RHNtTE1HWG9nODJkNThKOVN3WkpuZkZlaFBoaDNSNy12M3RPc1BfdU4yVm9OTWVDNFpCNzFjTENyd1JRWTJTblBuT1JLWnlfazhrb1ROeXpFTXJfclBRQ054VHBFeUtnaFhnQ2t0QjhDSTJkUGRiYVhxeUpTR0taTFNMMUhJVWdrUDNVWWVmdklLbTk0cVpyYUpaeEp6T2haamc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-04T03:33:13Z",
-      "dominio": "www.gov.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "empresas_34965",
-      "titulo": "Leilão de energia prevê R$ 8,9 bilhões em investimentos e 20 mil empregos",
-      "lead": "Leilão de energia prevê R$ 8,9 bilhões em investimentos e 20 mil empregos",
-      "fonte": "Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVVZd1dVQ3k4VldCSnhJQUEtUTJ0bUFiUFVmQlBxMXVQb19GeGc1dk9uNHhPQTRJemdjSzAwQS1SUFNlN3RGdFlTLVhfRUhGMHB2TmN5TmFlRXR1dVRwUnZsTDlTTnBvLW1VWGxCNHc3MF9wZEo3bkpnZUV1bDhrQ1V5RWJJdzhKUjR4Tkc4TU5OUzYxUFNSaWRHRjlRUlJmYnh5SllaNHZReXJ0YzRlY2pUNG42dUk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-11-03T23:00:00Z",
-      "dominio": "timesbrasil.com.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

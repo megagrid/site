@@ -1,14 +1,74 @@
 {
-  "updated": "2026-11-12T19:16:21Z",
+  "updated": "2026-11-13T00:39:09Z",
   "total": 60,
   "itens": [
+    {
+      "id": "politica-energetica_92180",
+      "titulo": "Em Portugal, MME destaca proteção social e expansão do setor energético brasileiro",
+      "lead": "Em Portugal, MME destaca proteção social e expansão do setor energético brasileiro",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ21Id3N6NFlUX3ctSDJGamhNdmRqZzUwOFFIcnFZellUNHBOOEl3LWQyWkUyZTVZNVZwNDJkVTRtcUxtQXg2alV2QjFZSG4zV0xRSXpEYnlQcEdSZERVeG9zdTRlV1Rpd2hRbEhvVWZtNEJjbDJCZ0IwNDVLY1QybjY2Q0F2ckJqam9IR2VaOG9zVlVMOUdpYkNJYjM2QW5QcmRUUGZpXy16ZGFkd20xTWRTc25ZTnlPOHp2VklnZTF1ZktHQm1NNktkSVYtVzlpRjI3V21MMA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-12T21:57:31Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_71651",
+      "titulo": "Brasil leva Lei do Combustível do Futuro à COP31 e apresenta avanços na descarbonização dos transportes",
+      "lead": "Brasil leva Lei do Combustível do Futuro à COP31 e apresenta avanços na descarbonização dos transportes www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWh1VDRZSUJXRzB1ZWMzWVlWWXdWdzhtY2dXNnNNalBxbVFpMXdQNFdTdFcwVW8yQWxNb1dzaGVaMEJKd0EtdmVHUkZQUWVQcGplaHAySzJvSXN4MmVLRFZIUmxwM1FEVU1DcGU3RHkxdGNFZXE2cjFhdGF3R0FHbGI5Q1AtcG80OUdvdUpXRWhxaG5vVE5zcnRIR2pORTFiaTNqRm9DSlc5ZEhpV2JMM3hRRE9sV0JjdmxtV1ZvMXZVbnlDc0RJRWItYnB2QlVKaGM1RUJBemtoS185UmpPRktwTE1pTmQwV0t1VnBlZmNKVzhB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1578776349090-de61da00ff1a?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-12T21:09:02Z",
+      "dominio": "www.gov.br",
+      "tema": "termica-gas"
+    },
+    {
+      "id": "transicao_74332",
+      "titulo": "ABGD muda nome para RED e amplia atuação no setor elétrico",
+      "lead": "ABGD muda nome para RED e amplia atuação no setor elétrico",
+      "fonte": "Agência iNFRA",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcDRVVEtrWjNlWmxINFgyRnJGZzhzQVlaaDdidFFkWnBKcUp1aUVKTXVvSlB4SFFreHZ0QXU5bUZqcmQyQTV5S2p1WFRjaDY1OXNYd2ZpZjdNZ21QWndaWXUwYUM4WklKZFJSNVBjWEJTbFlfX3JBZWI3a0xxbnZudUVCNUt1YTYzRi1mQ3ZibTVJZmc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-12T20:24:23Z",
+      "dominio": "agenciainfra.com",
+      "tema": "solar"
+    },
+    {
+      "id": "politica-energetica_97843",
+      "titulo": "Silveira discute cooperação energética com IEA em reunião bilateral na Turquia",
+      "lead": "Silveira discute cooperação energética com IEA em reunião bilateral na Turquia",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0E1enNGcXFFOTFqd2lLUXhYMS0wVGlRbkd5dzNIbk1nSU1YUUZhNTd4cUJTSzRCdjFnWDlpQUhvRVR0SG42ZWItOWxMQ3J3SVZvc2lfWkhVaHJFTzlMY0VFdTVobmlINGY3WG1fQTF0bW5JYUxBSTI5TDRkN3FEMENfT0tRcjhfZFdwMlQ4eFRvUmdvSl9QaHNseE16U0Y2d3Btb3BwQTVYOFF6Q1dleU9yUVo1MnlRN3ZpMi1CTnFrSy1WRGtlV2xIMWpPWGhuY3l3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-12T19:02:59Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "transicao_47508",
+      "titulo": "Solar e baterias podem reduzir custos do sistema elétrico em até 40% até 2030, aponta estudo",
+      "lead": "Solar e baterias podem reduzir custos do sistema elétrico em até 40% até 2030, aponta estudo",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeGg1MU81a21SNHNObDM4UUsxUDRzb0VONTJKaGNRcTgycDhWMkJoajEzajg5MWVmODFhRlhrWHlUeGM3NFViN0x1LXZkQjdPcmFqRGNBdXkxZWUycEl4S002UGpLWGJEVkRubjZ3bklmWW53eTZNdlRfcEg5VUppUGdpWWwwdS01elJKeUo2cjJTU3RnS0c3SWNmU3dpRW9NZGM1bFlOeWVKbE0tQTNuY0xWS0M4OXg3YmpTdlQ1SEh0TU11c0xUaFNnTjI?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-12T14:22:11Z",
+      "dominio": "cenarioenergia.com.br",
+      "tema": "solar"
+    },
     {
       "id": "empresas_93922",
       "titulo": "Leilão permite distribuidora ajustar demanda",
       "lead": "Leilão permite distribuidora ajustar demanda | Empresas",
       "fonte": "Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkxwZnJQZkV1eGVkeldBZFpObHJEZWRYWE9XRHVhdnNPRWhyazhaQk9UMVd4akZ2Q3NWNDJTQ2Q5d0lSOUo1TThWSVZmNmp3cENxTlVYN1dVbkZaU1NzendYd3JCZlhFSm9VcDVOTGpuck5ab1lUQkJRUXhUOWZVTXBwODZkOVd2R3VpcDlhVWRKaTI5NkdJclYyVGxTTnR6cFd0Ug?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "empresas",
       "data": "2026-11-12T08:00:00Z",
       "dominio": "valor.globo.com",
@@ -20,7 +80,7 @@
       "lead": "Na COP31, MME participa de agendas sobre o Acordo de Paris e a proteção das florestas GOV.BR",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWDNXNXowLXJaZHB6dWJkd3IxX1M5c0FhNDJjSWQ3VzhkNUxfNERtNlgxUkVoTWZweUl2WHRPb01WTDUtc2ZuZUZOVHliaWtyMHQwbE5IRk92TWpvNkkwZDVUV09KZTg4Y0xkN0lJSzdON0U3YkZ3VzNnb1V1dDNzUTRNUjMtOGhnRnY2UUpTbld5T1dZekl1bXhBYWFDX0xDNXQxZGplOXFGYVdoSExxaVMwUGxMdEFySEJEc05ZdlZrM00yNmdaSkF2dnk1RmFsVHBjcUNYMFZTT1U?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-11-11T21:01:11Z",
       "dominio": "www.gov.br",
@@ -676,69 +736,6 @@
       "data": "2026-11-06T14:40:25Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_10559",
-      "titulo": "Cemig Supera 300 MW Médios No Mercado Varejista E Alcança 10,22% De Participação",
-      "lead": "Cemig Supera 300 MW Médios No Mercado Varejista E Alcança 10,22% De Participação",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFF4Y0xpclJ1ZXd0OFBxMFJXNUpXUjFSOHNPWmVmeEsxMVZnVFZqYmtJWGplZ1c5VmRjNnE5bjc2cWRTTVozQnZObTRTMnNoQThsZF9vR1hxSFFZX0Zpa1Q4UldiSU5XbFlMdzc0Nmg2VXVxNm5TcEtZbUNEV1NZNlYyWHhRQnFzYlp4NUxhNzBoZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1546185058-592ead754d27?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-06T14:26:30Z",
-      "dominio": "cenarioenergia.com.br",
-      "tambem_em": [
-        "MegaWhat"
-      ],
-      "tema": "industria-generica"
-    },
-    {
-      "id": "mercado-livre_60152",
-      "titulo": "ABCE: leilão de transmissão reforça segurança energética e coloca eficiência econômica no centro da expansão do setor elétrico",
-      "lead": "ABCE: leilão de transmissão reforça segurança energética e coloca eficiência econômica no centro da expansão do setor elétrico",
-      "fonte": "TN Petróleo",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWjluZFR4YWY1RkNabkpQY1gya0FOaW1aeHRwSFRDanhkdUNBSzNEcG9SY1NxREpSN2wxdzRXMnQ4TlhWenJHUk5YblNfT2pqcElmRDB4MlJFV3gtd2pyWVdDRWREMUlKTW1ZOGd4V3NrX0xJVWE3d1RfVEluOTJISllkQUJrNVdaSFoxR3pGLVVqXzBLMXI4anQ4ZmQ2cWg4Vjdfc3JONDJkZEhwVzc2Mzg1dmxpejdMNlVwQUJldm1rcExJNUFDNzlkdVkweFQtVERMWjJJTDB3b2dlZXJHZU54YkJfMVI3ZkxhRmlJa18xdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1552772588-12592fc15a64?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-06T12:02:00Z",
-      "dominio": "tnpetroleo.com.br",
-      "tema": "transmissao-rede"
-    },
-    {
-      "id": "politica-energetica_23640",
-      "titulo": "CIMCE aprova lista de minerais críticos e estratégicos da PNMCE",
-      "lead": "CIMCE aprova lista de minerais críticos e estratégicos da PNMCE",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM2tfQlhld0lDMFJXeEVzMzJOTEFXZldlWVZyc0xtTXo5bG91TUxQVzBfTzRwdXZBbzJob0ExU1M5ZUJoVzgtUGdVenAtakF0MHl2TjhGVnhXMkZaU0tHOUk0cDdVek1tSmRXSzMxSE9wb3gzbXI2b3plbWVJNk9SVkpTTWdMdjRSMGNPMXdUdGJ2b09WVzkxTEdyMGVHYURYUFdTZzNmNUJzZ19yTGE2eVd5RVFZYjcyemhEQTQwZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-05T20:56:42Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_86395",
-      "titulo": "CCEE abrirá novo processo de desligamento da Electra após decisão da Aneel",
-      "lead": "CCEE abrirá novo processo de desligamento da Electra após decisão da Aneel",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUlOdTVUOTZySUl4Sm14SU95bDVTTnQ4bU1IeVdSZGZwMkE2Z280dXZ5aHRTLVhyYnpEVGFKODhnbWRRaTdyUnNlbGg1RjNWQnFpWVlob0NtOWlucUR3aHJDU0p1UVFtOWpJaFJSeTlKT0J6QWpWM21HdkhZS0dpOHFfSTgwY2JLRzhSOTdXZzlwd3hpdHR0QURDZk9uaGd5YnFuVTcxa21kZjZSUEFDdnUtWkNaZTBLOVNMenN2OA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-05T20:44:00Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_8924",
-      "titulo": "Mercado Livre de Energia: 5 cuidados antes de contratar uma comercializadora",
-      "lead": "Mercado Livre de Energia: 5 cuidados antes de contratar uma comercializadora",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm9pOHVpYUZmMDhKMV9heEJfNEk0dXNhNXFyRndXNFc3c3NpMVhfVlF0eUE1QXhDMnNDeVEtWTJFMU5Ja3VnNDlfYU5ldWx2MVBDbXEwdklNaDZMaGxZYVZVWV8yb3hTSEtYUkdSYlpEN2hhbVhIajNWWnZsOHJ3bUdqWWgzck1PQnc5ZXpHSTk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-05T19:43:21Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

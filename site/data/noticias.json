@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-13T18:56:33Z",
+  "updated": "2026-11-14T00:27:24Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_64129",
+      "titulo": "CCEE registra R$ 14,25 bilhões em negociações nos leilões de energia existente",
+      "lead": "CCEE registra R$ 14,25 bilhões em negociações nos leilões de energia existente",
+      "fonte": "Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQai1uekViWjBwQ2VyR0xjNWpxa1R0d0c5WUJzbTFKaC14aUtWbE5zY1NPLUxCLVZEUFNXXzBmdDdYUFFCMTVNMVN1RktsMUM4RE9GU0ZYcjk4RGNvYW5HajRNZk8xdnM1T2hYNWZuZWl3dFhEcUZLNGV2TXp3RTZmcnVOX0dKZ3hQeDllczFtV2dxS3QyOVRZSzhfRThubjJIZFlOT0J3YmxGX2RhYnhxcnF6TVVRQTNObU1yVGVmaXV5VlJlM3Q0azJvVzM?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-13T19:47:00Z",
+      "dominio": "timesbrasil.com.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_98147",
       "titulo": "Leilões de energia somam R$ 14,25 bi e preveem economia de R$ 166,5 mi",
@@ -20,7 +32,7 @@
       "lead": "Em leilão, 31 distribuidoras contratam 2.859,7 MW médios e movimentam R$ 14,25 bi",
       "fonte": "Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSmh2a3FLc1VYcE9yLUFEVzRrVXpuZGZyeTVKNkpGMUQzRG9kQ3FNUEg1QXJHSFdDcWNNckZ6TkE3SnJqUXp2U1ZKbUlYSFI0VnY5ZnRQMDVlbXE4Y05QZjlSN2pHc0RYT0k4ZG43d1dQaVJGRzRPdThFTGYyV1lad09BeklIbDRrNTJxNzlNa0htOURHR1BUUHZWNFBab2ZXTWpEQ19qOXBDNl8xR25tMGg4TEJsWkY3cmtLTWNnMG9OWjByWnY0OFlDMENzVEXSAd4BQVVfeXFMTmZRWEdhWkJlNExaZzgySVZTVmRrMmluV0pWdGU1SXE5TGpuVWdtWTI5d2EwMElzSTE5elQ4TVAwMGd0cTNweGhPRmpPc1ZPdFlQTlRsUFR6ZnpuRG9KcWRIRzFXNjdqSU12REcwQl9RcE1JeVZuQXZoamdqWkNTYlZEMjBnb0xEVTdueTktUXdyLUFGbEMwdk1IVkxycjdZMm5GVi1MSURRcF81U3hIRjFLVHc0RHhlQkluanNZdFFPSXJOQm50ZE9uNEJmbG5veE91RjRycjNkeVR3aURR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1584169417032-d34e8d805e8b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=600&q=70",
       "editoria": "empresas",
       "data": "2026-11-13T18:06:51Z",
       "dominio": "valor.globo.com",
@@ -49,6 +61,18 @@
       "data": "2026-11-13T17:53:15Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_22823",
+      "titulo": "Leilões de Energia Existente geram R$ 14,25 bilhões em contratos de três anos",
+      "lead": "Leilões de Energia Existente geram R$ 14,25 bilhões em contratos de três anos",
+      "fonte": "Agência Gov",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVV81aG50Ny1WN3JyQVRIVElBaWZsVTV4NDl2RVJvUFhVQjJ1SFVLblpTWjZtOXIybERRMG04M05hSE1LYmhyQzB3TC1BOG1NU3Q3Zndod1BleWpwU2E0cVZ5Y08zVHhPRjYxT2hfcEY2WHdCbGU5eUViQ0kybnhqS05PMDVZazV3Xy03cGI4T0ZqTkF2OHlaei13Z25hTmM3cFEtVXd3ODRoSzJtSFhZNC0ybkFPZzRLX0t5N1BjTzQzVmJqOUVoZ0JMUV9kTmhqaXZULU5pRTBlVEJGSEdCSFFDWHMwaVByQldUSDAzY1NoUzUwVlE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-13T17:53:00Z",
+      "dominio": "agenciagov.ebc.com.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_45582",
@@ -706,30 +730,6 @@
       "tambem_em": [
         "GPS Brasília"
       ]
-    },
-    {
-      "id": "regulacao_90695",
-      "titulo": "Usinas eólicas lideram expansão da matriz elétrica em outubro",
-      "lead": "Usinas eólicas lideram expansão da matriz elétrica em outubro Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzg4Ui1TUTFXZnBiVm1NNlB0MnIwS0cyQ2NsdnZiOFQ2cE4teEw0LWtqczR6SjhyeHpFYVhMai0wM3Qza1BiLXlvZUtDRlpPTlg0Mk1MZS04d0ZVdzJZaE94UUkxTHlCeUs1MG0yY2x1bVNUcHhaSEQxM1kxc0ZGaDBVcVM0NG52WDRiS2NwT2JTQTZvbE5IZUNDaW5mOXc5TGM1ODdGMDZhYnJOZHN4cmpnR2FjZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1466629437334-b4f6603563c5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-06T20:18:45Z",
-      "dominio": "www.gov.br",
-      "tema": "eolica"
-    },
-    {
-      "id": "mercado-livre_45731",
-      "titulo": "Mapa dos fósseis vai pôr arrecadação e subsídios na conta para decidir redução do consumo",
-      "lead": "Mapa dos fósseis vai pôr arrecadação e subsídios na conta para decidir redução do consumo",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORTZxWEx5M3RraXdEb25GNzFyem04bUhyQ3ZxWVo4N3dtbDV1SVh3R3NZQ0szMTV4d3B5N0dkWGxxWWQ3dzEwQUlkUzZOczhPcUZqZ2ZKd2tGVWc0SF9tVTNXaEhqNWtER0NxcElVYlBKY3UyaTRiUUJONFJsR2ViSDNweHBjSjZUR3ZQQmo2V0FCcUc3UURmRi1YeGxLUXNvZUpUVGlzbmxQQUl1cEFFZTM4YWlrd1ROTnA5UQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-06T19:21:04Z",
-      "dominio": "eixos.com.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

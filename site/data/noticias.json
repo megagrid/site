@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-14T17:29:27Z",
+  "updated": "2026-11-14T23:15:25Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_2298",
+      "titulo": "Baterias entram no centro da transição energética: estudo global, aluguel de sistemas e o primeiro leilão do Brasil",
+      "lead": "Baterias entram no centro da transição energética: estudo global, aluguel de sistemas e o primeiro leilão do Brasil",
+      "fonte": "Portogente",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaDBWRG1ocXNjVjRPR3F2ZXBUZmxROE9zZzhWSWQxeHRTMHhCUlJaT1lOU0E2amNiQk9sM3VFSjI2TkY2YncxeVVkd3JxVjd2R05KOFZXcmNPakk0Z01rRDdiSXhOOTNCcVNDcVUyZjRFeWhPbGJrRHczVWZUdF9wMFlfazFVU1JpdmczX2VNNVpDQXhGWkE4cGFvd1dwU0RiOWpibnJEN1daQ29hMWE0N2JGNmxCYzhFSU9JWTFDOGlsNV9CU2FTSlRMNkk4SzBoREp2T1JUTnZDR2IxRU02Ri1kLW5QeUQ5UEdMRkYxeFN0d2xiRnFyZ1lucDhuZHNTNEY2SzE4Yw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-14T18:12:39Z",
+      "dominio": "portogente.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "transicao_4838",
       "titulo": "Moura aposta R$ 200 milhões em baterias para a rede elétrica",
@@ -20,7 +32,7 @@
       "lead": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios Governo Federal",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2l3SEtzZGhQN3BCVmoycVB6Rml0WjFGc21iRjBvVEp2Nm9MZ08zTklwNmtMUzhjMkFBNEpRQ2FCUEJXMkZPbWE4NmY2cEt2RkJzbi00TmVvRUZ6VzhqWEZ5NGRXRU1vVDdMTTg2ZVVZek8yZTVMSFY0ZXFxWF9CbVNqU1FXTThxaTdqRVZkRjRCMFl0RVpQVWFqVDJVX0R0d0ZxUS1fTWc2bm9rYnZaNXJjeWN1bFAyT29xZ3ZRbU04T3RKdkhLNDUxcXRCeGtDVmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1546185058-592ead754d27?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1547895749-888a559fc2a7?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-14T03:38:31Z",
       "dominio": "www.gov.br",
@@ -220,6 +232,18 @@
       "data": "2026-11-13T11:25:00Z",
       "dominio": "revistaempreende.com.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_60784",
+      "titulo": "Aneel deve aprovar regras para medidores inteligentes até o fim de novembro",
+      "lead": "Aneel deve aprovar regras para medidores inteligentes até o fim de novembro",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1Y0ajg1QjNabXpIaXF6Y1hzVUNSSHVzWlZ6Vmk3VHpHYjk5REdsWUQxMHJkV19WUDRfdXJidGd3SDB2Z1BKdE54S0FULW9Wd0ExelR2TmdlQ0poZ3NtNG1RUGUtUTlVQkdtY1Atb1N5RkdnZnZmUUl2bWJuTFBWcGRWZDNPQ3Zza3JXbXFvYlNOS0pBMHRhUEZJQjFkcGNtSnZxWnc5THVaaEVJMWV1a3hlM1c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-13T11:10:51Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "tarifas_64170",
@@ -703,30 +727,6 @@
       "data": "2026-11-08T17:02:36Z",
       "dominio": "www.poder360.com.br",
       "tema": "transmissao-rede"
-    },
-    {
-      "id": "mercado-livre_36364",
-      "titulo": "Fórum de análise setorial da CCEE projeta transformações regulatórias e comerciais no mercado de energia elétrica",
-      "lead": "Fórum de análise setorial da CCEE projeta transformações regulatórias e comerciais no mercado de energia elétrica",
-      "fonte": "Brasil Inovador",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcVVQbjk0WkkwZ3FCOHhRalBsYk9fc2ZJWGlPelBEblRqMWxoMW0zN1YzcFc2d0UzaFBBV2IyQkxsNnBodXJDamEycjl4VFBjamp1eUFCaldRV1N3N2E1cUVJSEhPd0tuX0J6NW5ydGs1UXRSYnBuV1Z3VXl5S3gzYmRrbDdQdW92Wk1pQ3dGOVZWMC1pWXlJMzF3dWRwMDdCcmF1VV9sUHlYYnQyX2p1Y3BPbnV4ZVBHQTF2ZWRBUFhVVHNiTDJtTXVFRklZVmhnM0kyMWVqWU5Bakhy?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-08T13:20:08Z",
-      "dominio": "brasilinovador.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "tarifas_40488",
-      "titulo": "Bandeira verde mantém conta de energia sem acréscimo em novembro",
-      "lead": "Bandeira verde mantém conta de energia sem acréscimo em novembro",
-      "fonte": "Blog do Edvaldo Magalhães",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnVvWWFxYWJwa0Y2akFaUk4tVGwyaGVVdVpOaWdkSmcxZUtaNnJ1M3RKT0NfdHRDTVp1TE1ZUWFVdWhKM0x6SnFIY1cyQ19FMTRISE9VT1FhbUFKVjUxeWVSQnZxVWVnOE1wbk05VTF4ZkdNVkRSRmtoNFRSYTlyUGhtdlEyTGZBZDdIWUctUEk1ZnRIbWdFMGZhZGdELThBdE0zb194STAtaWlpQTR4NHJsS1ZBZk04SzlxYThwM3NUdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-11-08T03:05:40Z",
-      "dominio": "blogdoedvaldomagalhaes.com.br",
-      "tema": "consumidor-residencial"
     }
   ]
 }

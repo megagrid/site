@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-14T23:15:25Z",
+  "updated": "2026-11-15T18:10:05Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_55992",
+      "titulo": "Leilões de energia movem R$ 14,25 bi sem alívio na conta",
+      "lead": "Leilões de energia movem R$ 14,25 bi sem alívio na conta",
+      "fonte": "O Cafezinho",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFNDRTJrYXBCRzROR3o3MW1LMzU3WnZ1aXpPVVluYklBSlRlMlU1ZHRPd19lUWs5aWVDcXVpcU1LSE53OXVhTGxQRFNJRXdtbjRNME96Q2ZlMERLQTNCY2pPSTRXZVd2MTlhN0VSVUdLand3WTdoT2t4SUZCUFlna0dBR1FBTEU5dFNIbWlrYVhmWDMxWGxXMNIBngFBVV95cUxQVzlEMERLN1ZYS19ha19kTXVmWlNsMzNNWDBaV3VHVUM4R2NOZ3V1Y2JjeDJsc3FPRVVxOUk0UjJlelFYVjJyQzQxUFdrcXhVOUdLV3kzWWt0WUk5ZC02Zi1pYWxmLU5zTmNJRW1MakVlUUNyV3JoWFdhTFhOc3AtbVV1eWRsTDdMemtXMXI4RUxFcElsTUtSbVRqaUhHZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-14T23:56:00Z",
+      "dominio": "www.ocafezinho.com",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_2298",
       "titulo": "Baterias entram no centro da transição energética: estudo global, aluguel de sistemas e o primeiro leilão do Brasil",
@@ -20,7 +32,7 @@
       "lead": "Moura aposta R$ 200 milhões em baterias para a rede elétrica",
       "fonte": "O Cafezinho",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3ZDcFdIckh6UklOTXFJeVZZeWdvbDFnaFMycXdOVVNQdTI1WEtjWVB3eUNQMTYydlMyTGxoUFUxcFJJbW5QX2ZRWkhwRGd2dzFUaEcwVW1MOVdOQ1lHQklaQm95N0M0eDZLdy1aNGVwLW9FRThHWDVLMGtnSWNVU3R5OGFUcmdtSVJvdXVjWE1CM3BHM3Naa2hlWWhSN2fSAaQBQVVfeXFMT2haVW1vemZyaGJGcEItenBkbjFlN2FYSkdRRmVyVHp5ZGo4R2JqcG5XUWd6V2xiWkR3OXZfT2NKc1dBenJqRkstN2NXS3RtWnA1QlZFQ1dBWnFKUEVWOWZXV28zZU9EazBiLVo5N2tlWHNrb2E1cnF4VmkwTXdQV1J3MGVqQUtUUEFWWE5UYnNrOEJUdTlCNVd0Z1cxUWhFSE5sTWM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-14T14:50:00Z",
       "dominio": "www.ocafezinho.com",
@@ -37,6 +49,18 @@
       "data": "2026-11-14T03:38:31Z",
       "dominio": "www.gov.br",
       "tema": "industria-generica"
+    },
+    {
+      "id": "transicao_98051",
+      "titulo": "Arnaldo Jardim vê caminho para aprovar PL das baterias com texto mais restrito",
+      "lead": "Arnaldo Jardim vê caminho para aprovar PL das baterias com texto mais restrito",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2dVdEFtZTl5ZDdEXzZPbmNIX3ZjcDFtZ2EzcjRtd1QyeTVUYk5GbURDSmRzTVBTanI3YWdFR0N3bEVZSVItd3R3Vm43QWd1dkJkNXphaGJVc0hTNG83S3lDU0R5VlRnSXpnY0FDTDI1OWR2MzNJTS1Vbzl0UUNsbUZzWGVWX0w4Vm1falJmdzdtTjNPLXNtZ014S1dIcmJEaHhUQmw1OHVRWkd4SjB0Y25CVjFMd3c5S1pDTXVB?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-13T20:00:00Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
     },
     {
       "id": "politica-energetica_40159",
@@ -56,7 +80,7 @@
       "lead": "Leilões de energia existente movimentam R$ 14,25 bilhões; Axia e BTG lideram vendas",
       "fonte": "Agência eixos",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMEJvVHVCWFAtSmhtZnNPU1o2TWtqNFZkRGc5TlJRS1NSNkxpMVBVN1RodjI3WGkwWlRaMzB0VGVqMDhXLVBGM1pXVGtwb3JKMlNFVS1hbXJKR2RlbVJaUWZ6OTBsV00yRzdkVURaVHZ2Qm1KWDU5dF9YSkZJVEpOV2hwUGZOUGQtcWNMbVFtUHRLTWdLLUoyWVA2UUhKMkVfNWRXblI5emo5YWc4SDJJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-13T19:50:45Z",
       "dominio": "eixos.com.br",
@@ -270,6 +294,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "regulacao_68725",
+      "titulo": "ANEEL promove Workshop sobre Banco de Preços de Referência",
+      "lead": "ANEEL promove Workshop sobre Banco de Preços de Referência www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWhuN3BNaHB4ZHRTRVA5QUYyVEVDZUF3b01iUGlKWjJqZmRLRWxQNnNib0pjQTVWM2phQWVzTDhMWlpQUWVJdWVIelFIVmEtOTN0STQ0dGRobHVYU043SEJWaG9uNlc1QXdnc2hfNWlyUXAwb0lEMWU4NnFVYXRHZUJhQlBnVk1MT19zT0p1OElwYWROXzJHV216TV9XQVZrek96a2sxTGtXWlV3OUQ4Mjh3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-13T00:55:36Z",
+      "dominio": "www.gov.br",
+      "tema": "precos-mercado"
+    },
+    {
       "id": "politica-energetica_92180",
       "titulo": "Em Portugal, MME destaca proteção social e expansão do setor energético brasileiro",
       "lead": "Em Portugal, MME destaca proteção social e expansão do setor energético brasileiro",
@@ -419,7 +455,7 @@
       "lead": "REN 1.175/2026: o que o Open Energy exige e até quando",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNME1XS1lzaDdXS2pUOFUyYm5OMTJWT2JCR1V1QjhFODFONVo5REJlNHBfSXNyb0lxS0V0RlZPMFVrdnExM095ZG5CQUJlbEhqQWRaTzBJSzdEN3AxbFdMaXNuSWFFRDFLcWxQM2lqaUtQeGFYYVhwUVVzNGxVbWV0aFZjdEFWM3BVTGZXZzhSSE1DSnpVQWdmNHBobi0tV3hJQkJjLTZaT2E0VjFQakNiNnBR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-11T15:33:28Z",
       "dominio": "megawhat.uol.com.br",
@@ -691,42 +727,6 @@
       "data": "2026-11-09T14:35:00Z",
       "dominio": "www.gov.br",
       "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_23796",
-      "titulo": "Mercado Livre de Energia: entenda como funciona e veja o passo a passo para migrar",
-      "lead": "Mercado Livre de Energia: entenda como funciona e veja o passo a passo para migrar",
-      "fonte": "Além da Energia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXhoNHhsM3M2TFl4S2VrMHRjdDZCd3ZNUmdJNUZxTGpwaElfZFRIeGJvd0xJSDNGTGpNTVVKWWFjZTItdTFPRS12dndIak9ld2hGRUoyWVlZSlJ5aEVCLXl5ZFZ0N1NnWXB3WkxYN284V1l3TU5GS3Z0V3czeTBCWmNxWUVzQWxVbTRDZ2xENnZyNlRmQzBzZlYyajc3Zw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-09T08:00:00Z",
-      "dominio": "www.alemdaenergia.engie.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "tarifas_74487",
-      "titulo": "Leilão de energia promete gerar economia bilionária na conta de luz",
-      "lead": "Leilão de energia promete gerar economia bilionária na conta de luz",
-      "fonte": "Agora Litoral",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnFBTWxBdHRFNmhSY1lENVUybFRPNkMzLXYwUXBqVFdUbEhSRjBNTEdDb3ljMVg5RW5EQUQ0MDlETzMzWldPTmxyMUdweFRMRUluWWtsaWtjMy1wZTFldVZiM180T2VZS0I3YVdBYzgxcDF1Z01zTUI0QmdHSmp4cFJ0c2VfS2NCQS10dmo2Zm9kZjBHNEFsSm1tZ21PdVVBNVp3TjNXOU5sNjA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1555009784-ae7e7d1b97aa?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-11-08T17:53:07Z",
-      "dominio": "agoralitoral.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "tarifas_14059",
-      "titulo": "Leilão de transmissão trará economia de R$ 20 bilhões na conta de luz",
-      "lead": "Leilão de transmissão trará economia de R$ 20 bilhões na conta de luz",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNem1fbnQtUndWVVZvbE9MMWVyYlo4X2xRQXNNMjl0UHZ6cElQZnc4MnNQMVJJOWxXbTc0SHY5UDd6SEtEUDNWM25uRVJIRGs0c1cyWkxNZFF0VzU2OE9tSnNScHBub0pjSXRmeENBYnNvaHNhZ3R0bE9rcmNfVnM0Zk1reFZmcWpaSDR4UmxDMWppVmxoQ3lTTWtOWmxVMDJNb01kUWltUUFUYWFOaGVr?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&q=70",
-      "editoria": "tarifas",
-      "data": "2026-11-08T17:02:36Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "transmissao-rede"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-15T18:10:05Z",
+  "updated": "2026-11-15T23:29:54Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_30852",
+      "titulo": "Primeiro leilão de baterias coloca sobra renovável em disputa",
+      "lead": "Primeiro leilão de baterias coloca sobra renovável em disputa",
+      "fonte": "O Cafezinho",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOHpfeEZiQk55UmFmZEx5c0F3YTNLd09RZmFWUlZQdVZ5OUhOMEg0eHlGei1XelZZWFBsdlFDVG5YTFpXVGN5Q3ZZUXRzeHV4NndCZUdlckc5NlVIb3ByU2VEdnRBaGVnV1hDTEptN050NGdXWmlRTElPVGJ4NmdWQ3BDMW1jWGU0eTBuMzRra3VIVUtoWnMwTlMxT2c1SDl0VkHSAacBQVVfeXFMTVNadzlncGp0UUZiX2kwVmliRTVGeHNxWlRNNzQ0SVVKZ3dzZ3RmOU9nZTZpTF85dk9nV1c4NXU1RlF5RUJHQ2NJaE5iemFfQ2h0ZnUyMF9vRXRUTV9rdWR2RGU4dnlZYWFRUjZiXzc2MEVLdkFhamtzZlZtWk94enFvbzEzWk10QzBaZnctcFNwRkpnZlpwT0cxOEpsOEdCdER6Vl80SVE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-15T20:08:00Z",
+      "dominio": "www.ocafezinho.com",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "mercado-livre_55992",
       "titulo": "Leilões de energia movem R$ 14,25 bi sem alívio na conta",
@@ -20,7 +32,7 @@
       "lead": "Baterias entram no centro da transição energética: estudo global, aluguel de sistemas e o primeiro leilão do Brasil",
       "fonte": "Portogente",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaDBWRG1ocXNjVjRPR3F2ZXBUZmxROE9zZzhWSWQxeHRTMHhCUlJaT1lOU0E2amNiQk9sM3VFSjI2TkY2YncxeVVkd3JxVjd2R05KOFZXcmNPakk0Z01rRDdiSXhOOTNCcVNDcVUyZjRFeWhPbGJrRHczVWZUdF9wMFlfazFVU1JpdmczX2VNNVpDQXhGWkE4cGFvd1dwU0RiOWpibnJEN1daQ29hMWE0N2JGNmxCYzhFSU9JWTFDOGlsNV9CU2FTSlRMNkk4SzBoREp2T1JUTnZDR2IxRU02Ri1kLW5QeUQ5UEdMRkYxeFN0d2xiRnFyZ1lucDhuZHNTNEY2SzE4Yw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-14T18:12:39Z",
       "dominio": "portogente.com.br",
@@ -714,18 +726,6 @@
       "editoria": "regulacao",
       "data": "2026-11-09T14:55:54Z",
       "dominio": "canalsolar.com.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "regulacao_43219",
-      "titulo": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês",
-      "lead": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2xweHFZMnQ0ei0xbTI5ZDVVbkhQcVZXb3BBRUc3cXhvRHJnTVNmOUxKamtweFUxN1U3Nmp0YUJTRTZXSENnc0pKVFRRLUM1MDAyZ0VqUmw4QlpMTVFrejFuSnN0c1oxWTZpdXNVMkZTRWF3ZEdHOWtBQ2tpRjctZW9IZWNrb2pucnhZbXh3aGtVUmtuc1I1SWlsUGNBcG1fZXZTQ1ZtaDZXOWFfOWVnRWY3TVVjWDNBdmtPV0dodnhBdkFOcUpEMUozUmc5ZVlNRWZia2hOTjAwNHY4MHdCOFdSQWJtZVFxVlptTw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-09T14:35:00Z",
-      "dominio": "www.gov.br",
       "tema": "consumidor-residencial"
     }
   ]

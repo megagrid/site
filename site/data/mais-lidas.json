@@ -1,31 +1,10 @@
 {
-  "updated": "2026-11-15T23:29:54Z",
-  "fallback": true,
+  "updated": "2026-11-16T21:25:41Z",
   "itens": [
     {
       "rank": 1,
-      "titulo": "Primeiro leilão de baterias coloca sobra renovável em disputa",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOHpfeEZiQk55UmFmZEx5c0F3YTNLd09RZmFWUlZQdVZ5OUhOMEg0eHlGei1XelZZWFBsdlFDVG5YTFpXVGN5Q3ZZUXRzeHV4NndCZUdlckc5NlVIb3ByU2VEdnRBaGVnV1hDTEptN050NGdXWmlRTElPVGJ4NmdWQ3BDMW1jWGU0eTBuMzRra3VIVUtoWnMwTlMxT2c1SDl0VkHSAacBQVVfeXFMTVNadzlncGp0UUZiX2kwVmliRTVGeHNxWlRNNzQ0SVVKZ3dzZ3RmOU9nZTZpTF85dk9nV1c4NXU1RlF5RUJHQ2NJaE5iemFfQ2h0ZnUyMF9vRXRUTV9rdWR2RGU4dnlZYWFRUjZiXzc2MEVLdkFhamtzZlZtWk94enFvbzEzWk10QzBaZnctcFNwRkpnZlpwT0cxOEpsOEdCdER6Vl80SVE?oc=5"
-    },
-    {
-      "rank": 2,
-      "titulo": "Leilões de energia movem R$ 14,25 bi sem alívio na conta",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFNDRTJrYXBCRzROR3o3MW1LMzU3WnZ1aXpPVVluYklBSlRlMlU1ZHRPd19lUWs5aWVDcXVpcU1LSE53OXVhTGxQRFNJRXdtbjRNME96Q2ZlMERLQTNCY2pPSTRXZVd2MTlhN0VSVUdLand3WTdoT2t4SUZCUFlna0dBR1FBTEU5dFNIbWlrYVhmWDMxWGxXMNIBngFBVV95cUxQVzlEMERLN1ZYS19ha19kTXVmWlNsMzNNWDBaV3VHVUM4R2NOZ3V1Y2JjeDJsc3FPRVVxOUk0UjJlelFYVjJyQzQxUFdrcXhVOUdLV3kzWWt0WUk5ZC02Zi1pYWxmLU5zTmNJRW1MakVlUUNyV3JoWFdhTFhOc3AtbVV1eWRsTDdMemtXMXI4RUxFcElsTUtSbVRqaUhHZw?oc=5"
-    },
-    {
-      "rank": 3,
-      "titulo": "Baterias entram no centro da transição energética: estudo global, aluguel de sistemas e o primeiro leilão do Brasil",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaDBWRG1ocXNjVjRPR3F2ZXBUZmxROE9zZzhWSWQxeHRTMHhCUlJaT1lOU0E2amNiQk9sM3VFSjI2TkY2YncxeVVkd3JxVjd2R05KOFZXcmNPakk0Z01rRDdiSXhOOTNCcVNDcVUyZjRFeWhPbGJrRHczVWZUdF9wMFlfazFVU1JpdmczX2VNNVpDQXhGWkE4cGFvd1dwU0RiOWpibnJEN1daQ29hMWE0N2JGNmxCYzhFSU9JWTFDOGlsNV9CU2FTSlRMNkk4SzBoREp2T1JUTnZDR2IxRU02Ri1kLW5QeUQ5UEdMRkYxeFN0d2xiRnFyZ1lucDhuZHNTNEY2SzE4Yw?oc=5"
-    },
-    {
-      "rank": 4,
-      "titulo": "Moura aposta R$ 200 milhões em baterias para a rede elétrica",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3ZDcFdIckh6UklOTXFJeVZZeWdvbDFnaFMycXdOVVNQdTI1WEtjWVB3eUNQMTYydlMyTGxoUFUxcFJJbW5QX2ZRWkhwRGd2dzFUaEcwVW1MOVdOQ1lHQklaQm95N0M0eDZLdy1aNGVwLW9FRThHWDVLMGtnSWNVU3R5OGFUcmdtSVJvdXVjWE1CM3BHM3Naa2hlWWhSN2fSAaQBQVVfeXFMT2haVW1vemZyaGJGcEItenBkbjFlN2FYSkdRRmVyVHp5ZGo4R2JqcG5XUWd6V2xiWkR3OXZfT2NKc1dBenJqRkstN2NXS3RtWnA1QlZFQ1dBWnFKUEVWOWZXV28zZU9EazBiLVo5N2tlWHNrb2E1cnF4VmkwTXdQV1J3MGVqQUtUUEFWWE5UYnNrOEJUdTlCNVd0Z1cxUWhFSE5sTWM?oc=5"
-    },
-    {
-      "rank": 5,
-      "titulo": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2l3SEtzZGhQN3BCVmoycVB6Rml0WjFGc21iRjBvVEp2Nm9MZ08zTklwNmtMUzhjMkFBNEpRQ2FCUEJXMkZPbWE4NmY2cEt2RkJzbi00TmVvRUZ6VzhqWEZ5NGRXRU1vVDdMTTg2ZVVZek8yZTVMSFY0ZXFxWF9CbVNqU1FXTThxaTdqRVZkRjRCMFl0RVpQVWFqVDJVX0R0d0ZxUS1fTWc2bm9rYnZaNXJjeWN1bFAyT29xZ3ZRbU04T3RKdkhLNDUxcXRCeGtDVmc?oc=5"
+      "titulo": "AXIA Energia arremata 540 MWm em leilão da CCEE e da Aneel",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWQtSHAxX0UwSGVQdEpSajNKOUI2OHRVcUNtTFZhWlFCVVl0VUxPQXh6V2pVUU8xcURoUkF6cWR1QlZvcFRYd2JlOVZyN2pXUjdNUU9ZbzFUamgtR0hfZG1pZUlVVFNwbE9CcFN6Z0ZkX1dKWGNsQUpNQ0JaMlBVWHRuMllnSzZsU3ZUR3pNWERCUHhrVG1RU3hR?oc=5"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T21:25:41Z",
+  "updated": "2026-11-17T02:35:32Z",
   "total": 60,
   "itens": [
     {
@@ -24,7 +24,11 @@
       "editoria": "mercado-livre",
       "data": "2026-11-16T19:55:18Z",
       "dominio": "agenciainfra.com",
-      "tema": "eolica"
+      "tema": "eolica",
+      "tambem_em": [
+        "Brasil 247",
+        "Cenário Energia"
+      ]
     },
     {
       "id": "regulacao_33644",
@@ -150,12 +154,24 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "mercado-livre_44281",
+      "titulo": "DADOS HORÁRIOS DE GERAÇÃO",
+      "lead": "DADOS HORÁRIOS DE GERAÇÃO",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bGY0OVotODFfZHFfMWU4emwyVmd1WlluUEhkUThZVmR0Z2FxZFlsc2N5MjRTelRfMWNDTlB4a3EzX25mVnc0NWgtWEFibzBKOEp5X0VucHRjVFZGTGg2MFJTaGk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1547895749-888a559fc2a7?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-14T12:13:43Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "industria-generica"
+    },
+    {
       "id": "regulacao_63509",
       "titulo": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios",
       "lead": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios Governo Federal",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2l3SEtzZGhQN3BCVmoycVB6Rml0WjFGc21iRjBvVEp2Nm9MZ08zTklwNmtMUzhjMkFBNEpRQ2FCUEJXMkZPbWE4NmY2cEt2RkJzbi00TmVvRUZ6VzhqWEZ5NGRXRU1vVDdMTTg2ZVVZek8yZTVMSFY0ZXFxWF9CbVNqU1FXTThxaTdqRVZkRjRCMFl0RVpQVWFqVDJVX0R0d0ZxUS1fTWc2bm9rYnZaNXJjeWN1bFAyT29xZ3ZRbU04T3RKdkhLNDUxcXRCeGtDVmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1547895749-888a559fc2a7?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1627052428109-576e839d100a?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-14T03:38:31Z",
       "dominio": "www.gov.br",
@@ -717,18 +733,6 @@
       "editoria": "regulacao",
       "data": "2026-11-10T13:46:43Z",
       "dominio": "eixos.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_39926",
-      "titulo": "ANEEL abre prazo para manifestação de interesse em projeto de governança do Sandbox Energias da Floresta",
-      "lead": "ANEEL abre prazo para manifestação de interesse em projeto de governança do Sandbox Energias da Floresta Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU2pTOVdRR1RmNThhNlR1LV8yRjZzWW5BaGlTcUVEWHZ2TlVyRjNibm4zWXoyS3ZrZDFsblpfa0d5TWFWWmRENWtrcGFTbVlyOG82VlkxNERXREhnekJ1by1ZV0FGOWhmZXg1ckZTZ004SFgzREpNUXI1ckUxTm12UnJUZnV3ajZ4LW9xaE1pS3didWxnYUY3RVpUbF9iZ1RQRzQzaE5qY05JQ0kwcnpqNG5KWmdxVTVjTUdLWl9lZkpsSldVQTViZmkzUWhlZFJWb1FOTjdieFQ3YjVjOHZXSmpPVnFURldGQ2hTRzJsZw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-10T10:09:00Z",
-      "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
     }
   ]

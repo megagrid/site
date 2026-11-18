@@ -1,16 +1,76 @@
 {
-  "updated": "2026-11-17T20:13:29Z",
+  "updated": "2026-11-18T01:47:47Z",
   "total": 60,
   "itens": [
+    {
+      "id": "regulacao_62906",
+      "titulo": "Caducidade da Enel SP tem decisão novamente adiada pela Aneel",
+      "lead": "Caducidade da Enel SP tem decisão novamente adiada pela Aneel",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1VSY1RxN3FOVjg0SnVldHNzRDh2dTZrZDN5QU1lbFk0b0pzWnp2dEl4a0RRRzg0M29FQnpYdVk5eTZQNWsxTlB0d1E5R2wwOGlIN2FnNkJrODIydHN2YWg1X3paTVZLX1Q3ZUt6OXFYR2txUkVvY2h2SWxjc1ZCNFN0czN6OFAwRW1GVjB2dGUteWdmZXZfcQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-17T21:39:55Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_4876",
+      "titulo": "Políticas públicas impulsionam a eficiência energética e a economia de energia no Brasil",
+      "lead": "Políticas públicas impulsionam a eficiência energética e a economia de energia no Brasil www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX2lhOTcxQVVLdWRuTkFqR1F2Qk5jdFRMaDFhUnlVNEVKUzBidlU0SE9lWWFEXzVZNmp5OVdaSU5ORUNmZUVUVG1YQVNzZU0xODIyRk1BQ2V2RmtrZnlCZDY2ZTZoaE1xZkQybUNwanNOZVhHeGxOSDNJVll2VFlTR2hDNXJNTjRWY3dZaGp3YWhUMWxHR2J3Tk1tNmd1M3hFVTFONk1pb2RiRmNxX3E0WlZfS1ptNU1HVXcxakxsQnctQUJvTWNhNTBCM19jTzQ0azAwNENpQlRDY1Bud1hiNQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-17T20:36:39Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_95014",
+      "titulo": "ANEEL abre consultas públicas para restringir energia solar por assinatura e liquidar excedentes da GD",
+      "lead": "ANEEL abre consultas públicas para restringir energia solar por assinatura e liquidar excedentes da GD",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTllV0p2ekZGVVoxLWtCMVhXZVhZZzdHOHdoMjlXdTRERGFGbUtkbUNnbk4wLWR2NnR4VUJWajQ2MGs0UlBJMXFXdWRYOUJLV28xajQwblJzaHN4aDB4a3ZFdjRWY0RNVDBlQXJlWGlya01QYmR0X1c3SGNSSDJuQ2szd3c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-17T19:34:33Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "solar"
+    },
     {
       "id": "regulacao_2230",
       "titulo": "Aneel defende cortes obrigatórios da geração distribuída em teste do ONS",
       "lead": "Aneel defende cortes obrigatórios da geração distribuída em teste do ONS",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXy1OZl9QMFJJS0NnNE1uSEJEeW5DTkRoNDY0VTRoT2ZVdjJYQllzMER4ZXItUTZLaG1JQl94YWJha2M0TzdjRVFqYXZkLU51eFVJZzVORkNIN3ozdXlJczQzS3hTRnpnejRSOHZ0ZW5sbkJiWUg0S2xVa3VDNW9SOHhSTWtsZ2ZvMzg4cTQ2emlSLVhSaHg0WGpUbUV5YkRWdTUyUkZEVGRydUY2N1BEbA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-17T19:27:11Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "regulacao_98169",
+      "titulo": "Setor questiona legalidade de restrições à energia por assinatura propostas pela Aneel",
+      "lead": "Setor questiona legalidade de restrições à energia por assinatura propostas pela Aneel",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXVPdHJNNjd0R09uY2VPWTlEbWNVN1dDemJUaGZwbGFmbzVZTVBMT2UyVE5ZcV9VZ2hheFBzYk1kYXVydVpNWTREQlFPd0NSUDZNYVVodmIxeFNXQTAtQTZsWURINzVKT1VndTZFVlJ6M0xqdFN2dXJDR3NFSGJuREplRnhiNko2QmFBYXpyQlM3M0NHRzNkWXA2UnNXQXN2SXF2S01XZjJ6QnpsaFNRMXFNNTJpc3VlVHBfeTBqNDMtVVU?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-17T18:49:27Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_12206",
+      "titulo": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras",
+      "lead": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnJQWkpZOUxpRFduNHdwT3FEZWZ5N2JLdHFpbllNemppdVNGRndxSEVTcU8wLVVaQXNCS25LYmxaY21ETzdNMVE1bW1tVWduU1pxdkt0NVN2Z0FCMm1seEZNM0hJNGgwRm9GQTlvUHRna3N4QmtoaTFFdFFtVk1DczR0ZE1PRDFPQktqR25RWXZ2a09Hbkk0SFlHVHlyTmlYVDJ3OXFpa2V5M3NZdUpxNWE1WUZmSlAyMmc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-17T17:59:59Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "solar"
     },
@@ -66,6 +126,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "regulacao_88153",
+      "titulo": "Aneel adia novamente decisão sobre postes às vésperas de votação no Senado",
+      "lead": "Aneel adia novamente decisão sobre postes às vésperas de votação no Senado",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaHBwREZKWDN1aDZrdFlGdzF4V19kVE9kM0pFWGdvYV9Vd0NOdURCZUpPWG5TVmpDeGctbm1aSlJ1Z1U3R2hJOGpxck03WjFuaGFGLTBBc1U0RDBOcnEwYjdSaEJOWmtVZGRST1RCWWhCbFYwdVByZnh0YXZQWDBCMExxcEM0dnZOQU1BQjhGRzhqelVOQldKeGJqcExMbnBMVGc0UHFSaXRyZWs4RVIwQUdNcw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-17T15:25:41Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_37995",
       "titulo": "Abertura do mercado de energia amplia desafios para comercializadoras e formação de preços",
       "lead": "Abertura do mercado de energia amplia desafios para comercializadoras e formação de preços",
@@ -100,6 +172,18 @@
       "data": "2026-11-17T13:08:24Z",
       "dominio": "www.jota.info",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_8347",
+      "titulo": "Aprovadas novas tarifas para consumidores atendidos pela CEEE-D (RS)",
+      "lead": "Aprovadas novas tarifas para consumidores atendidos pela CEEE-D (RS) Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2E3ZXoxelppN3N4NE81SlN5Y1BBZ1ZVYWlaSDZXTEt2enBQUEZxU0JjTWNZc21nbEdCNmVDNjVqVmxrVEpYbFEtT3Jfa0RLNXRXMlI4bUxESmhCcE9XQ3lKcWllQ0w3S1ZFX2I3ODNQQ1VmLW1McF80TG40c0tnWFgzX2NaV2Ezc1pocVA0dDJfNHVqM3BxbG1TZEM1MXNpY1BOQXQyQXZrc1NUc1BVeEl0bkVJSTBseTNTOA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-17T07:55:00Z",
+      "dominio": "www.gov.br",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "transicao_6971",
@@ -172,7 +256,7 @@
       "lead": "ANEEL esclarece quais consumidores de GD estarão sujeitos ao novo encargo em 2027",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XZGhxa2NTS3hrcDVJTGxMUmRvUUcxcUtpcTh5MlJRSU5PTTUxY25ZX0M3S2pXd3BoWThLTDJwaDlUbWdXZS1tNDlnWnM3dS11QTl2dGhfV2IxRnk0bHZyNmNURFpoejBPd3VhMldR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-16T18:17:25Z",
       "dominio": "canalsolar.com.br",
@@ -651,90 +735,6 @@
       "data": "2026-11-12T08:00:00Z",
       "dominio": "valor.globo.com",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_9454",
-      "titulo": "Na COP31, MME participa de agendas sobre o Acordo de Paris e a proteção das florestas",
-      "lead": "Na COP31, MME participa de agendas sobre o Acordo de Paris e a proteção das florestas GOV.BR",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWDNXNXowLXJaZHB6dWJkd3IxX1M5c0FhNDJjSWQ3VzhkNUxfNERtNlgxUkVoTWZweUl2WHRPb01WTDUtc2ZuZUZOVHliaWtyMHQwbE5IRk92TWpvNkkwZDVUV09KZTg4Y0xkN0lJSzdON0U3YkZ3VzNnb1V1dDNzUTRNUjMtOGhnRnY2UUpTbld5T1dZekl1bXhBYWFDX0xDNXQxZGplOXFGYVdoSExxaVMwUGxMdEFySEJEc05ZdlZrM00yNmdaSkF2dnk1RmFsVHBjcUNYMFZTT1U?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-11T21:01:11Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_91797",
-      "titulo": "MME promove webinar sobre as diretrizes do Leilão dos Sistemas Isolados de 2027",
-      "lead": "MME promove webinar sobre as diretrizes do Leilão dos Sistemas Isolados de 2027",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa1pmNXNkdVprdkxPU2wxdlpvQmpGR1JQMmlneGJtMk45M0dHSnJELWxDWXcwMmwwTmpWNzFZQ2xiSmNlY3pEalZZeExZU3RnMlJKQklDdDNKbWlsalZqdEtTbzBPSHluZ1M5ZGxNZWZfRTBLb3BCcDJZWGNyMGR2cEM3Z1BULURtVWJWZ1B6U2JoQ195U1VKdTl0c1FfSWRnMy1XanZ1YVVQRjFfMXY4X0tSSnZETmFoOXdPYVZQcjZYY0kteVJiSkNKdm1hWDZpWFNOUA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-11T19:55:56Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_85487",
-      "titulo": "MME destaca potencial mineral brasileiro para ampliar produção nacional de fertilizantes",
-      "lead": "MME destaca potencial mineral brasileiro para ampliar produção nacional de fertilizantes www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNFdBVmJ6YmlKZnhfNFdXTXhrTHJhY0NYai1aRDI0RHNXWEV6YnZTN05xVjNPMXBENzRyVXZwWEhFdTV4RjZYVzBEeXRQQWFwZ2tWb1JGbWVuSEpnMHVuamZIOGt1TmdxZFBuWnNYOGZ0NjNDS2hBWVpNekloNGdnSG03eVZvN1p5a1RKeFNzSXlMZzVPU0xMZmRkVHd0X3o4aDhZeXI0NzlQRDQ0VS1fUU92bUYtcGZvMW5yd0ZiclNtdUh3VkNzQ0xaZldCTFZNc214ajFmTDdmdTljMXI4aA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-11T19:30:20Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_29319",
-      "titulo": "Políticas para levar energia segura e limpa à Amazônia são destaque de painel do MME na COP31",
-      "lead": "Políticas para levar energia segura e limpa à Amazônia são destaque de painel do MME na COP31 www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmxVRjhjQURvd09XQ1ZyY3Y5N2JXejJxZndXcjM2eXlUcUJxWU14bnFDRFcwVWUxRC0wdkhHRTFEV1UyZ2NnV0Q3WHVFTFh1eEJ5T2o3Vno5MWRNY0lmX3FlOHo2cE82XzE2eVJ5SHA0cndsYkkwZktYWm5VTzFsMTVMdE8yUlNsSmxyR2UxenVON252NnB5N1JJd3pKYmlTTTFPMTdmUWJXcWFLYVB0ek5uU09nRHQ5ZWRLRDNPRjltVng5MG04a0p3Q3UyQUxyT3hkdllpcw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-11T18:08:39Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_41336",
-      "titulo": "Projeção aponta redução de 23% no custo de implantação de baterias até 2030",
-      "lead": "Projeção aponta redução de 23% no custo de implantação de baterias até 2030",
-      "fonte": "Além da Energia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZGwwNXE3Y1hIVURhQW9GZ2VzRDdQSnQtVXJMQW5zX21rb0s2NmI4cVVnVUFqWHNiNWt0VlA5NjJ0QzFZZWJBRXNwaWtHSmRkbjd3cl9iUnB2NWIzZjFEd0JTa1ZmN2g0QVhJM1VqZW9HeUJIT2xOWVh2M281ZndLUUszS2FLcXlKMTE2RU1WNEFCNHdZaFhRc1JDUUllVG95?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-11T17:31:00Z",
-      "dominio": "www.alemdaenergia.engie.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_47421",
-      "titulo": "ANEEL autoriza acesso do primeiro projeto de Hidrogênio Verde à Rede Básica",
-      "lead": "ANEEL autoriza acesso do primeiro projeto de Hidrogênio Verde à Rede Básica www.gov.br",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTk3MDI2dzBjcVJFX3ZHYmdGeDBHcVl2T2xmNEUwYlM3MWN5QkZZZUdMMC11VFdOdF92a3lPUUZlWTV2U2prZUVSM1pCNHk1SEJjNFZsNEpBSjZ5ZjVSNExTMEZ2bmVObnExNTdoc2JnN2RmblFucG1vYWdOMG41ZzJDVnJYWDhKUFotaFMzUzFsaW1jSHkxOEpiMVp1SG1FcmtoSHJVOHFvWXVVM0I1Z1ROb2l6bGM0ZXlCa2ZsWHE1ay1OTk5Ceg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-11T15:54:57Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_91379",
-      "titulo": "REN 1.175/2026: o que o Open Energy exige e até quando",
-      "lead": "REN 1.175/2026: o que o Open Energy exige e até quando",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNME1XS1lzaDdXS2pUOFUyYm5OMTJWT2JCR1V1QjhFODFONVo5REJlNHBfSXNyb0lxS0V0RlZPMFVrdnExM095ZG5CQUJlbEhqQWRaTzBJSzdEN3AxbFdMaXNuSWFFRDFLcWxQM2lqaUtQeGFYYVhwUVVzNGxVbWV0aFZjdEFWM3BVTGZXZzhSSE1DSnpVQWdmNHBobi0tV3hJQkJjLTZaT2E0VjFQakNiNnBR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-11T15:33:28Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T19:45:24Z",
+  "updated": "2026-11-19T01:22:36Z",
   "total": 60,
   "itens": [
     {
@@ -109,6 +109,18 @@
       "data": "2026-11-18T12:30:00Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_74162",
+      "titulo": "ANEEL forma maioria pela caducidade da Enel-SP, mas votação é suspensa",
+      "lead": "ANEEL forma maioria pela caducidade da Enel-SP, mas votação é suspensa",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qMkk4Zk9SajZrSG1UQzAtZTN0NXA2UDRLeUZISGdZYl9nMWlDazRTcHg2V3pBY1ZqZlc2aHF3dFpDNnFyTVhRQWVLZXpxQVZNd3VtSWdKT1dwRWMxZFljVTJsQ2diYy0zVGlMemhDWm5LbGM3RXVn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-18T12:11:40Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_24651",
@@ -723,18 +735,6 @@
       "data": "2026-11-13T17:17:53Z",
       "dominio": "www.poder360.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_86601",
-      "titulo": "Armazenamento de energia entrará no sistema elétrico como mais uma garantia da energia produzida por várias fontes de geração.",
-      "lead": "Armazenamento de energia entrará no sistema elétrico como mais uma garantia da energia produzida por várias fontes de geração.",
-      "fonte": "JC",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUjRQZEtkbWVjajVDYW9aQWVtVXBicW5ObFoxa1dQMVJaWXZGUmNjbUhjV2RTMUlBZGtMakVzWnFacnFpamdqZldVYWhIc2U4TUFyVHBqeVJfeE81aUVBWnJXV1U5TmRiNmY4Ni1YcUcwZ0gwR1I2d1p1M0xNS0RsV3ZtWGxzVTJEZnMtUmY1aVZkQjNSZFFLLUpxSElOaVE5QWdrRVlqZXJjYXMtc09GWXNkOFJJdl8yMXF4bVZBaDVtNDFyWHpxano3OURyb2RMNGJnVGRiSUlPSGhZNl9wcWM1elJBdG52WElDX0pVTFRUUmN4WExoQWtsMHJjN1FORmlrejAzUTJBTERzNkJtUQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-13T15:40:12Z",
-      "dominio": "jc.uol.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

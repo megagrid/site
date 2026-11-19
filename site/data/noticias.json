@@ -1,30 +1,87 @@
 {
-  "updated": "2026-11-19T01:22:36Z",
+  "updated": "2026-11-19T19:45:28Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_14953",
+      "titulo": "Brasil e Índia realizam reunião sobre avanços em petróleo, gás natural e biocombustíveis",
+      "lead": "Brasil e Índia realizam reunião sobre avanços em petróleo, gás natural e biocombustíveis",
+      "fonte": "NovaCana",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeUd6UFlyczJkVE1pOU9hZGVNaG0xYlc4WXNiUE84aDJ6UXQtT1dOTkZnN3BrcjQybkMtZmJyN0oyWkNacE1YX3FYVXRzcUVrTV9JV0hPMzJ0djd1aHFQUG9YLTNOcHBsSEhmbEhUTVpFQm9XTk04dHp3RWhTcHFaSlhaNGJhLUJhaGtoZUNocm5OVlNJMnZqci1KUmhNb3BZMFVyY19QZXQ4YmlhUkJ6cFRFRm5pUVI5aXE3ejFn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1588011930968-eadac80e6a5a?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-19T18:44:00Z",
+      "dominio": "www.novacana.com",
+      "tambem_em": [
+        "MME"
+      ],
+      "tema": "termica-gas"
+    },
+    {
+      "id": "mercado-livre_92016",
+      "titulo": "Rio Alto suspende desligamentos na CCEE e bloqueio de R$ 42 milhões em disputa",
+      "lead": "Rio Alto suspende desligamentos na CCEE e bloqueio de R$ 42 milhões em disputa",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVXM2R1NUeFJGQzRlWU85c25PZldMU1lMdnRnZGZxQ1hvSnYxRTd5blFkMVVJUDBpYlNKVjVKQ0lFeS1qM2RwZThNUExOVGZaa29sQWt1UUpYM3gxN0s2d1Q5RENHemZyOElkcVNoVGhidWcxNGVwWUJXOWl4aWVTdkNDSHp3QlEtZnF1TFZYMEZDR3I0aEk5M085Q1NFMTU4WFV2NF9qNnFOOWIwc1FRdHgyT180VUc4bDhCTTJZLUtYRU41OGdJb0tjakVxZnVT?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-19T13:18:53Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_30392",
+      "titulo": "Congresso Nacional celebra 30 anos da ANEEL e destaca transformação do setor elétrico",
+      "lead": "Congresso Nacional celebra 30 anos da ANEEL e destaca transformação do setor elétrico GOV.BR",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzhCS0UtbkY2YmEzV3dpc3NtSk9kMW80eExtckoxc1NDdS1oVnQ1XzlrMnhiTl9scG5RTF8wTi1IOVBnTFQ3dEltNEhpZDRyLThEQVBHNFphV0JaZ2JRUDkyZk81OFpWV19hT09EY3FQeC14dzdZM2FPMlFQT2hGeGpHeDZ4MUhjUW8zaEJsSUc5UGZGNkctcmtfQmhDS3Vid0pRT0kxNmFFUkdkRk5rRGJwWjFDdDdvLW1MTDVSdnFjdzNLT2hTMzB2Ulc4ajBLWlhVR0dn?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-19T10:04:00Z",
+      "dominio": "www.gov.br",
+      "tambem_em": [
+        "Tribuna do Sertão"
+      ],
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_57154",
+      "titulo": "Brasil | Diretor da Aneel paralisa processo sobre postes para aguardar Congresso",
+      "lead": "Brasil | Diretor da Aneel paralisa processo sobre postes para aguardar Congresso",
+      "fonte": "DPL News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzVYdXV4T3ZQOXYzWlRkMlotVk9sbHZHS0h1eENwMFBPMzdYSHBnVGJqaTdRZEgwTk5PY3hLcVdpVGpBUWN5U05WM1ZRLWNuak1FWXd1ZHNHejNnbTFYRmpJY21pcHV2V3U1WHZrRmhEYU5aenhCTTktMlRIQmVGcDVySkZ4ZWxaSDFrTlF3Y05zdlVTSzNmb2dkV3p2MUNq?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-18T19:59:22Z",
+      "dominio": "dplnews.com",
+      "tambem_em": [
+        "Poder360"
+      ],
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "mercado-livre_39633",
+      "titulo": "Setor elétrico bate recorde com 171 operações analisadas pelo Cade em 2025",
+      "lead": "Setor elétrico bate recorde com 171 operações analisadas pelo Cade em 2025",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajlNeDNRZlFHeEVZdnQwa1B0TVgzY3JLN3pNYm9nbEpJVFlHWlY3MG9KNk5lX2sycUpuQXNrdFM2Z1o5SEVEc004ZFZwWUZsM3NSbE5RV0V3cXRYRWpMaGVLTWZfZFBkVWlqMmlWXzhYVTY0cnZNc1Vwbk5vWl9RMzI2cGMxQ2otekdGZ0tJUkUtYndsNm11a0xDNDVaWVJDZ1dHenFnNUt2aHRRQUVDNg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-18T19:54:57Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_87494",
       "titulo": "O avanço do BESS no setor elétrico brasileiro",
       "lead": "O avanço do BESS no setor elétrico brasileiro",
       "fonte": "Revista O Empreiteiro",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2U1VmNG12dU9UcmVCVFdsRGt2eVd2UXBwU09uckRsa3VPZzIwdklzVTd3OHhfeUtfTVlYYnFfU1pibW5oSjd0UVU3MTFNRHRJdVVaRy1iRVhSMHYtb1N5STFn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-18T18:52:55Z",
       "dominio": "revistaoe.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_99654",
-      "titulo": "Congresso Nacional celebra 30 anos da Aneel",
-      "lead": "Congresso Nacional celebra 30 anos da Aneel",
-      "fonte": "Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRE43QXBGdUdoT09ta0ZiLUZaRGpmRjBvQVREbjR4b2x1R1ZxakhvVWF0QTlfZDVyU1UtTGtmU0hvV3E4U3o2MTdmLUNtRXZ4YjBYWGFHU1JUQ0lZVmRRY1pHRmFyV0huLXE3VDZVdm5INVlOUGh3bGl2Y1lKWVE2bjBRTlhERkVXVEVKZ0Ntd2V3UkZfeVJpVV9Jb09VRU8yR3BHbg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-18T16:43:00Z",
-      "dominio": "tribunadosertao.com.br",
-      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_2973",
@@ -270,18 +327,6 @@
       "tema": "regulacao-institucional"
     },
     {
-      "id": "regulacao_28935",
-      "titulo": "Diretor da Aneel paralisa processo sobre postes para aguardar Congresso",
-      "lead": "Diretor da Aneel paralisa processo sobre postes para aguardar Congresso",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazQwVlNPQnVfLW9FLXZPQWhpbUhiemRTY19ud25KT0tPTDFzSXNhMnRibno3eXJmbHBsd214bDZSNGx5d2JZOFNiOC1hYVM1dWF6ajl1RF9VV1BVZzJoVExCeW9FbU9jcU5ydjFzSlJBd3A4dC1HOG45QmhXQmRhTm5fWWwwY2ZRVUE0aE5HX29UMjVWM3BPVk1lT0k1S1JzRVNUSWtiSGRxMkwwQlpCS19n?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T15:41:00Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
       "id": "regulacao_31019",
       "titulo": "ANEEL promove Audiência para discutir a qualidade do serviço prestado pela Âmbar Energia Amazonas S.A",
       "lead": "ANEEL promove Audiência para discutir a qualidade do serviço prestado pela Âmbar Energia Amazonas S.A GOV.BR",
@@ -340,6 +385,18 @@
       "data": "2026-11-17T13:08:24Z",
       "dominio": "www.jota.info",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_62981",
+      "titulo": "Decisão judicial não suspende revogação da Electra, conclui Procuradoria da Aneel",
+      "lead": "Decisão judicial não suspende revogação da Electra, conclui Procuradoria da Aneel",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGU2Z0pQMnlvcDVGN2JiLTFpR1h0VUNMbkFuVXRrQ0hZWXpERHBfV3ZDcHBfd3NkQW9pRDRWcDduM0ZTTjNER29WemNwVkJBTXlxNmdBRDlBelBDTkVtTnZGSUhhcURVS3o0d0x2eDMybzVXZmdHcU0tQlBVXzJMcUpvNDBrdXJDX1d3cU5zVzhUV2ZOU2swemE0VmlRSUJYd1MxSHpJcEZKS2Z4MGNsMUcwY21TemxSYnRz?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-17T11:39:39Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_8347",
@@ -686,54 +743,6 @@
       "editoria": "politica-energetica",
       "data": "2026-11-13T17:53:15Z",
       "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_22823",
-      "titulo": "Leilões de Energia Existente geram R$ 14,25 bilhões em contratos de três anos",
-      "lead": "Leilões de Energia Existente geram R$ 14,25 bilhões em contratos de três anos",
-      "fonte": "Agência Gov",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVV81aG50Ny1WN3JyQVRIVElBaWZsVTV4NDl2RVJvUFhVQjJ1SFVLblpTWjZtOXIybERRMG04M05hSE1LYmhyQzB3TC1BOG1NU3Q3Zndod1BleWpwU2E0cVZ5Y08zVHhPRjYxT2hfcEY2WHdCbGU5eUViQ0kybnhqS05PMDVZazV3Xy03cGI4T0ZqTkF2OHlaei13Z25hTmM3cFEtVXd3ODRoSzJtSFhZNC0ybkFPZzRLX0t5N1BjTzQzVmJqOUVoZ0JMUV9kTmhqaXZULU5pRTBlVEJGSEdCSFFDWHMwaVByQldUSDAzY1NoUzUwVlE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-13T17:53:00Z",
-      "dominio": "agenciagov.ebc.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_45582",
-      "titulo": "Leilões de energia existente contratam 50.170.524 MWh no montante de R$ 14,2 bilhões",
-      "lead": "Leilões de energia existente contratam 50.170.524 MWh no montante de R$ 14,2 bilhões",
-      "fonte": "Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWZFeTVHUlJ3aUEzRGxVUFNyMmV6Y0d1YWQtZnFiNFBKOE8yYlV0YkxFdU9aU0tXYkJuaDJuUXhxWUZjSmJPOVpYU21ibWJOZ3JxWEM0cEdnRVd3VjJ3MEhKTmNzdW45TlJSWWVyQXAzUXJyYk5KV285OE10VlY0SnNLdHlqWDdfelg0OUFPcXJ3X2JpTjNZSUJsa3hEQVF4VVhyV2ZJS0U4czFtR2tZWUgya09VVlF2N284TDJaV1JDNG5iS3BuYmFOMWRQR3lUTmhBenZVMA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1546185058-592ead754d27?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-13T17:27:00Z",
-      "dominio": "www.tribunadosertao.com.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "mercado-livre_64447",
-      "titulo": "Com apenas 1,1% de deságio, leilão de energia existente contrata R$ 14,2 bi",
-      "lead": "Com apenas 1,1% de deságio, leilão de energia existente contrata R$ 14,2 bi",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVhhZE9RaENvTGxjc0ZSVlc0YkZEZ0FnT0wyUGMzVE9iMVB2UEpDRXNLNF83X2F1MEp4QXN2REJVSUlTdHBGdEpBYUFaeFk1aU9zUTl3ZkQwSjNtY3lHWmxTeVJqTXhndUs5bDRkY3BxM1dQNDVWdVVVbGJlc1FIUXVNaGVsemVHcmFfRDR2WTlHLTBYWUtiYnZpSllWNjlwYXFVZ2pnR2owQQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-13T17:21:51Z",
-      "dominio": "www.cnnbrasil.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "empresas_34165",
-      "titulo": "Distribuidoras contratam R$ 14 bi em leilão de suprimento de energia",
-      "lead": "Distribuidoras contratam R$ 14 bi em leilão de suprimento de energia",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGU3SVZPV3JTdERLSnhhN1cwMDBrMWRScExjV3hIZjRzdF9xeHpmOHFXaHRBaGpOUmxFUnc3S1dubWN6ZlZlcTVIZFVIZ3ZaNVNOYmY2aUkwS1d6SDlxVzBSU3E1UnN6TDRWbm03OWdEcHVEb3o3YVNjY0E1dUswLWJnWmptbkxlMDF1QVFPNjBaZFhKeXRtUldpNDB2enZTYWhBQWJhMnhHSFVhdDdB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-11-13T17:17:53Z",
-      "dominio": "www.poder360.com.br",
       "tema": "regulacao-institucional"
     }
   ]

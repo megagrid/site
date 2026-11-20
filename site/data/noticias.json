@@ -1,14 +1,38 @@
 {
-  "updated": "2026-11-19T19:45:28Z",
+  "updated": "2026-11-20T01:25:19Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_22301",
+      "titulo": "MERCADO LIVRE DE ENERGIA PODE REDUZIR CONTA EM ATÉ 35% NA BAHIA",
+      "lead": "MERCADO LIVRE DE ENERGIA PODE REDUZIR CONTA EM ATÉ 35% NA BAHIA",
+      "fonte": "Bahia Econômica",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXB5dG95MDFadFlYWlZjZFdobEJjSk9hT015a09YYzdaWVJ4Z0ZxSVJZUWRKRU0weGFxbmthSkpjOUUxeWZ1OVhoVXRhQmw1ajFTajNtbmVibmQ1cUlfb3EzcTkzdFE4YUFUNmJTdFdZNTQzaHUwclc4a2NIaTRGUi1ibW5HWGJNQjZCUWhOSHhwellFaFdqYmZCVDQzbUhFTEdwbElkSy1jaTZYc0hZd0h1SGI1dw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-19T22:54:00Z",
+      "dominio": "bahiaeconomica.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_6348",
+      "titulo": "Armazenamento de energia: segurança para o sistema exige regras coerentes",
+      "lead": "Armazenamento de energia: segurança para o sistema exige regras coerentes",
+      "fonte": "Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUS03S0FIdHVMVVpDSG5JRGVKRks0ZXh5Wi1IX0JPMmJTaFdDZms0S0pTWEZQQnItYUYzeUEwOE5NQ3F2Y21iY3ByMlR2X0MzTFY3R2stZG5NWjVCTTRJVFZOa0J0b3NNQ0xWQlZhUEZQbmVLSGZUMm1tbWZsSmR6Xy00dzdVQUFTdjZQME5MbHZUMnNyV0VsdFRkMGFhTzZrMTVfQjVVOTBZb1Z2NkoxYWJHZjg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-19T22:47:12Z",
+      "dominio": "eixos.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "mercado-livre_14953",
       "titulo": "Brasil e Índia realizam reunião sobre avanços em petróleo, gás natural e biocombustíveis",
       "lead": "Brasil e Índia realizam reunião sobre avanços em petróleo, gás natural e biocombustíveis",
       "fonte": "NovaCana",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeUd6UFlyczJkVE1pOU9hZGVNaG0xYlc4WXNiUE84aDJ6UXQtT1dOTkZnN3BrcjQybkMtZmJyN0oyWkNacE1YX3FYVXRzcUVrTV9JV0hPMzJ0djd1aHFQUG9YLTNOcHBsSEhmbEhUTVpFQm9XTk04dHp3RWhTcHFaSlhaNGJhLUJhaGtoZUNocm5OVlNJMnZqci1KUmhNb3BZMFVyY19QZXQ4YmlhUkJ6cFRFRm5pUVI5aXE3ejFn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1588011930968-eadac80e6a5a?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1585252155261-cff31944d781?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-19T18:44:00Z",
       "dominio": "www.novacana.com",
@@ -23,10 +47,22 @@
       "lead": "Rio Alto suspende desligamentos na CCEE e bloqueio de R$ 42 milhões em disputa",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVXM2R1NUeFJGQzRlWU85c25PZldMU1lMdnRnZGZxQ1hvSnYxRTd5blFkMVVJUDBpYlNKVjVKQ0lFeS1qM2RwZThNUExOVGZaa29sQWt1UUpYM3gxN0s2d1Q5RENHemZyOElkcVNoVGhidWcxNGVwWUJXOWl4aWVTdkNDSHp3QlEtZnF1TFZYMEZDR3I0aEk5M085Q1NFMTU4WFV2NF9qNnFOOWIwc1FRdHgyT180VUc4bDhCTTJZLUtYRU41OGdJb0tjakVxZnVT?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-19T13:18:53Z",
       "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_80416",
+      "titulo": "Associações lançam abaixo-assinado para adiar votação da Tarifa Hora Certa na ANEEL",
+      "lead": "Associações lançam abaixo-assinado para adiar votação da Tarifa Hora Certa na ANEEL",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0xxZ0EwendRamRMVWRwWk1SYWRLZmVEUnNYYlZlWldybUhDOGVKOTRzU05NSm5uQVBVVmczRzNZX0FjbTdHVjVvN2ZRTlM2UDdaeldYUTRuNkJJNXVfZ0dCNG9zc1ZDLVdqdU50NzFhU2MzNWdEekVFczRYVlV6aDRYVW5DT3c?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-19T13:10:07Z",
+      "dominio": "canalsolar.com.br",
       "tema": "regulacao-institucional"
     },
     {
@@ -42,6 +78,18 @@
       "tambem_em": [
         "Tribuna do Sertão"
       ],
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_34710",
+      "titulo": "Luz para Todos terá R$ 2,1 bilhões para ampliar acesso à energia elétrica no país em 2027",
+      "lead": "Luz para Todos terá R$ 2,1 bilhões para ampliar acesso à energia elétrica no país em 2027 GOV.BR",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaE9HcjI0LXVaTTdaVUtKYUtvb0VtSDZXNDdLUkZQY0R6YWZZdmRiTlNLTm1aV1VlVjdIZUdNUTFzT2kwSVRVYjN4M0J1WHhLYlhhWUV0dDBRRWRISVBOUlh6NERSQWNwYlp2NjVCejcyM0xGMTJsbXlhNmgzS3R1b1pFcWZLdEVmM3hxUzZZd1F3WUEyd2drRGVYc0VWcTNhdEIyN2hQWEZIY0RRUjI0bEx5d1VpWFdzNmFuX3JGLXBfZ1VMcklnWlJiNUxDZ045US1EaTMwdFJBbW1SSS0yVw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-19T01:11:28Z",
+      "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
     },
     {
@@ -65,7 +113,7 @@
       "lead": "Setor elétrico bate recorde com 171 operações analisadas pelo Cade em 2025",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajlNeDNRZlFHeEVZdnQwa1B0TVgzY3JLN3pNYm9nbEpJVFlHWlY3MG9KNk5lX2sycUpuQXNrdFM2Z1o5SEVEc004ZFZwWUZsM3NSbE5RV0V3cXRYRWpMaGVLTWZfZFBkVWlqMmlWXzhYVTY0cnZNc1Vwbk5vWl9RMzI2cGMxQ2otekdGZ0tJUkUtYndsNm11a0xDNDVaWVJDZ1dHenFnNUt2aHRRQUVDNg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-18T19:54:57Z",
       "dominio": "megawhat.uol.com.br",
@@ -694,54 +742,6 @@
       "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-11-13T19:35:48Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_98147",
-      "titulo": "Leilões de energia somam R$ 14,25 bi e preveem economia de R$ 166,5 mi",
-      "lead": "Leilões de energia somam R$ 14,25 bi e preveem economia de R$ 166,5 mi",
-      "fonte": "UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMEI4ZHJ2V0QtVmJKTWt6T1ljYzBSQ1liek0zczlWMFRsZWI0Z3dqTVB0RUktcHlSNDA5SElUeFBVUXNkVDNoZU9KaVZoeXRXSEJsMndjdDBkdmNaRFlnZjVxczl3R2V3Q3RULUpGendWVW54U0Q4b2VldU1DOHhYTXdpaHZxVElDUkpwQzMwbzFWSkxDMHBkQkZsVjBNMk9JcXFwNnI2TEx2TXpNMHhxS3ZlaWs5bTI0dmg2MklyWWlvMUR0c3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-13T18:50:09Z",
-      "dominio": "economia.uol.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "empresas_70529",
-      "titulo": "Em leilão, 31 distribuidoras contratam 2.859,7 MW médios e movimentam R$ 14,25 bi",
-      "lead": "Em leilão, 31 distribuidoras contratam 2.859,7 MW médios e movimentam R$ 14,25 bi",
-      "fonte": "Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSmh2a3FLc1VYcE9yLUFEVzRrVXpuZGZyeTVKNkpGMUQzRG9kQ3FNUEg1QXJHSFdDcWNNckZ6TkE3SnJqUXp2U1ZKbUlYSFI0VnY5ZnRQMDVlbXE4Y05QZjlSN2pHc0RYT0k4ZG43d1dQaVJGRzRPdThFTGYyV1lad09BeklIbDRrNTJxNzlNa0htOURHR1BUUHZWNFBab2ZXTWpEQ19qOXBDNl8xR25tMGg4TEJsWkY3cmtLTWNnMG9OWjByWnY0OFlDMENzVEXSAd4BQVVfeXFMTmZRWEdhWkJlNExaZzgySVZTVmRrMmluV0pWdGU1SXE5TGpuVWdtWTI5d2EwMElzSTE5elQ4TVAwMGd0cTNweGhPRmpPc1ZPdFlQTlRsUFR6ZnpuRG9KcWRIRzFXNjdqSU12REcwQl9RcE1JeVZuQXZoamdqWkNTYlZEMjBnb0xEVTdueTktUXdyLUFGbEMwdk1IVkxycjdZMm5GVi1MSURRcF81U3hIRjFLVHc0RHhlQkluanNZdFFPSXJOQm50ZE9uNEJmbG5veE91RjRycjNkeVR3aURR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-11-13T18:06:51Z",
-      "dominio": "valor.globo.com",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "mercado-livre_53345",
-      "titulo": "Leilão de energia existente negocia 2,86 GW médios, com R$14,25 bi em contratos Por Reuters",
-      "lead": "Leilão de energia existente negocia 2,86 GW médios, com R$14,25 bi em contratos Por Reuters",
-      "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWJCYjZaNE1rZG1YX084Tm9HZ012STJZMm1waEpZeGFwWVl3enNpOHZ6U1owZ0k0eXZTbDdEb1ZtOEVOVVVXZ2RoQ09hVW5yeHpnSzlPWmo1MUZXOUM2U1pUM0tyaEdDZHN0U0JtME5IMXlsaU1HcVd3R003QXlPdXRJZmJUTFkxLS00NVFRbVpXYWFWUlphcWh2SXZ5ejgtSVMxWndmWnhDaTlZQjVKZjBnTnhXSy10d0ZoT0xDSG1PcWF3blVYa3dqaw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-13T18:04:00Z",
-      "dominio": "br.investing.com",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "politica-energetica_34981",
-      "titulo": "Leilões de Energia Existente A-1, A-2 e A-3 movimentam cerca de R$ 14,25 bi e reforçam a atratividade do setor elétrico",
-      "lead": "Leilões de Energia Existente A-1, A-2 e A-3 movimentam cerca de R$ 14,25 bi e reforçam a atratividade do setor elétrico www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQci1BZEhfNU9FTFY1R1lmU1paM2NVa1dEelJHaHBZN0lLOHBTTURNS0NwS0piYTRtRU9vaXZKM1JNN3BFMlk2bER4TlNUcUFnWnV0OWNBTnVmZzV4VnR6Q21QTF9sMWpBNDBsY1o4WkdQOG91N3pLWEdVRm0xWklJZ2xnU1hVemZwR0pCMEJTbm9pVTNYMG0wVFhmQ2ZjQ0dzMEFvWkd5SmJyUXdvS1BaWjAzWFprbU9jal8tT0FJeW5yTzMyZWE3Y05BMGdIdm1uWHp0MDg3N2tpU21NdE1hUDlWYW9QSDd4NzJfaFdDV3hfeGk5TS1LUFVQV05ibkdJOVVqX3g1TQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-13T17:53:15Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
     }

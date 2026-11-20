@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T01:25:19Z",
+  "updated": "2026-11-20T19:24:31Z",
   "total": 60,
   "itens": [
     {
@@ -40,6 +40,18 @@
         "MME"
       ],
       "tema": "termica-gas"
+    },
+    {
+      "id": "regulacao_44461",
+      "titulo": "Senado aprova regras para postes que divergem de proposta da Aneel",
+      "lead": "Senado aprova regras para postes que divergem de proposta da Aneel",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3F0MG9xa2YzUms1R0JpbE96TjNxbU04eExMY05ycXJyMUFScXVGZ1dnZEJ4TFBHcGNhaXp2dHhYUno4UHFLSkxPOGhqX2c0emNwVWI1bUhTWktKaDZUWkpnMzlrRXZPcVY4ZlFfY0pyRHBuTVFZYTJVNEZDbnQwUEQwWlZTU3dQUHlWNEJETTVJRVlhdEJxUnJZYW04SVRya1BRM3hqUS1iRUZZ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-19T15:27:57Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_92016",
@@ -228,6 +240,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "regulacao_58984",
+      "titulo": "Regras operacionais e de faturamento do Encargo Complementar de Recursos (ECR) são aprovadas pela ANEEL",
+      "lead": "Regras operacionais e de faturamento do Encargo Complementar de Recursos (ECR) são aprovadas pela ANEEL GOV.BR",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONEhYc29qaE9XM083dE01UWdKRFYxbnVnMzNpRWRreEtta2Z2aks2QmZXd1J2ZWFqNlVYMk5Eak15Vm5HLVBLcmNTQTVDd0k4T24xRTJCNVotNENMd2xobzc5ODRBN0RtZ3Y4OEc0cU1hYzhweUVIUzhRX1JrLUl6eGg1TWVTVlJOOWhSbXI1MElMMUJPR0kwUjBmMzBFRzJYY2pyMmZvaFRwenJoajk0eWxtNWJ0RGc0LUdTVHlOQ2pjRHBBS3VtMTRKTkVhZVBJYm1sdmwwMlR6SjhSM1lEMUhOSWRodmxNeGtF?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-18T08:21:15Z",
+      "dominio": "www.gov.br",
+      "tema": "consumidor-residencial"
+    },
+    {
       "id": "mercado-livre_24651",
       "titulo": "Leilões de energia revelam preços e tendências do setor",
       "lead": "Leilões de energia revelam preços e tendências do setor",
@@ -272,6 +296,18 @@
       "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-11-17T20:36:39Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_8995",
+      "titulo": "MME alcança Nível 3 Pleno em integridade pública e recebe reconhecimento da CGU",
+      "lead": "MME alcança Nível 3 Pleno em integridade pública e recebe reconhecimento da CGU",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONG8zV2hoYllSQmhwOEVrZEFudllDdVVTX2RBb3pwbFNRZHRoUk1tcXlnbDNhTmw2RGxodU9xVW5VTWhrSk1oMXNVRDlUdGxwaVNRU0ZRWXJ5M2w0ck9wbzgxMjNYRGRFMVpnTFg0NnhxQlk1MHkyZ2JBY3RVUXhINUw0S3pWRnVnSnY4M2F2aVRxemJfUENPQlNjeGVGZzRzSEh0UHl3TnF2Yi1VUGF5UW11a0p0ZkhvZVQ1TnRGME03aWMxQkUtODJkLVpMZDVyZDluRg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-17T20:07:13Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
     },
@@ -375,6 +411,18 @@
       "tema": "regulacao-institucional"
     },
     {
+      "id": "politica-energetica_95536",
+      "titulo": "Mudanças no PLD são necessárias para refletir cortes de geração, diz MME",
+      "lead": "Mudanças no PLD são necessárias para refletir cortes de geração, diz MME",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWJnVXFXMDIxcDIya3ByaHpGZW1IdXQwbGpHY3VrVkNDVmxGLWhMenlzNXItNVJGc1NYOTRnYUpnak9TR2hIM29idFY0OW91cTJtSkV6TWxQZDJkRjd5RnZUcG5sSkdQM1NEcjBqYjJuR2JVTF9NSmdXcnpwSmVKV2xqMGw1SmVRQXVwSWw2ZWVleDFiYl9QNUxBajlKX0hDQ1ZyT0czUDljQW1pNU00LVh5eWk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-17T15:54:20Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
+    },
+    {
       "id": "regulacao_31019",
       "titulo": "ANEEL promove Audiência para discutir a qualidade do serviço prestado pela Âmbar Energia Amazonas S.A",
       "lead": "ANEEL promove Audiência para discutir a qualidade do serviço prestado pela Âmbar Energia Amazonas S.A GOV.BR",
@@ -459,12 +507,24 @@
       "tema": "consumidor-residencial"
     },
     {
+      "id": "transicao_32147",
+      "titulo": "Abeeólica vai à justiça para suspender leilão de sistemas de baterias",
+      "lead": "Abeeólica vai à justiça para suspender leilão de sistemas de baterias",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa19Oek8xVE1saTBCWGQwbEhEZzVST2pJS2ZrLTF0QllQN3JxTzNrY3Z6U1VXN3dNZE95RTBXLUJILWdKQjVqajdZU3lQNmJuemxfdG04Z0lIQXFEd0RZY0FHQU5qNnNQUFBnbkFTREtsVkhPbHRzdVI0dnlEc3VOWUYtd2VtWkZwR1RDUWt2YjdrampyV2I2X3dyT1lGVzlDb3ZxZktkN3k?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-17T07:30:05Z",
+      "dominio": "www.cnnbrasil.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "transicao_6971",
       "titulo": "CPFL Energia espera concorrência no LRCAP de baterias",
       "lead": "CPFL Energia espera concorrência no LRCAP de baterias",
       "fonte": "CanalEnergia",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0RsRHd3eERNNzdQQVEwZWx3eFY1bmkwMGtybFdEM0hJMUpRQUxQUFk4S3BxOFVDc0hsRVE2dFB5dVljcWFNUWxpY3hTYlJtMmQwTTY4c01KNnViWER4NVVYZEJkRnlDT1dUa3FZZm1VOGR4TVVqenRwVlYzZ3RGUjVxLUpGZ3piMXVraTZ2LXlHVHk4VWhWdFowTU1ackpLLW50TklR?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-16T20:47:36Z",
       "dominio": "www.canalenergia.com.br",
@@ -611,12 +671,24 @@
       "tema": "precos-mercado"
     },
     {
+      "id": "tarifas_67968",
+      "titulo": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
+      "lead": "Bandeira verde em outubro: Cemig alerta que consumo consciente continua essencial para evitar surpresas na conta de luz",
+      "fonte": "Cemig",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeTFWUXFuTXlYemZkdy1hRXhaTl9EMXh6VE43d1h1NXR0dkZheDBWVEJYeUxqREVsUFhvTThmYy16d3c1UjdqSmZVZkNXamF3eUxzWFc0bXhiNjFqLWVwQnJEZ2lVV05QZ2VweVE0bUdaMmtHenBOVzBqTm1mTTYwOGJPXzI1YmpzdmpJczdzZjZGcmNTeGQ2OGFoZDhQYV9qQWhELVBMQllaLVVNSWswb09HTkk1WWtiY3BneEtPZS1UQzJSRkZONWdZSDM1eW5sS0lNWFd1dkdVUVRrZDFaTzJxOGZKYVJHTC0wTTRJeUZlZWJzbDkzRU9RT0RVcjdMTUE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1757146578941-37e7acc595a1?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-16T08:00:00Z",
+      "dominio": "www.cemig.com.br",
+      "tema": "consumidor-residencial"
+    },
+    {
       "id": "transicao_30852",
       "titulo": "Primeiro leilão de baterias coloca sobra renovável em disputa",
       "lead": "Primeiro leilão de baterias coloca sobra renovável em disputa",
       "fonte": "O Cafezinho",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOHpfeEZiQk55UmFmZEx5c0F3YTNLd09RZmFWUlZQdVZ5OUhOMEg0eHlGei1XelZZWFBsdlFDVG5YTFpXVGN5Q3ZZUXRzeHV4NndCZUdlckc5NlVIb3ByU2VEdnRBaGVnV1hDTEptN050NGdXWmlRTElPVGJ4NmdWQ3BDMW1jWGU0eTBuMzRra3VIVUtoWnMwTlMxT2c1SDl0VkHSAacBQVVfeXFMTVNadzlncGp0UUZiX2kwVmliRTVGeHNxWlRNNzQ0SVVKZ3dzZ3RmOU9nZTZpTF85dk9nV1c4NXU1RlF5RUJHQ2NJaE5iemFfQ2h0ZnUyMF9vRXRUTV9rdWR2RGU4dnlZYWFRUjZiXzc2MEVLdkFhamtzZlZtWk94enFvbzEzWk10QzBaZnctcFNwRkpnZlpwT0cxOEpsOEdCdER6Vl80SVE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-15T20:08:00Z",
       "dominio": "www.ocafezinho.com",
@@ -669,81 +741,6 @@
       "data": "2026-11-14T12:13:43Z",
       "dominio": "www.ccee.org.br",
       "tema": "industria-generica"
-    },
-    {
-      "id": "regulacao_63509",
-      "titulo": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios",
-      "lead": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2l3SEtzZGhQN3BCVmoycVB6Rml0WjFGc21iRjBvVEp2Nm9MZ08zTklwNmtMUzhjMkFBNEpRQ2FCUEJXMkZPbWE4NmY2cEt2RkJzbi00TmVvRUZ6VzhqWEZ5NGRXRU1vVDdMTTg2ZVVZek8yZTVMSFY0ZXFxWF9CbVNqU1FXTThxaTdqRVZkRjRCMFl0RVpQVWFqVDJVX0R0d0ZxUS1fTWc2bm9rYnZaNXJjeWN1bFAyT29xZ3ZRbU04T3RKdkhLNDUxcXRCeGtDVmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1627052428109-576e839d100a?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-14T03:38:31Z",
-      "dominio": "www.gov.br",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "transicao_98051",
-      "titulo": "Arnaldo Jardim vê caminho para aprovar PL das baterias com texto mais restrito",
-      "lead": "Arnaldo Jardim vê caminho para aprovar PL das baterias com texto mais restrito",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2dVdEFtZTl5ZDdEXzZPbmNIX3ZjcDFtZ2EzcjRtd1QyeTVUYk5GbURDSmRzTVBTanI3YWdFR0N3bEVZSVItd3R3Vm43QWd1dkJkNXphaGJVc0hTNG83S3lDU0R5VlRnSXpnY0FDTDI1OWR2MzNJTS1Vbzl0UUNsbUZzWGVWX0w4Vm1falJmdzdtTjNPLXNtZ014S1dIcmJEaHhUQmw1OHVRWkd4SjB0Y25CVjFMd3c5S1pDTXVB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-13T20:00:00Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "politica-energetica_40159",
-      "titulo": "MME retoma atividades do Comitê Gestor do Programa Nacional do Hidrogênio e define próximos passos",
-      "lead": "MME retoma atividades do Comitê Gestor do Programa Nacional do Hidrogênio e define próximos passos www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYU1UXy04YlJqRlh6eXlDSTdaRjg3R1VUUU1iZ28yOVVpLTh1Y2FnYmFVakxhcF80eVJBYTlmWDlDTVNWY3BvanNMcFcyRldwd0tXRWQ4bmt6cjlaVllDd1duNk1EN1F5dzF5eVN4VEowQ29oTm1yemtxRzV5NTZqV05vVnJWdDRvQ2lVdk5KQXpiUm5FR3ExU2ZJVjcta1EzUnFEekdTN1FWU0toSXpWQ1hTckktX0ttbUliNUxuMURtWlp3cTJKaWZmNmw3ckpUaFNudXd0Y3RKbHdRdzdadFRHd214UnBnTWFFUmxn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-13T19:53:27Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_22747",
-      "titulo": "Leilões de energia existente movimentam R$ 14,25 bilhões; Axia e BTG lideram vendas",
-      "lead": "Leilões de energia existente movimentam R$ 14,25 bilhões; Axia e BTG lideram vendas",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMEJvVHVCWFAtSmhtZnNPU1o2TWtqNFZkRGc5TlJRS1NSNkxpMVBVN1RodjI3WGkwWlRaMzB0VGVqMDhXLVBGM1pXVGtwb3JKMlNFVS1hbXJKR2RlbVJaUWZ6OTBsV00yRzdkVURaVHZ2Qm1KWDU5dF9YSkZJVEpOV2hwUGZOUGQtcWNMbVFtUHRLTWdLLUoyWVA2UUhKMkVfNWRXblI5emo5YWc4SDJJ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-13T19:50:45Z",
-      "dominio": "eixos.com.br",
-      "tambem_em": [
-        "MegaWhat"
-      ],
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_64129",
-      "titulo": "CCEE registra R$ 14,25 bilhões em negociações nos leilões de energia existente",
-      "lead": "CCEE registra R$ 14,25 bilhões em negociações nos leilões de energia existente",
-      "fonte": "Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQai1uekViWjBwQ2VyR0xjNWpxa1R0d0c5WUJzbTFKaC14aUtWbE5zY1NPLUxCLVZEUFNXXzBmdDdYUFFCMTVNMVN1RktsMUM4RE9GU0ZYcjk4RGNvYW5HajRNZk8xdnM1T2hYNWZuZWl3dFhEcUZLNGV2TXp3RTZmcnVOX0dKZ3hQeDllczFtV2dxS3QyOVRZSzhfRThubjJIZFlOT0J3YmxGX2RhYnhxcnF6TVVRQTNObU1yVGVmaXV5VlJlM3Q0azJvVzM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-13T19:47:00Z",
-      "dominio": "timesbrasil.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_60720",
-      "titulo": "Ministério de Minas e Energia defende, na COP31, diálogo com os estados para avançar na transição energética",
-      "lead": "Ministério de Minas e Energia defende, na COP31, diálogo com os estados para avançar na transição energética GOV.BR",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYjQ5SHZmNGE3Y2pILV9pUXZ0NnlHV2RfSTNUWFNSVHlIcUVkZUo4SzJpczBUWU45Mlpld212ZDdUY3pzVUVxZ0ZoekJMZGlsUjZTZEl2dU1JMUdZbFI1VGN0UkhQMnhsNE5keFFHZkFzMXVEandrd1BGNWdwWHM4MUFSdlhlcGlPSDRub1AzZDMzdk80VmJNMWFYcENMTGVPQ3BDaFM2THRnWjZqSEJDMXpSb0VPX1FMN203YnBOQTZUSExWRTdtQzU0QjNiRl84eG5meVZhelNWb1VUVjFuem1tbFU3VUN3ajBabXE0dHFabGhxNnJJWg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-13T19:35:48Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

@@ -505,11 +505,17 @@ IMAGENS_FALLBACK = {
     "tarifas":       "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
 }
 
+# Adicionais em R$/kWh. Tabela de CONTINGÊNCIA: o valor publicado vem do
+# registro da ANEEL (VlrAdicionalBandeira); esta tabela só entra quando o
+# registro não traz número legível ou quando a cor vem do comunicado oficial
+# (ver _bandeira_comunicado_aneel). Valores vigentes conferidos em 02/10/2026
+# em gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias — até então a
+# tabela trazia os de 2025 (0,01874 / 0,03971 / 0,09492).
 BANDEIRA_META = {
     "verde":     {"adicional": 0.0,     "descricao": "Condições favoráveis de geração"},
-    "amarela":   {"adicional": 0.01874, "descricao": "Condições de atenção"},
-    "vermelha1": {"adicional": 0.03971, "descricao": "Condições de alerta — P1"},
-    "vermelha2": {"adicional": 0.09492, "descricao": "Condições críticas — P2"},
+    "amarela":   {"adicional": 0.01885, "descricao": "Condições de atenção"},
+    "vermelha1": {"adicional": 0.04463, "descricao": "Condições de alerta — P1"},
+    "vermelha2": {"adicional": 0.07877, "descricao": "Condições críticas — P2"},
     "escassez":  {"adicional": 0.14200, "descricao": "Escassez hídrica"},
 }
 
@@ -1115,6 +1121,117 @@ def _bandeira_historico(records: list, meses: int = 24) -> list:
     return saida
 
 
+# ── Fallback: comunicado oficial da ANEEL (gov.br) ──────────────────
+#
+# POR QUE EXISTE (incidente de 01-02/10/2026). A base "Bandeira Tarifária -
+# Acionamento" dos Dados Abertos é regenerada todo dia 1º, mas a linha do
+# mês novo só entra alguns dias depois: em 01/10/2026 o conjunto foi
+# regenerado (DatGeracaoConjuntoDados = 2026-10-01) e a maior competência
+# seguia sendo 2026-09. Enquanto isso a ANEEL já havia ANUNCIADO a bandeira
+# de outubro em 25/09, no próprio portal. Resultado: o site exibiu amarela
+# com outubro em curso e o aviso de defasagem — correto, mas inútil para o
+# leitor, que lê a cor nova em qualquer jornal.
+#
+# A regra "não deduzir a cor de notícia" (ver fetch_bandeira) continua
+# valendo para IMPRENSA. Este fallback lê exclusivamente a listagem de
+# notícias do portal da própria ANEEL (gov.br/aneel) — é o regulador falando,
+# com URL rastreável — e só aceita manchete no padrão fixo do órgão
+# ("Outubro terá bandeira verde…", "…bandeira vermelha patamar 1 em
+# novembro"), para o mês corrente em Brasília. O registro sai marcado como
+# `provisorio: true` e com `fonte_url`, e é substituído pelo da base de
+# Dados Abertos assim que ela trouxer a competência. Qualquer dúvida de
+# parse (mês ausente, cor ilegível, mês ≠ corrente) → None, e o robô cai no
+# comportamento anterior (defasado + aviso).
+ANEEL_NOTICIAS_URL = "https://www.gov.br/aneel/pt-br/assuntos/noticias"
+
+_RX_ANCHOR = re.compile(r'<a\s[^>]*href="([^"]+)"[^>]*>(.*?)</a>', re.I | re.S)
+_MES_ALT = "|".join(_MESES_PT)
+_RX_MES_TERA = re.compile(
+    rf"\b({_MES_ALT})(?:\s+de\s+(\d{{4}}))?\s+ter[áa]\s+bandeira\s+(?:tarif[áa]ria\s+)?"
+    rf"(verde|amarela|vermelha)(?:\s*[-–—]?\s*patamar\s*([12]))?", re.I)
+_RX_BANDEIRA_EM = re.compile(
+    rf"\bbandeira\s+(?:tarif[áa]ria\s+)?(?:ser[áa]\s+)?(verde|amarela|vermelha)"
+    rf"(?:\s*[-–—]?\s*patamar\s*([12]))?\s+(?:em|para|de)\s+({_MES_ALT})"
+    rf"(?:\s+de\s+(\d{{4}}))?", re.I)
+
+
+def _strip_acentos(s: str) -> str:
+    return "".join(c for c in unicodedata.normalize("NFD", s)
+                   if unicodedata.category(c) != "Mn").lower()
+
+
+def _parse_manchete_bandeira(titulo: str):
+    """('YYYY-MM' sem ano → mes_num, ano|None, cor_key) ou None.
+    Reconhece as duas formas que a ANEEL usa nos títulos; é tolerante a
+    acento ('tera'/'terá') mas rígido quanto ao resto."""
+    t = html.unescape(re.sub(r"\s+", " ", titulo)).strip()
+    m = _RX_MES_TERA.search(t)
+    if m:
+        mes_nome, ano, cor, patamar = m.group(1), m.group(2), m.group(3), m.group(4)
+    else:
+        m = _RX_BANDEIRA_EM.search(t)
+        if not m:
+            return None
+        cor, patamar, mes_nome, ano = m.group(1), m.group(2), m.group(3), m.group(4)
+    meses_sem_acento = [_strip_acentos(x) for x in _MESES_PT]
+    try:
+        mes_num = meses_sem_acento.index(_strip_acentos(mes_nome)) + 1
+    except ValueError:
+        return None
+    cor = cor.lower()
+    if cor == "vermelha":
+        cor_key = "vermelha2" if patamar == "2" else "vermelha1"
+    else:
+        cor_key = cor
+    return mes_num, (int(ano) if ano else None), cor_key
+
+
+def _bandeira_comunicado_aneel(ano: int, mes: int):
+    """Cor da bandeira do mês (ano, mes) segundo a listagem de notícias do
+    portal da ANEEL. Devolve dict {cor, titulo, url, data} ou None."""
+    try:
+        resp = requests.get(ANEEL_NOTICIAS_URL, timeout=30,
+                            headers=dict(HEADERS, Accept="text/html,*/*;q=0.8"))
+        if resp.status_code >= 400:
+            log.warning("  Comunicado ANEEL: HTTP %s", resp.status_code)
+            return None
+        corpo = resp.text
+    except Exception as exc:
+        log.warning("  Comunicado ANEEL indisponível: %s", exc)
+        return None
+
+    for m in _RX_ANCHOR.finditer(corpo):
+        url, inner = m.group(1), m.group(2)
+        titulo = re.sub(r"<[^>]+>", "", inner)
+        parsed = _parse_manchete_bandeira(titulo)
+        if not parsed:
+            continue
+        mes_num, ano_titulo, cor_key = parsed
+        if mes_num != mes or (ano_titulo and ano_titulo != ano):
+            continue
+        # A ANEEL só anuncia o mês seguinte na última semana do anterior; um
+        # título do mesmo mês de OUTRO ano não passa por aqui porque a
+        # listagem é cronológica e curta (~30 itens), mas a data do item,
+        # quando legível, fecha a porta: tem de estar a ≤ 45 dias do mês.
+        trecho = corpo[m.end(): m.end() + 1500]
+        dm = re.search(r"(\d{2})/(\d{2})/(\d{4})", trecho)
+        data_pub = None
+        if dm:
+            try:
+                data_pub = datetime(int(dm.group(3)), int(dm.group(2)), int(dm.group(1)))
+                if abs((data_pub - datetime(ano, mes, 1)).days) > 45:
+                    continue
+            except ValueError:
+                data_pub = None
+        return {
+            "cor": cor_key,
+            "titulo": html.unescape(titulo.strip()),
+            "url": html.unescape(url),
+            "data": data_pub.strftime("%Y-%m-%d") if data_pub else None,
+        }
+    return None
+
+
 def fetch_bandeira() -> dict:
     log.info("ANEEL bandeira tarifária…")
     existing = load_existing("bandeira.json")
@@ -1214,8 +1331,18 @@ def fetch_bandeira() -> dict:
             # é acessório: se sair curto ou vazio, preserva o anterior em vez
             # de publicar uma tabela menor do que já estava no ar.
             historico = _bandeira_historico(ultimos_records)
-            anterior = existing.get("historico") or []
-            data["historico"] = historico if len(historico) >= len(anterior) else anterior
+            # Fusão por competência, em vez de "vence a lista maior": a leitura
+            # de hoje prevalece sobre a anterior (revisão do órgão), uma
+            # leitura curta não apaga meses que já estavam no ar, e uma linha
+            # provisória (comunicado oficial, ver abaixo) nunca sobrevive à
+            # chegada da competência real na base.
+            fusao = {}
+            for h in (existing.get("historico") or []):
+                if h.get("competencia") and not h.get("provisorio"):
+                    fusao[h["competencia"]] = h
+            for h in historico:
+                fusao[h["competencia"]] = h
+            data["historico"] = [fusao[c] for c in sorted(fusao, reverse=True)[:24]]
             if historico:
                 log.info("  Histórico: %d competências (%s → %s)", len(historico),
                          historico[-1]["mes"], historico[0]["mes"])
@@ -1236,15 +1363,58 @@ def fetch_bandeira() -> dict:
             # o dado não veio; sabemos que não o temos. É só isso que se diz.
             if ano_ref and (ano_ref, mes_num) < (hoje_br.year, hoje_br.month):
                 atual = f"{_MESES_PT[hoje_br.month-1]}/{hoje_br.year}"
-                data["defasado"] = True
-                data["aviso"] = (f"Referência: {mes_ref}. Não foi possível "
-                                 f"obter o registro de {atual}.")
-                log.warning("  Bandeira DEFASADA: registro de %s, hoje é %s",
-                            mes_ref, atual)
+                comunicado = _bandeira_comunicado_aneel(hoje_br.year, hoje_br.month)
+                if comunicado:
+                    # Cor do mês corrente pelo comunicado oficial; adicional
+                    # pela última linha da base com a MESMA cor (valor real
+                    # do ano), senão pela tabela. Registro provisório até a
+                    # base trazer a competência — aí este bloco nem roda.
+                    cor_prov = comunicado["cor"]
+                    adicional_prov_mwh = None
+                    for rc in sorted(ultimos_records, key=_competencia, reverse=True):
+                        if cor_prov in str(rc.get("NomBandeiraAcionada", "")).lower() \
+                           and (cor_prov != "vermelha1" or "2" not in str(rc.get("NomBandeiraAcionada", ""))):
+                            try:
+                                adicional_prov_mwh = round(_num_br(rc.get("VlrAdicionalBandeira")), 2)
+                                break
+                            except (ValueError, TypeError):
+                                continue
+                    if adicional_prov_mwh is None:
+                        adicional_prov_mwh = round(BANDEIRA_META[cor_prov]["adicional"] * 1000, 2)
+                    comp_atual = f"{hoje_br.year:04d}-{hoje_br.month:02d}"
+                    data.update({
+                        "mes": atual,
+                        "competencia": comp_atual,
+                        "fonte": "ANEEL — comunicado oficial (gov.br)",
+                        "fonte_url": comunicado["url"],
+                        "cor": cor_prov,
+                        "adicional_kwh": round(adicional_prov_mwh / 1000, 5),
+                        "adicional_mwh": adicional_prov_mwh,
+                        "descricao": BANDEIRA_META[cor_prov]["descricao"],
+                        "provisorio": True,
+                        "aviso": (f"Cor de {atual} conforme comunicado da ANEEL"
+                                  + (f" de {comunicado['data'][8:10]}/{comunicado['data'][5:7]}"
+                                     if comunicado.get("data") else "")
+                                  + f" (\"{comunicado['titulo']}\"). A base de Dados "
+                                  f"Abertos ainda traz {mes_ref} como última competência."),
+                        "dados_abertos_ultima_competencia": comp,
+                    })
+                    if not any(h.get("competencia") == comp_atual for h in data["historico"]):
+                        data["historico"] = [{"competencia": comp_atual, "mes": atual,
+                                              "cor": cor_prov, "provisorio": True}] + data["historico"]
+                    log.info("  Bandeira %s via comunicado oficial: %s (%s)",
+                             atual, cor_prov, comunicado["url"])
+                else:
+                    data["defasado"] = True
+                    data["aviso"] = (f"Referência: {mes_ref}. Não foi possível "
+                                     f"obter o registro de {atual}.")
+                    log.warning("  Bandeira DEFASADA: registro de %s, hoje é %s",
+                                mes_ref, atual)
 
             save("bandeira.json", data)
-            log.info("  Bandeira %s (comp. %s): %s — R$ %.2f/MWh",
-                     mes_ref, comp or "—", cor_key, data["adicional_mwh"])
+            log.info("  Bandeira %s (comp. %s): %s — R$ %.2f/MWh%s",
+                     data["mes"], data["competencia"] or "—", data["cor"],
+                     data["adicional_mwh"], " [provisório]" if data.get("provisorio") else "")
             return data
         except Exception as exc:
             log.warning("  Bandeira parse falhou: %s", exc)

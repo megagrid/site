@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-20T19:24:31Z",
+  "updated": "2026-11-21T00:56:44Z",
   "total": 60,
   "itens": [
+    {
+      "id": "dado-2026-11-20",
+      "titulo": "Reservatórios do SIN em 57,5% e PLD estável a R$ 57,31 no Sudeste/CO",
+      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 57,5% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
+      "fonte": "Megagrid Dados",
+      "url": "https://megagrid.com.br/#precos",
+      "imagem": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-21T00:56:44Z",
+      "tema": "hidreletrica-reservatorio"
+    },
     {
       "id": "mercado-livre_22301",
       "titulo": "MERCADO LIVRE DE ENERGIA PODE REDUZIR CONTA EM ATÉ 35% NA BAHIA",
@@ -20,7 +31,7 @@
       "lead": "Armazenamento de energia: segurança para o sistema exige regras coerentes",
       "fonte": "Agência eixos",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUS03S0FIdHVMVVpDSG5JRGVKRks0ZXh5Wi1IX0JPMmJTaFdDZms0S0pTWEZQQnItYUYzeUEwOE5NQ3F2Y21iY3ByMlR2X0MzTFY3R2stZG5NWjVCTTRJVFZOa0J0b3NNQ0xWQlZhUEZQbmVLSGZUMm1tbWZsSmR6Xy00dzdVQUFTdjZQME5MbHZUMnNyV0VsdFRkMGFhTzZrMTVfQjVVOTBZb1Z2NkoxYWJHZjg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-19T22:47:12Z",
       "dominio": "eixos.com.br",
@@ -358,6 +369,18 @@
       "data": "2026-11-17T18:49:27Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_50307",
+      "titulo": "Oferta potencial de gás natural no Brasil crescerá mais de 80% nos próximos dez anos, aponta PDE 2036",
+      "lead": "Oferta potencial de gás natural no Brasil crescerá mais de 80% nos próximos dez anos, aponta PDE 2036 GOV.BR",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYjZCNm1ORG9IUllIXzFSZEU2Z2N0TlFsQ0VWdk1jQ0pxb0VRanlMbDNfdF9lQnlnRnAzR1dybDEwTlFnUjlkeUJVSC1rTEVXUlZwdGY1Y0ozanc2M3FhNEZnRkV1OU1GNEk0NkR4cmNUaERLMXhwc0xURUJqblNXbFFtUzZEajA1OE9kbU1OYURDUmZ3RURpNHNncVF2dTJXYm95b2ZrS3paVlFpQkVkSzcwdm5FeUxGdDhWZl9oOExuSFVLZFB5aEpldms2WnJxVlN6Tk1kQ2gtOVJZQnhOeUg2UDUxTHQ1VFo5cnVNbw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-17T18:32:46Z",
+      "dominio": "www.gov.br",
+      "tema": "termica-gas"
     },
     {
       "id": "regulacao_12206",
@@ -717,30 +740,6 @@
       "data": "2026-11-14T18:12:39Z",
       "dominio": "portogente.com.br",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_4838",
-      "titulo": "Moura aposta R$ 200 milhões em baterias para a rede elétrica",
-      "lead": "Moura aposta R$ 200 milhões em baterias para a rede elétrica",
-      "fonte": "O Cafezinho",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3ZDcFdIckh6UklOTXFJeVZZeWdvbDFnaFMycXdOVVNQdTI1WEtjWVB3eUNQMTYydlMyTGxoUFUxcFJJbW5QX2ZRWkhwRGd2dzFUaEcwVW1MOVdOQ1lHQklaQm95N0M0eDZLdy1aNGVwLW9FRThHWDVLMGtnSWNVU3R5OGFUcmdtSVJvdXVjWE1CM3BHM3Naa2hlWWhSN2fSAaQBQVVfeXFMT2haVW1vemZyaGJGcEItenBkbjFlN2FYSkdRRmVyVHp5ZGo4R2JqcG5XUWd6V2xiWkR3OXZfT2NKc1dBenJqRkstN2NXS3RtWnA1QlZFQ1dBWnFKUEVWOWZXV28zZU9EazBiLVo5N2tlWHNrb2E1cnF4VmkwTXdQV1J3MGVqQUtUUEFWWE5UYnNrOEJUdTlCNVd0Z1cxUWhFSE5sTWM?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-14T14:50:00Z",
-      "dominio": "www.ocafezinho.com",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_44281",
-      "titulo": "DADOS HORÁRIOS DE GERAÇÃO",
-      "lead": "DADOS HORÁRIOS DE GERAÇÃO",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bGY0OVotODFfZHFfMWU4emwyVmd1WlluUEhkUThZVmR0Z2FxZFlsc2N5MjRTelRfMWNDTlB4a3EzX25mVnc0NWgtWEFibzBKOEp5X0VucHRjVFZGTGg2MFJTaGk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1547895749-888a559fc2a7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-14T12:13:43Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "industria-generica"
     }
   ]
 }

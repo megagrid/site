@@ -1,17 +1,18 @@
 {
-  "updated": "2026-11-21T00:56:44Z",
+  "updated": "2026-11-21T18:27:57Z",
   "total": 60,
   "itens": [
     {
-      "id": "dado-2026-11-20",
-      "titulo": "Reservatórios do SIN em 57,5% e PLD estável a R$ 57,31 no Sudeste/CO",
-      "lead": "PLD SE/CO a R$ 57,31/MWh · reservatórios em 57,5% · bandeira verde. Leitura diária do Megagrid sobre os dados abertos de CCEE, ONS e ANEEL.",
-      "fonte": "Megagrid Dados",
-      "url": "https://megagrid.com.br/#precos",
-      "imagem": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?w=600&q=70",
+      "id": "mercado-livre_25633",
+      "titulo": "Abertura do mercado livre e formação de preços orientam diretrizes da CCEE para o setor elétrico",
+      "lead": "Abertura do mercado livre e formação de preços orientam diretrizes da CCEE para o setor elétrico",
+      "fonte": "Brasil Inovador",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFlhUDc5Tk9UVURHQ0hteDNUMGM5NHo3ZFBLd3BQenFHeUZXMXB5Ml9keEZ6MkowT011NTEzLUU1UHZhbF9pcHNIb0FldDRKMHdvbGc2U2gyN3Bzc1Y5dHc2YzlLbEswN1dhNHNHY3hhZHpPREcxM3R1VFFHT3RNYmlPRzMtMXV4eGROZnd1NnRDR1Nlb2h0ZjNQb2JQcUI4SGR0dWE3LXZKLW9ISkFyeUNKVm9iRmxIbGNRTWN6TnNTQmFVeXc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
-      "data": "2026-11-21T00:56:44Z",
-      "tema": "hidreletrica-reservatorio"
+      "data": "2026-11-21T05:55:08Z",
+      "dominio": "brasilinovador.com.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_22301",
@@ -19,7 +20,7 @@
       "lead": "MERCADO LIVRE DE ENERGIA PODE REDUZIR CONTA EM ATÉ 35% NA BAHIA",
       "fonte": "Bahia Econômica",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXB5dG95MDFadFlYWlZjZFdobEJjSk9hT015a09YYzdaWVJ4Z0ZxSVJZUWRKRU0weGFxbmthSkpjOUUxeWZ1OVhoVXRhQmw1ajFTajNtbmVibmQ1cUlfb3EzcTkzdFE4YUFUNmJTdFdZNTQzaHUwclc4a2NIaTRGUi1ibW5HWGJNQjZCUWhOSHhwellFaFdqYmZCVDQzbUhFTEdwbElkSy1jaTZYc0hZd0h1SGI1dw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-19T22:54:00Z",
       "dominio": "bahiaeconomica.com.br",
@@ -36,6 +37,18 @@
       "data": "2026-11-19T22:47:12Z",
       "dominio": "eixos.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "politica-energetica_88296",
+      "titulo": "MME participa de workshop Brasil-Alemanha sobre minerais críticos e estratégicos",
+      "lead": "MME participa de workshop Brasil-Alemanha sobre minerais críticos e estratégicos",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXFURVNZbTctbkp2SzVDYktrMDNJOWNyUXo1UmtoR01ibUU5WGQtaWN2SGRnTTk4VXZtWklyX2ZQd3lnLXlxN1dJSUZIRzhKdXYycHdfM0ZBVUlxRUVPc1ZDcHhJWHp3QkRsUll5LXNVa2V6VjNuam5DRzVjczFpRHNMSzVaVnh1Rl85cWZjWUZ5bDBFVXp4U2tUU1VPOGVXMmxRUVpjRUlfaHYxN0FMMm5QOUFXeWpROHZaTXNhcnpkay1RYkJBUkxRQUNtOGtQNWs1VVp3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-19T20:35:57Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "mercado-livre_14953",
@@ -58,7 +71,7 @@
       "lead": "Senado aprova regras para postes que divergem de proposta da Aneel",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3F0MG9xa2YzUms1R0JpbE96TjNxbU04eExMY05ycXJyMUFScXVGZ1dnZEJ4TFBHcGNhaXp2dHhYUno4UHFLSkxPOGhqX2c0emNwVWI1bUhTWktKaDZUWkpnMzlrRXZPcVY4ZlFfY0pyRHBuTVFZYTJVNEZDbnQwUEQwWlZTU3dQUHlWNEJETTVJRVlhdEJxUnJZYW04SVRya1BRM3hqUS1iRUZZ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-19T15:27:57Z",
       "dominio": "megawhat.uol.com.br",
@@ -136,7 +149,7 @@
       "lead": "Setor elétrico bate recorde com 171 operações analisadas pelo Cade em 2025",
       "fonte": "MegaWhat",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajlNeDNRZlFHeEVZdnQwa1B0TVgzY3JLN3pNYm9nbEpJVFlHWlY3MG9KNk5lX2sycUpuQXNrdFM2Z1o5SEVEc004ZFZwWUZsM3NSbE5RV0V3cXRYRWpMaGVLTWZfZFBkVWlqMmlWXzhYVTY0cnZNc1Vwbk5vWl9RMzI2cGMxQ2otekdGZ0tJUkUtYndsNm11a0xDNDVaWVJDZ1dHenFnNUt2aHRRQUVDNg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-18T19:54:57Z",
       "dominio": "megawhat.uol.com.br",
@@ -728,18 +741,6 @@
       "data": "2026-11-14T23:56:00Z",
       "dominio": "www.ocafezinho.com",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_2298",
-      "titulo": "Baterias entram no centro da transição energética: estudo global, aluguel de sistemas e o primeiro leilão do Brasil",
-      "lead": "Baterias entram no centro da transição energética: estudo global, aluguel de sistemas e o primeiro leilão do Brasil",
-      "fonte": "Portogente",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaDBWRG1ocXNjVjRPR3F2ZXBUZmxROE9zZzhWSWQxeHRTMHhCUlJaT1lOU0E2amNiQk9sM3VFSjI2TkY2YncxeVVkd3JxVjd2R05KOFZXcmNPakk0Z01rRDdiSXhOOTNCcVNDcVUyZjRFeWhPbGJrRHczVWZUdF9wMFlfazFVU1JpdmczX2VNNVpDQXhGWkE4cGFvd1dwU0RiOWpibnJEN1daQ29hMWE0N2JGNmxCYzhFSU9JWTFDOGlsNV9CU2FTSlRMNkk4SzBoREp2T1JUTnZDR2IxRU02Ri1kLW5QeUQ5UEdMRkYxeFN0d2xiRnFyZ1lucDhuZHNTNEY2SzE4Yw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-14T18:12:39Z",
-      "dominio": "portogente.com.br",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

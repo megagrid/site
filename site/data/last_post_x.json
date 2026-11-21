@@ -1,17 +1,17 @@
 {
-  "verificado_em": "2026-11-20T19:24:33Z",
-  "status": "pulado-sem-novidade",
-  "motivo": "sem novidade material desde o post de 18.0h atrás (janela de 20h) — iguais: PLD (SE/CO 57,31 · Sul 57,31 · NE 57,31 · Norte 289,25); bandeira verde/novembro/2026; EAR 58%; termômetro em 'normal'",
+  "verificado_em": "2026-11-21T00:56:46Z",
+  "status": "publicado",
+  "motivo": "id 2123943671242625431",
   "fingerprints": {
     "X_API_KEY": "71f1882d",
     "X_API_SECRET": "962872f8",
     "X_ACCESS_TOKEN": "ffc2943f",
     "X_ACCESS_SECRET": "37faeb93"
   },
-  "postado_em": "2026-11-20T01:25:21Z",
+  "postado_em": "2026-11-21T00:56:46Z",
   "hash": "de1a4a7420302c30dfbe6df5d542d276ef671d056f5cfa7292427bb7435c4681",
   "chars": 187,
-  "texto": "⚡ Mercado agora — 19/11 · edição da tarde\n\nPLD (R$/MWh): SE/CO 57,31 · Sul 57,31 · NE 57,31 · Norte 289,25\nBandeira: verde (novembro/2026) · Reservatórios: 57,5%\nTermômetro do MWh: 31/100",
+  "texto": "⚡ Mercado agora — 20/11 · edição da tarde\n\nPLD (R$/MWh): SE/CO 57,31 · Sul 57,31 · NE 57,31 · Norte 289,25\nBandeira: verde (novembro/2026) · Reservatórios: 57,5%\nTermômetro do MWh: 31/100",
   "material": {
     "pld": {
       "SE/CO": 57.31,

@@ -1,10 +1,31 @@
 {
-  "updated": "2026-11-23T00:26:47Z",
+  "updated": "2026-11-23T23:03:14Z",
+  "fallback": true,
   "itens": [
     {
       "rank": 1,
-      "titulo": "Congresso Nacional celebra 30 anos da Aneel e destaca fiscalização do setor elétrico e proteção dos consumidores",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNno1Z0o1R0RLdFM4Q3BTdklRMlFmSzlTYlZlcHphdnBrdVRVQzBuY2tyb0ZpTUpMRlI3NmJkUmoxRTF6WURkSnluUlBWWlBpOWZDck0zTWxWYkFXY3ZfekttSGdDM3AzMHRNLVFXbDZxOEo5NjJNaF81RUo0b3VCdXRGcjd3U0I3d3hZVzkzLVBFZ0pPZ2tESjdod2w5YUtmTTdwN1JwLU1keVF6RmRrTEpmZDM3Z0gwNTMxNktRb3c0Rm5faVZFRlFXRjNvSS1qSTh5dHdRYnJGT21XZ0RtWFV6XzZSbnZJWEE?oc=5"
+      "titulo": "Comissão aprova proposta que retira da conta de luz subsídios de irrigação, aquicultura e cooperativas rurais",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSDlqc1ZZTDVBR2FWcDA4Zk1GbGxZZ1QyNEZQNDVYdVoxaVhTYVhkNEJZUHY3UFdMc1VLU3lqcUxEVTlyNXBSSTV3MGZEdW44dzRfWjVIWVN1M254WFh1Ny1vbm1tOXE0cllkYV9PR2w2VzBQM1lrQWtTMnZvS3BhUUl2OXhQb0xyQkFZZEgtNVh6TFVuU2swSFdZTFZqOEZxZTJEUUZ4QUZJNldWYmZpRV9UdkFjc1BkU09hcEVGczdmWmE4aUNqYlBkXzRtd2cwQzZUSC1GQ0RzdXFkaDBSeG5ZangydF9NaVVxekFYbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "titulo": "BNDES credencia sistema de armazenamento da Moura para leilão de baterias com conteúdo local",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZTVYLTRvWndtNnhQMXpfOVVYc3FSODExVmRxN3BRVmlDU2FQcU8tem01eWNnRGFDQ3dTYlZLQVNpVWRieC1zWUlXVUtvVlFNc2dnMWs3SU1Db3NvdWpTZ2pkTzZ1NThrU1pTeEs1VWdfUlZwZnJ4blBQdWVDS2JkMUFMV2pDZ19tM3pQRGx2a2UxSlVrdVR1SjN6QU9rdDc2Sk9vYk0zcTNydWRpYlFlVVowZ0lpa2h0R1ltSHZWcmxvdFBETnV5X1plUUpzcGdW?oc=5"
+    },
+    {
+      "rank": 3,
+      "titulo": "Pequenos negócios e residências poderão escolher fornecedor de energia a partir de 2027",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDFlOWhDU3VETk9rWDlxbkdLYmtPa1ZtS0trMHVGMlNqN2hZTXJhRkNfZnliNkhMYTAxQnh2cURGR3NJN0tycU9Vd1VaVkJWQ181YUdsZHcydnNELThvYTVGelIyTTlmRl8xRF9yaXNjUTIya01PbDd0UGdsQ3FQUTNnTXduczUxMG45b2lYbHNPNjg0QlVkTUl3WDlfb1lYTDhsMTlQZ2ZvOFpRUVVEc1JNczIweWhkeDF6Qm4wRlZjdE41U3NLM1dn?oc=5"
+    },
+    {
+      "rank": 4,
+      "titulo": "Mercado livre de energia registra 811 migrações em agosto e prepara abertura para pequenos negócios em 2027",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVnhhNmExaHkxLWtDSUtHdW1XSU84WGZ4SVd5LTZfa1laWlZGeGNISXZhN0kycEkxRWVVV1ZpQU8tT3dRTnNNTlNadzBvQlNKR0QwMDNidUJ6NXh4Z0F6OXRaWVlod2tacE5sUnc2VFZRUXJuOE43UU1oUU9uNGs1TU8xU2tyQmtiOVJEa0pJYmxzMWlqVEJVQXc1UUlZMzJRVlBCLVZjbTNMZjBrdGRtQmFQemFLS3Vya3VKeVpoOXg0MTZiUmtPZzlGTWhVSUs0c3lieUFLR08?oc=5"
+    },
+    {
+      "rank": 5,
+      "titulo": "ANEEL promove webinar para apresentar o Projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd0lnOVRaYnhsemZYbXVlbEM4WkFIZjNTMjdOY3JHMDBHMXRfZWlvYVJtUVdaSy0tbmNSZEdTcHJmeDlaM3R2MEN2UVBuQkZhYjUwS1F6bTlhM2JVMGtLSURpOWlCbDB2b1F4OE84bXNILTloN09HdkNaVGRGZWtic3h1QlplbGZGNFlqNEc5MmtsbWxVTzJycFJ6WHlSaURFODRvUmNnUXB1aXhzWEpGSmltUC1sVGVydDFXR1NQUEJSX3ctZ1hGd0pfQ1VCdE5EQVVYd2d4c0x5R3BRNXJNbklVRWQ3M2JYUlNVdlZPcHh2NGs?oc=5"
     }
   ]
 }

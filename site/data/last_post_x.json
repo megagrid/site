@@ -1,17 +1,17 @@
 {
-  "verificado_em": "2026-11-23T00:26:48Z",
+  "verificado_em": "2026-11-23T23:03:15Z",
   "status": "publicado",
-  "motivo": "id 2124660907749847241",
+  "motivo": "id 2125002268923879610",
   "fingerprints": {
     "X_API_KEY": "71f1882d",
     "X_API_SECRET": "962872f8",
     "X_ACCESS_TOKEN": "ffc2943f",
     "X_ACCESS_SECRET": "37faeb93"
   },
-  "postado_em": "2026-11-23T00:26:48Z",
+  "postado_em": "2026-11-23T23:03:15Z",
   "hash": "926767dd5c3fce4085bd91d482124ab2dcb0f2b648c939542904c7ca6c482d1f",
   "chars": 187,
-  "texto": "⚡ Mercado agora — 22/11 · edição da tarde\n\nPLD (R$/MWh): SE/CO 57,31 · Sul 57,31 · NE 57,31 · Norte 289,25\nBandeira: verde (novembro/2026) · Reservatórios: 57,7%\nTermômetro do MWh: 31/100",
+  "texto": "⚡ Mercado agora — 23/11 · edição da manhã\n\nPLD (R$/MWh): SE/CO 57,31 · Sul 57,31 · NE 57,31 · Norte 289,25\nBandeira: verde (novembro/2026) · Reservatórios: 57,7%\nTermômetro do MWh: 31/100",
   "material": {
     "pld": {
       "SE/CO": 57.31,

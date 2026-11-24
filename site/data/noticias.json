@@ -1,17 +1,44 @@
 {
-  "updated": "2026-11-23T23:03:13Z",
+  "updated": "2026-11-24T04:24:29Z",
   "total": 60,
   "itens": [
     {
-      "id": "tarifas_93232",
+      "id": "transicao_78412",
+      "titulo": "Sistemas de armazenamento de energia por baterias",
+      "lead": "Sistemas de armazenamento de energia por baterias",
+      "fonte": "Consultor Jurídico",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZklqY2xzeEd6VWhyM1ZUNmFzNUg5Um52LTBab09vei02Y3QwVTlXaXFRZ202UnBDRnhJdW5TVVpUbllNRVVsRU9IQlNwemNhS01wa3dfNzNHbWttOTBRcVBXejNLVXhoRTlFYlJtTlc0UTNqckFRZmFsbDJvRE9ja1Z1Q2dTNno1RVRoU0ZBSHFMR3N6MUhiSHNjS2piTnluV2V5MVpKZnQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-24T00:17:42Z",
+      "dominio": "conjur.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_58548",
+      "titulo": "Chile: custos de oportunidade do armazenamento, financiamento de PMGD e PPAs em foco",
+      "lead": "Chile: custos de oportunidade do armazenamento, financiamento de PMGD e PPAs em foco",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2FneXNxSHFrazFDY3hJVGF0UHl0TmpPRm1YaE1XT1hfdWM4eExPLWlWYlpjR0dUZk9tZk9sakZUSGRDc3lsdWlROGxfeFNLZnVaQkJuYk1oc0FMNTZuR2xoRTVxcXdtMG4tSnVUSzVobmR6YzBtSDluTzRPazc5bm1ZR2N1TF9Yb00tenFNMGllQ0dyN3Y4VmRiNkxadmc0N1pGem1abllhc0lVN2h4MlN2VkpUMVZlb0xjZQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-23T22:55:20Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "tarifas_2117",
       "titulo": "Comissão aprova proposta que retira da conta de luz subsídios de irrigação, aquicultura e cooperativas rurais",
       "lead": "Comissão aprova proposta que retira da conta de luz subsídios de irrigação, aquicultura e cooperativas rurais",
-      "fonte": "Jornal de Uberaba",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSDlqc1ZZTDVBR2FWcDA4Zk1GbGxZZ1QyNEZQNDVYdVoxaVhTYVhkNEJZUHY3UFdMc1VLU3lqcUxEVTlyNXBSSTV3MGZEdW44dzRfWjVIWVN1M254WFh1Ny1vbm1tOXE0cllkYV9PR2w2VzBQM1lrQWtTMnZvS3BhUUl2OXhQb0xyQkFZZEgtNVh6TFVuU2swSFdZTFZqOEZxZTJEUUZ4QUZJNldWYmZpRV9UdkFjc1BkU09hcEVGczdmWmE4aUNqYlBkXzRtd2cwQzZUSC1GQ0RzdXFkaDBSeG5ZangydF9NaVVxekFYbw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "fonte": "BOM DIA SOROCABA",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEdLT2k1eFdPQXFvTkNQNGdIWXVmQ0VRYWdoQ2dsMUhIcG1McEEteWppT1Z2UExRNHdfWnNFRWV1b2dqRG5pZURNLXQxc2RlRXAwYzdLNDBQbXl0Z19FcThKRU9rY2tJb0o2VTdKcHpqMEF2MjlZa1dUSkdQNUhkQWhObjYzSkhqTFhHZHBDbGk4b01QM29JbllUQWxDSVlNc1BuUTlCN0JwVTNVYU9sMzBfcW43RExlcDBOWFE5V25YWGJabFQ1bWlsUTEtMFFRUk9FQkNuVWs4TEwxV2ZXODJjdWN3bVhS?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
       "editoria": "tarifas",
-      "data": "2026-11-23T20:33:22Z",
-      "dominio": "www.jornaldeuberaba.com.br",
+      "data": "2026-11-23T20:35:00Z",
+      "dominio": "bomdiasorocaba.com.br",
+      "tambem_em": [
+        "Jornal de Uberaba"
+      ],
       "tema": "consumidor-residencial"
     },
     {
@@ -20,7 +47,7 @@
       "lead": "BNDES credencia sistema de armazenamento da Moura para leilão de baterias com conteúdo local",
       "fonte": "Agência eixos",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZTVYLTRvWndtNnhQMXpfOVVYc3FSODExVmRxN3BRVmlDU2FQcU8tem01eWNnRGFDQ3dTYlZLQVNpVWRieC1zWUlXVUtvVlFNc2dnMWs3SU1Db3NvdWpTZ2pkTzZ1NThrU1pTeEs1VWdfUlZwZnJ4blBQdWVDS2JkMUFMV2pDZ19tM3pQRGx2a2UxSlVrdVR1SjN6QU9rdDc2Sk9vYk0zcTNydWRpYlFlVVowZ0lpa2h0R1ltSHZWcmxvdFBETnV5X1plUUpzcGdW?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-23T17:31:52Z",
       "dominio": "eixos.com.br",
@@ -116,7 +143,7 @@
       "lead": "Congresso Nacional celebra 30 anos da Aneel e destaca fiscalização do setor elétrico e proteção dos consumidores",
       "fonte": "Jornal Grande Bahia",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNno1Z0o1R0RLdFM4Q3BTdklRMlFmSzlTYlZlcHphdnBrdVRVQzBuY2tyb0ZpTUpMRlI3NmJkUmoxRTF6WURkSnluUlBWWlBpOWZDck0zTWxWYkFXY3ZfekttSGdDM3AzMHRNLVFXbDZxOEo5NjJNaF81RUo0b3VCdXRGcjd3U0I3d3hZVzkzLVBFZ0pPZ2tESjdod2w5YUtmTTdwN1JwLU1keVF6RmRrTEpmZDM3Z0gwNTMxNktRb3c0Rm5faVZFRlFXRjNvSS1qSTh5dHdRYnJGT21XZ0RtWFV6XzZSbnZJWEE?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-22T15:00:24Z",
       "dominio": "jornalgrandebahia.com.br",
@@ -357,7 +384,10 @@
       "editoria": "mercado-livre",
       "data": "2026-11-18T13:42:15Z",
       "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
+      "tema": "precos-mercado",
+      "tambem_em": [
+        "TAGD Advogados"
+      ]
     },
     {
       "id": "politica-energetica_51029",
@@ -709,30 +739,6 @@
       "data": "2026-11-17T13:08:24Z",
       "dominio": "www.jota.info",
       "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_62981",
-      "titulo": "Decisão judicial não suspende revogação da Electra, conclui Procuradoria da Aneel",
-      "lead": "Decisão judicial não suspende revogação da Electra, conclui Procuradoria da Aneel",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGU2Z0pQMnlvcDVGN2JiLTFpR1h0VUNMbkFuVXRrQ0hZWXpERHBfV3ZDcHBfd3NkQW9pRDRWcDduM0ZTTjNER29WemNwVkJBTXlxNmdBRDlBelBDTkVtTnZGSUhhcURVS3o0d0x2eDMybzVXZmdHcU0tQlBVXzJMcUpvNDBrdXJDX1d3cU5zVzhUV2ZOU2swemE0VmlRSUJYd1MxSHpJcEZKS2Z4MGNsMUcwY21TemxSYnRz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T11:39:39Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_8347",
-      "titulo": "Aprovadas novas tarifas para consumidores atendidos pela CEEE-D (RS)",
-      "lead": "Aprovadas novas tarifas para consumidores atendidos pela CEEE-D (RS) Governo Federal",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2E3ZXoxelppN3N4NE81SlN5Y1BBZ1ZVYWlaSDZXTEt2enBQUEZxU0JjTWNZc21nbEdCNmVDNjVqVmxrVEpYbFEtT3Jfa0RLNXRXMlI4bUxESmhCcE9XQ3lKcWllQ0w3S1ZFX2I3ODNQQ1VmLW1McF80TG40c0tnWFgzX2NaV2Ezc1pocVA0dDJfNHVqM3BxbG1TZEM1MXNpY1BOQXQyQXZrc1NUc1BVeEl0bkVJSTBseTNTOA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604380880002-8aa86df679b5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T07:55:00Z",
-      "dominio": "www.gov.br",
-      "tema": "consumidor-residencial"
     }
   ]
 }

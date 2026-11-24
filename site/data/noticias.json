@@ -1,14 +1,74 @@
 {
-  "updated": "2026-11-24T04:24:29Z",
+  "updated": "2026-11-24T21:42:34Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_85106",
+      "titulo": "Concentração no mercado livre de energia pode levar a intervenções da Aneel",
+      "lead": "Concentração no mercado livre de energia pode levar a intervenções da Aneel",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMm5MNDFCZVJOUjZ4VkIzSENDcndHVzVHV2I2YVZoQkZrN3RQUWhHMlh3ajlfMzRMcXM2eFVHbG9sZFpJLVVyTnF1RzZNVkNzZEMzWlBGV1J4UDlDR2lDcUhvVzF1RnR0TEtKcmtzNWprRzBFY0dLLWFKZ2daSm41V2NKOWFEN3RTTkZCYkt4UWdpSE5hbzRHTjQ4TEVPX1FPX3pjNUk0U3ZQQVR0QXRWSlFNQjU?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-24T18:01:48Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_11248",
+      "titulo": "Participe do Webinar sobre Avanços e Perspectivas da Modernização Tarifária",
+      "lead": "Participe do Webinar sobre Avanços e Perspectivas da Modernização Tarifária www.gov.br",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYi1Kb2Q4LWNBX19pZUx4OEVEa1hfRXlCNXRyb0tpUHM2T2ZOTjB3SGtOSnNxYTdTcUlmNHVfRFExQWtCWGxmYm9ja0l5aTQwLXpQQ2RKT0hJOURjNk5KT3Q4RTVJeFc1cFpBUUNGMDV3RElDTDNqeWRYaWVCRllTbTAybVR2WEhweEpjMFUwTHQwc3JXSUFvQWJaVGlQV1RIUTUySFQ5RE9LdVQyblBqTFRDWS1xYTFxaGhyYWo3YlR6Umppck5Ncg?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-24T15:26:26Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_31435",
+      "titulo": "Gás do Povo completa um ano com 15 milhões de famílias beneficiárias em todo o Brasil",
+      "lead": "Gás do Povo completa um ano com 15 milhões de famílias beneficiárias em todo o Brasil www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQakYtS1pvTVBUMVo5a3RxYTZfYmlLd3h6RG9FTUl1ZTQyajhaVllIWDRQX0lpemdhREtmaEdQZmJiSjdkdkUyVmJtbmt0NkdVWVhROEVhUjBOWF85ZTdCR284Zkd3UmJta21ncVUxOE53am9qSWpmeHhNWEpGb1lfQk5SSTlGbUgzSE9sNzQwdTR2V2lWZWQ1QlZORVRYZ3VqZUZzaGJ0d2pUU045MW9haGcwX3B1b0U2RVlUUXN4aXhRa0FNT2VHZFpKZFY?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-24T13:47:37Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_71577",
+      "titulo": "ANEEL publica regras do ECR que pode reduzir benefícios da geração distribuída",
+      "lead": "ANEEL publica regras do ECR que pode reduzir benefícios da geração distribuída",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSW04Y0Nqa2ZkVDVFUENXUU5xbVh4dzlyS0NiSWFEMDFmSXprNmVsc1VWOWxWQ3R4SkJFVXNRN1o0SVdVRks4NnE1X2ZqM0dfNko0VExHbFdpQ0FRS1dfTFMxbEdUd19xWUVLdnlrQ3ZFZUFvMUxHRXo1aWZzbkdXSw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1629726797843-618688139f5a?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-24T11:35:39Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "solar"
+    },
+    {
+      "id": "mercado-livre_59703",
+      "titulo": "Opinião - Joisa Dutra: Imposto sobre a eletrificação",
+      "lead": "Opinião - Joisa Dutra: Imposto sobre a eletrificação",
+      "fonte": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdy1walJFZTktV25yZjR4Wi05aUh6Uld2MnhESWJyU2ZWMVA0WkMxTF9iN0RBUXhkazRsZFdQeDB2enBsalFjWTJGTFNVaGpibjZfNU1RX3FUU3JQYUFLYVJXWFV4RXNYMVpzeEhxTWl0NThtb2xJUl9lUXZYRl9EUDhOMElJbHhybmxXc2pZZGs5TEowaXNYZw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-24T11:00:00Z",
+      "dominio": "www1.folha.uol.com.br",
+      "tema": "precos-mercado"
+    },
     {
       "id": "transicao_78412",
       "titulo": "Sistemas de armazenamento de energia por baterias",
       "lead": "Sistemas de armazenamento de energia por baterias",
       "fonte": "Consultor Jurídico",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZklqY2xzeEd6VWhyM1ZUNmFzNUg5Um52LTBab09vei02Y3QwVTlXaXFRZ202UnBDRnhJdW5TVVpUbllNRVVsRU9IQlNwemNhS01wa3dfNzNHbWttOTBRcVBXejNLVXhoRTlFYlJtTlc0UTNqckFRZmFsbDJvRE9ja1Z1Q2dTNno1RVRoU0ZBSHFMR3N6MUhiSHNjS2piTnluV2V5MVpKZnQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-24T00:17:42Z",
       "dominio": "conjur.com.br",
@@ -20,7 +80,7 @@
       "lead": "Chile: custos de oportunidade do armazenamento, financiamento de PMGD e PPAs em foco",
       "fonte": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2FneXNxSHFrazFDY3hJVGF0UHl0TmpPRm1YaE1XT1hfdWM4eExPLWlWYlpjR0dUZk9tZk9sakZUSGRDc3lsdWlROGxfeFNLZnVaQkJuYk1oc0FMNTZuR2xoRTVxcXdtMG4tSnVUSzVobmR6YzBtSDluTzRPazc5bm1ZR2N1TF9Yb00tenFNMGllQ0dyN3Y4VmRiNkxadmc0N1pGem1abllhc0lVN2h4MlN2VkpUMVZlb0xjZQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-23T22:55:20Z",
       "dominio": "www.bnamericas.com",
@@ -37,7 +97,7 @@
       "data": "2026-11-23T20:35:00Z",
       "dominio": "bomdiasorocaba.com.br",
       "tambem_em": [
-        "Jornal de Uberaba"
+        "Portal da Câmara dos Deputados"
       ],
       "tema": "consumidor-residencial"
     },
@@ -52,6 +112,18 @@
       "data": "2026-11-23T17:31:52Z",
       "dominio": "eixos.com.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "mercado-livre_6507",
+      "titulo": "Governo amplia prazo para discutir recarga de veículos elétricos",
+      "lead": "Governo amplia prazo para discutir recarga de veículos elétricos",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFQ1cVczOXoyYlliMW9HTi1sdWw3ak5EWl83R0hmLWVpMjdtN3RZc3JyeGN0NmZza3RNd1BUeHlvMUs5RjZKUk5JYTZ4bGhmTUlPTzVHMTVqaEZZUXFWOTdUc1NNa2hGRDlJN1FsbWo0aHNiNHZLUmNxekRrYWdUSFhtVlFBTzZjZU9mM0ZaWDJVc2VCcUY3ay1JMUVJc2ZtakpZS0txbk1FbHVqa0tNZjh2TQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-23T17:13:38Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_97654",
@@ -667,78 +739,6 @@
       "data": "2026-11-17T15:54:20Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "mercado-livre_18776",
-      "titulo": "Lideranças do setor elétrico abrem o 2º Fórum Análise Setorial CCEE com debate sobre os rumos do mercado de energia",
-      "lead": "Lideranças do setor elétrico abrem o 2º Fórum Análise Setorial CCEE com debate sobre os rumos do mercado de energia",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRzZnZkRPalNUdXd1Ymlyc1RBQ016X1FPRGZ4amppVjI2UVpYMzZyUk1ZMFZGdnlwQTRsbl94VkZsR1lnSHNDc2JiSC1xbGJKcTJxLU0tMHZGM2lmU1Y2TmhQTjB4Qm9wWGtva3kzcUZPRnpESUdna2h2WW5qdkNsNGQxdVVraDdjQzItbXQxSWQyVE1McGJ2c3R5Ti0wSW5RQWJ6eExTbVRaQmZpRTMzLXZlYkViaWJ2R25xd1kyOUNmTlFzeTcwNjc3ekctZXRPMThwVTVVUjBnd2d6Z05UYkdTSGY?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-17T15:43:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_31019",
-      "titulo": "ANEEL promove Audiência para discutir a qualidade do serviço prestado pela Âmbar Energia Amazonas S.A",
-      "lead": "ANEEL promove Audiência para discutir a qualidade do serviço prestado pela Âmbar Energia Amazonas S.A GOV.BR",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU2FlRnQ1cDJFbTVzR2phUWRZcE5pX21PNWUyNUZUVWo4X3hfS2VNZ3NLRmMxMUJWRzBJV1cycmdNdkxSOGNiSjlJaVZsOHVzOHdLdjE5dGtkUkRzVHZJdTZIQnI0cXBVQlZHRmJzUEFXUWZLNWQ5M3kzRkx5dzBaTVM0dlcxT3k2azhLOWhkR1JtV1dsSnVfbFdWRTl2aTA0NWg5MTZCUDZDUy1nTE1Vcll5ZjJjODd4SjgyYUhyam1vS0N5MkppaVZ0RC1JT1BPTHdSNEJLNlFjNEg3eVJNS1lBMEtCYWZCN2xB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T15:35:00Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_88153",
-      "titulo": "Aneel adia novamente decisão sobre postes às vésperas de votação no Senado",
-      "lead": "Aneel adia novamente decisão sobre postes às vésperas de votação no Senado",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaHBwREZKWDN1aDZrdFlGdzF4V19kVE9kM0pFWGdvYV9Vd0NOdURCZUpPWG5TVmpDeGctbm1aSlJ1Z1U3R2hJOGpxck03WjFuaGFGLTBBc1U0RDBOcnEwYjdSaEJOWmtVZGRST1RCWWhCbFYwdVByZnh0YXZQWDBCMExxcEM0dnZOQU1BQjhGRzhqelVOQldKeGJqcExMbnBMVGc0UHFSaXRyZWs4RVIwQUdNcw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T15:25:41Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_37995",
-      "titulo": "Abertura do mercado de energia amplia desafios para comercializadoras e formação de preços",
-      "lead": "Abertura do mercado de energia amplia desafios para comercializadoras e formação de preços",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMGJCbTgxOUV0QXZwTjQ2OTN5SFBkeUtBQ2pDeFc4di1qQ1ZjeVZjTDZlQThpbFpMa1EyMkI1dHE0and5bmpVNWk4ZjdEbDZTcFhfb29oaWNuUXNDa2FONFE2c3Rxd1Q2NUQtYjZlbTB5Mm5NU05TaGNBSk1IM1RFb2J1MW12OFdmU2tQY1B2c2RndkgtUmxBd1E2VDlxeGt2NW4xYkNkbXhjM3hNUkprT0ViVHFiTU15TVhGelpJR0pyc08xWk1yY3BPYldFdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1669399213378-2853e748f217?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-17T14:32:12Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_44887",
-      "titulo": "Associação de eólicas pede suspensão de leilão de baterias na Justiça",
-      "lead": "Associação de eólicas pede suspensão de leilão de baterias na Justiça",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalNYUDdJc1N1VlV6Q21MMmtsemdiLTA3WGd0a0lacU0zdjJPd2NhTUNWQlo4Q2luWDZrOG0xM21jZ1h6ODdtYkw2Q2VESmdZUDBXbTZtRUlKSi13MlBVdWhfeEVad2Ewek5FaG81Tl9FRFhtVFEzLU1HaG43aUxOejA5eVo1NTRxTnpPZG9rSURkX2w4WXZIcVpuSG9XOGp3c2trR1hPUkFSVEZaQnJhR3B3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1515344905723-babc01aac23d?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-17T14:05:18Z",
-      "dominio": "www.poder360.com.br",
-      "tema": "eolica"
-    },
-    {
-      "id": "transicao_94121",
-      "titulo": "Leilão de baterias fica entre o Congresso e o relógio",
-      "lead": "Leilão de baterias fica entre o Congresso e o relógio",
-      "fonte": "JOTA Info",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTJfNXZLMmJ1ek1BODZfNFpaSlFJVUJoM3RTUzdiX1JIY2k3UUllaVpLNExvcVBQUDV3ZjhuazJfVHhjaW45UzNfUW9oTFNrR3V3bVRTNnplTXM0a25UQ3JubERlZmJrNlBJdGdQaEdEb1d6ZGc2bHFOUjk0Z3NETGJnVC03d0RPcXpz?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-17T13:08:24Z",
-      "dominio": "www.jota.info",
-      "tema": "baterias-armazenamento"
     }
   ]
 }

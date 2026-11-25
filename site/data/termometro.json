@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-24T21:42:28Z",
+  "updated": "2026-11-25T03:09:16Z",
   "score": 31,
   "nivel": "normal",
   "nivel_desc": "Mercado em equilíbrio",
   "componentes": {
     "ear": {
       "peso": 35,
-      "valor": 57.7,
+      "valor": 57.8,
       "score": 42
     },
     "ena": {
@@ -21,7 +21,7 @@
     },
     "carga": {
       "peso": 10,
-      "valor": 81082,
+      "valor": 94134,
       "score": 50
     },
     "bandeira": {

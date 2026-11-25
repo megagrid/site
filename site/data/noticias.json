@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-24T21:42:34Z",
+  "updated": "2026-11-25T03:09:21Z",
   "total": 60,
   "itens": [
+    {
+      "id": "transicao_71413",
+      "titulo": "Fatura da \"revolução\" das baterias pode chegar pela conta de luz",
+      "lead": "Fatura da \"revolução\" das baterias pode chegar pela conta de luz",
+      "fonte": "NeoFeed",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2R0TjVxbFhvaXNydk1nS3NHal9mMjluVkQtdmFmTGNtY0JFdnpEMWF6SXpJNG90czQ5ZXZHVlhqQm5hS3dkaE9CYThnSVR1V2RmMDliWnJlYnZmSHI0YVNUakIxQlpRcDk4Y09wMlM3VVRYY0RoN0duYWJ3NmY2TXdRR2N1WjByYVpXaHlfc1h6eGp1d3NFLU9UWQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-24T21:56:00Z",
+      "dominio": "neofeed.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_96015",
+      "titulo": "Aneel aprova regras para adiar encargos de transmissão com ONS tomando providências para ajuste",
+      "lead": "Aneel aprova regras para adiar encargos de transmissão com ONS tomando providências para ajuste",
+      "fonte": "Folha PE",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdVZFTWpNVVlNQV9nZkg1RW9mRDl0bW51b1Jxd0FZUVNPZ2NlTXJtTXk3V3BUWDRwYjVpbXVvSlJEQjY5Z1ZMc2xyZ0RIMm8yTlJTMUYtMnVjQjBIYXFSU0RDekJwaHBaN2VxNUg1SVNGX3lTcHNiV0VhWFp2N09yOXdHY2RIX05xWFdVVzBfc0dhUVhGaURHQk9Hd0g3WlpXeFBMQmk4SUxpY1JWSXZyekxfRXI4QkdR0gG4AUFVX3lxTFB1VkVNak1VWU1BX2dmSDVFb2ZEOXRtbnVvUnF3QVlRU09nY2VNcm1NeTdXcFRYNHBiNWltdW9KUkRCNjlnVkxzbHJnREgybzJOUlMxRi0ydWNCMEhhcVJTREN6QnBocFo3ZXE1SDVJU0ZfeVNwc2JXRWFYWnY3T3I5d0djZEhfTnFYV1VXMF9zR2FRWEZpREdCT0d3SDdaWld4UExCaThJTGljUlZJdnJ6TF9FcjhCR1E?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-24T21:26:45Z",
+      "dominio": "www.folhape.com.br",
+      "tema": "transmissao-rede"
+    },
     {
       "id": "mercado-livre_85106",
       "titulo": "Concentração no mercado livre de energia pode levar a intervenções da Aneel",
@@ -20,7 +44,7 @@
       "lead": "Participe do Webinar sobre Avanços e Perspectivas da Modernização Tarifária www.gov.br",
       "fonte": "ANEEL",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYi1Kb2Q4LWNBX19pZUx4OEVEa1hfRXlCNXRyb0tpUHM2T2ZOTjB3SGtOSnNxYTdTcUlmNHVfRFExQWtCWGxmYm9ja0l5aTQwLXpQQ2RKT0hJOURjNk5KT3Q4RTVJeFc1cFpBUUNGMDV3RElDTDNqeWRYaWVCRllTbTAybVR2WEhweEpjMFUwTHQwc3JXSUFvQWJaVGlQV1RIUTUySFQ5RE9LdVQyblBqTFRDWS1xYTFxaGhyYWo3YlR6Umppck5Ncg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
       "editoria": "regulacao",
       "data": "2026-11-24T15:26:26Z",
       "dominio": "www.gov.br",
@@ -714,30 +738,6 @@
       "editoria": "mercado-livre",
       "data": "2026-11-17T17:00:00Z",
       "dominio": "paraibabusiness.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "empresas_16408",
-      "titulo": "Distribuidoras têm até junho de 2027 para adaptar cobrança de subsídios da CDE",
-      "lead": "Distribuidoras têm até junho de 2027 para adaptar cobrança de subsídios da CDE",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV01tZ3pYY1MwMmZ5anUwbXM3b2ZwS19iNVE2Vm1GTmZfTHBaVWhudXp0ZkpLRFhFdjJWbHlLVVNoWktDRHdUWUIyV184WG1rcG5BNFFMamhaUGUxOUlOb3ljcFJNaWxqazFqdjB1NDVRSVBzTDd2R3Zjb21ZSUpuYWI0MU9wU1o2bU5YVUVLYmZ2RVNaT1IwQzBhVmtUYjRCbTFJMjUwWVZ6Z2pGTXB2NHFraUVnT09PME5CMG1DdVc2WnEzQ3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
-      "editoria": "empresas",
-      "data": "2026-11-17T16:13:58Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_95536",
-      "titulo": "Mudanças no PLD são necessárias para refletir cortes de geração, diz MME",
-      "lead": "Mudanças no PLD são necessárias para refletir cortes de geração, diz MME",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWJnVXFXMDIxcDIya3ByaHpGZW1IdXQwbGpHY3VrVkNDVmxGLWhMenlzNXItNVJGc1NYOTRnYUpnak9TR2hIM29idFY0OW91cTJtSkV6TWxQZDJkRjd5RnZUcG5sSkdQM1NEcjBqYjJuR2JVTF9NSmdXcnpwSmVKV2xqMGw1SmVRQXVwSWw2ZWVleDFiYl9QNUxBajlKX0hDQ1ZyT0czUDljQW1pNU00LVh5eWk?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-17T15:54:20Z",
-      "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
     }
   ]

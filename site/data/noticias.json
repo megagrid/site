@@ -1,14 +1,86 @@
 {
-  "updated": "2026-11-25T03:09:21Z",
+  "updated": "2026-11-25T20:50:35Z",
   "total": 60,
   "itens": [
+    {
+      "id": "mercado-livre_2334",
+      "titulo": "Seminário da Folha discute desafios e oportunidades do mercado livre de energia",
+      "lead": "Seminário da Folha discute desafios e oportunidades do mercado livre de energia",
+      "fonte": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOVduRFlBRG1LMDhiMGFrSm9aZjMySGJ0eExOLUJxU2NENUJvNEtoLVNGcHl1OFBldWJvZVpjV0hhcnZ5QlkweEtpMWtNNHVGNWFBMkY2N2xRQW16bENTM2NUUmxPM3FlU3g5MjE3UlMyLTYzMkp0ZVFDd2tKR0hUaXdKcWNxWDJtNUpJLWgxWE1PRnhmb1lNM3h2LS01SXlnNlMyV0RpSWduRi0xRFQtSXhSdFpzaVJxejBrczU3UGFXYy1TWFowdjRYa2RtdFptTGZRWWN3?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-25T19:25:00Z",
+      "dominio": "www1.folha.uol.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_46889",
+      "titulo": "Mercado livre de energia entra em nova fase em 2027 com abertura da baixa tensão e Open Energy",
+      "lead": "Mercado livre de energia entra em nova fase em 2027 com abertura da baixa tensão e Open Energy",
+      "fonte": "Cenário Energia",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFNLcjhydkVuWG9tN3g2SUdpTW9xdWU5clNFT0pGM0xmU1lnb1N6VkpveldBNXluUVUxY2xtUHVWaVVkNVBjT0ZpYi1POFI0UkhLZ1pKLXVxY1pyNTRpbGhDQllVYUZLVW42VEFRM1BDMGhBZEpfcnRwU0JkN3c1d0p1ZVlZaEFTdWxyMVRBTk1mUVlBM3JycWFvYXBvUzctNXU2RXJSZ2ltOGd1SVZabW9yWVNRZHo2eWt3Q2pGV3F1dnpxNVpBc1N4OXJ3OTM0OHc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-25T19:18:26Z",
+      "dominio": "cenarioenergia.com.br",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "transicao_57627",
+      "titulo": "Petrobras planeja investir em minerais críticos e baterias para armazenar energia",
+      "lead": "Petrobras planeja investir em minerais críticos e baterias para armazenar energia",
+      "fonte": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDBfLWJxY1Z3dm54S2RfUlcxRmdlZ05haE5UVmxSN2ZUcjh5cU1LSm5ZY1RzbE1zSjV4UjdjRjVOaGdkNG9UMVFud0xlUlJhaG9kaVBuTHlMSHNhYjlseGNPcVFQeWtPM2Q1QmEybG44VFBkSjRRMi05Q19pWjI2RXUzM216RHg5VGc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-25T15:23:40Z",
+      "dominio": "canalsolar.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_35022",
+      "titulo": "MDIC defende fim da cobrança exclusiva de geradores por baterias",
+      "lead": "MDIC defende fim da cobrança exclusiva de geradores por baterias",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWdiWFphWE9xcEwxZEUyVWNjZHEyZ3JZWEYtaDBxYXR2d0VwcUFybTlUUTE3R2hVTGhXd01hTDdidUd0WjcwNV9zV2VzY0tOUklWaDdRZHlrMDFaeEZWdExjaGROa1FBNDYwMXR4ZEZjYWhiYXpBUTJJOTlPcmFUc1Rvd2prUmF6QlNpS2NUV1AxOXFraEZvZXBjOVVSTlJDRzhCV0ZDcUl2WUk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-25T14:00:38Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_74071",
+      "titulo": "ANEEL realiza leilões de reserva de capacidade para armazenamento de energia nos dias 2 e 4 de dezembro",
+      "lead": "ANEEL realiza leilões de reserva de capacidade para armazenamento de energia nos dias 2 e 4 de dezembro",
+      "fonte": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaFN5aTR4cFJaM2ZkZ0NoU0VrVnhFZ3BZVThmWFJuaFJVOHlFaW5kRFc5eExiVDVpdkFLbXZYdmVkX0pWZU5IZVVhRk51QmNfUFdvUzlWUkV6NzBJeW9nel9KTGRVNi1QYUEtRlh0VTFpOElaY2tQOUdlUzZXYWtSZjVrTzB2SDZEb3BxZlNwS2hxTmtZVGwtcVR3ZzR5THdzVWxhb0xjUkc0R3lLYWNpUDFxdTdtRzFGUkQ5LXpJaG0wSTlwU01QbklsOXZLU2RiZlRkM0JXdFdudkJRald4czJnVDZzeHRwN01vRzBR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-25T12:50:00Z",
+      "dominio": "www.gov.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_71299",
+      "titulo": "Quem deve pagar pela segurança que as baterias entregam ao sistema elétrico?",
+      "lead": "Quem deve pagar pela segurança que as baterias entregam ao sistema elétrico?",
+      "fonte": "eixos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN01kc1hJdzFYbTZ6MVRhVWMwZHRibUlMUUZrZzVZaUpqcVMyYkU4R0lXbVJjQWpCaFUxdXE5Ri1nUU9KeXFaMzRVMkpRNkFvUWtLVkQ3b0RoWWlQRm04QzAtdml4RF9QTmg4bFVOYndOenM5M05yUXJXOHVoWUEzeS1PU0VmUkw2WlE3a2U1R3hYNHNqV2hhMldLNDcyUUJHaDJ2LUk1TUstdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-25T09:00:00Z",
+      "dominio": "eixos.com.br",
+      "tema": "baterias-armazenamento"
+    },
     {
       "id": "transicao_71413",
       "titulo": "Fatura da \"revolução\" das baterias pode chegar pela conta de luz",
       "lead": "Fatura da \"revolução\" das baterias pode chegar pela conta de luz",
       "fonte": "NeoFeed",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2R0TjVxbFhvaXNydk1nS3NHal9mMjluVkQtdmFmTGNtY0JFdnpEMWF6SXpJNG90czQ5ZXZHVlhqQm5hS3dkaE9CYThnSVR1V2RmMDliWnJlYnZmSHI0YVNUakIxQlpRcDk4Y09wMlM3VVRYY0RoN0duYWJ3NmY2TXdRR2N1WjByYVpXaHlfc1h6eGp1d3NFLU9UWQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-24T21:56:00Z",
       "dominio": "neofeed.com.br",
@@ -25,6 +97,18 @@
       "data": "2026-11-24T21:26:45Z",
       "dominio": "www.folhape.com.br",
       "tema": "transmissao-rede"
+    },
+    {
+      "id": "mercado-livre_49505",
+      "titulo": "Minas e Energia: a mudança necessária",
+      "lead": "Minas e Energia: a mudança necessária",
+      "fonte": "Outras Palavras",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0R5UU9GT1dETDNzbWljcHZiU0RZY2hWQ184akRyV29FT3hqR2N4Vkt1d3I4dU5TU3hzWTFTQUhmNDg0QjRDZVFHX1FFaUJSSURuY1FiS0s1alZJR0l3d25WUkdEVlRHVm1xa3lscm15Wm1iejZBdTY1cjlSWWRHQ0VBMVprTmxU?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-24T19:54:23Z",
+      "dominio": "outraspalavras.net",
+      "tema": "precos-mercado"
     },
     {
       "id": "mercado-livre_85106",
@@ -92,7 +176,7 @@
       "lead": "Sistemas de armazenamento de energia por baterias",
       "fonte": "Consultor Jurídico",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZklqY2xzeEd6VWhyM1ZUNmFzNUg5Um52LTBab09vei02Y3QwVTlXaXFRZ202UnBDRnhJdW5TVVpUbllNRVVsRU9IQlNwemNhS01wa3dfNzNHbWttOTBRcVBXejNLVXhoRTlFYlJtTlc0UTNqckFRZmFsbDJvRE9ja1Z1Q2dTNno1RVRoU0ZBSHFMR3N6MUhiSHNjS2piTnluV2V5MVpKZnQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-24T00:17:42Z",
       "dominio": "conjur.com.br",
@@ -104,7 +188,7 @@
       "lead": "Chile: custos de oportunidade do armazenamento, financiamento de PMGD e PPAs em foco",
       "fonte": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2FneXNxSHFrazFDY3hJVGF0UHl0TmpPRm1YaE1XT1hfdWM4eExPLWlWYlpjR0dUZk9tZk9sakZUSGRDc3lsdWlROGxfeFNLZnVaQkJuYk1oc0FMNTZuR2xoRTVxcXdtMG4tSnVUSzVobmR6YzBtSDluTzRPazc5bm1ZR2N1TF9Yb00tenFNMGllQ0dyN3Y4VmRiNkxadmc0N1pGem1abllhc0lVN2h4MlN2VkpUMVZlb0xjZQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-23T22:55:20Z",
       "dominio": "www.bnamericas.com",
@@ -210,6 +294,18 @@
       "tema": "baterias-armazenamento"
     },
     {
+      "id": "transicao_87860",
+      "titulo": "Leilões de baterias têm inscrições prorrogadas até esta segunda",
+      "lead": "Leilões de baterias têm inscrições prorrogadas até esta segunda",
+      "fonte": "MegaWhat",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamdvTU5xYWFEczluWUViejE4WmozUHhJU0hfb2EzVlNQZHBVa3M1QjR1ZmVEWUlGLWx6dzhFblhsTDgxN3J3WXdMbjAyVUtHSXpYOHIzQnROZXVSMEcyWlA2RzFjUWxxeDFLY3hhY1ZBWFN0SUdXWlJKcHgyN3YxV0d2OWVnYU9QWUZzYl9OYmxTTzJ1ck52UW9mVW5faHd4TlJpTQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-23T11:57:42Z",
+      "dominio": "megawhat.uol.com.br",
+      "tema": "baterias-armazenamento"
+    },
+    {
       "id": "mercado-livre_86671",
       "titulo": "Preços de energia sobem mais de 10% para novembro na BBCE",
       "lead": "Preços de energia sobem mais de 10% para novembro na BBCE",
@@ -244,6 +340,18 @@
       "data": "2026-11-22T15:00:24Z",
       "dominio": "jornalgrandebahia.com.br",
       "tema": "consumidor-residencial"
+    },
+    {
+      "id": "mercado-livre_48365",
+      "titulo": "DADOS HORÁRIOS DE GERAÇÃO",
+      "lead": "DADOS HORÁRIOS DE GERAÇÃO",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bGY0OVotODFfZHFfMWU4emwyVmd1WlluUEhkUThZVmR0Z2FxZFlsc2N5MjRTelRfMWNDTlB4a3EzX25mVnc0NWgtWEFibzBKOEp5X0VucHRjVFZGTGg2MFJTaGk?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1547895749-888a559fc2a7?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-22T12:18:42Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "industria-generica"
     },
     {
       "id": "transicao_42809",
@@ -628,117 +736,6 @@
       "data": "2026-11-17T20:36:39Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_8995",
-      "titulo": "MME alcança Nível 3 Pleno em integridade pública e recebe reconhecimento da CGU",
-      "lead": "MME alcança Nível 3 Pleno em integridade pública e recebe reconhecimento da CGU",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONG8zV2hoYllSQmhwOEVrZEFudllDdVVTX2RBb3pwbFNRZHRoUk1tcXlnbDNhTmw2RGxodU9xVW5VTWhrSk1oMXNVRDlUdGxwaVNRU0ZRWXJ5M2w0ck9wbzgxMjNYRGRFMVpnTFg0NnhxQlk1MHkyZ2JBY3RVUXhINUw0S3pWRnVnSnY4M2F2aVRxemJfUENPQlNjeGVGZzRzSEh0UHl3TnF2Yi1VUGF5UW11a0p0ZkhvZVQ1TnRGME03aWMxQkUtODJkLVpMZDVyZDluRg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-17T20:07:13Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_95014",
-      "titulo": "ANEEL abre consultas públicas para restringir energia solar por assinatura e liquidar excedentes da GD",
-      "lead": "ANEEL abre consultas públicas para restringir energia solar por assinatura e liquidar excedentes da GD",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTllV0p2ekZGVVoxLWtCMVhXZVhZZzdHOHdoMjlXdTRERGFGbUtkbUNnbk4wLWR2NnR4VUJWajQ2MGs0UlBJMXFXdWRYOUJLV28xajQwblJzaHN4aDB4a3ZFdjRWY0RNVDBlQXJlWGlya01QYmR0X1c3SGNSSDJuQ2szd3c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T19:34:33Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_2230",
-      "titulo": "Aneel defende cortes obrigatórios da geração distribuída em teste do ONS",
-      "lead": "Aneel defende cortes obrigatórios da geração distribuída em teste do ONS",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXy1OZl9QMFJJS0NnNE1uSEJEeW5DTkRoNDY0VTRoT2ZVdjJYQllzMER4ZXItUTZLaG1JQl94YWJha2M0TzdjRVFqYXZkLU51eFVJZzVORkNIN3ozdXlJczQzS3hTRnpnejRSOHZ0ZW5sbkJiWUg0S2xVa3VDNW9SOHhSTWtsZ2ZvMzg4cTQ2emlSLVhSaHg0WGpUbUV5YkRWdTUyUkZEVGRydUY2N1BEbA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1509389928833-fe62aef36deb?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T19:27:11Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_28222",
-      "titulo": "Área técnica da Aneel recomenda consulta pública para rever compensação por cortes de geração",
-      "lead": "Área técnica da Aneel recomenda consulta pública para rever compensação por cortes de geração",
-      "fonte": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3JNRlpqZUlvbk1sYllJanBKd2JkZFIwb3dhZHJ0S0R0LWNCYVc4NndjSjR6TF82dUVHaHZTSDBwN1F6Yl9WZ3B3WG1ldDlHbnRnejU3RjVUMVNTeDZFNkpSdDRQLTRWaU5SYlpzMnJtekFXV1JiRXdWVXdxVkdYYzIyZFdfTDZjWVdXVFZmS1NYTVBXd1ZQa0hSZWZPNUE3cU9Ta2RWNW1ieDFjeXBwYUltMDZPY0I2ZVVlbzZXRXNVRU9iRGgyMlJMZnY?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T19:11:42Z",
-      "dominio": "www.bnamericas.com",
-      "tema": "industria-generica"
-    },
-    {
-      "id": "regulacao_98169",
-      "titulo": "Setor questiona legalidade de restrições à energia por assinatura propostas pela Aneel",
-      "lead": "Setor questiona legalidade de restrições à energia por assinatura propostas pela Aneel",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXVPdHJNNjd0R09uY2VPWTlEbWNVN1dDemJUaGZwbGFmbzVZTVBMT2UyVE5ZcV9VZ2hheFBzYk1kYXVydVpNWTREQlFPd0NSUDZNYVVodmIxeFNXQTAtQTZsWURINzVKT1VndTZFVlJ6M0xqdFN2dXJDR3NFSGJuREplRnhiNko2QmFBYXpyQlM3M0NHRzNkWXA2UnNXQXN2SXF2S01XZjJ6QnpsaFNRMXFNNTJpc3VlVHBfeTBqNDMtVVU?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T18:49:27Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_50307",
-      "titulo": "Oferta potencial de gás natural no Brasil crescerá mais de 80% nos próximos dez anos, aponta PDE 2036",
-      "lead": "Oferta potencial de gás natural no Brasil crescerá mais de 80% nos próximos dez anos, aponta PDE 2036 GOV.BR",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYjZCNm1ORG9IUllIXzFSZEU2Z2N0TlFsQ0VWdk1jQ0pxb0VRanlMbDNfdF9lQnlnRnAzR1dybDEwTlFnUjlkeUJVSC1rTEVXUlZwdGY1Y0ozanc2M3FhNEZnRkV1OU1GNEk0NkR4cmNUaERLMXhwc0xURUJqblNXbFFtUzZEajA1OE9kbU1OYURDUmZ3RURpNHNncVF2dTJXYm95b2ZrS3paVlFpQkVkSzcwdm5FeUxGdDhWZl9oOExuSFVLZFB5aEpldms2WnJxVlN6Tk1kQ2gtOVJZQnhOeUg2UDUxTHQ1VFo5cnVNbw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-17T18:32:46Z",
-      "dominio": "www.gov.br",
-      "tema": "termica-gas"
-    },
-    {
-      "id": "regulacao_12206",
-      "titulo": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras",
-      "lead": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnJQWkpZOUxpRFduNHdwT3FEZWZ5N2JLdHFpbllNemppdVNGRndxSEVTcU8wLVVaQXNCS25LYmxaY21ETzdNMVE1bW1tVWduU1pxdkt0NVN2Z0FCMm1seEZNM0hJNGgwRm9GQTlvUHRna3N4QmtoaTFFdFFtVk1DczR0ZE1PRDFPQktqR25RWXZ2a09Hbkk0SFlHVHlyTmlYVDJ3OXFpa2V5M3NZdUpxNWE1WUZmSlAyMmc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T17:59:59Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "solar"
-    },
-    {
-      "id": "regulacao_75101",
-      "titulo": "Aneel Aprova Regras De Faturamento Do Encargo Para Conter Teto De Subsídios Da CDE",
-      "lead": "Aneel Aprova Regras De Faturamento Do Encargo Para Conter Teto De Subsídios Da CDE",
-      "fonte": "Cenário Energia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQay1Qb0J6ODFvYUpGU0tHcE9DbGpJcHVsMmEzbW94d3VRaXNVbG9vWFk3dWV4enNkZ2Q4XzFXejhnQk5iZnE3VHNxTVpndG5KekNCRDVJOHlSd19sS2I0UTRPQVZvTUtTMmx1TmREWDEyZGFCOXVZR0dwbWxUUC1QS2ZGem1GWHFJYmNXU01IUTZtR1o3NjVJbmRpVnRYZlZhYWZhQndpYzlERjBMX1hxTTRhd3V0NlNsbUp0cDh0cWFXdw?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T17:21:18Z",
-      "dominio": "cenarioenergia.com.br",
-      "tambem_em": [
-        "Agência iNFRA"
-      ],
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_66688",
-      "titulo": "Leilões de energia existente movimentam R$ 14,25 bilhões com deságio de só 1,15%",
-      "lead": "Leilões de energia existente movimentam R$ 14,25 bilhões com deságio de só 1,15%",
-      "fonte": "Paraíba Business",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0pSQm8yU0V5R3ZES3VUTjZfRGFHRjVHNkhvbDQza0VOaVNTN0N2QXZ5UDI4YWdHQTVCWlBhWGxzUGstRmZJOHBRc05GMk82aDN4MzI0WjQ4QUd3REZCNVowaDRoSWNpRWlhYWRQaWxLcVJHMER1S3owaXdoTW0xUHJuMF9pNkF4OS0zOFhGUVF1Nmk5TVhHLXJUNUt0U2tMaGZDT3V3Qzhsa0FN?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-17T17:00:00Z",
-      "dominio": "paraibabusiness.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

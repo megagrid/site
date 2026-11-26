@@ -1,14 +1,63 @@
 {
-  "updated": "2026-11-25T20:50:35Z",
+  "updated": "2026-11-26T02:22:48Z",
   "total": 60,
   "itens": [
+    {
+      "id": "politica-energetica_14987",
+      "titulo": "MME debate ampliação da liberdade de escolha dos consumidores de energia elétrica",
+      "lead": "MME debate ampliação da liberdade de escolha dos consumidores de energia elétrica www.gov.br",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVlZVbmxQOWtxN3c5MnZQZGJVX1FvOU16UXRKdkpsVm9IVFpieDdkbWpNNUZrUUlUVnkzdVBUOWMxWi1HZFhfWnJKa2ZNS25ZRjViazNqZkZzTGdUd1lZUXNuT0s3bmJJSDB5UTlYd0VvSUNqSFVDQ1pkODRaUmhXLWlfRnZxRzJvbTR1alViQVhKQU9KZk9YNl9vRk5xR21BdWhWaHQ0UGVyVlVUUXRHZkxUWGg4VkIxOC1qZmlpSG5wS0gwYktWN1JyTExTUzBWVTl4Zm85QQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1684684383508-261dd0e8f467?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-25T21:15:47Z",
+      "dominio": "www.gov.br",
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "transicao_82669",
+      "titulo": "Custeio das baterias opõe consumidores e set...",
+      "lead": "Custeio das baterias opõe consumidores e set...",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdzVkOFVNbU5UUmloNVBOZUFOTGI0Y2VTNlF2QzFLajNWU0NGVWV3RWZGa2ItcUlYWi1pa1REdGJ2NG9Sb3c5TmF6M0tRQnFtQkVlZldvOHdGeXY3alpkMlNTSEFmUWFBYU50VDRRdEVqY0RqQXZTUGs0Y3VYWnpQRzltRUR1UVdRVlRjLXo0WnpnSnNjb2hDRTdLbE5EOWVXa1JGMHRsM2tsUUhxOWZ6Y1RxRVphRGVaeV9CQ0FZTnU?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-25T20:42:48Z",
+      "dominio": "www.bnamericas.com",
+      "truncado": true,
+      "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "transicao_16568",
+      "titulo": "México autoriza mais armazenamento em usinas solares da Fisterra, apoiada pela Blackstone",
+      "lead": "México autoriza mais armazenamento em usinas solares da Fisterra, apoiada pela Blackstone",
+      "fonte": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQW1vX2J6cmRBTThRcUx1T1hJUFFucVFldVA2RklhcTBRS1hSX0lhTW51ckw5eXI5dExoQ0l2cGFkYlZkQTlrOEljaVNTU3lSaVhvSEgwUVItTkdta0U2Wk90SEtkUGZLVmhzdHJtNnNPVmo4TF8zRGdWU1NhRlhaSnhGVGRsRXVxVjE0V0l4MUU3U2JtX1d0QUczYk5KcGN4M2ZVNXRybkRzS1BWcE02UWhVczRjRlJkM1YwcWxDWVBxTjIzYlE?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1723133371535-1412bc2e412e?w=600&q=70",
+      "editoria": "transicao",
+      "data": "2026-11-25T20:42:48Z",
+      "dominio": "www.bnamericas.com",
+      "tema": "solar"
+    },
+    {
+      "id": "politica-energetica_55679",
+      "titulo": "MME defende modernização do mercado de energia para impulsionar investimentos",
+      "lead": "MME defende modernização do mercado de energia para impulsionar investimentos",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUW5FMzdMcWItc0ZaQjljeDR1RUVRUXptczcxZHozVkN5RFgtd1NMV2R6TEpCYUEtbUZSdWFzRmNaVDVENUFuX3ZPOTdVekdwZll5WElaOEdvelN2bjJjWkNlYjZXYUtXZXNBTElYSWZLX0s3LThJVUdobm14OEJCU3JvS1NMRTRGOUZueVpHcHBRNmRacG5UMXFXbHBXS1c1YnRtQTNZQ2NyQlZQd3R5MzRWaEdOMVc3S2lqV3VaMzg5dzRUY3hJaVpMc0NTSmdSVWc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-25T20:23:13Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
     {
       "id": "mercado-livre_2334",
       "titulo": "Seminário da Folha discute desafios e oportunidades do mercado livre de energia",
       "lead": "Seminário da Folha discute desafios e oportunidades do mercado livre de energia",
       "fonte": "Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOVduRFlBRG1LMDhiMGFrSm9aZjMySGJ0eExOLUJxU2NENUJvNEtoLVNGcHl1OFBldWJvZVpjV0hhcnZ5QlkweEtpMWtNNHVGNWFBMkY2N2xRQW16bENTM2NUUmxPM3FlU3g5MjE3UlMyLTYzMkp0ZVFDd2tKR0hUaXdKcWNxWDJtNUpJLWgxWE1PRnhmb1lNM3h2LS01SXlnNlMyV0RpSWduRi0xRFQtSXhSdFpzaVJxejBrczU3UGFXYy1TWFowdjRYa2RtdFptTGZRWWN3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-25T19:25:00Z",
       "dominio": "www1.folha.uol.com.br",
@@ -20,11 +69,35 @@
       "lead": "Mercado livre de energia entra em nova fase em 2027 com abertura da baixa tensão e Open Energy",
       "fonte": "Cenário Energia",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFNLcjhydkVuWG9tN3g2SUdpTW9xdWU5clNFT0pGM0xmU1lnb1N6VkpveldBNXluUVUxY2xtUHVWaVVkNVBjT0ZpYi1POFI0UkhLZ1pKLXVxY1pyNTRpbGhDQllVYUZLVW42VEFRM1BDMGhBZEpfcnRwU0JkN3c1d0p1ZVlZaEFTdWxyMVRBTk1mUVlBM3JycWFvYXBvUzctNXU2RXJSZ2ltOGd1SVZabW9yWVNRZHo2eWt3Q2pGV3F1dnpxNVpBc1N4OXJ3OTM0OHc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-25T19:18:26Z",
       "dominio": "cenarioenergia.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_17069",
+      "titulo": "Neoenergia lança ação para empresas de Ubatuba que buscam redução de custo da energia",
+      "lead": "Neoenergia lança ação para empresas de Ubatuba que buscam redução de custo da energia",
+      "fonte": "Neoenergia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGkyQ2NnWmdsOTlBal9NcnFPRzROZUpOUXl2eFN3RlR4TkVhcVlMM2xGN1JwcGIteVowU1dxQkdBbFZEOTgyZldfQjVQcmNuMTNDVkNjcHdtUmxnQ0RqTnkzQTlDS25iTzFHT21CZTc4T0hiMVFWelFteTg3cFJ6TW9qdw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-25T19:06:58Z",
+      "dominio": "www.neoenergia.com",
+      "tema": "precos-mercado"
+    },
+    {
+      "id": "regulacao_49887",
+      "titulo": "ANEEL debate melhorias no fornecimento de energia elétrica no Amazonas",
+      "lead": "ANEEL debate melhorias no fornecimento de energia elétrica no Amazonas Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWxYam9XVjNHY1pKQ0dNc2VUUnY3eGJQNEJzeW54OTJ4ajVBWVN4V0RBeDlGdDdtMkZpazVsby0zRVlGSkdyN19vSmdDdUlNbFNSYXJjN2tLOGMzanRBZ2RkMzcyc2lqVkp6Q2NYU1hHRFQ0c2tRSndFNWxyYW5NeExVc1RMZGdiTGEwSV9GUXJVRTRMVUhGWWJUelFCbzVjSy1kU0VMaHZneUgwUHktTWpraXQzRE5qRXNFRXNTWHV6QQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-25T17:21:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_57627",
@@ -32,7 +105,7 @@
       "lead": "Petrobras planeja investir em minerais críticos e baterias para armazenar energia",
       "fonte": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDBfLWJxY1Z3dm54S2RfUlcxRmdlZ05haE5UVmxSN2ZUcjh5cU1LSm5ZY1RzbE1zSjV4UjdjRjVOaGdkNG9UMVFud0xlUlJhaG9kaVBuTHlMSHNhYjlseGNPcVFQeWtPM2Q1QmEybG44VFBkSjRRMi05Q19pWjI2RXUzM216RHg5VGc?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1717386255785-59c670564341?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
       "editoria": "transicao",
       "data": "2026-11-25T15:23:40Z",
       "dominio": "canalsolar.com.br",
@@ -61,6 +134,18 @@
       "data": "2026-11-25T12:50:00Z",
       "dominio": "www.gov.br",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_97991",
+      "titulo": "ANEEL confirma mais de R$ 146 mi em multas por falta de energia generalizada em agosto de 2023",
+      "lead": "ANEEL confirma mais de R$ 146 mi em multas por falta de energia generalizada em agosto de 2023 Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOU1TV3pMa2cyUlpmQTZ4VUxTSnlRSDJ1TW9ZOU1xdUJTa3h2bWZUSkJ5X1ladUtySW8xTFdwNlJpMjlDa29WNWNJd3hIeDNrUWlmei1lOGxTNGFHVGJ2MWNjNHR0U0Y0LUZqS3NYRHA3clB5bE8tdEFldmlXTWRuQ1h5c0VMdWdCeG5faVp0LWZYdFhFM0FEZ2o0YlBpS003N21mRml3d1AzQWI0VU9JLVZjdnZMX3pDaTRDZEQ2djFoTmkzMDhDSWFRelBGekFkNUZPS290NHg3S0FLUS01RA?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-25T12:39:00Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "transicao_71299",
@@ -99,6 +184,18 @@
       "tema": "transmissao-rede"
     },
     {
+      "id": "mercado-livre_26585",
+      "titulo": "CCEE amplia prazo para inscrições no Ciclo Piloto 2026 do Hub de Inovação",
+      "lead": "CCEE amplia prazo para inscrições no Ciclo Piloto 2026 do Hub de Inovação",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYUpjeElMUm5hS1VWQ1ViRzNOcDVLUktSdEFfZ0RBYk9yQktiRFcxeXdyR2h0eXNkdS1icDJSbWdQNy04NF80NEJ5ZjZTWjhqTG4yN0Fab0d0bjNBTVpLQVRVQWpJMTFLVkxaME5zZG5odUxLbUV2Z0F2c0dBWlBlRVdtX1VFSk9RTnNjSjNNWWNlU29tZXhpYWJrSjQ1TkJOY1pYTFJ4aHFQbk5FaXc?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-24T21:04:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
+    },
+    {
       "id": "mercado-livre_49505",
       "titulo": "Minas e Energia: a mudança necessária",
       "lead": "Minas e Energia: a mudança necessária",
@@ -121,6 +218,18 @@
       "data": "2026-11-24T18:01:48Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
+    },
+    {
+      "id": "mercado-livre_32360",
+      "titulo": "CCEE acelera transformação tecnológica e avança na experiência dos agentes",
+      "lead": "CCEE acelera transformação tecnológica e avança na experiência dos agentes",
+      "fonte": "CCEE",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRG9TOUtxUC1kV05MWVdwZGhhdG1EYk4zVVk4LXFMQ3M4SGF0SVgzR2haZ0ZlTk5pRmcyU0R2REkzRHZWaEFESndxbGlMU2Q2bkg2eHpWakhucXFlbWV4UDdhbk1pb3Q1ZS1GYWZSdFBFSkxnOFNPM2gteVJOT0JYdEVidmdVU3RHZm1aNUR4U2dacnRTaDNZYlM3eGkybDg3V0hDWE5Kd241NFJVeHVr?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "mercado-livre",
+      "data": "2026-11-24T17:27:00Z",
+      "dominio": "www.ccee.org.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "regulacao_11248",
@@ -628,114 +737,6 @@
       "data": "2026-11-18T12:30:00Z",
       "dominio": "megawhat.uol.com.br",
       "tema": "precos-mercado"
-    },
-    {
-      "id": "regulacao_74162",
-      "titulo": "ANEEL forma maioria pela caducidade da Enel-SP, mas votação é suspensa",
-      "lead": "ANEEL forma maioria pela caducidade da Enel-SP, mas votação é suspensa",
-      "fonte": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qMkk4Zk9SajZrSG1UQzAtZTN0NXA2UDRLeUZISGdZYl9nMWlDazRTcHg2V3pBY1ZqZlc2aHF3dFpDNnFyTVhRQWVLZXpxQVZNd3VtSWdKT1dwRWMxZFljVTJsQ2diYy0zVGlMemhDWm5LbGM3RXVn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-18T12:11:40Z",
-      "dominio": "canalsolar.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_58984",
-      "titulo": "Regras operacionais e de faturamento do Encargo Complementar de Recursos (ECR) são aprovadas pela ANEEL",
-      "lead": "Regras operacionais e de faturamento do Encargo Complementar de Recursos (ECR) são aprovadas pela ANEEL GOV.BR",
-      "fonte": "ANEEL",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONEhYc29qaE9XM083dE01UWdKRFYxbnVnMzNpRWRreEtta2Z2aks2QmZXd1J2ZWFqNlVYMk5Eak15Vm5HLVBLcmNTQTVDd0k4T24xRTJCNVotNENMd2xobzc5ODRBN0RtZ3Y4OEc0cU1hYzhweUVIUzhRX1JrLUl6eGg1TWVTVlJOOWhSbXI1MElMMUJPR0kwUjBmMzBFRzJYY2pyMmZvaFRwenJoajk0eWxtNWJ0RGc0LUdTVHlOQ2pjRHBBS3VtMTRKTkVhZVBJYm1sdmwwMlR6SjhSM1lEMUhOSWRodmxNeGtF?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-18T08:21:15Z",
-      "dominio": "www.gov.br",
-      "tema": "consumidor-residencial"
-    },
-    {
-      "id": "mercado-livre_24651",
-      "titulo": "Leilões de energia revelam preços e tendências do setor",
-      "lead": "Leilões de energia revelam preços e tendências do setor",
-      "fonte": "Acia Araçatuba",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYloxNk5BX0lleTE1MC01cV80R0xnRndvMFFwbk9VY0VBTUR5bFJ5a1p0Sm90V21YclpYX3ltQW9TLWQzcXNJTnZrQVNhQkJWQzhGc2tBQktwWVVXcVdFQk9RU2dFZ3NyOHdnWTAyWVl3Xy02NDFWUnZaeXpteDhFVEpn?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-18T05:05:20Z",
-      "dominio": "aciara.com.br",
-      "tema": "precos-mercado"
-    },
-    {
-      "id": "transicao_74966",
-      "titulo": "BYD condiciona nova fábrica de baterias em Manaus a leilão do setor elétrico",
-      "lead": "BYD condiciona nova fábrica de baterias em Manaus a leilão do setor elétrico",
-      "fonte": "Portal Você Online",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcUJxZHM2VzlJb21hbGVZeGVNQWhXeFI1WEhZMnlTdGxnbkQxN2xBeFkxbG56UzhzWmEyZUlibGlIUjRVaXhBQUxkR1F1ejFkSGVyLXAxc0k1bjdvdmRTcTZEYkFQMTM5NXo5cUt4cFRJMUYwVmU2eWkzaUZHX0ZDY01YeXQwX29JRWhBLVMxRXczeTBXbkwya05VVEtNa1lqM2c?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-18T04:59:44Z",
-      "dominio": "portalvoce.com",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "regulacao_94280",
-      "titulo": "Aneel acolhe recursos de seis consórcios no leilão de reserva, mas impõe condições",
-      "lead": "Aneel acolhe recursos de seis consórcios no leilão de reserva, mas impõe condições",
-      "fonte": "Agência eixos",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHhCVF81RVBleTUtZEs2YV8yRnd3ZkFSMTZXLV82eWdFODFTMmY3Tl9FVkFic0Radjg4SGxhdDdOTEo2N3hUUXpfVUo3akxDYmNMQVp3akpka2kxUUZzTmxydE5aWk8yQVFmRWhDNW1iZm1DZ2NjU0VJU2NwZFRaNExnWnBNVldGM0N5d0ttdVY5aUI1LXlyeFVWZDVCQlhXUUN5RGFSNjUtMUNCY2xmNDVpVU80V2taTmVUOA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T23:50:02Z",
-      "dominio": "eixos.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_62906",
-      "titulo": "Caducidade da Enel SP tem decisão novamente adiada pela Aneel",
-      "lead": "Caducidade da Enel SP tem decisão novamente adiada pela Aneel",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1VSY1RxN3FOVjg0SnVldHNzRDh2dTZrZDN5QU1lbFk0b0pzWnp2dEl4a0RRRzg0M29FQnpYdVk5eTZQNWsxTlB0d1E5R2wwOGlIN2FnNkJrODIydHN2YWg1X3paTVZLX1Q3ZUt6OXFYR2txUkVvY2h2SWxjc1ZCNFN0czN6OFAwRW1GVjB2dGUteWdmZXZfcQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T21:39:55Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_96829",
-      "titulo": "EPP reverte inabilitação de 1,7 GW no LRCap, mas terá que comprovar recursos",
-      "lead": "EPP reverte inabilitação de 1,7 GW no LRCap, mas terá que comprovar recursos",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDlLX0hmTHVRQUZ3azdweUdLaUUydWlXbXYwUTlWUFkteWFXdFVJSnNDTk5md3NEaU9kVDR1WTRhYVozUVlEYTE1TDlsVjFPNGYtMXpkelVES1dsRUJLejZIY19hM0xXYy1yakc1aXJlVWRWVXlKbWJaMVg0MmVNUEhfem43eTI3eVoySlYzb2J4aEhiNXJYRUxtLWJKbVlhWVBHVjVLZEpiNk1hSnh6anRFTQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-17T21:12:06Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_62072",
-      "titulo": "Talk CCEE: Inovação e colaboração são pilares estratégicos para a abertura de mercado e novos modelos de negócios",
-      "lead": "Talk CCEE: Inovação e colaboração são pilares estratégicos para a abertura de mercado e novos modelos de negócios",
-      "fonte": "CCEE",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcHVvWDI3Vi11RzdXcWZPUnNlTnVVc3RSZGNfWUZzQ0k0dUdzUXdZdW5za1R0Vzd4eWtzYjROcW9tWWt3X2swdmtGaTl2ZDFxbGlTMnpmMnIxb0xvNlkxUUVkZjJNTE1BQWRkUHRyRVh6S0ZHX3dLM0xDbGhDdjRZcU5DYWhTeExzTjF6MXVTY0VfOXRqWEc2bnpxYlRaS3dlcldIQV90THByQ3VqaEg0TmpfVm0zT0lSZFk3di0zdGN3VG5EZFhIdlh6OHJNbVRuT2JfaERZYTRRVEt2YjZQZ2lB?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-17T20:50:00Z",
-      "dominio": "www.ccee.org.br",
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "politica-energetica_4876",
-      "titulo": "Políticas públicas impulsionam a eficiência energética e a economia de energia no Brasil",
-      "lead": "Políticas públicas impulsionam a eficiência energética e a economia de energia no Brasil www.gov.br",
-      "fonte": "MME",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX2lhOTcxQVVLdWRuTkFqR1F2Qk5jdFRMaDFhUnlVNEVKUzBidlU0SE9lWWFEXzVZNmp5OVdaSU5ORUNmZUVUVG1YQVNzZU0xODIyRk1BQ2V2RmtrZnlCZDY2ZTZoaE1xZkQybUNwanNOZVhHeGxOSDNJVll2VFlTR2hDNXJNTjRWY3dZaGp3YWhUMWxHR2J3Tk1tNmd1M3hFVTFONk1pb2RiRmNxX3E0WlZfS1ptNU1HVXcxakxsQnctQUJvTWNhNTBCM19jTzQ0azAwNENpQlRDY1Bud1hiNQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "politica-energetica",
-      "data": "2026-11-17T20:36:39Z",
-      "dominio": "www.gov.br",
-      "tema": "regulacao-institucional"
     }
   ]
 }

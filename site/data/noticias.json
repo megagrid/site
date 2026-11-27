@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:43:01Z",
+  "updated": "2026-11-27T02:23:11Z",
   "total": 60,
   "itens": [
     {
@@ -33,19 +33,43 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "mercado-livre_26821",
-      "titulo": "Painel S.A.: CDE, fundo de subsídios de energia, eleva carga do setor para o maior nível desde 2022",
-      "lead": "Painel S.A.: CDE, fundo de subsídios de energia, eleva carga do setor para o maior nível desde 2022",
-      "fonte": "Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRVdNaHkxNE5XdFQwRXI2aENjX3ZrbFRhSVd3Nmdmb2NUSkNaVlBwY3RGb25KUFRNY192azJrOW9nNmprb0tXV19GNE1hOTFWSm84MTZLejBXTHJSdkRtd25lVFVaOThVUER6TnpTUVNtYldRTjY1Ti03XzZPTHF3Z0RteHBZVmVXVXc5a0RsZENJZXFmN3RGdjd5eXJnb1RGNURHdDduTE1reWJHbGhsVVZBS09PUXh2eWxPdHBUejhJbDVQSjhFa1MwV0dsdXdKdkNKOFZzS3k1c2x3M0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
+      "id": "mercado-livre_23548",
+      "titulo": "CDE, fundo de subsídios de energia, eleva carga do setor para o maior nível desde 2022",
+      "lead": "CDE, fundo de subsídios de energia, eleva carga do setor para o maior nível desde 2022",
+      "fonte": "Repórter PB",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMmxDRHkza3Z5WjZZTWtpYkx2emhUSXdSWElwRUV4MllWbDk0bmZIaURMMWZMR0pWMXhqNTdldWlxRUhiS2x3LVJmdTB0bjl6Mlk3R191N1N4bnBtNkp6eXlKY1lCVkFjTllnM0hpM2FXc2ZOMTdIS0dSdWRING9DRllQa1haVE9URWJqRnB1MmpFdUtQVXRiV3JwTWxCNUtUUzUwSjhoOGpTcW1oQm1ORzJ2XzhaWGE5dUg0SmMxekRhYU5IMkxrYnFkZERQcm5BaExWRTA0SVBLbmxVVkQ2ZlFKdDlPUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-26T19:43:00Z",
-      "dominio": "www1.folha.uol.com.br",
+      "dominio": "www.reporterpb.com.br",
       "tambem_em": [
-        "Repórter PB"
+        "Folha de S.Paulo"
       ],
       "tema": "regulacao-institucional"
+    },
+    {
+      "id": "politica-energetica_2243",
+      "titulo": "MME apresenta 6º Plano Anual de Aplicação de Recursos do Procel, com previsão de investimentos de R$ 279,3 milhões para a eficiência energética",
+      "lead": "MME apresenta 6º Plano Anual de Aplicação de Recursos do Procel, com previsão de investimentos de R$ 279,3 milhões para a eficiência energética",
+      "fonte": "MME",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQMWJXMXR5UTNjUjQ4MGQzTnMtM3pWODh2Y09Fb29IV2hJaTZTS2RYNDJVZVB6Z3JHQVM2WkJMTGFBVThTc0dZcl8xM3l6NW80VjFSSDhKeTFzeXN6OGJ1MlpScWozNFVOZ0xYTlFYVURrUlBpN2dsM0RGMlVhS2RXbllWNW5MVE1JcTJKQktSWE1xazFYY0ZqNGFjNXJGUHpUQ3ljY2dxTGNTYTJXenU5cF9ReWN5WElCZkhCSjJjV2xuWk95QkI2ZDkyamkzU2FvRlp6MkhyU2pjMEJuWlAtTTBuZkliTUVOa3p4Ull5RDNteU9sdkMyVHpXR3pXSDI1QWNMejB2RDVNSVJoMDhxbWwxLXI1REpWZlBqUHIwdXZ6RENsLWdR?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
+      "editoria": "politica-energetica",
+      "data": "2026-11-26T18:40:49Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
+    },
+    {
+      "id": "regulacao_62410",
+      "titulo": "ANEEL reconhece atuações de destaque dos Conselhos de Consumidores de Energia Elétrica",
+      "lead": "ANEEL reconhece atuações de destaque dos Conselhos de Consumidores de Energia Elétrica Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM3RPNnZ6NzlzbDRmekpPdk5vb29jMWM3VFF6V3VZS0VsQkxQOU83MUhaODl6dVdoZUEyNlNwS09YbVQxcEJZaU9ScTRWNHZaLXRmUzdDYzhvbC1vMDBlNWN0NjFkYjlyalVMd2Q0MDJtMnU0TEs5VEJEMzM4R1k0aWZUT3NDRU9hVno3dG9XaWstcWZNVWlKZEEwNlczTm9zSUZCUEhQdU1KNDRRYW5uV2tsbkpGdTZpQVZsclBoVGs4b1NQWVg3RG5TdFJHcWlNSU5tRXZvQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-26T18:31:00Z",
+      "dominio": "www.gov.br",
+      "tema": "consumidor-residencial"
     },
     {
       "id": "politica-energetica_27536",
@@ -716,33 +740,6 @@
       "data": "2026-11-19T01:11:28Z",
       "dominio": "www.gov.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "regulacao_57154",
-      "titulo": "Brasil | Diretor da Aneel paralisa processo sobre postes para aguardar Congresso",
-      "lead": "Brasil | Diretor da Aneel paralisa processo sobre postes para aguardar Congresso",
-      "fonte": "DPL News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzVYdXV4T3ZQOXYzWlRkMlotVk9sbHZHS0h1eENwMFBPMzdYSHBnVGJqaTdRZEgwTk5PY3hLcVdpVGpBUWN5U05WM1ZRLWNuak1FWXd1ZHNHejNnbTFYRmpJY21pcHV2V3U1WHZrRmhEYU5aenhCTTktMlRIQmVGcDVySkZ4ZWxaSDFrTlF3Y05zdlVTSzNmb2dkV3p2MUNq?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
-      "editoria": "regulacao",
-      "data": "2026-11-18T19:59:22Z",
-      "dominio": "dplnews.com",
-      "tambem_em": [
-        "Poder360"
-      ],
-      "tema": "regulacao-institucional"
-    },
-    {
-      "id": "mercado-livre_39633",
-      "titulo": "Setor elétrico bate recorde com 171 operações analisadas pelo Cade em 2025",
-      "lead": "Setor elétrico bate recorde com 171 operações analisadas pelo Cade em 2025",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajlNeDNRZlFHeEVZdnQwa1B0TVgzY3JLN3pNYm9nbEpJVFlHWlY3MG9KNk5lX2sycUpuQXNrdFM2Z1o5SEVEc004ZFZwWUZsM3NSbE5RV0V3cXRYRWpMaGVLTWZfZFBkVWlqMmlWXzhYVTY0cnZNc1Vwbk5vWl9RMzI2cGMxQ2otekdGZ0tJUkUtYndsNm11a0xDNDVaWVJDZ1dHenFnNUt2aHRRQUVDNg?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-18T19:54:57Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }

@@ -1,7 +1,42 @@
 {
-  "updated": "2026-11-27T20:29:06Z",
+  "updated": "2026-11-28T02:07:18Z",
   "total": 60,
   "itens": [
+    {
+      "id": "tarifas_45390",
+      "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em dezembro",
+      "lead": "Conta de luz: Aneel mantém bandeira tarifária verde em dezembro",
+      "fonte": "Expressão Rondônia",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFdvdVdwS0c2cUc5d1A1NC1ia1ZudG9lM05TMUdWTGcyQ3pkZWZTbGhLc1JsTERqSTBobEwtSVNNWjFLTVJsZjRWSjA2X2hwOVIxZkZiSTZ6MkdBOUtSSXpRaGpPZlVkeXJRZm5DY3pQRkNzU1dzUGF5VWRDaFNER0dHT0ZMam5pU0hVQi12SThUM2pXeUFRa05lODQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604176857763-71877b24864e?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-28T00:31:46Z",
+      "dominio": "expressaorondonia.com.br",
+      "tambem_em": [
+        "Metrópoles",
+        "UOL Economia",
+        "Estadão",
+        "SBT News",
+        "conexaoes.com.br",
+        "ANEEL",
+        "Agência Brasil",
+        "G1",
+        "CNN Brasil"
+      ],
+      "tema": "consumidor-residencial"
+    },
+    {
+      "id": "tarifas_90632",
+      "titulo": "Conta de luz seguirá sem cobrança extra pelo terceiro mês consecutivo",
+      "lead": "Conta de luz seguirá sem cobrança extra pelo terceiro mês consecutivo",
+      "fonte": "Campo Grande News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQlgtbUc4ZFBFLTZJSTRMblN6MGozSXRfVU1kVnZVclJ2UFYtdFNmZl9iZ3dkOHVLaVZ5VEVEWmYteTBLYTZzNk5JSGZSSkV1NFA3OGwzOXp2ck5PM0JibW1yLXI1Q29VT0kyQi1rblZMTi10dTRyNlVTQ2hvSHBJNVljNmJ2bGwzN1hwSGtOOXJxdlR6RjB2R1JZTFRjODEyVG11VVdlUEItLWxCeUh1b1g0Yw?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?w=600&q=70",
+      "editoria": "tarifas",
+      "data": "2026-11-28T00:13:00Z",
+      "dominio": "www.campograndenews.com.br",
+      "tema": "consumidor-residencial"
+    },
     {
       "id": "mercado-livre_68916",
       "titulo": "Associação alerta para risco de ‘falsa chancela’ na abertura do mercado livre de energia",
@@ -20,7 +55,7 @@
       "lead": "MME apresenta avanços do Gás do Povo e destaca combate à pobreza energética em seminário",
       "fonte": "MINUTO MT",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmdRdUJKTGVIcXdpMTJFQmZfRXdMdEVOSThhYlhMNjByZldabXpKNlV0R0tnVUcwX0xTMFgxMEExZ2tnb1RSdE40eTRTNHBPa01LTFVfbGxrcHoxdHU0YUIyRHg0RG1ydGhRSnFTMmIzSDR3OEUxT1BhX0hOaVZNdkxQQjZzQXgxc0NmS0pYbjBtQWt0U2lmSVJWSDV2RUt4VTJMRkVheHp3MWxPVUxnQWNYZDZycUgtaG1DWVRMUkJvaFp5ODJkY1lHUE0?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1462826303086-329426d1aef5?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-11-27T19:05:39Z",
       "dominio": "minutomt.com.br",
@@ -35,7 +70,7 @@
       "lead": "Brasil bate três recordes consecutivos de demanda de energia elétrica e chega a 108,2 GW www.gov.br",
       "fonte": "MME",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObnBmMlY0ODJUQUdVVElyVUdkU2w1MkhBbWtuM0tJVF9Xb2xjeTZHbkpyZUZDdktxSDk2M3V2V25XVW9rdjAwbUY0dnF0QXdBOUM3b2NUalliejE2M3BjUWJOUWRRTWYxVG9oQ29HSXBHRXRHa1hoQ1dXN3FaTlZTeUZpeXR6SlFKdUVTdkxiazE5WXdsbTV6NGp1aE9pRVBhR3JPT2F2MmlBQXg2dnpCSjJNQTZxUXFQdnVfeFphRURoVm1zbWVvWXdVRU5QQmVJWmJrOV9ucTFDaDdXMDZIeA?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1775492783108-5714035b298b?w=600&q=70",
+      "imagem": "https://images.unsplash.com/photo-1777125990655-95b602173140?w=600&q=70",
       "editoria": "politica-energetica",
       "data": "2026-11-27T17:38:22Z",
       "dominio": "www.gov.br",
@@ -192,17 +227,17 @@
       "tema": "precos-mercado"
     },
     {
-      "id": "mercado-livre_78703",
-      "titulo": "Painel S.A.: CDE, fundo de subsídios de energia, eleva carga do setor para o maior nível desde 2022",
-      "lead": "Painel S.A.: CDE, fundo de subsídios de energia, eleva carga do setor para o maior nível desde 2022",
-      "fonte": "Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRVdNaHkxNE5XdFQwRXI2aENjX3ZrbFRhSVd3Nmdmb2NUSkNaVlBwY3RGb25KUFRNY192azJrOW9nNmprb0tXV19GNE1hOTFWSm84MTZLejBXTHJSdkRtd25lVFVaOThVUER6TnpTUVNtYldRTjY1Ti03XzZPTHF3Z0RteHBZVmVXVXc5a0RsZENJZXFmN3RGdjd5eXJnb1RGNURHdDduTE1reWJHbGhsVVZBS09PUXh2eWxPdHBUejhJbDVQSjhFa1MwV0dsdXdKdkNKOFZzS3k1c2x3M0E?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1564846824194-346b7871b855?w=600&q=70",
+      "id": "mercado-livre_30957",
+      "titulo": "CDE, fundo de subsídios de energia, eleva carga do setor para o maior nível desde 2022",
+      "lead": "CDE, fundo de subsídios de energia, eleva carga do setor para o maior nível desde 2022",
+      "fonte": "Repórter PB",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMmxDRHkza3Z5WjZZTWtpYkx2emhUSXdSWElwRUV4MllWbDk0bmZIaURMMWZMR0pWMXhqNTdldWlxRUhiS2x3LVJmdTB0bjl6Mlk3R191N1N4bnBtNkp6eXlKY1lCVkFjTllnM0hpM2FXc2ZOMTdIS0dSdWRING9DRllQa1haVE9URWJqRnB1MmpFdUtQVXRiV3JwTWxCNUtUUzUwSjhoOGpTcW1oQm1ORzJ2XzhaWGE5dUg0SmMxekRhYU5IMkxrYnFkZERQcm5BaExWRTA0SVBLbmxVVkQ2ZlFKdDlPUQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=70",
       "editoria": "mercado-livre",
       "data": "2026-11-26T19:43:00Z",
-      "dominio": "www1.folha.uol.com.br",
+      "dominio": "www.reporterpb.com.br",
       "tambem_em": [
-        "Repórter PB"
+        "Folha de S.Paulo"
       ],
       "tema": "regulacao-institucional"
     },
@@ -292,6 +327,18 @@
       "data": "2026-11-26T07:00:01Z",
       "dominio": "oglobo.globo.com",
       "tema": "baterias-armazenamento"
+    },
+    {
+      "id": "regulacao_62073",
+      "titulo": "ANEEL apresenta proposta de governança colaborativa para o Energias da Floresta",
+      "lead": "ANEEL apresenta proposta de governança colaborativa para o Energias da Floresta Governo Federal",
+      "fonte": "ANEEL",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVlRlOWpiV0JxRmt2YUpEUEdtZ0xJc0VvdmExdEhOWjF4cjRDb09XckJaRE11Mk9VaFNxV0hDRUtZMGE0cEZzVndGS21iNEEtcWMyTk5KTE5iNDd2Xzl6T3FhQllIdXJ0N3g5eVdEZk9TM08zM0dfZnh5SmxuczhoWXVlSFg0dktFbW54Y3pWRm9vNHBYOUhxcWxVcDI5SzZLMmttaEVWWUluNlg5Tm1LdjRwMFNNeFNGQ3dUNDBRYUJlOFd4blA0VGxtLVljQQ?oc=5",
+      "imagem": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=600&q=70",
+      "editoria": "regulacao",
+      "data": "2026-11-25T23:10:13Z",
+      "dominio": "www.gov.br",
+      "tema": "regulacao-institucional"
     },
     {
       "id": "politica-energetica_14987",
@@ -707,42 +754,6 @@
       "data": "2026-11-23T14:03:34Z",
       "dominio": "jbnews.com.br",
       "tema": "regulacao-institucional"
-    },
-    {
-      "id": "transicao_63660",
-      "titulo": "Brasil fará leilões de baterias gigantes para reforçar sistema elétrico",
-      "lead": "Brasil fará leilões de baterias gigantes para reforçar sistema elétrico",
-      "fonte": "Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTZVSFVzMC1rTmZSU2l6RVpUVXhwUXRKdjBTcUVnNkhvemZzTEN5OFlzWnlpYmFRaDVIZzF6X0ZsMzZDakRKanh3cXRXN0MxT3dpNVdfVlAwdlA0N2Noc29ick5QLVF3ai1ZaWprSE1ZTVlCUUVEV0NoUnQ4NnBUeU1iRkZYSm1wQjktQV9oUlJhRFhfSUZicFNZMGc1Y2tMVXp0aQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1732030373864-d37573915751?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-23T12:58:00Z",
-      "dominio": "transmissaopolitica.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "transicao_87860",
-      "titulo": "Leilões de baterias têm inscrições prorrogadas até esta segunda",
-      "lead": "Leilões de baterias têm inscrições prorrogadas até esta segunda",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamdvTU5xYWFEczluWUViejE4WmozUHhJU0hfb2EzVlNQZHBVa3M1QjR1ZmVEWUlGLWx6dzhFblhsTDgxN3J3WXdMbjAyVUtHSXpYOHIzQnROZXVSMEcyWlA2RzFjUWxxeDFLY3hhY1ZBWFN0SUdXWlJKcHgyN3YxV0d2OWVnYU9QWUZzYl9OYmxTTzJ1ck52UW9mVW5faHd4TlJpTQ?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1742899273038-67ff67477663?w=600&q=70",
-      "editoria": "transicao",
-      "data": "2026-11-23T11:57:42Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "baterias-armazenamento"
-    },
-    {
-      "id": "mercado-livre_86671",
-      "titulo": "Preços de energia sobem mais de 10% para novembro na BBCE",
-      "lead": "Preços de energia sobem mais de 10% para novembro na BBCE",
-      "fonte": "MegaWhat",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUpPUTFndC12d3Bfdi1ETDhRTWtuOVN4Y25fdVlUa2Y5V1NSWkdTT1dEZ2dyc3ZUaG5LNXlvNWgtWkwtQ1liSzNabVdrNERkczFCMzdVYWFna2pwVFFuRWxiUDExTFZ3SXB5U1pVWFhsRFNGNW1SYl9wWjhReDdUbWhUSThtbW5fbU55ZUk0aXhEUFJpX3lZVW55TXBZZnR2d1k5Y0R3?oc=5",
-      "imagem": "https://images.unsplash.com/photo-1638481826540-7710b13f7d53?w=600&q=70",
-      "editoria": "mercado-livre",
-      "data": "2026-11-23T11:44:26Z",
-      "dominio": "megawhat.uol.com.br",
-      "tema": "precos-mercado"
     }
   ]
 }
